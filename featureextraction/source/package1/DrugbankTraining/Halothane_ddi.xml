@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d74">
+    <sentence id="DDI-DrugBank.d74.s0" text="FLUOTHANE augments the action of non-depolarising muscle relaxants and the muscle relaxant effects of aminoglycosides.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d74.s0.e0" text="FLUOTHANE" type="brand"/>
+        <entity charOffset="33-64" id="DDI-DrugBank.d74.s0.e1" text="non-depolarising muscle relaxant" type="group"/>
+        <entity charOffset="102-116" id="DDI-DrugBank.d74.s0.e2" text="aminoglycosides" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d74.s0.e0" e2="DDI-DrugBank.d74.s0.e1" id="DDI-DrugBank.d74.s0.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d74.s0.e0" e2="DDI-DrugBank.d74.s0.e2" id="DDI-DrugBank.d74.s0.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s0.e1" e2="DDI-DrugBank.d74.s0.e2" id="DDI-DrugBank.d74.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d74.s1" text="FLUOTHANE may augment the hypotension caused by the ganglionic-blocking effect of tubocurarine.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d74.s1.e0" text="FLUOTHANE" type="brand"/>
+        <entity charOffset="82-93" id="DDI-DrugBank.d74.s1.e1" text="tubocurarine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d74.s1.e0" e2="DDI-DrugBank.d74.s1.e1" id="DDI-DrugBank.d74.s1.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d74.s2" text="Caution should be exercised during the administration of adrenaline to patients anaesthetised with FLUOTHANE as arrhythmias may be precipitated.">
+        <entity charOffset="57-66" id="DDI-DrugBank.d74.s2.e0" text="adrenaline" type="drug"/>
+        <entity charOffset="99-107" id="DDI-DrugBank.d74.s2.e1" text="FLUOTHANE" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d74.s2.e0" e2="DDI-DrugBank.d74.s2.e1" id="DDI-DrugBank.d74.s2.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d74.s3" text="For this reason the dose of adrenaline should be restricted and an antiarrhythmic agent administered as appropriate.">
+        <entity charOffset="28-37" id="DDI-DrugBank.d74.s3.e0" text="adrenaline" type="drug"/>
+        <entity charOffset="67-86" id="DDI-DrugBank.d74.s3.e1" text="antiarrhythmic agent" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s3.e0" e2="DDI-DrugBank.d74.s3.e1" id="DDI-DrugBank.d74.s3.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d74.s4" text="Caution should also be applied for other sympathomimetics, and for aminophylline and theophylline and tricyclic antidepressants, which may also precipitate arrhythmias.">
+        <entity charOffset="41-56" id="DDI-DrugBank.d74.s4.e0" text="sympathomimetics" type="group"/>
+        <entity charOffset="67-79" id="DDI-DrugBank.d74.s4.e1" text="aminophylline" type="drug"/>
+        <entity charOffset="85-96" id="DDI-DrugBank.d74.s4.e2" text="theophylline" type="drug"/>
+        <entity charOffset="102-126" id="DDI-DrugBank.d74.s4.e3" text="tricyclic antidepressants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s4.e0" e2="DDI-DrugBank.d74.s4.e1" id="DDI-DrugBank.d74.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s4.e0" e2="DDI-DrugBank.d74.s4.e2" id="DDI-DrugBank.d74.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s4.e0" e2="DDI-DrugBank.d74.s4.e3" id="DDI-DrugBank.d74.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s4.e1" e2="DDI-DrugBank.d74.s4.e2" id="DDI-DrugBank.d74.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s4.e1" e2="DDI-DrugBank.d74.s4.e3" id="DDI-DrugBank.d74.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d74.s4.e2" e2="DDI-DrugBank.d74.s4.e3" id="DDI-DrugBank.d74.s4.p5"/>
+    </sentence>
+</document>

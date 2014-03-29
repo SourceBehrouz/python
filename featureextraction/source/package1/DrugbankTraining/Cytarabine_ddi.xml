@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d101">
+    <sentence id="DDI-DrugBank.d101.s0" text="Steady state plasma digitoxin concentrations did not appear to change.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d101.s0.e0" text="digitoxin" type="drug"/>
+    <negationtags>Steady state plasma digitoxin concentrations did &lt;scope&gt; &lt;cue&gt; not appear &lt;/cue&gt; to change. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d101.s1" text="Therefore, monitoring of plasma digoxin levels may be indicated in patients receiving similar combination chemotherapy regimens.">
+        <entity charOffset="32-38" id="DDI-DrugBank.d101.s1.e0" text="digoxin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d101.s2" text="The utilization of digitoxin for such patients may be considered as an alternative.">
+        <entity charOffset="19-27" id="DDI-DrugBank.d101.s2.e0" text="digitoxin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d101.s3" text="Also flucytosine.">
+        <entity charOffset="5-15" id="DDI-DrugBank.d101.s3.e0" text="flucytosine" type="drug"/>
+    </sentence>
+</document>

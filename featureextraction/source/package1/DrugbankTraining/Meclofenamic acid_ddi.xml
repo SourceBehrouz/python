@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d113">
+    <sentence id="DDI-DrugBank.d113.s0" text="Warfarin: Meclofenamate sodium enhances the effect of warfarin.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d113.s0.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="10-29" id="DDI-DrugBank.d113.s0.e1" text="Meclofenamate sodium" type="drug"/>
+        <entity charOffset="54-61" id="DDI-DrugBank.d113.s0.e2" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d113.s0.e0" e2="DDI-DrugBank.d113.s0.e1" id="DDI-DrugBank.d113.s0.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s0.e0" e2="DDI-DrugBank.d113.s0.e2" id="DDI-DrugBank.d113.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s0.e1" e2="DDI-DrugBank.d113.s0.e2" id="DDI-DrugBank.d113.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d113.s1" text="Therefore, when meclofenamate sodium is given to a patient receiving warfarin, the dosage of warfarin should be reduced to prevent excessive prolongation of the prothrombin time.">
+        <entity charOffset="16-35" id="DDI-DrugBank.d113.s1.e0" text="meclofenamate sodium" type="drug"/>
+        <entity charOffset="69-76" id="DDI-DrugBank.d113.s1.e1" text="warfarin" type="drug"/>
+        <entity charOffset="93-100" id="DDI-DrugBank.d113.s1.e2" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d113.s1.e0" e2="DDI-DrugBank.d113.s1.e1" id="DDI-DrugBank.d113.s1.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s1.e0" e2="DDI-DrugBank.d113.s1.e2" id="DDI-DrugBank.d113.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s1.e1" e2="DDI-DrugBank.d113.s1.e2" id="DDI-DrugBank.d113.s1.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d113.s2" text="Aspirin: Concurrent administration of aspirin may lower meclofenamate sodium plasma levels, possibly by competing for protein-binding sites.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d113.s2.e0" text="Aspirin" type="brand"/>
+        <entity charOffset="38-44" id="DDI-DrugBank.d113.s2.e1" text="aspirin" type="brand"/>
+        <entity charOffset="56-75" id="DDI-DrugBank.d113.s2.e2" text="meclofenamate sodium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s2.e0" e2="DDI-DrugBank.d113.s2.e1" id="DDI-DrugBank.d113.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s2.e0" e2="DDI-DrugBank.d113.s2.e2" id="DDI-DrugBank.d113.s2.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d113.s2.e1" e2="DDI-DrugBank.d113.s2.e2" id="DDI-DrugBank.d113.s2.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d113.s3" text="The urinary excretion of meclofenamate sodium is unaffected by aspirin, indicating no change in meclofenamate sodium absorption.">
+        <entity charOffset="25-44" id="DDI-DrugBank.d113.s3.e0" text="meclofenamate sodium" type="drug"/>
+        <entity charOffset="63-69" id="DDI-DrugBank.d113.s3.e1" text="aspirin" type="brand"/>
+        <entity charOffset="96-115" id="DDI-DrugBank.d113.s3.e2" text="meclofenamate sodium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s3.e0" e2="DDI-DrugBank.d113.s3.e1" id="DDI-DrugBank.d113.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s3.e0" e2="DDI-DrugBank.d113.s3.e2" id="DDI-DrugBank.d113.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s3.e1" e2="DDI-DrugBank.d113.s3.e2" id="DDI-DrugBank.d113.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d113.s4" text="Meclofenamate sodium does not affect serum salicylate levels.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d113.s4.e0" text="Meclofenamate sodium" type="drug"/>
+        <entity charOffset="43-52" id="DDI-DrugBank.d113.s4.e1" text="salicylate" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s4.e0" e2="DDI-DrugBank.d113.s4.e1" id="DDI-DrugBank.d113.s4.p0"/>
+    <negationtags>Meclofenamate sodium does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect serum salicylate levels. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d113.s5" text="Greater fecal blood loss results from concomitant administration of both drugs than from either drug alone."/>
+    <sentence id="DDI-DrugBank.d113.s6" text="Propoxyphene: The concurrent administration of propoxyphene hydrochloride does not affect the bioavailability of meclofenamate sodium.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d113.s6.e0" text="Propoxyphene" type="drug"/>
+        <entity charOffset="47-72" id="DDI-DrugBank.d113.s6.e1" text="propoxyphene hydrochloride" type="drug"/>
+        <entity charOffset="113-132" id="DDI-DrugBank.d113.s6.e2" text="meclofenamate sodium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s6.e0" e2="DDI-DrugBank.d113.s6.e1" id="DDI-DrugBank.d113.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s6.e0" e2="DDI-DrugBank.d113.s6.e2" id="DDI-DrugBank.d113.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s6.e1" e2="DDI-DrugBank.d113.s6.e2" id="DDI-DrugBank.d113.s6.p2"/>
+    <negationtags>Propoxyphene: The concurrent administration of propoxyphene hydrochloride does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the bioavailability of meclofenamate sodium. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d113.s7" text="Antacids: Concomitant administration of aluminum and magnesium hydroxides does not interfere with absorption of meclofenamate sodium.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d113.s7.e0" text="Antacids" type="group"/>
+        <entity charOffset="40-47;63-71" id="DDI-DrugBank.d113.s7.e1" text="aluminum hydroxide" type="drug"/>
+        <entity charOffset="53-71" id="DDI-DrugBank.d113.s7.e2" text="magnesium hydroxide" type="drug"/>
+        <entity charOffset="112-131" id="DDI-DrugBank.d113.s7.e3" text="meclofenamate sodium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s7.e0" e2="DDI-DrugBank.d113.s7.e1" id="DDI-DrugBank.d113.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s7.e0" e2="DDI-DrugBank.d113.s7.e2" id="DDI-DrugBank.d113.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s7.e0" e2="DDI-DrugBank.d113.s7.e3" id="DDI-DrugBank.d113.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s7.e1" e2="DDI-DrugBank.d113.s7.e2" id="DDI-DrugBank.d113.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s7.e1" e2="DDI-DrugBank.d113.s7.e3" id="DDI-DrugBank.d113.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d113.s7.e2" e2="DDI-DrugBank.d113.s7.e3" id="DDI-DrugBank.d113.s7.p5"/>
+    <negationtags>Antacids: Concomitant administration of aluminum and magnesium hydroxides does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; interfere with absorption of meclofenamate sodium. &lt;/scope&gt;</negationtags></sentence>
+</document>

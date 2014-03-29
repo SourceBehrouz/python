@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d242">
+    <sentence id="DDI-DrugBank.d242.s0" text="Specific drug interaction studies have not been conducted with Levofloxacin.">
+        <entity charOffset="63-74" id="DDI-DrugBank.d242.s0.e0" text="Levofloxacin" type="drug"/>
+    <negationtags>Specific drug interaction studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been conducted with Levofloxacin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d242.s1" text="However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, and enhance the effects of the oral anticoagulant warfarin and its derivatives, and has been associated with transient elevations in serum creatinine in patients receiving systemic cyclosporine concomitantly.">
+        <entity charOffset="45-54" id="DDI-DrugBank.d242.s1.e0" text="quinolones" type="group"/>
+        <entity charOffset="107-118" id="DDI-DrugBank.d242.s1.e1" text="theophylline" type="drug"/>
+        <entity charOffset="154-161" id="DDI-DrugBank.d242.s1.e2" text="caffeine" type="drug"/>
+        <entity charOffset="200-212" id="DDI-DrugBank.d242.s1.e3" text="anticoagulant" type="group"/>
+        <entity charOffset="214-221" id="DDI-DrugBank.d242.s1.e4" text="warfarin" type="drug"/>
+        <entity charOffset="345-356" id="DDI-DrugBank.d242.s1.e5" text="cyclosporine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d242.s1.e0" e2="DDI-DrugBank.d242.s1.e1" id="DDI-DrugBank.d242.s1.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d242.s1.e0" e2="DDI-DrugBank.d242.s1.e2" id="DDI-DrugBank.d242.s1.p1" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e0" e2="DDI-DrugBank.d242.s1.e3" id="DDI-DrugBank.d242.s1.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d242.s1.e0" e2="DDI-DrugBank.d242.s1.e4" id="DDI-DrugBank.d242.s1.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d242.s1.e0" e2="DDI-DrugBank.d242.s1.e5" id="DDI-DrugBank.d242.s1.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e1" e2="DDI-DrugBank.d242.s1.e2" id="DDI-DrugBank.d242.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e1" e2="DDI-DrugBank.d242.s1.e3" id="DDI-DrugBank.d242.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e1" e2="DDI-DrugBank.d242.s1.e4" id="DDI-DrugBank.d242.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e1" e2="DDI-DrugBank.d242.s1.e5" id="DDI-DrugBank.d242.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e2" e2="DDI-DrugBank.d242.s1.e3" id="DDI-DrugBank.d242.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e2" e2="DDI-DrugBank.d242.s1.e4" id="DDI-DrugBank.d242.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e2" e2="DDI-DrugBank.d242.s1.e5" id="DDI-DrugBank.d242.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e3" e2="DDI-DrugBank.d242.s1.e4" id="DDI-DrugBank.d242.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e3" e2="DDI-DrugBank.d242.s1.e5" id="DDI-DrugBank.d242.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d242.s1.e4" e2="DDI-DrugBank.d242.s1.e5" id="DDI-DrugBank.d242.s1.p14"/>
+    </sentence>
+</document>

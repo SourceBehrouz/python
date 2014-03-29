@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d299">
+    <sentence id="DDI-DrugBank.d299.s0" text="Ergot-Containing Drugs: These drugs have been reported to cause prolonged vasospastic reactions.">
+        <entity charOffset="0-21" id="DDI-DrugBank.d299.s0.e0" text="Ergot-Containing Drugs" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s1" text="Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and AXERT within 24 hours of each other should be avoided.">
+        <entity charOffset="80-89" id="DDI-DrugBank.d299.s1.e0" text="ergotamine" type="drug"/>
+        <entity charOffset="105-126" id="DDI-DrugBank.d299.s1.e1" text="ergot-type medications" type="group"/>
+        <entity charOffset="134-150" id="DDI-DrugBank.d299.s1.e2" text="dihydroergotamine" type="drug"/>
+        <entity charOffset="155-166" id="DDI-DrugBank.d299.s1.e3" text="methysergide" type="drug"/>
+        <entity charOffset="173-177" id="DDI-DrugBank.d299.s1.e4" text="AXERT" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s1.e0" e2="DDI-DrugBank.d299.s1.e1" id="DDI-DrugBank.d299.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s1.e0" e2="DDI-DrugBank.d299.s1.e2" id="DDI-DrugBank.d299.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s1.e0" e2="DDI-DrugBank.d299.s1.e3" id="DDI-DrugBank.d299.s1.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s1.e0" e2="DDI-DrugBank.d299.s1.e4" id="DDI-DrugBank.d299.s1.p3" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s1.e1" e2="DDI-DrugBank.d299.s1.e2" id="DDI-DrugBank.d299.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s1.e1" e2="DDI-DrugBank.d299.s1.e3" id="DDI-DrugBank.d299.s1.p5"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s1.e1" e2="DDI-DrugBank.d299.s1.e4" id="DDI-DrugBank.d299.s1.p6" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s1.e2" e2="DDI-DrugBank.d299.s1.e3" id="DDI-DrugBank.d299.s1.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s1.e2" e2="DDI-DrugBank.d299.s1.e4" id="DDI-DrugBank.d299.s1.p8" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s1.e3" e2="DDI-DrugBank.d299.s1.e4" id="DDI-DrugBank.d299.s1.p9" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s2" text="Monoamine Oxidase Inhibitors: Coadministration of moclobemide resulted in a 27% decrease in almotriptan clearance and an increase in Cmax of approximately 6%.">
+        <entity charOffset="0-27" id="DDI-DrugBank.d299.s2.e0" text="Monoamine Oxidase Inhibitors" type="group"/>
+        <entity charOffset="50-60" id="DDI-DrugBank.d299.s2.e1" text="moclobemide" type="drug"/>
+        <entity charOffset="92-102" id="DDI-DrugBank.d299.s2.e2" text="almotriptan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s2.e0" e2="DDI-DrugBank.d299.s2.e1" id="DDI-DrugBank.d299.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s2.e0" e2="DDI-DrugBank.d299.s2.e2" id="DDI-DrugBank.d299.s2.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s2.e1" e2="DDI-DrugBank.d299.s2.e2" id="DDI-DrugBank.d299.s2.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s3" text="No dose adjustment is necessary."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; dose adjustment is necessary. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d299.s4" text="Other 5-HT1B/1D Agonists Concomitant use of other 5-HT1B/1D agonists within 24 hours of treatment with AXERT is contraindicated.">
+        <entity charOffset="6-23" id="DDI-DrugBank.d299.s4.e0" text="5-HT1B/1D Agonists" type="group"/>
+        <entity charOffset="50-67" id="DDI-DrugBank.d299.s4.e1" text="5-HT1B/1D agonists" type="group"/>
+        <entity charOffset="103-107" id="DDI-DrugBank.d299.s4.e2" text="AXERT" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s4.e0" e2="DDI-DrugBank.d299.s4.e1" id="DDI-DrugBank.d299.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s4.e0" e2="DDI-DrugBank.d299.s4.e2" id="DDI-DrugBank.d299.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s4.e1" e2="DDI-DrugBank.d299.s4.e2" id="DDI-DrugBank.d299.s4.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s5" text="Propanolol: The pharmacokinetics of almotriptan were not affected by coadministration of propranolol.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d299.s5.e0" text="Propanolol" type="drug"/>
+        <entity charOffset="36-46" id="DDI-DrugBank.d299.s5.e1" text="almotriptan" type="drug"/>
+        <entity charOffset="89-99" id="DDI-DrugBank.d299.s5.e2" text="propranolol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s5.e0" e2="DDI-DrugBank.d299.s5.e1" id="DDI-DrugBank.d299.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s5.e0" e2="DDI-DrugBank.d299.s5.e2" id="DDI-DrugBank.d299.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s5.e1" e2="DDI-DrugBank.d299.s5.e2" id="DDI-DrugBank.d299.s5.p2"/>
+    <negationtags>Propanolol: The pharmacokinetics of almotriptan were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected by coadministration of propranolol. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d299.s6" text="Selective Serotonin Reuptake Inhibitors (SSRIs): SSRIs (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline) have been rarely reported to cause weakness, hyperreflexia, and incoordination when coadministered with 5-HT1 agonists.">
+        <entity charOffset="0-38" id="DDI-DrugBank.d299.s6.e0" text="Selective Serotonin Reuptake Inhibitors" type="group"/>
+        <entity charOffset="41-45" id="DDI-DrugBank.d299.s6.e1" text="SSRIs" type="group"/>
+        <entity charOffset="49-53" id="DDI-DrugBank.d299.s6.e2" text="SSRIs" type="group"/>
+        <entity charOffset="62-71" id="DDI-DrugBank.d299.s6.e3" text="fluoxetine" type="drug"/>
+        <entity charOffset="74-84" id="DDI-DrugBank.d299.s6.e4" text="fluvoxamine" type="drug"/>
+        <entity charOffset="87-96" id="DDI-DrugBank.d299.s6.e5" text="paroxetine" type="drug"/>
+        <entity charOffset="99-108" id="DDI-DrugBank.d299.s6.e6" text="sertraline" type="drug"/>
+        <entity charOffset="215-228" id="DDI-DrugBank.d299.s6.e7" text="5-HT1 agonists" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e0" e2="DDI-DrugBank.d299.s6.e1" id="DDI-DrugBank.d299.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e0" e2="DDI-DrugBank.d299.s6.e2" id="DDI-DrugBank.d299.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e0" e2="DDI-DrugBank.d299.s6.e3" id="DDI-DrugBank.d299.s6.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e0" e2="DDI-DrugBank.d299.s6.e4" id="DDI-DrugBank.d299.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e0" e2="DDI-DrugBank.d299.s6.e5" id="DDI-DrugBank.d299.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e0" e2="DDI-DrugBank.d299.s6.e6" id="DDI-DrugBank.d299.s6.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e0" e2="DDI-DrugBank.d299.s6.e7" id="DDI-DrugBank.d299.s6.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e1" e2="DDI-DrugBank.d299.s6.e2" id="DDI-DrugBank.d299.s6.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e1" e2="DDI-DrugBank.d299.s6.e3" id="DDI-DrugBank.d299.s6.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e1" e2="DDI-DrugBank.d299.s6.e4" id="DDI-DrugBank.d299.s6.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e1" e2="DDI-DrugBank.d299.s6.e5" id="DDI-DrugBank.d299.s6.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e1" e2="DDI-DrugBank.d299.s6.e6" id="DDI-DrugBank.d299.s6.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e1" e2="DDI-DrugBank.d299.s6.e7" id="DDI-DrugBank.d299.s6.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e2" e2="DDI-DrugBank.d299.s6.e3" id="DDI-DrugBank.d299.s6.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e2" e2="DDI-DrugBank.d299.s6.e4" id="DDI-DrugBank.d299.s6.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e2" e2="DDI-DrugBank.d299.s6.e5" id="DDI-DrugBank.d299.s6.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e2" e2="DDI-DrugBank.d299.s6.e6" id="DDI-DrugBank.d299.s6.p16"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s6.e2" e2="DDI-DrugBank.d299.s6.e7" id="DDI-DrugBank.d299.s6.p17" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e3" e2="DDI-DrugBank.d299.s6.e4" id="DDI-DrugBank.d299.s6.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e3" e2="DDI-DrugBank.d299.s6.e5" id="DDI-DrugBank.d299.s6.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e3" e2="DDI-DrugBank.d299.s6.e6" id="DDI-DrugBank.d299.s6.p20"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s6.e3" e2="DDI-DrugBank.d299.s6.e7" id="DDI-DrugBank.d299.s6.p21" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e4" e2="DDI-DrugBank.d299.s6.e5" id="DDI-DrugBank.d299.s6.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e4" e2="DDI-DrugBank.d299.s6.e6" id="DDI-DrugBank.d299.s6.p23"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s6.e4" e2="DDI-DrugBank.d299.s6.e7" id="DDI-DrugBank.d299.s6.p24" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s6.e5" e2="DDI-DrugBank.d299.s6.e6" id="DDI-DrugBank.d299.s6.p25"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s6.e5" e2="DDI-DrugBank.d299.s6.e7" id="DDI-DrugBank.d299.s6.p26" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s6.e6" e2="DDI-DrugBank.d299.s6.e7" id="DDI-DrugBank.d299.s6.p27" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s7" text="If concomitant treatment with AXERT and an SSRI is clinically warranted, appropriate observation of the patient is advised.">
+        <entity charOffset="30-34" id="DDI-DrugBank.d299.s7.e0" text="AXERT" type="brand"/>
+        <entity charOffset="43-46" id="DDI-DrugBank.d299.s7.e1" text="SSRI" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s7.e0" e2="DDI-DrugBank.d299.s7.e1" id="DDI-DrugBank.d299.s7.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s8" text="Verapamil: Coadministration of almotriptan and verapamil resulted in a 24% increase in plasma concentrations of almotriptan.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d299.s8.e0" text="Verapamil" type="drug"/>
+        <entity charOffset="31-41" id="DDI-DrugBank.d299.s8.e1" text="almotriptan" type="drug"/>
+        <entity charOffset="47-55" id="DDI-DrugBank.d299.s8.e2" text="verapamil" type="drug"/>
+        <entity charOffset="112-122" id="DDI-DrugBank.d299.s8.e3" text="almotriptan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s8.e0" e2="DDI-DrugBank.d299.s8.e1" id="DDI-DrugBank.d299.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s8.e0" e2="DDI-DrugBank.d299.s8.e2" id="DDI-DrugBank.d299.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s8.e0" e2="DDI-DrugBank.d299.s8.e3" id="DDI-DrugBank.d299.s8.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s8.e1" e2="DDI-DrugBank.d299.s8.e2" id="DDI-DrugBank.d299.s8.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s8.e1" e2="DDI-DrugBank.d299.s8.e3" id="DDI-DrugBank.d299.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s8.e2" e2="DDI-DrugBank.d299.s8.e3" id="DDI-DrugBank.d299.s8.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s9" text="No dose adjustment is necessary."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; dose adjustment is necessary. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d299.s10" text="Coadministration of almotriptan and the potent CYP3A4 inhibitor ketoconazole (400 mg q.d. for 3 days) resulted in an approximately 60% increase in the area under the plasma concentration-time curve and maximal plasma concentrations of almotriptan.">
+        <entity charOffset="20-30" id="DDI-DrugBank.d299.s10.e0" text="almotriptan" type="drug"/>
+        <entity charOffset="64-75" id="DDI-DrugBank.d299.s10.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="235-245" id="DDI-DrugBank.d299.s10.e2" text="almotriptan" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s10.e0" e2="DDI-DrugBank.d299.s10.e1" id="DDI-DrugBank.d299.s10.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s10.e0" e2="DDI-DrugBank.d299.s10.e2" id="DDI-DrugBank.d299.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s10.e1" e2="DDI-DrugBank.d299.s10.e2" id="DDI-DrugBank.d299.s10.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d299.s11" text="Although the interaction between almotriptan and other potent CYP3A4 inhibitors (e.g., itraconazole, ritonavir, and erythromycin) has not been studied, increased exposures to almotriptan may be expected when almotriptan is used concomitantly with these medications.">
+        <entity charOffset="33-43" id="DDI-DrugBank.d299.s11.e0" text="almotriptan" type="drug"/>
+        <entity charOffset="87-98" id="DDI-DrugBank.d299.s11.e1" text="itraconazole" type="drug"/>
+        <entity charOffset="101-109" id="DDI-DrugBank.d299.s11.e2" text="ritonavir" type="drug"/>
+        <entity charOffset="116-127" id="DDI-DrugBank.d299.s11.e3" text="erythromycin" type="drug"/>
+        <entity charOffset="175-185" id="DDI-DrugBank.d299.s11.e4" text="almotriptan" type="drug"/>
+        <entity charOffset="208-218" id="DDI-DrugBank.d299.s11.e5" text="almotriptan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e0" e2="DDI-DrugBank.d299.s11.e1" id="DDI-DrugBank.d299.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e0" e2="DDI-DrugBank.d299.s11.e2" id="DDI-DrugBank.d299.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e0" e2="DDI-DrugBank.d299.s11.e3" id="DDI-DrugBank.d299.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e0" e2="DDI-DrugBank.d299.s11.e4" id="DDI-DrugBank.d299.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e0" e2="DDI-DrugBank.d299.s11.e5" id="DDI-DrugBank.d299.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e1" e2="DDI-DrugBank.d299.s11.e2" id="DDI-DrugBank.d299.s11.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e1" e2="DDI-DrugBank.d299.s11.e3" id="DDI-DrugBank.d299.s11.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e1" e2="DDI-DrugBank.d299.s11.e4" id="DDI-DrugBank.d299.s11.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s11.e1" e2="DDI-DrugBank.d299.s11.e5" id="DDI-DrugBank.d299.s11.p8" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e2" e2="DDI-DrugBank.d299.s11.e3" id="DDI-DrugBank.d299.s11.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e2" e2="DDI-DrugBank.d299.s11.e4" id="DDI-DrugBank.d299.s11.p10"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s11.e2" e2="DDI-DrugBank.d299.s11.e5" id="DDI-DrugBank.d299.s11.p11" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e3" e2="DDI-DrugBank.d299.s11.e4" id="DDI-DrugBank.d299.s11.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d299.s11.e3" e2="DDI-DrugBank.d299.s11.e5" id="DDI-DrugBank.d299.s11.p13" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d299.s11.e4" e2="DDI-DrugBank.d299.s11.e5" id="DDI-DrugBank.d299.s11.p14"/>
+    <negationtags>Although the interaction between almotriptan and other potent CYP3A4 inhibitors (e.g., itraconazole, ritonavir, and erythromycin) has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied, increased exposures to almotriptan may be expected when almotriptan is used concomitantly with these medications. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d299.s12" text="AXERT is not known to interfere with commonly employed clinical laboratory tests.">
+        <entity charOffset="0-4" id="DDI-DrugBank.d299.s12.e0" text="AXERT" type="brand"/>
+    <negationtags>AXERT is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known to interfere with commonly employed clinical laboratory tests. &lt;/scope&gt;</negationtags></sentence>
+</document>

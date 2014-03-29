@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d429">
+    <sentence id="DDI-DrugBank.d429.s0" text="Antacids and kaolin: Antacids and kaolin can reduce absorption of chloroquine;">
+        <entity charOffset="0-7" id="DDI-DrugBank.d429.s0.e0" text="Antacids" type="group"/>
+        <entity charOffset="13-18" id="DDI-DrugBank.d429.s0.e1" text="kaolin" type="drug"/>
+        <entity charOffset="21-28" id="DDI-DrugBank.d429.s0.e2" text="Antacids" type="group"/>
+        <entity charOffset="34-39" id="DDI-DrugBank.d429.s0.e3" text="kaolin" type="drug"/>
+        <entity charOffset="66-76" id="DDI-DrugBank.d429.s0.e4" text="chloroquine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e0" e2="DDI-DrugBank.d429.s0.e1" id="DDI-DrugBank.d429.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e0" e2="DDI-DrugBank.d429.s0.e2" id="DDI-DrugBank.d429.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e0" e2="DDI-DrugBank.d429.s0.e3" id="DDI-DrugBank.d429.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e0" e2="DDI-DrugBank.d429.s0.e4" id="DDI-DrugBank.d429.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e1" e2="DDI-DrugBank.d429.s0.e2" id="DDI-DrugBank.d429.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e1" e2="DDI-DrugBank.d429.s0.e3" id="DDI-DrugBank.d429.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e1" e2="DDI-DrugBank.d429.s0.e4" id="DDI-DrugBank.d429.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s0.e2" e2="DDI-DrugBank.d429.s0.e3" id="DDI-DrugBank.d429.s0.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d429.s0.e2" e2="DDI-DrugBank.d429.s0.e4" id="DDI-DrugBank.d429.s0.p8" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d429.s0.e3" e2="DDI-DrugBank.d429.s0.e4" id="DDI-DrugBank.d429.s0.p9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d429.s1" text="an interval of at least 4 hours between intake of these agents and chloroquine should be observed.">
+        <entity charOffset="67-77" id="DDI-DrugBank.d429.s1.e0" text="chloroquine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d429.s2" text="Cimetidine: Cimetidine can inhibit the metabolism of chloroquine, increasing its plasma level.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d429.s2.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="12-21" id="DDI-DrugBank.d429.s2.e1" text="Cimetidine" type="drug"/>
+        <entity charOffset="53-63" id="DDI-DrugBank.d429.s2.e2" text="chloroquine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s2.e0" e2="DDI-DrugBank.d429.s2.e1" id="DDI-DrugBank.d429.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s2.e0" e2="DDI-DrugBank.d429.s2.e2" id="DDI-DrugBank.d429.s2.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d429.s2.e1" e2="DDI-DrugBank.d429.s2.e2" id="DDI-DrugBank.d429.s2.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d429.s3" text="Concomitant use of cimetidine should be avoided.">
+        <entity charOffset="19-28" id="DDI-DrugBank.d429.s3.e0" text="cimetidine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d429.s4" text="Ampicillin: In a study of healthy volunteers, chloroquine significantly reduced the bioavailability of ampicillin.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d429.s4.e0" text="Ampicillin" type="drug"/>
+        <entity charOffset="46-56" id="DDI-DrugBank.d429.s4.e1" text="chloroquine" type="drug"/>
+        <entity charOffset="103-112" id="DDI-DrugBank.d429.s4.e2" text="ampicillin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s4.e0" e2="DDI-DrugBank.d429.s4.e1" id="DDI-DrugBank.d429.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s4.e0" e2="DDI-DrugBank.d429.s4.e2" id="DDI-DrugBank.d429.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d429.s4.e1" e2="DDI-DrugBank.d429.s4.e2" id="DDI-DrugBank.d429.s4.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d429.s5" text="An interval of at least two hours between intake of this agent and chloroquine should be observed.">
+        <entity charOffset="67-77" id="DDI-DrugBank.d429.s5.e0" text="chloroquine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d429.s6" text="Cyclosporin: After introduction of chloroquine (oral form), a sudden increase in serum cyclosporin level has been reported.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d429.s6.e0" text="Cyclosporin" type="drug"/>
+        <entity charOffset="35-45" id="DDI-DrugBank.d429.s6.e1" text="chloroquine" type="drug"/>
+        <entity charOffset="87-97" id="DDI-DrugBank.d429.s6.e2" text="cyclosporin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s6.e0" e2="DDI-DrugBank.d429.s6.e1" id="DDI-DrugBank.d429.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s6.e0" e2="DDI-DrugBank.d429.s6.e2" id="DDI-DrugBank.d429.s6.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d429.s6.e1" e2="DDI-DrugBank.d429.s6.e2" id="DDI-DrugBank.d429.s6.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d429.s7" text="Therefore, close monitoring of serum cyclosporin level is recommended and, if necessary, chloroquine should be discontinued.">
+        <entity charOffset="37-47" id="DDI-DrugBank.d429.s7.e0" text="cyclosporin" type="drug"/>
+        <entity charOffset="89-99" id="DDI-DrugBank.d429.s7.e1" text="chloroquine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d429.s7.e0" e2="DDI-DrugBank.d429.s7.e1" id="DDI-DrugBank.d429.s7.p0"/>
+    </sentence>
+</document>

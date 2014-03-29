@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d12">
+    <sentence id="DDI-DrugBank.d12.s0" text="Caution should be exercised when anticoagulants are given in conjunction with Atromid-S.">
+        <entity charOffset="33-46" id="DDI-DrugBank.d12.s0.e0" text="anticoagulants" type="group"/>
+        <entity charOffset="78-86" id="DDI-DrugBank.d12.s0.e1" text="Atromid-S" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d12.s0.e0" e2="DDI-DrugBank.d12.s0.e1" id="DDI-DrugBank.d12.s0.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d12.s1" text="Usually, the dosage of the anticoagulant should be reduced by one-half (depending on the individual case) to maintain the prothrombin time at the desired level to prevent bleeding complications.">
+        <entity charOffset="27-39" id="DDI-DrugBank.d12.s1.e0" text="anticoagulant" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d12.s2" text="Frequent prothrombin determinations are advisable until it has been determined definitely that the prothrombin level has been stabilized."/>
+    <sentence id="DDI-DrugBank.d12.s3" text="Atromid-S may displace acidic drugs such as phenytoin or tolbutamide from their binding sites.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d12.s3.e0" text="Atromid-S" type="brand"/>
+        <entity charOffset="44-52" id="DDI-DrugBank.d12.s3.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="57-67" id="DDI-DrugBank.d12.s3.e2" text="tolbutamide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d12.s3.e0" e2="DDI-DrugBank.d12.s3.e1" id="DDI-DrugBank.d12.s3.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d12.s3.e0" e2="DDI-DrugBank.d12.s3.e2" id="DDI-DrugBank.d12.s3.p1" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d12.s3.e1" e2="DDI-DrugBank.d12.s3.e2" id="DDI-DrugBank.d12.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d12.s4" text="Caution should be exercised when treating patients with either of these drugs or other highly protein-bound drugs and Atromid-S.">
+        <entity charOffset="118-126" id="DDI-DrugBank.d12.s4.e0" text="Atromid-S" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d12.s5" text="The hypoglycemic effect of tolbutamide has been reported to increase when Atromid-S is given concurrently.">
+        <entity charOffset="27-37" id="DDI-DrugBank.d12.s5.e0" text="tolbutamide" type="drug"/>
+        <entity charOffset="74-82" id="DDI-DrugBank.d12.s5.e1" text="Atromid-S" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d12.s5.e0" e2="DDI-DrugBank.d12.s5.e1" id="DDI-DrugBank.d12.s5.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d12.s6" text="Fulminant rhabdomyolysis has been seen as early as three weeks after initiation of combined therapy with another fibrate and lovastatin but may be seen after several months.">
+        <entity charOffset="113-119" id="DDI-DrugBank.d12.s6.e0" text="fibrate" type="group"/>
+        <entity charOffset="125-134" id="DDI-DrugBank.d12.s6.e1" text="lovastatin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d12.s6.e0" e2="DDI-DrugBank.d12.s6.e1" id="DDI-DrugBank.d12.s6.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d12.s7" text="For these reasons, it is felt that, in most subjects who have had an unsatisfactory lipid response to either drug alone, the possible benefits of combined therapy with lovastatin and a fibrate do not outweigh the risks of severe myopathy, rhabdomyolysis, and acute renal failure.">
+        <entity charOffset="168-177" id="DDI-DrugBank.d12.s7.e0" text="lovastatin" type="drug"/>
+        <entity charOffset="185-191" id="DDI-DrugBank.d12.s7.e1" text="fibrate" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d12.s7.e0" e2="DDI-DrugBank.d12.s7.e1" id="DDI-DrugBank.d12.s7.p0" type="effect"/>
+    <negationtags>For these reasons, it is felt that, in most subjects who have had an unsatisfactory lipid response to either drug alone, the possible benefits of combined therapy with lovastatin and a fibrate do &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; outweigh the risks of severe myopathy, rhabdomyolysis, and acute renal failure. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d12.s8" text="While it is not known whether this interaction occurs with fibrates other than gemfibrozil, myopathy and rhabdomyolysis have occasionally been associated with the use of fibrates alone, including clofibrate.">
+        <entity charOffset="59-66" id="DDI-DrugBank.d12.s8.e0" text="fibrates" type="group"/>
+        <entity charOffset="79-89" id="DDI-DrugBank.d12.s8.e1" text="gemfibrozil" type="drug"/>
+        <entity charOffset="170-177" id="DDI-DrugBank.d12.s8.e2" text="fibrates" type="group"/>
+        <entity charOffset="196-205" id="DDI-DrugBank.d12.s8.e3" text="clofibrate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d12.s8.e0" e2="DDI-DrugBank.d12.s8.e1" id="DDI-DrugBank.d12.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d12.s8.e0" e2="DDI-DrugBank.d12.s8.e2" id="DDI-DrugBank.d12.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d12.s8.e0" e2="DDI-DrugBank.d12.s8.e3" id="DDI-DrugBank.d12.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d12.s8.e1" e2="DDI-DrugBank.d12.s8.e2" id="DDI-DrugBank.d12.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d12.s8.e1" e2="DDI-DrugBank.d12.s8.e3" id="DDI-DrugBank.d12.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d12.s8.e2" e2="DDI-DrugBank.d12.s8.e3" id="DDI-DrugBank.d12.s8.p5"/>
+    <negationtags>While it is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known whether this interaction occurs with fibrates other than gemfibrozil, myopathy and rhabdomyolysis have occasionally been associated with the use of fibrates alone, including clofibrate. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d12.s9" text="Therefore, the combined use of lovastatin with fibrates should generally be avoided.">
+        <entity charOffset="31-40" id="DDI-DrugBank.d12.s9.e0" text="lovastatin" type="drug"/>
+        <entity charOffset="47-54" id="DDI-DrugBank.d12.s9.e1" text="fibrates" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d12.s9.e0" e2="DDI-DrugBank.d12.s9.e1" id="DDI-DrugBank.d12.s9.p0" type="advise"/>
+    </sentence>
+</document>

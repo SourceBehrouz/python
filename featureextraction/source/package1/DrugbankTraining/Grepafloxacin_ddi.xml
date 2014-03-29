@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d78">
+    <sentence id="DDI-DrugBank.d78.s0" text="Antacids, Sucralfate, Metal Cations, Multivitamins Quinolones form chelates with alkaline earth and transition metal cations.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d78.s0.e0" text="Antacids" type="group"/>
+        <entity charOffset="10-19" id="DDI-DrugBank.d78.s0.e1" text="Sucralfate" type="drug"/>
+        <entity charOffset="37-49" id="DDI-DrugBank.d78.s0.e2" text="Multivitamins" type="group"/>
+        <entity charOffset="51-60" id="DDI-DrugBank.d78.s0.e3" text="Quinolones" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s0.e0" e2="DDI-DrugBank.d78.s0.e1" id="DDI-DrugBank.d78.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s0.e0" e2="DDI-DrugBank.d78.s0.e2" id="DDI-DrugBank.d78.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s0.e0" e2="DDI-DrugBank.d78.s0.e3" id="DDI-DrugBank.d78.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s0.e1" e2="DDI-DrugBank.d78.s0.e2" id="DDI-DrugBank.d78.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s0.e1" e2="DDI-DrugBank.d78.s0.e3" id="DDI-DrugBank.d78.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s0.e2" e2="DDI-DrugBank.d78.s0.e3" id="DDI-DrugBank.d78.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s1" text="Administration of quinolones with antacids containing aluminum, magnesium, or calcium, with sucralfate, with metal cations such as iron, or with multivitamins containing iron or zinc, or with formulations containing divalent and trivalent cations such as VIDEX (didanosine) chewable/buffered tablets or the pediatric powder for oral solution, may substantially interfere with the absorption of quinolones, resulting in systemic concentrations considerably lower than desired.">
+        <entity charOffset="18-27" id="DDI-DrugBank.d78.s1.e0" text="quinolones" type="group"/>
+        <entity charOffset="34-41" id="DDI-DrugBank.d78.s1.e1" text="antacids" type="group"/>
+        <entity charOffset="54-61" id="DDI-DrugBank.d78.s1.e2" text="aluminum" type="drug"/>
+        <entity charOffset="64-72" id="DDI-DrugBank.d78.s1.e3" text="magnesium" type="drug"/>
+        <entity charOffset="78-84" id="DDI-DrugBank.d78.s1.e4" text="calcium" type="drug"/>
+        <entity charOffset="92-101" id="DDI-DrugBank.d78.s1.e5" text="sucralfate" type="drug"/>
+        <entity charOffset="131-134" id="DDI-DrugBank.d78.s1.e6" text="iron" type="drug"/>
+        <entity charOffset="145-157" id="DDI-DrugBank.d78.s1.e7" text="multivitamins" type="group"/>
+        <entity charOffset="170-173" id="DDI-DrugBank.d78.s1.e8" text="iron" type="drug"/>
+        <entity charOffset="178-181" id="DDI-DrugBank.d78.s1.e9" text="zinc" type="drug"/>
+        <entity charOffset="255-259" id="DDI-DrugBank.d78.s1.e10" text="VIDEX" type="brand"/>
+        <entity charOffset="262-271" id="DDI-DrugBank.d78.s1.e11" text="didanosine" type="drug"/>
+        <entity charOffset="394-403" id="DDI-DrugBank.d78.s1.e12" text="quinolones" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e1" id="DDI-DrugBank.d78.s1.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e2" id="DDI-DrugBank.d78.s1.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e3" id="DDI-DrugBank.d78.s1.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e4" id="DDI-DrugBank.d78.s1.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e5" id="DDI-DrugBank.d78.s1.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e6" id="DDI-DrugBank.d78.s1.p5" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e7" id="DDI-DrugBank.d78.s1.p6" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p7" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p8" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p9" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p10" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e0" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e2" id="DDI-DrugBank.d78.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e3" id="DDI-DrugBank.d78.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e4" id="DDI-DrugBank.d78.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e5" id="DDI-DrugBank.d78.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e6" id="DDI-DrugBank.d78.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e7" id="DDI-DrugBank.d78.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e1" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e3" id="DDI-DrugBank.d78.s1.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e4" id="DDI-DrugBank.d78.s1.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e5" id="DDI-DrugBank.d78.s1.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e6" id="DDI-DrugBank.d78.s1.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e7" id="DDI-DrugBank.d78.s1.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e2" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e4" id="DDI-DrugBank.d78.s1.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e5" id="DDI-DrugBank.d78.s1.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e6" id="DDI-DrugBank.d78.s1.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e7" id="DDI-DrugBank.d78.s1.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e3" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e5" id="DDI-DrugBank.d78.s1.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e6" id="DDI-DrugBank.d78.s1.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e7" id="DDI-DrugBank.d78.s1.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e4" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e5" e2="DDI-DrugBank.d78.s1.e6" id="DDI-DrugBank.d78.s1.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e5" e2="DDI-DrugBank.d78.s1.e7" id="DDI-DrugBank.d78.s1.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e5" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e5" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e5" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e5" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e5" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e6" e2="DDI-DrugBank.d78.s1.e7" id="DDI-DrugBank.d78.s1.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e6" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e6" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e6" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e6" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e6" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e7" e2="DDI-DrugBank.d78.s1.e8" id="DDI-DrugBank.d78.s1.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e7" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e7" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e7" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e7" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e8" e2="DDI-DrugBank.d78.s1.e9" id="DDI-DrugBank.d78.s1.p68"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e8" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p69"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e8" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e8" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e9" e2="DDI-DrugBank.d78.s1.e10" id="DDI-DrugBank.d78.s1.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e9" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e9" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p74"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e10" e2="DDI-DrugBank.d78.s1.e11" id="DDI-DrugBank.d78.s1.p75"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e10" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s1.e11" e2="DDI-DrugBank.d78.s1.e12" id="DDI-DrugBank.d78.s1.p77"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s2" text="These agents should not be taken within 4 hours before or 4 hours after grepafloxacin administration.">
+        <entity charOffset="72-84" id="DDI-DrugBank.d78.s2.e0" text="grepafloxacin" type="drug"/>
+    <negationtags>These agents should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be taken within 4 hours before or 4 hours after grepafloxacin administration. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d78.s3" text="Caffeine Theobromine Grepafloxacin, like other quinolones, may inhibit the metabolism of caffeine and theobromine.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d78.s3.e0" text="Caffeine" type="drug"/>
+        <entity charOffset="9-19" id="DDI-DrugBank.d78.s3.e1" text="Theobromine" type="drug"/>
+        <entity charOffset="21-33" id="DDI-DrugBank.d78.s3.e2" text="Grepafloxacin" type="drug"/>
+        <entity charOffset="47-56" id="DDI-DrugBank.d78.s3.e3" text="quinolones" type="group"/>
+        <entity charOffset="89-96" id="DDI-DrugBank.d78.s3.e4" text="caffeine" type="drug"/>
+        <entity charOffset="102-112" id="DDI-DrugBank.d78.s3.e5" text="theobromine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e0" e2="DDI-DrugBank.d78.s3.e1" id="DDI-DrugBank.d78.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e0" e2="DDI-DrugBank.d78.s3.e2" id="DDI-DrugBank.d78.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e0" e2="DDI-DrugBank.d78.s3.e3" id="DDI-DrugBank.d78.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e0" e2="DDI-DrugBank.d78.s3.e4" id="DDI-DrugBank.d78.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e0" e2="DDI-DrugBank.d78.s3.e5" id="DDI-DrugBank.d78.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e1" e2="DDI-DrugBank.d78.s3.e2" id="DDI-DrugBank.d78.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e1" e2="DDI-DrugBank.d78.s3.e3" id="DDI-DrugBank.d78.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e1" e2="DDI-DrugBank.d78.s3.e4" id="DDI-DrugBank.d78.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e1" e2="DDI-DrugBank.d78.s3.e5" id="DDI-DrugBank.d78.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e2" e2="DDI-DrugBank.d78.s3.e3" id="DDI-DrugBank.d78.s3.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s3.e2" e2="DDI-DrugBank.d78.s3.e4" id="DDI-DrugBank.d78.s3.p10" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s3.e2" e2="DDI-DrugBank.d78.s3.e5" id="DDI-DrugBank.d78.s3.p11" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s3.e3" e2="DDI-DrugBank.d78.s3.e4" id="DDI-DrugBank.d78.s3.p12" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s3.e3" e2="DDI-DrugBank.d78.s3.e5" id="DDI-DrugBank.d78.s3.p13" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s3.e4" e2="DDI-DrugBank.d78.s3.e5" id="DDI-DrugBank.d78.s3.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s4" text="These stimulants are commonly found in coffee and tea, respectively."/>
+    <sentence id="DDI-DrugBank.d78.s5" text="In some patients, this may lead to reduced clearance, prolongation of plasma half-life, and enhanced effects of caffeine and theobromine.">
+        <entity charOffset="112-119" id="DDI-DrugBank.d78.s5.e0" text="caffeine" type="drug"/>
+        <entity charOffset="125-135" id="DDI-DrugBank.d78.s5.e1" text="theobromine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s5.e0" e2="DDI-DrugBank.d78.s5.e1" id="DDI-DrugBank.d78.s5.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s6" text="Theophylline: Grepafloxacin is a competitive inhibitor of the metabolism of theophylline.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d78.s6.e0" text="Theophylline" type="drug"/>
+        <entity charOffset="14-26" id="DDI-DrugBank.d78.s6.e1" text="Grepafloxacin" type="drug"/>
+        <entity charOffset="76-87" id="DDI-DrugBank.d78.s6.e2" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s6.e0" e2="DDI-DrugBank.d78.s6.e1" id="DDI-DrugBank.d78.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s6.e0" e2="DDI-DrugBank.d78.s6.e2" id="DDI-DrugBank.d78.s6.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s6.e1" e2="DDI-DrugBank.d78.s6.e2" id="DDI-DrugBank.d78.s6.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s7" text="Serum theophylline concentrations increase when grepafloxacin is initiated in a patient maintained on theophylline.">
+        <entity charOffset="6-17" id="DDI-DrugBank.d78.s7.e0" text="theophylline" type="drug"/>
+        <entity charOffset="48-60" id="DDI-DrugBank.d78.s7.e1" text="grepafloxacin" type="drug"/>
+        <entity charOffset="102-113" id="DDI-DrugBank.d78.s7.e2" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s7.e0" e2="DDI-DrugBank.d78.s7.e1" id="DDI-DrugBank.d78.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s7.e0" e2="DDI-DrugBank.d78.s7.e2" id="DDI-DrugBank.d78.s7.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s7.e1" e2="DDI-DrugBank.d78.s7.e2" id="DDI-DrugBank.d78.s7.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s8" text="When initiating a multi-day course of grepafloxacin in a patient maintained on theophylline, the theophylline maintenance dose should be halved for the period of concurrent use of grepafloxacin and monitoring of serum theophylline concentrations should be initiated as a guide to further dosage adjustments.">
+        <entity charOffset="38-50" id="DDI-DrugBank.d78.s8.e0" text="grepafloxacin" type="drug"/>
+        <entity charOffset="79-90" id="DDI-DrugBank.d78.s8.e1" text="theophylline" type="drug"/>
+        <entity charOffset="97-108" id="DDI-DrugBank.d78.s8.e2" text="theophylline" type="drug"/>
+        <entity charOffset="180-192" id="DDI-DrugBank.d78.s8.e3" text="grepafloxacin" type="drug"/>
+        <entity charOffset="218-229" id="DDI-DrugBank.d78.s8.e4" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e0" e2="DDI-DrugBank.d78.s8.e1" id="DDI-DrugBank.d78.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e0" e2="DDI-DrugBank.d78.s8.e2" id="DDI-DrugBank.d78.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e0" e2="DDI-DrugBank.d78.s8.e3" id="DDI-DrugBank.d78.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e0" e2="DDI-DrugBank.d78.s8.e4" id="DDI-DrugBank.d78.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e1" e2="DDI-DrugBank.d78.s8.e2" id="DDI-DrugBank.d78.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e1" e2="DDI-DrugBank.d78.s8.e3" id="DDI-DrugBank.d78.s8.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e1" e2="DDI-DrugBank.d78.s8.e4" id="DDI-DrugBank.d78.s8.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s8.e2" e2="DDI-DrugBank.d78.s8.e3" id="DDI-DrugBank.d78.s8.p7" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e2" e2="DDI-DrugBank.d78.s8.e4" id="DDI-DrugBank.d78.s8.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s8.e3" e2="DDI-DrugBank.d78.s8.e4" id="DDI-DrugBank.d78.s8.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s9" text="Warfarin: In subjects receiving warfarin, no significant change in clotting time was observed when grepafloxacin was coadministered.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d78.s9.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="32-39" id="DDI-DrugBank.d78.s9.e1" text="warfarin" type="drug"/>
+        <entity charOffset="99-111" id="DDI-DrugBank.d78.s9.e2" text="grepafloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s9.e0" e2="DDI-DrugBank.d78.s9.e1" id="DDI-DrugBank.d78.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s9.e0" e2="DDI-DrugBank.d78.s9.e2" id="DDI-DrugBank.d78.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s9.e1" e2="DDI-DrugBank.d78.s9.e2" id="DDI-DrugBank.d78.s9.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s10" text="However, because some quinolones have been reported to enhance the effects of warfarin or its derivatives, prothrombin time or other suitable anticoagulation test should be monitored closely if a quinolone antimicrobial is administered with warfarin or its derivatives.">
+        <entity charOffset="22-31" id="DDI-DrugBank.d78.s10.e0" text="quinolones" type="group"/>
+        <entity charOffset="78-85" id="DDI-DrugBank.d78.s10.e1" text="warfarin" type="drug"/>
+        <entity charOffset="196-218" id="DDI-DrugBank.d78.s10.e2" text="quinolone antimicrobial" type="group"/>
+        <entity charOffset="241-248" id="DDI-DrugBank.d78.s10.e3" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s10.e0" e2="DDI-DrugBank.d78.s10.e1" id="DDI-DrugBank.d78.s10.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s10.e0" e2="DDI-DrugBank.d78.s10.e2" id="DDI-DrugBank.d78.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s10.e0" e2="DDI-DrugBank.d78.s10.e3" id="DDI-DrugBank.d78.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s10.e1" e2="DDI-DrugBank.d78.s10.e2" id="DDI-DrugBank.d78.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s10.e1" e2="DDI-DrugBank.d78.s10.e3" id="DDI-DrugBank.d78.s10.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s10.e2" e2="DDI-DrugBank.d78.s10.e3" id="DDI-DrugBank.d78.s10.p5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s11" text="Drugs Metabolized by Cytochrome P450 Enzymes The drug interaction study evaluating the effect of grepafloxacin on theophylline indicates that grepafloxacin inhibits theophylline metabolism, which is mediated by CYP1A2.">
+        <entity charOffset="97-109" id="DDI-DrugBank.d78.s11.e0" text="grepafloxacin" type="drug"/>
+        <entity charOffset="114-125" id="DDI-DrugBank.d78.s11.e1" text="theophylline" type="drug"/>
+        <entity charOffset="142-154" id="DDI-DrugBank.d78.s11.e2" text="grepafloxacin" type="drug"/>
+        <entity charOffset="165-176" id="DDI-DrugBank.d78.s11.e3" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s11.e0" e2="DDI-DrugBank.d78.s11.e1" id="DDI-DrugBank.d78.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s11.e0" e2="DDI-DrugBank.d78.s11.e2" id="DDI-DrugBank.d78.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s11.e0" e2="DDI-DrugBank.d78.s11.e3" id="DDI-DrugBank.d78.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s11.e1" e2="DDI-DrugBank.d78.s11.e2" id="DDI-DrugBank.d78.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s11.e1" e2="DDI-DrugBank.d78.s11.e3" id="DDI-DrugBank.d78.s11.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s11.e2" e2="DDI-DrugBank.d78.s11.e3" id="DDI-DrugBank.d78.s11.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s12" text="While no clinical studies have been conducted to evaluate the effect of grepafloxacin on the metabolism of C.P.A.">
+        <entity charOffset="72-84" id="DDI-DrugBank.d78.s12.e0" text="grepafloxacin" type="drug"/>
+    <negationtags>While &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinical studies have been conducted to evaluate the effect of grepafloxacin on the metabolism of C.P.A. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d78.s13" text="substrates, in vitro data suggest similar effects of grepafloxacin in CYP3A4 mediated metabolism and theophylline metabolism.">
+        <entity charOffset="53-65" id="DDI-DrugBank.d78.s13.e0" text="grepafloxacin" type="drug"/>
+        <entity charOffset="101-112" id="DDI-DrugBank.d78.s13.e1" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s13.e0" e2="DDI-DrugBank.d78.s13.e1" id="DDI-DrugBank.d78.s13.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s14" text="In addition, other quinolones have been reported to decrease the CYP3A4-mediated metabolism of cyclosporine.">
+        <entity charOffset="19-28" id="DDI-DrugBank.d78.s14.e0" text="quinolones" type="group"/>
+        <entity charOffset="95-106" id="DDI-DrugBank.d78.s14.e1" text="cyclosporine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s14.e0" e2="DDI-DrugBank.d78.s14.e1" id="DDI-DrugBank.d78.s14.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s15" text="Other drugs metabolized by C.P.A."/>
+    <sentence id="DDI-DrugBank.d78.s16" text="include terfenadine, astemizole, cisapride, midazolam, and triazolam.">
+        <entity charOffset="8-18" id="DDI-DrugBank.d78.s16.e0" text="terfenadine" type="drug"/>
+        <entity charOffset="21-30" id="DDI-DrugBank.d78.s16.e1" text="astemizole" type="drug"/>
+        <entity charOffset="33-41" id="DDI-DrugBank.d78.s16.e2" text="cisapride" type="drug"/>
+        <entity charOffset="44-52" id="DDI-DrugBank.d78.s16.e3" text="midazolam" type="drug"/>
+        <entity charOffset="59-67" id="DDI-DrugBank.d78.s16.e4" text="triazolam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e0" e2="DDI-DrugBank.d78.s16.e1" id="DDI-DrugBank.d78.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e0" e2="DDI-DrugBank.d78.s16.e2" id="DDI-DrugBank.d78.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e0" e2="DDI-DrugBank.d78.s16.e3" id="DDI-DrugBank.d78.s16.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e0" e2="DDI-DrugBank.d78.s16.e4" id="DDI-DrugBank.d78.s16.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e1" e2="DDI-DrugBank.d78.s16.e2" id="DDI-DrugBank.d78.s16.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e1" e2="DDI-DrugBank.d78.s16.e3" id="DDI-DrugBank.d78.s16.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e1" e2="DDI-DrugBank.d78.s16.e4" id="DDI-DrugBank.d78.s16.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e2" e2="DDI-DrugBank.d78.s16.e3" id="DDI-DrugBank.d78.s16.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e2" e2="DDI-DrugBank.d78.s16.e4" id="DDI-DrugBank.d78.s16.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s16.e3" e2="DDI-DrugBank.d78.s16.e4" id="DDI-DrugBank.d78.s16.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s17" text="The clinical relevance of the potential effect of grepafloxacin on the metabolism of C.P.A. substrates is not known.">
+        <entity charOffset="50-62" id="DDI-DrugBank.d78.s17.e0" text="grepafloxacin" type="drug"/>
+    <negationtags>The clinical relevance of the potential effect of grepafloxacin on the metabolism of C.P.A. substrates is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d78.s18" text="Patients receiving concurrent administration of substrates of C.P.A. were not excluded from clinical trials of grepafloxacin.">
+        <entity charOffset="111-123" id="DDI-DrugBank.d78.s18.e0" text="grepafloxacin" type="drug"/>
+    <negationtags>Patients receiving concurrent administration of substrates of C.P.A. were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; excluded from clinical trials of grepafloxacin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d78.s19" text="Nonsteroidal Anti-inflammatory Drugs (NSAIDs): The concomitant administration of a nonsteroidal anti inflammatory drug with a quinolone may increase the risks of CNS stimulation and convulsions.">
+        <entity charOffset="0-35" id="DDI-DrugBank.d78.s19.e0" text="Nonsteroidal Anti-inflammatory Drugs" type="group"/>
+        <entity charOffset="38-43" id="DDI-DrugBank.d78.s19.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="83-117" id="DDI-DrugBank.d78.s19.e2" text="nonsteroidal anti inflammatory drug" type="group"/>
+        <entity charOffset="126-134" id="DDI-DrugBank.d78.s19.e3" text="quinolone" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s19.e0" e2="DDI-DrugBank.d78.s19.e1" id="DDI-DrugBank.d78.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s19.e0" e2="DDI-DrugBank.d78.s19.e2" id="DDI-DrugBank.d78.s19.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s19.e0" e2="DDI-DrugBank.d78.s19.e3" id="DDI-DrugBank.d78.s19.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s19.e1" e2="DDI-DrugBank.d78.s19.e2" id="DDI-DrugBank.d78.s19.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s19.e1" e2="DDI-DrugBank.d78.s19.e3" id="DDI-DrugBank.d78.s19.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s19.e2" e2="DDI-DrugBank.d78.s19.e3" id="DDI-DrugBank.d78.s19.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s20" text="Antidiabetic Agents: Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with quinolones and an antidiabetic agent.">
+        <entity charOffset="0-18" id="DDI-DrugBank.d78.s20.e0" text="Antidiabetic Agents" type="group"/>
+        <entity charOffset="152-161" id="DDI-DrugBank.d78.s20.e1" text="quinolones" type="group"/>
+        <entity charOffset="170-187" id="DDI-DrugBank.d78.s20.e2" text="antidiabetic agent" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s20.e0" e2="DDI-DrugBank.d78.s20.e1" id="DDI-DrugBank.d78.s20.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d78.s20.e0" e2="DDI-DrugBank.d78.s20.e2" id="DDI-DrugBank.d78.s20.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d78.s20.e1" e2="DDI-DrugBank.d78.s20.e2" id="DDI-DrugBank.d78.s20.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d78.s21" text="Therefore, careful monitoring of blood glucose is recommended when these agents are coadministered."/>
+</document>

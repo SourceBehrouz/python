@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d384">
+    <sentence id="DDI-DrugBank.d384.s0" text="Interactions for vitamin D analogues (Vitamin D2, Vitamin D3, Calcitriol, and Calcidiol): Cholestyramine: Cholestyramine has been reported to reduce intestinal absorption of fat soluble vitamins;">
+        <entity charOffset="17-35" id="DDI-DrugBank.d384.s0.e0" text="vitamin D analogues" type="group"/>
+        <entity charOffset="38-47" id="DDI-DrugBank.d384.s0.e1" text="Vitamin D2" type="drug"/>
+        <entity charOffset="50-59" id="DDI-DrugBank.d384.s0.e2" text="Vitamin D3" type="drug"/>
+        <entity charOffset="62-71" id="DDI-DrugBank.d384.s0.e3" text="Calcitriol" type="drug"/>
+        <entity charOffset="78-86" id="DDI-DrugBank.d384.s0.e4" text="Calcidiol" type="drug"/>
+        <entity charOffset="90-103" id="DDI-DrugBank.d384.s0.e5" text="Cholestyramine" type="drug"/>
+        <entity charOffset="106-119" id="DDI-DrugBank.d384.s0.e6" text="Cholestyramine" type="drug"/>
+        <entity charOffset="174-193" id="DDI-DrugBank.d384.s0.e7" text="fat soluble vitamins" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e0" e2="DDI-DrugBank.d384.s0.e1" id="DDI-DrugBank.d384.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e0" e2="DDI-DrugBank.d384.s0.e2" id="DDI-DrugBank.d384.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e0" e2="DDI-DrugBank.d384.s0.e3" id="DDI-DrugBank.d384.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e0" e2="DDI-DrugBank.d384.s0.e4" id="DDI-DrugBank.d384.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e0" e2="DDI-DrugBank.d384.s0.e5" id="DDI-DrugBank.d384.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e0" e2="DDI-DrugBank.d384.s0.e6" id="DDI-DrugBank.d384.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e0" e2="DDI-DrugBank.d384.s0.e7" id="DDI-DrugBank.d384.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e1" e2="DDI-DrugBank.d384.s0.e2" id="DDI-DrugBank.d384.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e1" e2="DDI-DrugBank.d384.s0.e3" id="DDI-DrugBank.d384.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e1" e2="DDI-DrugBank.d384.s0.e4" id="DDI-DrugBank.d384.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e1" e2="DDI-DrugBank.d384.s0.e5" id="DDI-DrugBank.d384.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e1" e2="DDI-DrugBank.d384.s0.e6" id="DDI-DrugBank.d384.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e1" e2="DDI-DrugBank.d384.s0.e7" id="DDI-DrugBank.d384.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e2" e2="DDI-DrugBank.d384.s0.e3" id="DDI-DrugBank.d384.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e2" e2="DDI-DrugBank.d384.s0.e4" id="DDI-DrugBank.d384.s0.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e2" e2="DDI-DrugBank.d384.s0.e5" id="DDI-DrugBank.d384.s0.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e2" e2="DDI-DrugBank.d384.s0.e6" id="DDI-DrugBank.d384.s0.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e2" e2="DDI-DrugBank.d384.s0.e7" id="DDI-DrugBank.d384.s0.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e3" e2="DDI-DrugBank.d384.s0.e4" id="DDI-DrugBank.d384.s0.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e3" e2="DDI-DrugBank.d384.s0.e5" id="DDI-DrugBank.d384.s0.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e3" e2="DDI-DrugBank.d384.s0.e6" id="DDI-DrugBank.d384.s0.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e3" e2="DDI-DrugBank.d384.s0.e7" id="DDI-DrugBank.d384.s0.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e4" e2="DDI-DrugBank.d384.s0.e5" id="DDI-DrugBank.d384.s0.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e4" e2="DDI-DrugBank.d384.s0.e6" id="DDI-DrugBank.d384.s0.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e4" e2="DDI-DrugBank.d384.s0.e7" id="DDI-DrugBank.d384.s0.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e5" e2="DDI-DrugBank.d384.s0.e6" id="DDI-DrugBank.d384.s0.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s0.e5" e2="DDI-DrugBank.d384.s0.e7" id="DDI-DrugBank.d384.s0.p26"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s0.e6" e2="DDI-DrugBank.d384.s0.e7" id="DDI-DrugBank.d384.s0.p27" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s1" text="as such it may impair intestinal absorption of any of vitamin D.">
+        <entity charOffset="54-62" id="DDI-DrugBank.d384.s1.e0" text="vitamin D" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s2" text="Phenytoin/Phenobarbital: The coadministration of phenytoin or phenobarbital will not affect plasma concentrations of vitamin D, but may reduce endogenous plasma levels of calcitriol/ergocalcitriol by accelerating metabolism.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d384.s2.e0" text="Phenytoin" type="drug"/>
+        <entity charOffset="10-22" id="DDI-DrugBank.d384.s2.e1" text="Phenobarbital" type="drug"/>
+        <entity charOffset="49-57" id="DDI-DrugBank.d384.s2.e2" text="phenytoin" type="drug"/>
+        <entity charOffset="62-74" id="DDI-DrugBank.d384.s2.e3" text="phenobarbital" type="drug"/>
+        <entity charOffset="117-125" id="DDI-DrugBank.d384.s2.e4" text="vitamin D" type="group"/>
+        <entity charOffset="171-180" id="DDI-DrugBank.d384.s2.e5" text="calcitriol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e0" e2="DDI-DrugBank.d384.s2.e1" id="DDI-DrugBank.d384.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e0" e2="DDI-DrugBank.d384.s2.e2" id="DDI-DrugBank.d384.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e0" e2="DDI-DrugBank.d384.s2.e3" id="DDI-DrugBank.d384.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e0" e2="DDI-DrugBank.d384.s2.e4" id="DDI-DrugBank.d384.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e0" e2="DDI-DrugBank.d384.s2.e5" id="DDI-DrugBank.d384.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e1" e2="DDI-DrugBank.d384.s2.e2" id="DDI-DrugBank.d384.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e1" e2="DDI-DrugBank.d384.s2.e3" id="DDI-DrugBank.d384.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e1" e2="DDI-DrugBank.d384.s2.e4" id="DDI-DrugBank.d384.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e1" e2="DDI-DrugBank.d384.s2.e5" id="DDI-DrugBank.d384.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e2" e2="DDI-DrugBank.d384.s2.e3" id="DDI-DrugBank.d384.s2.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e2" e2="DDI-DrugBank.d384.s2.e4" id="DDI-DrugBank.d384.s2.p10"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s2.e2" e2="DDI-DrugBank.d384.s2.e5" id="DDI-DrugBank.d384.s2.p11" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e3" e2="DDI-DrugBank.d384.s2.e4" id="DDI-DrugBank.d384.s2.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s2.e3" e2="DDI-DrugBank.d384.s2.e5" id="DDI-DrugBank.d384.s2.p13" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s2.e4" e2="DDI-DrugBank.d384.s2.e5" id="DDI-DrugBank.d384.s2.p14"/>
+    <negationtags>Phenytoin/Phenobarbital: The coadministration of phenytoin or phenobarbital will &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect plasma concentrations of vitamin D, &lt;/scope&gt; but may reduce endogenous plasma levels of calcitriol/ergocalcitriol by accelerating metabolism.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d384.s3" text="Since blood level of calcitriol/ergocalcitriol will be reduced, higher doses of Rocaltrol may be necessary if these drugs are administered simultaneously.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d384.s3.e0" text="calcitriol" type="drug"/>
+        <entity charOffset="80-88" id="DDI-DrugBank.d384.s3.e1" text="Rocaltrol" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s3.e0" e2="DDI-DrugBank.d384.s3.e1" id="DDI-DrugBank.d384.s3.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s4" text="Thiazides: Thiazides are known to induce hypercalcemia by the reduction of calcium excretion in urine.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d384.s4.e0" text="Thiazides" type="group"/>
+        <entity charOffset="11-19" id="DDI-DrugBank.d384.s4.e1" text="Thiazides" type="group"/>
+        <entity charOffset="75-81" id="DDI-DrugBank.d384.s4.e2" text="calcium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s4.e0" e2="DDI-DrugBank.d384.s4.e1" id="DDI-DrugBank.d384.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s4.e0" e2="DDI-DrugBank.d384.s4.e2" id="DDI-DrugBank.d384.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s4.e1" e2="DDI-DrugBank.d384.s4.e2" id="DDI-DrugBank.d384.s4.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s5" text="Some reports have shown that the concomitant administration of thiazides with vitamin D causes hypercalcemia.">
+        <entity charOffset="63-71" id="DDI-DrugBank.d384.s5.e0" text="thiazides" type="group"/>
+        <entity charOffset="78-86" id="DDI-DrugBank.d384.s5.e1" text="vitamin D" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s5.e0" e2="DDI-DrugBank.d384.s5.e1" id="DDI-DrugBank.d384.s5.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s6" text="Therefore, precaution should be taken when coadministration is necessary."/>
+    <sentence id="DDI-DrugBank.d384.s7" text="Digitalis: Vitamin D dosage must be determined with care in patients undergoing treatment with digitalis, as hypercalcemia in such patients may precipitate cardiac arrhythmias.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d384.s7.e0" text="Digitalis" type="group"/>
+        <entity charOffset="11-19" id="DDI-DrugBank.d384.s7.e1" text="Vitamin D" type="group"/>
+        <entity charOffset="95-103" id="DDI-DrugBank.d384.s7.e2" text="digitalis" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s7.e0" e2="DDI-DrugBank.d384.s7.e1" id="DDI-DrugBank.d384.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s7.e0" e2="DDI-DrugBank.d384.s7.e2" id="DDI-DrugBank.d384.s7.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s7.e1" e2="DDI-DrugBank.d384.s7.e2" id="DDI-DrugBank.d384.s7.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s8" text="Ketoconazole: Ketoconazole may inhibit both synthetic and catabolic enzymes of vitamin D.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d384.s8.e0" text="Ketoconazole" type="drug"/>
+        <entity charOffset="14-25" id="DDI-DrugBank.d384.s8.e1" text="Ketoconazole" type="drug"/>
+        <entity charOffset="79-87" id="DDI-DrugBank.d384.s8.e2" text="vitamin D" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s8.e0" e2="DDI-DrugBank.d384.s8.e1" id="DDI-DrugBank.d384.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s8.e0" e2="DDI-DrugBank.d384.s8.e2" id="DDI-DrugBank.d384.s8.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s8.e1" e2="DDI-DrugBank.d384.s8.e2" id="DDI-DrugBank.d384.s8.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s9" text="Reductions in serum endogenous vitamin D concentrations have been observed following the administration of 300 mg/day to 1200 mg/day ketoconazole for a week to healthy men.">
+        <entity charOffset="133-144" id="DDI-DrugBank.d384.s9.e0" text="ketoconazole" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s10" text="However, in vivo drug interaction studies of ketoconazole with vitamin D have not been investigated.">
+        <entity charOffset="45-56" id="DDI-DrugBank.d384.s10.e0" text="ketoconazole" type="drug"/>
+        <entity charOffset="63-71" id="DDI-DrugBank.d384.s10.e1" text="vitamin D" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s10.e0" e2="DDI-DrugBank.d384.s10.e1" id="DDI-DrugBank.d384.s10.p0"/>
+    <negationtags>However, in vivo drug interaction studies of ketoconazole with vitamin D have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been investigated. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d384.s11" text="Corticosteroids: A relationship of functional antagonism exists between vitamin D analogues, which promote calcium absorption, and corticosteroids, which inhibit calcium absorption.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d384.s11.e0" text="Corticosteroids" type="group"/>
+        <entity charOffset="72-90" id="DDI-DrugBank.d384.s11.e1" text="vitamin D analogues" type="group"/>
+        <entity charOffset="131-145" id="DDI-DrugBank.d384.s11.e2" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s11.e0" e2="DDI-DrugBank.d384.s11.e1" id="DDI-DrugBank.d384.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s11.e0" e2="DDI-DrugBank.d384.s11.e2" id="DDI-DrugBank.d384.s11.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s11.e1" e2="DDI-DrugBank.d384.s11.e2" id="DDI-DrugBank.d384.s11.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s12" text="Phosphate-Binding Agents: Since vitamin D also has an effect on phosphate transport in the intestine, kidneys and bones, the dosage of phosphate-binding agents must be adjusted in accordance with the serum phosphate concentration.">
+        <entity charOffset="32-40" id="DDI-DrugBank.d384.s12.e0" text="vitamin D" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s13" text="Vitamin D: The coadministration of any of the vitamin D analogues should be avoided as this could create possible additive effects and hypercalcemia.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d384.s13.e0" text="Vitamin D" type="group"/>
+        <entity charOffset="46-64" id="DDI-DrugBank.d384.s13.e1" text="vitamin D analogues" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s13.e0" e2="DDI-DrugBank.d384.s13.e1" id="DDI-DrugBank.d384.s13.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s14" text="Calcium Supplements: Uncontrolled intake of additional calcium-containing preparations should be avoided.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d384.s14.e0" text="Calcium" type="drug"/>
+        <entity charOffset="55-61" id="DDI-DrugBank.d384.s14.e1" text="calcium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s14.e0" e2="DDI-DrugBank.d384.s14.e1" id="DDI-DrugBank.d384.s14.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d384.s15" text="Magnesium: Magnesium-containing preparations (eg, antacids) may cause hypermagnesemia and should therefore not be taken during therapy with vitamin D by patients on chronic renal dialysis.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d384.s15.e0" text="Magnesium" type="drug"/>
+        <entity charOffset="11-19" id="DDI-DrugBank.d384.s15.e1" text="Magnesium" type="drug"/>
+        <entity charOffset="50-57" id="DDI-DrugBank.d384.s15.e2" text="antacids" type="group"/>
+        <entity charOffset="140-148" id="DDI-DrugBank.d384.s15.e3" text="vitamin D" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s15.e0" e2="DDI-DrugBank.d384.s15.e1" id="DDI-DrugBank.d384.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s15.e0" e2="DDI-DrugBank.d384.s15.e2" id="DDI-DrugBank.d384.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s15.e0" e2="DDI-DrugBank.d384.s15.e3" id="DDI-DrugBank.d384.s15.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d384.s15.e1" e2="DDI-DrugBank.d384.s15.e2" id="DDI-DrugBank.d384.s15.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s15.e1" e2="DDI-DrugBank.d384.s15.e3" id="DDI-DrugBank.d384.s15.p4" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d384.s15.e2" e2="DDI-DrugBank.d384.s15.e3" id="DDI-DrugBank.d384.s15.p5" type="advise"/>
+    <negationtags>Magnesium: Magnesium-containing preparations (eg, antacids) may cause hypermagnesemia and should therefore &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be taken during therapy with vitamin D by patients on chronic renal dialysis. &lt;/scope&gt;</negationtags></sentence>
+</document>

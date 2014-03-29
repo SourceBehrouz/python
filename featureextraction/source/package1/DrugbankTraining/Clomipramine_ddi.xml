@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d238">
+    <sentence id="DDI-DrugBank.d238.s0" text="The risks of using Anafranil in combination with other drugs have not been systematically evaluated.">
+        <entity charOffset="19-27" id="DDI-DrugBank.d238.s0.e0" text="Anafranil" type="brand"/>
+    <negationtags>The risks of using Anafranil in combination with other drugs have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been systematically evaluated. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d238.s1" text="Given the primary CNS effects of Anafranil, caution is advised in using it concomitantly with other CNS-active drugs.">
+        <entity charOffset="33-41" id="DDI-DrugBank.d238.s1.e0" text="Anafranil" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s2" text="Anafranil should not be used with MAO inhibitors.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d238.s2.e0" text="Anafranil" type="brand"/>
+        <entity charOffset="34-47" id="DDI-DrugBank.d238.s2.e1" text="MAO inhibitors" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s2.e0" e2="DDI-DrugBank.d238.s2.e1" id="DDI-DrugBank.d238.s2.p0" type="advise"/>
+    <negationtags>Anafranil should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used with MAO inhibitors. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d238.s3" text="Close supervision and careful adjustment of dosage are required when Anafranil is administered with anticholinergic or sympathomimetic drugs.">
+        <entity charOffset="69-77" id="DDI-DrugBank.d238.s3.e0" text="Anafranil" type="brand"/>
+        <entity charOffset="100-114" id="DDI-DrugBank.d238.s3.e1" text="anticholinergic" type="group"/>
+        <entity charOffset="119-139" id="DDI-DrugBank.d238.s3.e2" text="sympathomimetic drugs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s3.e0" e2="DDI-DrugBank.d238.s3.e1" id="DDI-DrugBank.d238.s3.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s3.e0" e2="DDI-DrugBank.d238.s3.e2" id="DDI-DrugBank.d238.s3.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s3.e1" e2="DDI-DrugBank.d238.s3.e2" id="DDI-DrugBank.d238.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s4" text="Several tricyclic antidepressants have been reported to block the pharmacologic effects of guanethidine, clonidine, or similar agents, and such an effect may be anticipated with CMI because of its structural similarity to other tricyclic antidepressants.">
+        <entity charOffset="8-32" id="DDI-DrugBank.d238.s4.e0" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="91-102" id="DDI-DrugBank.d238.s4.e1" text="guanethidine" type="drug"/>
+        <entity charOffset="105-113" id="DDI-DrugBank.d238.s4.e2" text="clonidine" type="drug"/>
+        <entity charOffset="178-180" id="DDI-DrugBank.d238.s4.e3" text="CMI" type="drug"/>
+        <entity charOffset="228-252" id="DDI-DrugBank.d238.s4.e4" text="tricyclic antidepressants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s4.e0" e2="DDI-DrugBank.d238.s4.e1" id="DDI-DrugBank.d238.s4.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s4.e0" e2="DDI-DrugBank.d238.s4.e2" id="DDI-DrugBank.d238.s4.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s4.e0" e2="DDI-DrugBank.d238.s4.e3" id="DDI-DrugBank.d238.s4.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s4.e0" e2="DDI-DrugBank.d238.s4.e4" id="DDI-DrugBank.d238.s4.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s4.e1" e2="DDI-DrugBank.d238.s4.e2" id="DDI-DrugBank.d238.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s4.e1" e2="DDI-DrugBank.d238.s4.e3" id="DDI-DrugBank.d238.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s4.e1" e2="DDI-DrugBank.d238.s4.e4" id="DDI-DrugBank.d238.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s4.e2" e2="DDI-DrugBank.d238.s4.e3" id="DDI-DrugBank.d238.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s4.e2" e2="DDI-DrugBank.d238.s4.e4" id="DDI-DrugBank.d238.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s4.e3" e2="DDI-DrugBank.d238.s4.e4" id="DDI-DrugBank.d238.s4.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s5" text="The plasma concentration of CMI has been reported to be increased by the concomitant administration of haloperidol;">
+        <entity charOffset="28-30" id="DDI-DrugBank.d238.s5.e0" text="CMI" type="drug"/>
+        <entity charOffset="103-113" id="DDI-DrugBank.d238.s5.e1" text="haloperidol" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s5.e0" e2="DDI-DrugBank.d238.s5.e1" id="DDI-DrugBank.d238.s5.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s6" text="plasma levels of several closely related tricyclic antidepressants have been reported to be increased by the concomitant administration of methylphenidate or hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decreased by the concomitant administration of hepatic enzyme inducers (e.g., barbiturates, phenytoin), and such an effect may be anticipated with CMI as well.">
+        <entity charOffset="41-65" id="DDI-DrugBank.d238.s6.e0" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="139-153" id="DDI-DrugBank.d238.s6.e1" text="methylphenidate" type="drug"/>
+        <entity charOffset="191-200" id="DDI-DrugBank.d238.s6.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="203-212" id="DDI-DrugBank.d238.s6.e3" text="fluoxetine" type="drug"/>
+        <entity charOffset="297-308" id="DDI-DrugBank.d238.s6.e4" text="barbiturates" type="group"/>
+        <entity charOffset="311-319" id="DDI-DrugBank.d238.s6.e5" text="phenytoin" type="drug"/>
+        <entity charOffset="366-368" id="DDI-DrugBank.d238.s6.e6" text="CMI" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e0" e2="DDI-DrugBank.d238.s6.e1" id="DDI-DrugBank.d238.s6.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e0" e2="DDI-DrugBank.d238.s6.e2" id="DDI-DrugBank.d238.s6.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e0" e2="DDI-DrugBank.d238.s6.e3" id="DDI-DrugBank.d238.s6.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e0" e2="DDI-DrugBank.d238.s6.e4" id="DDI-DrugBank.d238.s6.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e0" e2="DDI-DrugBank.d238.s6.e5" id="DDI-DrugBank.d238.s6.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e0" e2="DDI-DrugBank.d238.s6.e6" id="DDI-DrugBank.d238.s6.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e1" e2="DDI-DrugBank.d238.s6.e2" id="DDI-DrugBank.d238.s6.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e1" e2="DDI-DrugBank.d238.s6.e3" id="DDI-DrugBank.d238.s6.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e1" e2="DDI-DrugBank.d238.s6.e4" id="DDI-DrugBank.d238.s6.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e1" e2="DDI-DrugBank.d238.s6.e5" id="DDI-DrugBank.d238.s6.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e1" e2="DDI-DrugBank.d238.s6.e6" id="DDI-DrugBank.d238.s6.p10" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e2" e2="DDI-DrugBank.d238.s6.e3" id="DDI-DrugBank.d238.s6.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e2" e2="DDI-DrugBank.d238.s6.e4" id="DDI-DrugBank.d238.s6.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e2" e2="DDI-DrugBank.d238.s6.e5" id="DDI-DrugBank.d238.s6.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e2" e2="DDI-DrugBank.d238.s6.e6" id="DDI-DrugBank.d238.s6.p14" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e3" e2="DDI-DrugBank.d238.s6.e4" id="DDI-DrugBank.d238.s6.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e3" e2="DDI-DrugBank.d238.s6.e5" id="DDI-DrugBank.d238.s6.p16"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e3" e2="DDI-DrugBank.d238.s6.e6" id="DDI-DrugBank.d238.s6.p17" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s6.e4" e2="DDI-DrugBank.d238.s6.e5" id="DDI-DrugBank.d238.s6.p18"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e4" e2="DDI-DrugBank.d238.s6.e6" id="DDI-DrugBank.d238.s6.p19" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s6.e5" e2="DDI-DrugBank.d238.s6.e6" id="DDI-DrugBank.d238.s6.p20" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s7" text="Administration of CMI has been reported to increase the plasma levels of phenobarbital, if given concomitantly.">
+        <entity charOffset="18-20" id="DDI-DrugBank.d238.s7.e0" text="CMI" type="drug"/>
+        <entity charOffset="73-85" id="DDI-DrugBank.d238.s7.e1" text="phenobarbital" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s7.e0" e2="DDI-DrugBank.d238.s7.e1" id="DDI-DrugBank.d238.s7.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s8" text="Drugs Metabolized by P450 2D6: The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the aucasian population (about 7%-10% of Caucasians are so-called poor metabolizers);"/>
+    <sentence id="DDI-DrugBank.d238.s9" text="reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available."><negationtags>reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; yet available. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d238.s10" text="Poor metabolizers have higher than expected lasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.">
+        <entity charOffset="68-92" id="DDI-DrugBank.d238.s10.e0" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="95-98" id="DDI-DrugBank.d238.s10.e1" text="TCAs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s10.e0" e2="DDI-DrugBank.d238.s10.e1" id="DDI-DrugBank.d238.s10.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s11" text="Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8 fold increase in plasma AUC of the TCA).">
+        <entity charOffset="163-165" id="DDI-DrugBank.d238.s11.e0" text="TCA" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s12" text="In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers."/>
+    <sentence id="DDI-DrugBank.d238.s13" text="An individual who is stable on a given dose of TCAmay become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.">
+        <entity charOffset="47-49" id="DDI-DrugBank.d238.s13.e0" text="TCA" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s14" text="The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine;">
+        <entity charOffset="96-104" id="DDI-DrugBank.d238.s14.e0" text="quinidine" type="drug"/>
+    <negationtags>The drugs that inhibit cytochrome P450 2D6 include some that are &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; metabolized by the enzyme (quinidine; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d238.s15" text="cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d238.s15.e0" text="cimetidine" type="drug"/>
+        <entity charOffset="66-80" id="DDI-DrugBank.d238.s15.e1" text="antidepressants" type="group"/>
+        <entity charOffset="83-96" id="DDI-DrugBank.d238.s15.e2" text="phenothiazines" type="group"/>
+        <entity charOffset="107-129" id="DDI-DrugBank.d238.s15.e3" text="Type 1C antiarrhythmics" type="group"/>
+        <entity charOffset="131-141" id="DDI-DrugBank.d238.s15.e4" text="propafenone" type="drug"/>
+        <entity charOffset="147-156" id="DDI-DrugBank.d238.s15.e5" text="flecainide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e0" e2="DDI-DrugBank.d238.s15.e1" id="DDI-DrugBank.d238.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e0" e2="DDI-DrugBank.d238.s15.e2" id="DDI-DrugBank.d238.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e0" e2="DDI-DrugBank.d238.s15.e3" id="DDI-DrugBank.d238.s15.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e0" e2="DDI-DrugBank.d238.s15.e4" id="DDI-DrugBank.d238.s15.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e0" e2="DDI-DrugBank.d238.s15.e5" id="DDI-DrugBank.d238.s15.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e1" e2="DDI-DrugBank.d238.s15.e2" id="DDI-DrugBank.d238.s15.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e1" e2="DDI-DrugBank.d238.s15.e3" id="DDI-DrugBank.d238.s15.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e1" e2="DDI-DrugBank.d238.s15.e4" id="DDI-DrugBank.d238.s15.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e1" e2="DDI-DrugBank.d238.s15.e5" id="DDI-DrugBank.d238.s15.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e2" e2="DDI-DrugBank.d238.s15.e3" id="DDI-DrugBank.d238.s15.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e2" e2="DDI-DrugBank.d238.s15.e4" id="DDI-DrugBank.d238.s15.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e2" e2="DDI-DrugBank.d238.s15.e5" id="DDI-DrugBank.d238.s15.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e3" e2="DDI-DrugBank.d238.s15.e4" id="DDI-DrugBank.d238.s15.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e3" e2="DDI-DrugBank.d238.s15.e5" id="DDI-DrugBank.d238.s15.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s15.e4" e2="DDI-DrugBank.d238.s15.e5" id="DDI-DrugBank.d238.s15.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s16" text="While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, paroxetine, and fluvoxamine, inhibit P450 2D6, they may vary in the extent of inhibition.">
+        <entity charOffset="14-52" id="DDI-DrugBank.d238.s16.e0" text="selective serotonin reuptake inhibitors" type="group"/>
+        <entity charOffset="55-59" id="DDI-DrugBank.d238.s16.e1" text="SSRIs" type="group"/>
+        <entity charOffset="69-78" id="DDI-DrugBank.d238.s16.e2" text="fluoxetine" type="drug"/>
+        <entity charOffset="81-90" id="DDI-DrugBank.d238.s16.e3" text="sertraline" type="drug"/>
+        <entity charOffset="93-102" id="DDI-DrugBank.d238.s16.e4" text="paroxetine" type="drug"/>
+        <entity charOffset="109-119" id="DDI-DrugBank.d238.s16.e5" text="fluvoxamine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e0" e2="DDI-DrugBank.d238.s16.e1" id="DDI-DrugBank.d238.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e0" e2="DDI-DrugBank.d238.s16.e2" id="DDI-DrugBank.d238.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e0" e2="DDI-DrugBank.d238.s16.e3" id="DDI-DrugBank.d238.s16.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e0" e2="DDI-DrugBank.d238.s16.e4" id="DDI-DrugBank.d238.s16.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e0" e2="DDI-DrugBank.d238.s16.e5" id="DDI-DrugBank.d238.s16.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e1" e2="DDI-DrugBank.d238.s16.e2" id="DDI-DrugBank.d238.s16.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e1" e2="DDI-DrugBank.d238.s16.e3" id="DDI-DrugBank.d238.s16.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e1" e2="DDI-DrugBank.d238.s16.e4" id="DDI-DrugBank.d238.s16.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e1" e2="DDI-DrugBank.d238.s16.e5" id="DDI-DrugBank.d238.s16.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e2" e2="DDI-DrugBank.d238.s16.e3" id="DDI-DrugBank.d238.s16.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e2" e2="DDI-DrugBank.d238.s16.e4" id="DDI-DrugBank.d238.s16.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e2" e2="DDI-DrugBank.d238.s16.e5" id="DDI-DrugBank.d238.s16.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e3" e2="DDI-DrugBank.d238.s16.e4" id="DDI-DrugBank.d238.s16.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e3" e2="DDI-DrugBank.d238.s16.e5" id="DDI-DrugBank.d238.s16.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s16.e4" e2="DDI-DrugBank.d238.s16.e5" id="DDI-DrugBank.d238.s16.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s17" text="Fluvoxamine has also been shown to inhibit P450 1A2, an isoform also involved in TCAmetabolism.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d238.s17.e0" text="Fluvoxamine" type="drug"/>
+        <entity charOffset="81-83" id="DDI-DrugBank.d238.s17.e1" text="TCA" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s17.e0" e2="DDI-DrugBank.d238.s17.e1" id="DDI-DrugBank.d238.s17.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s18" text="The extent to which SSRI-TCAinteractions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.">
+        <entity charOffset="20-23" id="DDI-DrugBank.d238.s18.e0" text="SSRI" type="group"/>
+        <entity charOffset="25-27" id="DDI-DrugBank.d238.s18.e1" text="TCA" type="group"/>
+        <entity charOffset="140-143" id="DDI-DrugBank.d238.s18.e2" text="SSRI" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s18.e0" e2="DDI-DrugBank.d238.s18.e1" id="DDI-DrugBank.d238.s18.p0" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s18.e0" e2="DDI-DrugBank.d238.s18.e2" id="DDI-DrugBank.d238.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s18.e1" e2="DDI-DrugBank.d238.s18.e2" id="DDI-DrugBank.d238.s18.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s19" text="Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.">
+        <entity charOffset="63-66" id="DDI-DrugBank.d238.s19.e0" text="TCAs" type="group"/>
+        <entity charOffset="84-88" id="DDI-DrugBank.d238.s19.e1" text="SSRIs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s19.e0" e2="DDI-DrugBank.d238.s19.e1" id="DDI-DrugBank.d238.s19.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s20" text="Of particular importance, sufficient time must elapse before initiating TCAtreatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).">
+        <entity charOffset="72-74" id="DDI-DrugBank.d238.s20.e0" text="TCA" type="group"/>
+        <entity charOffset="119-128" id="DDI-DrugBank.d238.s20.e1" text="fluoxetine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s20.e0" e2="DDI-DrugBank.d238.s20.e1" id="DDI-DrugBank.d238.s20.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s21" text="Concomitant use of agents in the tricyclic antidepressant class (which includes Anafranil) with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant agent or the other drug.">
+        <entity charOffset="33-62" id="DDI-DrugBank.d238.s21.e0" text="tricyclic antidepressant class" type="group"/>
+        <entity charOffset="80-88" id="DDI-DrugBank.d238.s21.e1" text="Anafranil" type="brand"/>
+        <entity charOffset="202-231" id="DDI-DrugBank.d238.s21.e2" text="tricyclic antidepressant agent" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s21.e0" e2="DDI-DrugBank.d238.s21.e1" id="DDI-DrugBank.d238.s21.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s21.e0" e2="DDI-DrugBank.d238.s21.e2" id="DDI-DrugBank.d238.s21.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s21.e1" e2="DDI-DrugBank.d238.s21.e2" id="DDI-DrugBank.d238.s21.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s22" text="Furthermore, whenever one of these drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant agent may be required.">
+        <entity charOffset="92-121" id="DDI-DrugBank.d238.s22.e0" text="tricyclic antidepressant agent" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s23" text="It is desirable to monitor TCAplasma levels whenever an agent of the tricyclic antidepressant class including Anafranil is going to be co-administered with another drug known to be an inhibitor of P450 2D6 (and/or P450 1A2).">
+        <entity charOffset="27-29" id="DDI-DrugBank.d238.s23.e0" text="TCA" type="group"/>
+        <entity charOffset="69-98" id="DDI-DrugBank.d238.s23.e1" text="tricyclic antidepressant class" type="group"/>
+        <entity charOffset="110-118" id="DDI-DrugBank.d238.s23.e2" text="Anafranil" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s23.e0" e2="DDI-DrugBank.d238.s23.e1" id="DDI-DrugBank.d238.s23.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s23.e0" e2="DDI-DrugBank.d238.s23.e2" id="DDI-DrugBank.d238.s23.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s23.e1" e2="DDI-DrugBank.d238.s23.e2" id="DDI-DrugBank.d238.s23.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s24" text="Because Anafranil is highly bound to serum protein, the administration of Anafranil to patients taking other drugs that are highly bound to protein (e.g., warfarin, digoxin) may cause an increase in plasma concentrations of these drugs, potentially resulting in adverse effects.">
+        <entity charOffset="8-16" id="DDI-DrugBank.d238.s24.e0" text="Anafranil" type="brand"/>
+        <entity charOffset="74-82" id="DDI-DrugBank.d238.s24.e1" text="Anafranil" type="brand"/>
+        <entity charOffset="155-162" id="DDI-DrugBank.d238.s24.e2" text="warfarin" type="drug"/>
+        <entity charOffset="165-171" id="DDI-DrugBank.d238.s24.e3" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s24.e0" e2="DDI-DrugBank.d238.s24.e1" id="DDI-DrugBank.d238.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s24.e0" e2="DDI-DrugBank.d238.s24.e2" id="DDI-DrugBank.d238.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s24.e0" e2="DDI-DrugBank.d238.s24.e3" id="DDI-DrugBank.d238.s24.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s24.e1" e2="DDI-DrugBank.d238.s24.e2" id="DDI-DrugBank.d238.s24.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d238.s24.e1" e2="DDI-DrugBank.d238.s24.e3" id="DDI-DrugBank.d238.s24.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d238.s24.e2" e2="DDI-DrugBank.d238.s24.e3" id="DDI-DrugBank.d238.s24.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d238.s25" text="Conversely, adverse effects may result from displacement of protein-bound Anafranil by other highly bound drugs.">
+        <entity charOffset="74-82" id="DDI-DrugBank.d238.s25.e0" text="Anafranil" type="brand"/>
+    </sentence>
+</document>

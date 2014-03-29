@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d494">
+    <sentence id="DDI-DrugBank.d494.s0" text="Concomitant use with other calcium-containing medicines (including antacids) may cause too much calcium in the blood or urine, which may increase the chance of side effects.">
+        <entity charOffset="27-33" id="DDI-DrugBank.d494.s0.e0" text="calcium" type="drug"/>
+        <entity charOffset="67-74" id="DDI-DrugBank.d494.s0.e1" text="antacids" type="group"/>
+        <entity charOffset="96-102" id="DDI-DrugBank.d494.s0.e2" text="calcium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d494.s0.e0" e2="DDI-DrugBank.d494.s0.e1" id="DDI-DrugBank.d494.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d494.s0.e0" e2="DDI-DrugBank.d494.s0.e2" id="DDI-DrugBank.d494.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d494.s0.e1" e2="DDI-DrugBank.d494.s0.e2" id="DDI-DrugBank.d494.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d494.s1" text="Using calcium acetate with digitalis glycosides (heart medicine) may cause hypercalcemia (too much calcium in the blood), which could increase the chance of developing an irregular heartbeat.">
+        <entity charOffset="6-20" id="DDI-DrugBank.d494.s1.e0" text="calcium acetate" type="drug"/>
+        <entity charOffset="27-46" id="DDI-DrugBank.d494.s1.e1" text="digitalis glycosides" type="group"/>
+        <entity charOffset="99-105" id="DDI-DrugBank.d494.s1.e2" text="calcium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d494.s1.e0" e2="DDI-DrugBank.d494.s1.e1" id="DDI-DrugBank.d494.s1.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d494.s1.e0" e2="DDI-DrugBank.d494.s1.e2" id="DDI-DrugBank.d494.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d494.s1.e1" e2="DDI-DrugBank.d494.s1.e2" id="DDI-DrugBank.d494.s1.p2"/>
+    </sentence>
+</document>

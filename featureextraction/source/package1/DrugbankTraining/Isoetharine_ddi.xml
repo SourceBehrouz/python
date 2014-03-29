@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d541">
+    <sentence id="DDI-DrugBank.d541.s0" text="May interact with the following: beta-adrenergic blocking agents (these medicines may make your condition worse and prevent the adrenergic bronchodilators from working properly) and disopyramide, quinidine, phenothiazines, and procainamide (these medicines may increase the risk of heart problems).">
+        <entity charOffset="33-63" id="DDI-DrugBank.d541.s0.e0" text="beta-adrenergic blocking agents" type="group"/>
+        <entity charOffset="128-153" id="DDI-DrugBank.d541.s0.e1" text="adrenergic bronchodilators" type="group"/>
+        <entity charOffset="182-193" id="DDI-DrugBank.d541.s0.e2" text="disopyramide" type="drug"/>
+        <entity charOffset="196-204" id="DDI-DrugBank.d541.s0.e3" text="quinidine" type="drug"/>
+        <entity charOffset="207-220" id="DDI-DrugBank.d541.s0.e4" text="phenothiazines" type="group"/>
+        <entity charOffset="227-238" id="DDI-DrugBank.d541.s0.e5" text="procainamide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e0" e2="DDI-DrugBank.d541.s0.e1" id="DDI-DrugBank.d541.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e0" e2="DDI-DrugBank.d541.s0.e2" id="DDI-DrugBank.d541.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e0" e2="DDI-DrugBank.d541.s0.e3" id="DDI-DrugBank.d541.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e0" e2="DDI-DrugBank.d541.s0.e4" id="DDI-DrugBank.d541.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e0" e2="DDI-DrugBank.d541.s0.e5" id="DDI-DrugBank.d541.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e1" e2="DDI-DrugBank.d541.s0.e2" id="DDI-DrugBank.d541.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e1" e2="DDI-DrugBank.d541.s0.e3" id="DDI-DrugBank.d541.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e1" e2="DDI-DrugBank.d541.s0.e4" id="DDI-DrugBank.d541.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e1" e2="DDI-DrugBank.d541.s0.e5" id="DDI-DrugBank.d541.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e2" e2="DDI-DrugBank.d541.s0.e3" id="DDI-DrugBank.d541.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e2" e2="DDI-DrugBank.d541.s0.e4" id="DDI-DrugBank.d541.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e2" e2="DDI-DrugBank.d541.s0.e5" id="DDI-DrugBank.d541.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e3" e2="DDI-DrugBank.d541.s0.e4" id="DDI-DrugBank.d541.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e3" e2="DDI-DrugBank.d541.s0.e5" id="DDI-DrugBank.d541.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d541.s0.e4" e2="DDI-DrugBank.d541.s0.e5" id="DDI-DrugBank.d541.s0.p14"/>
+    </sentence>
+</document>

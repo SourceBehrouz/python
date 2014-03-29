@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d132">
+    <sentence id="DDI-DrugBank.d132.s0" text="Oral Anticoagulants: In some normal volunteers, the concomitant administration of diflunisal and warfarin, acenocoumarol, or phenprocoumon resulted in prolongation of prothrombin time.">
+        <entity charOffset="5-18" id="DDI-DrugBank.d132.s0.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="82-91" id="DDI-DrugBank.d132.s0.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="97-104" id="DDI-DrugBank.d132.s0.e2" text="warfarin" type="drug"/>
+        <entity charOffset="107-119" id="DDI-DrugBank.d132.s0.e3" text="acenocoumarol" type="drug"/>
+        <entity charOffset="125-137" id="DDI-DrugBank.d132.s0.e4" text="phenprocoumon" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s0.e0" e2="DDI-DrugBank.d132.s0.e1" id="DDI-DrugBank.d132.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s0.e0" e2="DDI-DrugBank.d132.s0.e2" id="DDI-DrugBank.d132.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s0.e0" e2="DDI-DrugBank.d132.s0.e3" id="DDI-DrugBank.d132.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s0.e0" e2="DDI-DrugBank.d132.s0.e4" id="DDI-DrugBank.d132.s0.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s0.e1" e2="DDI-DrugBank.d132.s0.e2" id="DDI-DrugBank.d132.s0.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s0.e1" e2="DDI-DrugBank.d132.s0.e3" id="DDI-DrugBank.d132.s0.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s0.e1" e2="DDI-DrugBank.d132.s0.e4" id="DDI-DrugBank.d132.s0.p6" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s0.e2" e2="DDI-DrugBank.d132.s0.e3" id="DDI-DrugBank.d132.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s0.e2" e2="DDI-DrugBank.d132.s0.e4" id="DDI-DrugBank.d132.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s0.e3" e2="DDI-DrugBank.d132.s0.e4" id="DDI-DrugBank.d132.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s1" text="This may occur because diflunisal competitively displaces coumarins from protein binding sites.">
+        <entity charOffset="23-32" id="DDI-DrugBank.d132.s1.e0" text="diflunisal" type="drug"/>
+        <entity charOffset="58-66" id="DDI-DrugBank.d132.s1.e1" text="coumarins" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s1.e0" e2="DDI-DrugBank.d132.s1.e1" id="DDI-DrugBank.d132.s1.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s2" text="Accordingly, when diflunisal is administered with oral anticoagulants, the prothrombin time should be closely monitored during and for several days after concomitant drug administration.">
+        <entity charOffset="18-27" id="DDI-DrugBank.d132.s2.e0" text="diflunisal" type="drug"/>
+        <entity charOffset="55-68" id="DDI-DrugBank.d132.s2.e1" text="anticoagulants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s2.e0" e2="DDI-DrugBank.d132.s2.e1" id="DDI-DrugBank.d132.s2.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s3" text="Adjustment of dosage of oral anticoagulants may be required.">
+        <entity charOffset="29-42" id="DDI-DrugBank.d132.s3.e0" text="anticoagulants" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s4" text="Tolbutamide: In diabetic patients receiving diflunisal and tolbutamide, no significant effects were seen on tolbutamide plasma levels or fasting blood glucose.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d132.s4.e0" text="Tolbutamide" type="drug"/>
+        <entity charOffset="44-53" id="DDI-DrugBank.d132.s4.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="59-69" id="DDI-DrugBank.d132.s4.e2" text="tolbutamide" type="drug"/>
+        <entity charOffset="108-118" id="DDI-DrugBank.d132.s4.e3" text="tolbutamide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s4.e0" e2="DDI-DrugBank.d132.s4.e1" id="DDI-DrugBank.d132.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s4.e0" e2="DDI-DrugBank.d132.s4.e2" id="DDI-DrugBank.d132.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s4.e0" e2="DDI-DrugBank.d132.s4.e3" id="DDI-DrugBank.d132.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s4.e1" e2="DDI-DrugBank.d132.s4.e2" id="DDI-DrugBank.d132.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s4.e1" e2="DDI-DrugBank.d132.s4.e3" id="DDI-DrugBank.d132.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s4.e2" e2="DDI-DrugBank.d132.s4.e3" id="DDI-DrugBank.d132.s4.p5"/>
+    <negationtags>Tolbutamide: In diabetic patients receiving diflunisal and tolbutamide, &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effects were seen on tolbutamide plasma levels or fasting blood glucose. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s5" text="Hydrochlorothiazide: In normal volunteers, concomitant administration of diflunisal and hydrochlorothiazide resulted in significantly increased plasma levels of hydrochlorothiazide.">
+        <entity charOffset="0-18" id="DDI-DrugBank.d132.s5.e0" text="Hydrochlorothiazide" type="drug"/>
+        <entity charOffset="73-82" id="DDI-DrugBank.d132.s5.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="88-106" id="DDI-DrugBank.d132.s5.e2" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="161-179" id="DDI-DrugBank.d132.s5.e3" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s5.e0" e2="DDI-DrugBank.d132.s5.e1" id="DDI-DrugBank.d132.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s5.e0" e2="DDI-DrugBank.d132.s5.e2" id="DDI-DrugBank.d132.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s5.e0" e2="DDI-DrugBank.d132.s5.e3" id="DDI-DrugBank.d132.s5.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s5.e1" e2="DDI-DrugBank.d132.s5.e2" id="DDI-DrugBank.d132.s5.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s5.e1" e2="DDI-DrugBank.d132.s5.e3" id="DDI-DrugBank.d132.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s5.e2" e2="DDI-DrugBank.d132.s5.e3" id="DDI-DrugBank.d132.s5.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s6" text="Diflunisal decreased the hyperuricemic effect of hydrochlorothiazide.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d132.s6.e0" text="Diflunisal" type="drug"/>
+        <entity charOffset="49-67" id="DDI-DrugBank.d132.s6.e1" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s6.e0" e2="DDI-DrugBank.d132.s6.e1" id="DDI-DrugBank.d132.s6.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s7" text="Furosemide: In normal volunteers, the concomitant administration of diflunisal and furosemide had no effect on the diuretic activity of furosemide.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d132.s7.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="68-77" id="DDI-DrugBank.d132.s7.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="83-92" id="DDI-DrugBank.d132.s7.e2" text="furosemide" type="drug"/>
+        <entity charOffset="136-145" id="DDI-DrugBank.d132.s7.e3" text="furosemide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s7.e0" e2="DDI-DrugBank.d132.s7.e1" id="DDI-DrugBank.d132.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s7.e0" e2="DDI-DrugBank.d132.s7.e2" id="DDI-DrugBank.d132.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s7.e0" e2="DDI-DrugBank.d132.s7.e3" id="DDI-DrugBank.d132.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s7.e1" e2="DDI-DrugBank.d132.s7.e2" id="DDI-DrugBank.d132.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s7.e1" e2="DDI-DrugBank.d132.s7.e3" id="DDI-DrugBank.d132.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s7.e2" e2="DDI-DrugBank.d132.s7.e3" id="DDI-DrugBank.d132.s7.p5"/>
+    <negationtags>Furosemide: In normal volunteers, the concomitant administration of diflunisal and furosemide had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the diuretic activity of furosemide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s8" text="Diflunisal decreased the hyperuricemic effect of furosemide.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d132.s8.e0" text="Diflunisal" type="drug"/>
+        <entity charOffset="49-58" id="DDI-DrugBank.d132.s8.e1" text="furosemide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s8.e0" e2="DDI-DrugBank.d132.s8.e1" id="DDI-DrugBank.d132.s8.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s9" text="Antacids: Concomitant administration of antacids may reduce plasma levels of diflunisal.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d132.s9.e0" text="Antacids" type="group"/>
+        <entity charOffset="40-47" id="DDI-DrugBank.d132.s9.e1" text="antacids" type="group"/>
+        <entity charOffset="77-86" id="DDI-DrugBank.d132.s9.e2" text="diflunisal" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s9.e0" e2="DDI-DrugBank.d132.s9.e1" id="DDI-DrugBank.d132.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s9.e0" e2="DDI-DrugBank.d132.s9.e2" id="DDI-DrugBank.d132.s9.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s9.e1" e2="DDI-DrugBank.d132.s9.e2" id="DDI-DrugBank.d132.s9.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s10" text="This effect is small with occasional doses of antacids, but may be clinically significant when antacids are used on a continuous schedule.">
+        <entity charOffset="46-53" id="DDI-DrugBank.d132.s10.e0" text="antacids" type="group"/>
+        <entity charOffset="95-102" id="DDI-DrugBank.d132.s10.e1" text="antacids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s10.e0" e2="DDI-DrugBank.d132.s10.e1" id="DDI-DrugBank.d132.s10.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s11" text="Acetaminophen: In normal volunteers, concomitant administration of diflunisal and acetaminophen resulted in an approximate 50% increase in plasma levels of acetaminophen.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d132.s11.e0" text="Acetaminophen" type="drug"/>
+        <entity charOffset="67-76" id="DDI-DrugBank.d132.s11.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="82-94" id="DDI-DrugBank.d132.s11.e2" text="acetaminophen" type="drug"/>
+        <entity charOffset="156-168" id="DDI-DrugBank.d132.s11.e3" text="acetaminophen" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s11.e0" e2="DDI-DrugBank.d132.s11.e1" id="DDI-DrugBank.d132.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s11.e0" e2="DDI-DrugBank.d132.s11.e2" id="DDI-DrugBank.d132.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s11.e0" e2="DDI-DrugBank.d132.s11.e3" id="DDI-DrugBank.d132.s11.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s11.e1" e2="DDI-DrugBank.d132.s11.e2" id="DDI-DrugBank.d132.s11.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s11.e1" e2="DDI-DrugBank.d132.s11.e3" id="DDI-DrugBank.d132.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s11.e2" e2="DDI-DrugBank.d132.s11.e3" id="DDI-DrugBank.d132.s11.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s12" text="Acetaminophen had no effect on plasma levels of diflunisal.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d132.s12.e0" text="Acetaminophen" type="drug"/>
+        <entity charOffset="48-57" id="DDI-DrugBank.d132.s12.e1" text="diflunisal" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s12.e0" e2="DDI-DrugBank.d132.s12.e1" id="DDI-DrugBank.d132.s12.p0"/>
+    <negationtags>Acetaminophen had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on plasma levels of diflunisal. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s13" text="Since acetaminophen in high doses has been associated with hepatotoxicity, concomitant administration of diflunisal and acetaminophen should be used cautiously, with careful monitoring of patients.">
+        <entity charOffset="6-18" id="DDI-DrugBank.d132.s13.e0" text="acetaminophen" type="drug"/>
+        <entity charOffset="105-114" id="DDI-DrugBank.d132.s13.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="120-132" id="DDI-DrugBank.d132.s13.e2" text="acetaminophen" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s13.e0" e2="DDI-DrugBank.d132.s13.e1" id="DDI-DrugBank.d132.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s13.e0" e2="DDI-DrugBank.d132.s13.e2" id="DDI-DrugBank.d132.s13.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s13.e1" e2="DDI-DrugBank.d132.s13.e2" id="DDI-DrugBank.d132.s13.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s14" text="Concomitant administration of diflunisal and acetaminophen in dogs, but not in rats, at approximately 2 times the recommended maximum human therapeutic dose of each (40 to 52 mg/kg/day of diflunisal/acetaminophen) resulted in greater gastrointestinal toxicity than when either drug was administered alone.">
+        <entity charOffset="30-39" id="DDI-DrugBank.d132.s14.e0" text="diflunisal" type="drug"/>
+        <entity charOffset="45-57" id="DDI-DrugBank.d132.s14.e1" text="acetaminophen" type="drug"/>
+        <entity charOffset="188-197" id="DDI-DrugBank.d132.s14.e2" text="diflunisal" type="drug"/>
+        <entity charOffset="199-211" id="DDI-DrugBank.d132.s14.e3" text="acetaminophen" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s14.e0" e2="DDI-DrugBank.d132.s14.e1" id="DDI-DrugBank.d132.s14.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s14.e0" e2="DDI-DrugBank.d132.s14.e2" id="DDI-DrugBank.d132.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s14.e0" e2="DDI-DrugBank.d132.s14.e3" id="DDI-DrugBank.d132.s14.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s14.e1" e2="DDI-DrugBank.d132.s14.e2" id="DDI-DrugBank.d132.s14.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s14.e1" e2="DDI-DrugBank.d132.s14.e3" id="DDI-DrugBank.d132.s14.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s14.e2" e2="DDI-DrugBank.d132.s14.e3" id="DDI-DrugBank.d132.s14.p5"/>
+    <negationtags>Concomitant administration of diflunisal and acetaminophen in dogs, but &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; in rats, at approximately 2 times the recommended maximum human therapeutic dose of each (40 to 52 mg/kg/day of diflunisal/acetaminophen) resulted in greater gastrointestinal toxicity than when either drug was administered alone. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s15" text="The clinical significance of these findings has not been established."><negationtags>The clinical significance of these findings has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been established. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s16" text="Methotrexate: Caution should be used if diflunisal is administered concomitantly with methotrexate.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d132.s16.e0" text="Methotrexate" type="drug"/>
+        <entity charOffset="40-49" id="DDI-DrugBank.d132.s16.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="86-97" id="DDI-DrugBank.d132.s16.e2" text="methotrexate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s16.e0" e2="DDI-DrugBank.d132.s16.e1" id="DDI-DrugBank.d132.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s16.e0" e2="DDI-DrugBank.d132.s16.e2" id="DDI-DrugBank.d132.s16.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s16.e1" e2="DDI-DrugBank.d132.s16.e2" id="DDI-DrugBank.d132.s16.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s17" text="Nonsteroidal anti-inflammatory drugs have been reported to decrease the tubular secretion of methotrexate and to potentiate its toxicity.">
+        <entity charOffset="0-35" id="DDI-DrugBank.d132.s17.e0" text="Nonsteroidal anti-inflammatory drugs" type="group"/>
+        <entity charOffset="93-104" id="DDI-DrugBank.d132.s17.e1" text="methotrexate" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s17.e0" e2="DDI-DrugBank.d132.s17.e1" id="DDI-DrugBank.d132.s17.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s18" text="Cyclosporine: Administration of nonsteroial anti-inflammatory drugs concomitantly with cyclosporine has been associated with an increase in cyclosporine-induced toxicity, possibly due to decreased synthesis of renal prostacyclin.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d132.s18.e0" text="Cyclosporine" type="drug"/>
+        <entity charOffset="32-66" id="DDI-DrugBank.d132.s18.e1" text="nonsteroial anti-inflammatory drugs" type="group"/>
+        <entity charOffset="87-98" id="DDI-DrugBank.d132.s18.e2" text="cyclosporine" type="drug"/>
+        <entity charOffset="140-151" id="DDI-DrugBank.d132.s18.e3" text="cyclosporine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s18.e0" e2="DDI-DrugBank.d132.s18.e1" id="DDI-DrugBank.d132.s18.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s18.e0" e2="DDI-DrugBank.d132.s18.e2" id="DDI-DrugBank.d132.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s18.e0" e2="DDI-DrugBank.d132.s18.e3" id="DDI-DrugBank.d132.s18.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s18.e1" e2="DDI-DrugBank.d132.s18.e2" id="DDI-DrugBank.d132.s18.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s18.e1" e2="DDI-DrugBank.d132.s18.e3" id="DDI-DrugBank.d132.s18.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s18.e2" e2="DDI-DrugBank.d132.s18.e3" id="DDI-DrugBank.d132.s18.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s19" text="NSAIDs should be used with caution in patients taking cyclosporine, and renal function should be carefully monitored.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d132.s19.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="54-65" id="DDI-DrugBank.d132.s19.e1" text="cyclosporine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s19.e0" e2="DDI-DrugBank.d132.s19.e1" id="DDI-DrugBank.d132.s19.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s20" text="Nonsteroidal Anti-Inflammatory Drugs: The administration of diflunisal to normal volunteers receiving indomethacin decreased the renal clearance and significantly increased the plasma levels of indomethacin.">
+        <entity charOffset="0-35" id="DDI-DrugBank.d132.s20.e0" text="Nonsteroidal Anti-Inflammatory Drugs" type="group"/>
+        <entity charOffset="60-69" id="DDI-DrugBank.d132.s20.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="102-113" id="DDI-DrugBank.d132.s20.e2" text="indomethacin" type="drug"/>
+        <entity charOffset="194-205" id="DDI-DrugBank.d132.s20.e3" text="indomethacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s20.e0" e2="DDI-DrugBank.d132.s20.e1" id="DDI-DrugBank.d132.s20.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s20.e0" e2="DDI-DrugBank.d132.s20.e2" id="DDI-DrugBank.d132.s20.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s20.e0" e2="DDI-DrugBank.d132.s20.e3" id="DDI-DrugBank.d132.s20.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s20.e1" e2="DDI-DrugBank.d132.s20.e2" id="DDI-DrugBank.d132.s20.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s20.e1" e2="DDI-DrugBank.d132.s20.e3" id="DDI-DrugBank.d132.s20.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s20.e2" e2="DDI-DrugBank.d132.s20.e3" id="DDI-DrugBank.d132.s20.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s21" text="In some patients the combined use of indomethacin and diflunisal has been associated with fatal gastrointestinal hemorrhage.">
+        <entity charOffset="37-48" id="DDI-DrugBank.d132.s21.e0" text="indomethacin" type="drug"/>
+        <entity charOffset="54-63" id="DDI-DrugBank.d132.s21.e1" text="diflunisal" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s21.e0" e2="DDI-DrugBank.d132.s21.e1" id="DDI-DrugBank.d132.s21.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s22" text="Therefore, indomethacin and diflunisal should not be used concomitantly.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d132.s22.e0" text="indomethacin" type="drug"/>
+        <entity charOffset="28-37" id="DDI-DrugBank.d132.s22.e1" text="diflunisal" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s22.e0" e2="DDI-DrugBank.d132.s22.e1" id="DDI-DrugBank.d132.s22.p0" type="advise"/>
+    <negationtags>Therefore, indomethacin and diflunisal should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used concomitantly. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s23" text="The concomitant use of diflunisal tablets and other NSAIDs is not recommended due to the increased possibility of gastrointestinal toxicity, with little or no increase in efficacy.">
+        <entity charOffset="23-32" id="DDI-DrugBank.d132.s23.e0" text="diflunisal" type="drug"/>
+        <entity charOffset="52-57" id="DDI-DrugBank.d132.s23.e1" text="NSAIDs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s23.e0" e2="DDI-DrugBank.d132.s23.e1" id="DDI-DrugBank.d132.s23.p0" type="effect"/>
+    <negationtags>The concomitant use of diflunisal tablets and other NSAIDs is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended due to the increased possibility of gastrointestinal toxicity, with little or no increase in efficacy. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s24" text="The following information was obtained from studies in normal volunteers."/>
+    <sentence id="DDI-DrugBank.d132.s25" text="Aspirin: In normal volunteers, a small decrease in diflunisal levels was observed when multiple doses of diflunisal and aspirin were administered concomitantly.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d132.s25.e0" text="Aspirin" type="brand"/>
+        <entity charOffset="51-60" id="DDI-DrugBank.d132.s25.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="105-114" id="DDI-DrugBank.d132.s25.e2" text="diflunisal" type="drug"/>
+        <entity charOffset="120-126" id="DDI-DrugBank.d132.s25.e3" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s25.e0" e2="DDI-DrugBank.d132.s25.e1" id="DDI-DrugBank.d132.s25.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s25.e0" e2="DDI-DrugBank.d132.s25.e2" id="DDI-DrugBank.d132.s25.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s25.e0" e2="DDI-DrugBank.d132.s25.e3" id="DDI-DrugBank.d132.s25.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s25.e1" e2="DDI-DrugBank.d132.s25.e2" id="DDI-DrugBank.d132.s25.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s25.e1" e2="DDI-DrugBank.d132.s25.e3" id="DDI-DrugBank.d132.s25.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s25.e2" e2="DDI-DrugBank.d132.s25.e3" id="DDI-DrugBank.d132.s25.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s26" text="Sulindac: The concomitant administration of diflunisal and sulindac in normal volunteers resulted in lowering of the plasma levels of the active sulindac sulfide metabolite by approximately one-third.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d132.s26.e0" text="Sulindac" type="drug"/>
+        <entity charOffset="44-53" id="DDI-DrugBank.d132.s26.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="59-66" id="DDI-DrugBank.d132.s26.e2" text="sulindac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s26.e0" e2="DDI-DrugBank.d132.s26.e1" id="DDI-DrugBank.d132.s26.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s26.e0" e2="DDI-DrugBank.d132.s26.e2" id="DDI-DrugBank.d132.s26.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s26.e1" e2="DDI-DrugBank.d132.s26.e2" id="DDI-DrugBank.d132.s26.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s27" text="Naproxen: The concomitant administration of diflunisal and naproxen in normal volunteers had no effect on the plasma levels of naproxen, but significantly decreased the urinary excretion of naproxen and its glucuronide metabolite.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d132.s27.e0" text="Naproxen" type="drug"/>
+        <entity charOffset="44-53" id="DDI-DrugBank.d132.s27.e1" text="diflunisal" type="drug"/>
+        <entity charOffset="59-66" id="DDI-DrugBank.d132.s27.e2" text="naproxen" type="drug"/>
+        <entity charOffset="127-134" id="DDI-DrugBank.d132.s27.e3" text="naproxen" type="drug"/>
+        <entity charOffset="190-197" id="DDI-DrugBank.d132.s27.e4" text="naproxen" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e0" e2="DDI-DrugBank.d132.s27.e1" id="DDI-DrugBank.d132.s27.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e0" e2="DDI-DrugBank.d132.s27.e2" id="DDI-DrugBank.d132.s27.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e0" e2="DDI-DrugBank.d132.s27.e3" id="DDI-DrugBank.d132.s27.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e0" e2="DDI-DrugBank.d132.s27.e4" id="DDI-DrugBank.d132.s27.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d132.s27.e1" e2="DDI-DrugBank.d132.s27.e2" id="DDI-DrugBank.d132.s27.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e1" e2="DDI-DrugBank.d132.s27.e3" id="DDI-DrugBank.d132.s27.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e1" e2="DDI-DrugBank.d132.s27.e4" id="DDI-DrugBank.d132.s27.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e2" e2="DDI-DrugBank.d132.s27.e3" id="DDI-DrugBank.d132.s27.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e2" e2="DDI-DrugBank.d132.s27.e4" id="DDI-DrugBank.d132.s27.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s27.e3" e2="DDI-DrugBank.d132.s27.e4" id="DDI-DrugBank.d132.s27.p9"/>
+    <negationtags>Naproxen: The concomitant administration of diflunisal and naproxen in normal volunteers had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the plasma levels of naproxen, &lt;/scope&gt; but significantly decreased the urinary excretion of naproxen and its glucuronide metabolite.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s28" text="Naproxen had no effect on plasma levels of diflunisal.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d132.s28.e0" text="Naproxen" type="drug"/>
+        <entity charOffset="43-52" id="DDI-DrugBank.d132.s28.e1" text="diflunisal" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d132.s28.e0" e2="DDI-DrugBank.d132.s28.e1" id="DDI-DrugBank.d132.s28.p0"/>
+    <negationtags>Naproxen had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on plasma levels of diflunisal. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d132.s29" text="Drug laboratory Test Interactions Serum Salicylate Assays: Caution should be used in interpreting the results of serum salicylate assays when diflunisal is present.">
+        <entity charOffset="142-151" id="DDI-DrugBank.d132.s29.e0" text="diflunisal" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d132.s30" text="Salicylate levels have been found to be falsely elevated with some assay methods.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d132.s30.e0" text="Salicylate" type="group"/>
+    </sentence>
+</document>

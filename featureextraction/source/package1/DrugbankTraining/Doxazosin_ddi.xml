@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d367">
+    <sentence id="DDI-DrugBank.d367.s0" text="Most (98%) of plasma doxazosin is protein bound.">
+        <entity charOffset="21-29" id="DDI-DrugBank.d367.s0.e0" text="doxazosin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s1" text="In vitro data in human plasma indicate that doxazosin mesylate has no effect on protein binding of digoxin, warfarin, phenytoin or indomethacin.">
+        <entity charOffset="44-61" id="DDI-DrugBank.d367.s1.e0" text="doxazosin mesylate" type="drug"/>
+        <entity charOffset="99-105" id="DDI-DrugBank.d367.s1.e1" text="digoxin" type="drug"/>
+        <entity charOffset="108-115" id="DDI-DrugBank.d367.s1.e2" text="warfarin" type="drug"/>
+        <entity charOffset="118-126" id="DDI-DrugBank.d367.s1.e3" text="phenytoin" type="drug"/>
+        <entity charOffset="131-142" id="DDI-DrugBank.d367.s1.e4" text="indomethacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e0" e2="DDI-DrugBank.d367.s1.e1" id="DDI-DrugBank.d367.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e0" e2="DDI-DrugBank.d367.s1.e2" id="DDI-DrugBank.d367.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e0" e2="DDI-DrugBank.d367.s1.e3" id="DDI-DrugBank.d367.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e0" e2="DDI-DrugBank.d367.s1.e4" id="DDI-DrugBank.d367.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e1" e2="DDI-DrugBank.d367.s1.e2" id="DDI-DrugBank.d367.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e1" e2="DDI-DrugBank.d367.s1.e3" id="DDI-DrugBank.d367.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e1" e2="DDI-DrugBank.d367.s1.e4" id="DDI-DrugBank.d367.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e2" e2="DDI-DrugBank.d367.s1.e3" id="DDI-DrugBank.d367.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e2" e2="DDI-DrugBank.d367.s1.e4" id="DDI-DrugBank.d367.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s1.e3" e2="DDI-DrugBank.d367.s1.e4" id="DDI-DrugBank.d367.s1.p9"/>
+    <negationtags>In vitro data in human plasma indicate that doxazosin mesylate has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on protein binding of digoxin, warfarin, phenytoin or indomethacin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d367.s2" text="There is no information on the effect of other highly plasma protein bound drugs on doxazosin binding.">
+        <entity charOffset="84-92" id="DDI-DrugBank.d367.s2.e0" text="doxazosin" type="drug"/>
+    <negationtags>There is &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; information on the effect of other highly plasma protein bound drugs on doxazosin binding. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d367.s3" text="Doxazosin mesylate has been administered without any evidence of an adverse drug interaction to patients receiving thiazide diuretics, beta-blocking agents, and nonsteroidal anti-inflammatory drugs.">
+        <entity charOffset="0-17" id="DDI-DrugBank.d367.s3.e0" text="Doxazosin mesylate" type="drug"/>
+        <entity charOffset="115-132" id="DDI-DrugBank.d367.s3.e1" text="thiazide diuretics" type="group"/>
+        <entity charOffset="135-153" id="DDI-DrugBank.d367.s3.e2" text="beta-blocking agent" type="group"/>
+        <entity charOffset="161-196" id="DDI-DrugBank.d367.s3.e3" text="nonsteroidal anti-inflammatory drugs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s3.e0" e2="DDI-DrugBank.d367.s3.e1" id="DDI-DrugBank.d367.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s3.e0" e2="DDI-DrugBank.d367.s3.e2" id="DDI-DrugBank.d367.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s3.e0" e2="DDI-DrugBank.d367.s3.e3" id="DDI-DrugBank.d367.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s3.e1" e2="DDI-DrugBank.d367.s3.e2" id="DDI-DrugBank.d367.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s3.e1" e2="DDI-DrugBank.d367.s3.e3" id="DDI-DrugBank.d367.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s3.e2" e2="DDI-DrugBank.d367.s3.e3" id="DDI-DrugBank.d367.s3.p5"/>
+    <negationtags>Doxazosin mesylate has been administered &lt;scope&gt; &lt;cue&gt; without any evidence of &lt;/cue&gt; an adverse drug interaction to patients receiving thiazide diuretics, beta-blocking agents, and nonsteroidal anti-inflammatory drugs. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d367.s4" text="In a placebo-controlled trial in normal volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin (p=0.006), and a slight but not statistically significant increase in mean Cmax and mean half-life of doxazosin.">
+        <entity charOffset="96-104" id="DDI-DrugBank.d367.s4.e0" text="doxazosin" type="drug"/>
+        <entity charOffset="145-154" id="DDI-DrugBank.d367.s4.e1" text="cimetidine" type="drug"/>
+        <entity charOffset="219-227" id="DDI-DrugBank.d367.s4.e2" text="doxazosin" type="drug"/>
+        <entity charOffset="331-339" id="DDI-DrugBank.d367.s4.e3" text="doxazosin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d367.s4.e0" e2="DDI-DrugBank.d367.s4.e1" id="DDI-DrugBank.d367.s4.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s4.e0" e2="DDI-DrugBank.d367.s4.e2" id="DDI-DrugBank.d367.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s4.e0" e2="DDI-DrugBank.d367.s4.e3" id="DDI-DrugBank.d367.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s4.e1" e2="DDI-DrugBank.d367.s4.e2" id="DDI-DrugBank.d367.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s4.e1" e2="DDI-DrugBank.d367.s4.e3" id="DDI-DrugBank.d367.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s4.e2" e2="DDI-DrugBank.d367.s4.e3" id="DDI-DrugBank.d367.s4.p5"/>
+    <negationtags>In a placebo-controlled trial in normal volunteers, the administration of a single 1 mg dose of doxazosin on day 1 of a four-day regimen of oral cimetidine (400 mg twice daily) resulted in a 10% increase in mean AUC of doxazosin (p=0.006), and a slight but &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; statistically significant increase in mean Cmax and mean half-life of doxazosin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d367.s5" text="The clinical significance of this increase in doxazosin AUC is unknown.">
+        <entity charOffset="46-54" id="DDI-DrugBank.d367.s5.e0" text="doxazosin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s6" text="In clinical trials, doxazosin mesylate tablets have been administered to patients on a variety of concomitant medications;">
+        <entity charOffset="20-37" id="DDI-DrugBank.d367.s6.e0" text="doxazosin mesylate" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s7" text="while no formal interaction studies have been conducted, no interactions were observed."><negationtags>while &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; formal interaction studies have been conducted, no interactions were observed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d367.s8" text="Doxazosin mesylate tablets have been used with the following drugs or drug classes: 1.">
+        <entity charOffset="0-17" id="DDI-DrugBank.d367.s8.e0" text="Doxazosin mesylate" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s9" text="Analgesic/anti-inflammatory (e.g., acetaminophen, aspirin, codeine and codeine combinations, ibuprofen, indomethacin).">
+        <entity charOffset="0-8" id="DDI-DrugBank.d367.s9.e0" text="Analgesic" type="group"/>
+        <entity charOffset="10-26" id="DDI-DrugBank.d367.s9.e1" text="anti-inflammatory" type="group"/>
+        <entity charOffset="35-47" id="DDI-DrugBank.d367.s9.e2" text="acetaminophen" type="drug"/>
+        <entity charOffset="50-56" id="DDI-DrugBank.d367.s9.e3" text="aspirin" type="brand"/>
+        <entity charOffset="59-65" id="DDI-DrugBank.d367.s9.e4" text="codeine" type="drug"/>
+        <entity charOffset="71-77" id="DDI-DrugBank.d367.s9.e5" text="codeine" type="drug"/>
+        <entity charOffset="93-101" id="DDI-DrugBank.d367.s9.e6" text="ibuprofen" type="drug"/>
+        <entity charOffset="104-115" id="DDI-DrugBank.d367.s9.e7" text="indomethacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e0" e2="DDI-DrugBank.d367.s9.e1" id="DDI-DrugBank.d367.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e0" e2="DDI-DrugBank.d367.s9.e2" id="DDI-DrugBank.d367.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e0" e2="DDI-DrugBank.d367.s9.e3" id="DDI-DrugBank.d367.s9.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e0" e2="DDI-DrugBank.d367.s9.e4" id="DDI-DrugBank.d367.s9.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e0" e2="DDI-DrugBank.d367.s9.e5" id="DDI-DrugBank.d367.s9.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e0" e2="DDI-DrugBank.d367.s9.e6" id="DDI-DrugBank.d367.s9.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e0" e2="DDI-DrugBank.d367.s9.e7" id="DDI-DrugBank.d367.s9.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e1" e2="DDI-DrugBank.d367.s9.e2" id="DDI-DrugBank.d367.s9.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e1" e2="DDI-DrugBank.d367.s9.e3" id="DDI-DrugBank.d367.s9.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e1" e2="DDI-DrugBank.d367.s9.e4" id="DDI-DrugBank.d367.s9.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e1" e2="DDI-DrugBank.d367.s9.e5" id="DDI-DrugBank.d367.s9.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e1" e2="DDI-DrugBank.d367.s9.e6" id="DDI-DrugBank.d367.s9.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e1" e2="DDI-DrugBank.d367.s9.e7" id="DDI-DrugBank.d367.s9.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e2" e2="DDI-DrugBank.d367.s9.e3" id="DDI-DrugBank.d367.s9.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e2" e2="DDI-DrugBank.d367.s9.e4" id="DDI-DrugBank.d367.s9.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e2" e2="DDI-DrugBank.d367.s9.e5" id="DDI-DrugBank.d367.s9.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e2" e2="DDI-DrugBank.d367.s9.e6" id="DDI-DrugBank.d367.s9.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e2" e2="DDI-DrugBank.d367.s9.e7" id="DDI-DrugBank.d367.s9.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e3" e2="DDI-DrugBank.d367.s9.e4" id="DDI-DrugBank.d367.s9.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e3" e2="DDI-DrugBank.d367.s9.e5" id="DDI-DrugBank.d367.s9.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e3" e2="DDI-DrugBank.d367.s9.e6" id="DDI-DrugBank.d367.s9.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e3" e2="DDI-DrugBank.d367.s9.e7" id="DDI-DrugBank.d367.s9.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e4" e2="DDI-DrugBank.d367.s9.e5" id="DDI-DrugBank.d367.s9.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e4" e2="DDI-DrugBank.d367.s9.e6" id="DDI-DrugBank.d367.s9.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e4" e2="DDI-DrugBank.d367.s9.e7" id="DDI-DrugBank.d367.s9.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e5" e2="DDI-DrugBank.d367.s9.e6" id="DDI-DrugBank.d367.s9.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e5" e2="DDI-DrugBank.d367.s9.e7" id="DDI-DrugBank.d367.s9.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s9.e6" e2="DDI-DrugBank.d367.s9.e7" id="DDI-DrugBank.d367.s9.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s10" text="2."/>
+    <sentence id="DDI-DrugBank.d367.s11" text="Antibiotics (e.g., erythromycin, trimethoprim and sulfamethoxazole, amoxicillin).">
+        <entity charOffset="0-10" id="DDI-DrugBank.d367.s11.e0" text="Antibiotics" type="group"/>
+        <entity charOffset="19-30" id="DDI-DrugBank.d367.s11.e1" text="erythromycin" type="drug"/>
+        <entity charOffset="33-44" id="DDI-DrugBank.d367.s11.e2" text="trimethoprim" type="drug"/>
+        <entity charOffset="50-65" id="DDI-DrugBank.d367.s11.e3" text="sulfamethoxazole" type="drug"/>
+        <entity charOffset="68-78" id="DDI-DrugBank.d367.s11.e4" text="amoxicillin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e0" e2="DDI-DrugBank.d367.s11.e1" id="DDI-DrugBank.d367.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e0" e2="DDI-DrugBank.d367.s11.e2" id="DDI-DrugBank.d367.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e0" e2="DDI-DrugBank.d367.s11.e3" id="DDI-DrugBank.d367.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e0" e2="DDI-DrugBank.d367.s11.e4" id="DDI-DrugBank.d367.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e1" e2="DDI-DrugBank.d367.s11.e2" id="DDI-DrugBank.d367.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e1" e2="DDI-DrugBank.d367.s11.e3" id="DDI-DrugBank.d367.s11.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e1" e2="DDI-DrugBank.d367.s11.e4" id="DDI-DrugBank.d367.s11.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e2" e2="DDI-DrugBank.d367.s11.e3" id="DDI-DrugBank.d367.s11.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e2" e2="DDI-DrugBank.d367.s11.e4" id="DDI-DrugBank.d367.s11.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s11.e3" e2="DDI-DrugBank.d367.s11.e4" id="DDI-DrugBank.d367.s11.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s12" text="3."/>
+    <sentence id="DDI-DrugBank.d367.s13" text="Antihistamines (e.g., chlorpheniramine).">
+        <entity charOffset="0-13" id="DDI-DrugBank.d367.s13.e0" text="Antihistamines" type="group"/>
+        <entity charOffset="22-37" id="DDI-DrugBank.d367.s13.e1" text="chlorpheniramine" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s13.e0" e2="DDI-DrugBank.d367.s13.e1" id="DDI-DrugBank.d367.s13.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s14" text="4."/>
+    <sentence id="DDI-DrugBank.d367.s15" text="Cardiovascular agents (e.g., atenolol, hydrochlorothiazide, propranolol).">
+        <entity charOffset="29-36" id="DDI-DrugBank.d367.s15.e0" text="atenolol" type="drug"/>
+        <entity charOffset="39-57" id="DDI-DrugBank.d367.s15.e1" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="60-70" id="DDI-DrugBank.d367.s15.e2" text="propranolol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s15.e0" e2="DDI-DrugBank.d367.s15.e1" id="DDI-DrugBank.d367.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s15.e0" e2="DDI-DrugBank.d367.s15.e2" id="DDI-DrugBank.d367.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s15.e1" e2="DDI-DrugBank.d367.s15.e2" id="DDI-DrugBank.d367.s15.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s16" text="5."/>
+    <sentence id="DDI-DrugBank.d367.s17" text="Corticosteroids.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d367.s17.e0" text="Corticosteroids" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s18" text="6."/>
+    <sentence id="DDI-DrugBank.d367.s19" text="Gastrointestinal agents (e.g., antacids).">
+        <entity charOffset="31-38" id="DDI-DrugBank.d367.s19.e0" text="antacids" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s20" text="7."/>
+    <sentence id="DDI-DrugBank.d367.s21" text="Hypoglycemics and endocrine drugs.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d367.s21.e0" text="Hypoglycemics" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s22" text="8."/>
+    <sentence id="DDI-DrugBank.d367.s23" text="Sedatives and tranquilizers (e.g., diazepam).">
+        <entity charOffset="0-8" id="DDI-DrugBank.d367.s23.e0" text="Sedatives" type="group"/>
+        <entity charOffset="14-26" id="DDI-DrugBank.d367.s23.e1" text="tranquilizers" type="group"/>
+        <entity charOffset="35-42" id="DDI-DrugBank.d367.s23.e2" text="diazepam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s23.e0" e2="DDI-DrugBank.d367.s23.e1" id="DDI-DrugBank.d367.s23.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s23.e0" e2="DDI-DrugBank.d367.s23.e2" id="DDI-DrugBank.d367.s23.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d367.s23.e1" e2="DDI-DrugBank.d367.s23.e2" id="DDI-DrugBank.d367.s23.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d367.s24" text="9."/>
+    <sentence id="DDI-DrugBank.d367.s25" text="Cold and flu remedies."/>
+</document>

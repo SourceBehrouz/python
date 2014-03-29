@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d197">
+    <sentence id="DDI-DrugBank.d197.s0" text="General In vitro studies in human liver microsomes demonstrated no evidence of cytochrome P450-mediated drug interactions that are likely to be of clinical relevance."><negationtags>General In vitro studies in human liver microsomes demonstrated &lt;scope&gt; &lt;cue&gt; no evidence &lt;/cue&gt; of cytochrome P450-mediated drug interactions that are likely to be of clinical relevance. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d197.s1" text="Anesthetics/Sedatives/Hypnotics/Opioids: Co-administration of PRECEDEX with anesthetics, sedatives, hypnotics, and opioids is likely to lead to an enhancement of effects.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d197.s1.e0" text="Anesthetics" type="group"/>
+        <entity charOffset="12-20" id="DDI-DrugBank.d197.s1.e1" text="Sedatives" type="group"/>
+        <entity charOffset="22-30" id="DDI-DrugBank.d197.s1.e2" text="Hypnotics" type="group"/>
+        <entity charOffset="32-38" id="DDI-DrugBank.d197.s1.e3" text="Opioids" type="group"/>
+        <entity charOffset="62-69" id="DDI-DrugBank.d197.s1.e4" text="PRECEDEX" type="brand"/>
+        <entity charOffset="76-86" id="DDI-DrugBank.d197.s1.e5" text="anesthetics" type="group"/>
+        <entity charOffset="89-97" id="DDI-DrugBank.d197.s1.e6" text="sedatives" type="group"/>
+        <entity charOffset="100-108" id="DDI-DrugBank.d197.s1.e7" text="hypnotics" type="group"/>
+        <entity charOffset="115-121" id="DDI-DrugBank.d197.s1.e8" text="opioids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e1" id="DDI-DrugBank.d197.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e2" id="DDI-DrugBank.d197.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e3" id="DDI-DrugBank.d197.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e4" id="DDI-DrugBank.d197.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e5" id="DDI-DrugBank.d197.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e6" id="DDI-DrugBank.d197.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e7" id="DDI-DrugBank.d197.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e0" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e1" e2="DDI-DrugBank.d197.s1.e2" id="DDI-DrugBank.d197.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e1" e2="DDI-DrugBank.d197.s1.e3" id="DDI-DrugBank.d197.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e1" e2="DDI-DrugBank.d197.s1.e4" id="DDI-DrugBank.d197.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e1" e2="DDI-DrugBank.d197.s1.e5" id="DDI-DrugBank.d197.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e1" e2="DDI-DrugBank.d197.s1.e6" id="DDI-DrugBank.d197.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e1" e2="DDI-DrugBank.d197.s1.e7" id="DDI-DrugBank.d197.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e1" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e2" e2="DDI-DrugBank.d197.s1.e3" id="DDI-DrugBank.d197.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e2" e2="DDI-DrugBank.d197.s1.e4" id="DDI-DrugBank.d197.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e2" e2="DDI-DrugBank.d197.s1.e5" id="DDI-DrugBank.d197.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e2" e2="DDI-DrugBank.d197.s1.e6" id="DDI-DrugBank.d197.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e2" e2="DDI-DrugBank.d197.s1.e7" id="DDI-DrugBank.d197.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e2" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e3" e2="DDI-DrugBank.d197.s1.e4" id="DDI-DrugBank.d197.s1.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e3" e2="DDI-DrugBank.d197.s1.e5" id="DDI-DrugBank.d197.s1.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e3" e2="DDI-DrugBank.d197.s1.e6" id="DDI-DrugBank.d197.s1.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e3" e2="DDI-DrugBank.d197.s1.e7" id="DDI-DrugBank.d197.s1.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e3" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p25"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s1.e4" e2="DDI-DrugBank.d197.s1.e5" id="DDI-DrugBank.d197.s1.p26" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s1.e4" e2="DDI-DrugBank.d197.s1.e6" id="DDI-DrugBank.d197.s1.p27" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s1.e4" e2="DDI-DrugBank.d197.s1.e7" id="DDI-DrugBank.d197.s1.p28" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s1.e4" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p29" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e5" e2="DDI-DrugBank.d197.s1.e6" id="DDI-DrugBank.d197.s1.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e5" e2="DDI-DrugBank.d197.s1.e7" id="DDI-DrugBank.d197.s1.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e5" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e6" e2="DDI-DrugBank.d197.s1.e7" id="DDI-DrugBank.d197.s1.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e6" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s1.e7" e2="DDI-DrugBank.d197.s1.e8" id="DDI-DrugBank.d197.s1.p35"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d197.s2" text="Specific studies have confirmed these effects with sevoflurane, isoflurane, propofol, alfentanil, and midazolam.">
+        <entity charOffset="51-61" id="DDI-DrugBank.d197.s2.e0" text="sevoflurane" type="drug"/>
+        <entity charOffset="64-73" id="DDI-DrugBank.d197.s2.e1" text="isoflurane" type="drug"/>
+        <entity charOffset="76-83" id="DDI-DrugBank.d197.s2.e2" text="propofol" type="drug"/>
+        <entity charOffset="86-95" id="DDI-DrugBank.d197.s2.e3" text="alfentanil" type="drug"/>
+        <entity charOffset="102-110" id="DDI-DrugBank.d197.s2.e4" text="midazolam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e0" e2="DDI-DrugBank.d197.s2.e1" id="DDI-DrugBank.d197.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e0" e2="DDI-DrugBank.d197.s2.e2" id="DDI-DrugBank.d197.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e0" e2="DDI-DrugBank.d197.s2.e3" id="DDI-DrugBank.d197.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e0" e2="DDI-DrugBank.d197.s2.e4" id="DDI-DrugBank.d197.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e1" e2="DDI-DrugBank.d197.s2.e2" id="DDI-DrugBank.d197.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e1" e2="DDI-DrugBank.d197.s2.e3" id="DDI-DrugBank.d197.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e1" e2="DDI-DrugBank.d197.s2.e4" id="DDI-DrugBank.d197.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e2" e2="DDI-DrugBank.d197.s2.e3" id="DDI-DrugBank.d197.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e2" e2="DDI-DrugBank.d197.s2.e4" id="DDI-DrugBank.d197.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s2.e3" e2="DDI-DrugBank.d197.s2.e4" id="DDI-DrugBank.d197.s2.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d197.s3" text="No pharmacokinetic interactions between dexmedetomidine and isoflurane, propofol, alfentanil, and midazolam have been demonstrated.">
+        <entity charOffset="40-54" id="DDI-DrugBank.d197.s3.e0" text="dexmedetomidine" type="drug"/>
+        <entity charOffset="60-69" id="DDI-DrugBank.d197.s3.e1" text="isoflurane" type="drug"/>
+        <entity charOffset="72-79" id="DDI-DrugBank.d197.s3.e2" text="propofol" type="drug"/>
+        <entity charOffset="82-91" id="DDI-DrugBank.d197.s3.e3" text="alfentanil" type="drug"/>
+        <entity charOffset="98-106" id="DDI-DrugBank.d197.s3.e4" text="midazolam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e0" e2="DDI-DrugBank.d197.s3.e1" id="DDI-DrugBank.d197.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e0" e2="DDI-DrugBank.d197.s3.e2" id="DDI-DrugBank.d197.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e0" e2="DDI-DrugBank.d197.s3.e3" id="DDI-DrugBank.d197.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e0" e2="DDI-DrugBank.d197.s3.e4" id="DDI-DrugBank.d197.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e1" e2="DDI-DrugBank.d197.s3.e2" id="DDI-DrugBank.d197.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e1" e2="DDI-DrugBank.d197.s3.e3" id="DDI-DrugBank.d197.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e1" e2="DDI-DrugBank.d197.s3.e4" id="DDI-DrugBank.d197.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e2" e2="DDI-DrugBank.d197.s3.e3" id="DDI-DrugBank.d197.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e2" e2="DDI-DrugBank.d197.s3.e4" id="DDI-DrugBank.d197.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s3.e3" e2="DDI-DrugBank.d197.s3.e4" id="DDI-DrugBank.d197.s3.p9"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; pharmacokinetic interactions between dexmedetomidine and isoflurane, propofol, alfentanil, and midazolam have been demonstrated. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d197.s4" text="However, due to possible pharmacodynamic interactions, when co-administered with PRECEDEX, a reduction in dosage of PRECEDEX on the concomitant anesthetic, sedative, hypnotic or opioid may be required.">
+        <entity charOffset="81-88" id="DDI-DrugBank.d197.s4.e0" text="PRECEDEX" type="brand"/>
+        <entity charOffset="116-123" id="DDI-DrugBank.d197.s4.e1" text="PRECEDEX" type="brand"/>
+        <entity charOffset="144-153" id="DDI-DrugBank.d197.s4.e2" text="anesthetic" type="group"/>
+        <entity charOffset="156-163" id="DDI-DrugBank.d197.s4.e3" text="sedative" type="group"/>
+        <entity charOffset="166-173" id="DDI-DrugBank.d197.s4.e4" text="hypnotic" type="group"/>
+        <entity charOffset="178-183" id="DDI-DrugBank.d197.s4.e5" text="opioid" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e0" e2="DDI-DrugBank.d197.s4.e1" id="DDI-DrugBank.d197.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e0" e2="DDI-DrugBank.d197.s4.e2" id="DDI-DrugBank.d197.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e0" e2="DDI-DrugBank.d197.s4.e3" id="DDI-DrugBank.d197.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e0" e2="DDI-DrugBank.d197.s4.e4" id="DDI-DrugBank.d197.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e0" e2="DDI-DrugBank.d197.s4.e5" id="DDI-DrugBank.d197.s4.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s4.e1" e2="DDI-DrugBank.d197.s4.e2" id="DDI-DrugBank.d197.s4.p5" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s4.e1" e2="DDI-DrugBank.d197.s4.e3" id="DDI-DrugBank.d197.s4.p6" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s4.e1" e2="DDI-DrugBank.d197.s4.e4" id="DDI-DrugBank.d197.s4.p7" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d197.s4.e1" e2="DDI-DrugBank.d197.s4.e5" id="DDI-DrugBank.d197.s4.p8" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e2" e2="DDI-DrugBank.d197.s4.e3" id="DDI-DrugBank.d197.s4.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e2" e2="DDI-DrugBank.d197.s4.e4" id="DDI-DrugBank.d197.s4.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e2" e2="DDI-DrugBank.d197.s4.e5" id="DDI-DrugBank.d197.s4.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e3" e2="DDI-DrugBank.d197.s4.e4" id="DDI-DrugBank.d197.s4.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e3" e2="DDI-DrugBank.d197.s4.e5" id="DDI-DrugBank.d197.s4.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s4.e4" e2="DDI-DrugBank.d197.s4.e5" id="DDI-DrugBank.d197.s4.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d197.s5" text="Neuromuscular Blockers: In one study of 10 healthy volunteers, administration of PRECEDEX for 45 minutes at a plasma concentration of 1 (one) ng/mL resulted in no clinically meaningful increases in the magnitude or neuromuscular blockade associated with rocuronium administration.">
+        <entity charOffset="0-21" id="DDI-DrugBank.d197.s5.e0" text="Neuromuscular Blockers" type="group"/>
+        <entity charOffset="81-88" id="DDI-DrugBank.d197.s5.e1" text="PRECEDEX" type="brand"/>
+        <entity charOffset="254-263" id="DDI-DrugBank.d197.s5.e2" text="rocuronium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s5.e0" e2="DDI-DrugBank.d197.s5.e1" id="DDI-DrugBank.d197.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s5.e0" e2="DDI-DrugBank.d197.s5.e2" id="DDI-DrugBank.d197.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d197.s5.e1" e2="DDI-DrugBank.d197.s5.e2" id="DDI-DrugBank.d197.s5.p2"/>
+    <negationtags>Neuromuscular Blockers: In one study of 10 healthy volunteers, administration of PRECEDEX for 45 minutes at a plasma concentration of 1 (one) ng/mL resulted in &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically meaningful increases in the magnitude or neuromuscular blockade associated with rocuronium administration. &lt;/scope&gt;</negationtags></sentence>
+</document>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d445">
+    <sentence id="DDI-DrugBank.d445.s0" text="No clinically relevant drug-drug interactions have been observed with drugs likely to be co-administered with anidulafungin.">
+        <entity charOffset="110-122" id="DDI-DrugBank.d445.s0.e0" text="anidulafungin" type="drug"/>
+    <negationtags>DDI-DrugBank.d445.s0</negationtags></sentence>
+</document>

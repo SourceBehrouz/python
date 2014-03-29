@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d323">
+    <sentence id="DDI-DrugBank.d323.s0" text="Co-administration of MYOBLOC and aminoglycosides or other agents interfering with neuromuscular transmission (e.g., curare-like compounds) should only be performed with caution as the effect of the toxin may be potentiated.">
+        <entity charOffset="21-27" id="DDI-DrugBank.d323.s0.e0" text="MYOBLOC" type="brand"/>
+        <entity charOffset="33-47" id="DDI-DrugBank.d323.s0.e1" text="aminoglycosides" type="group"/>
+        <entity charOffset="116-136" id="DDI-DrugBank.d323.s0.e2" text="curare-like compounds" type="group"/>
+        <entity charOffset="198-202" id="DDI-DrugBank.d323.s0.e3" text="toxin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d323.s0.e0" e2="DDI-DrugBank.d323.s0.e1" id="DDI-DrugBank.d323.s0.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d323.s0.e0" e2="DDI-DrugBank.d323.s0.e2" id="DDI-DrugBank.d323.s0.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d323.s0.e0" e2="DDI-DrugBank.d323.s0.e3" id="DDI-DrugBank.d323.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d323.s0.e1" e2="DDI-DrugBank.d323.s0.e2" id="DDI-DrugBank.d323.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d323.s0.e1" e2="DDI-DrugBank.d323.s0.e3" id="DDI-DrugBank.d323.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d323.s0.e2" e2="DDI-DrugBank.d323.s0.e3" id="DDI-DrugBank.d323.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d323.s1" text="The effect of administering different botulinum neurotoxin serotypes at the same time or within less than 4 months of each other is unknown.">
+        <entity charOffset="38-57" id="DDI-DrugBank.d323.s1.e0" text="botulinum neurotoxin" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d323.s2" text="However, neuromuscular paralysis may be potentiated by co-administration or overlapping administration of different botulinum toxin serotypes.">
+        <entity charOffset="116-130" id="DDI-DrugBank.d323.s2.e0" text="botulinum toxin" type="group"/>
+    </sentence>
+</document>

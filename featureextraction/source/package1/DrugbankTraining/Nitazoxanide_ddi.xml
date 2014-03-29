@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d354">
+    <sentence id="DDI-DrugBank.d354.s0" text="Tizoxanide is highly bound to plasma protein ( 99.9%).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d354.s0.e0" text="Tizoxanide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d354.s1" text="Therefore, caution should be used when administering nitazoxanide concurrently with other highly plasma protein-bound drugs with narrow therapeutic indices, as competition for binding sites may occur (e.g., warfarin).">
+        <entity charOffset="53-64" id="DDI-DrugBank.d354.s1.e0" text="nitazoxanide" type="drug"/>
+        <entity charOffset="207-214" id="DDI-DrugBank.d354.s1.e1" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d354.s1.e0" e2="DDI-DrugBank.d354.s1.e1" id="DDI-DrugBank.d354.s1.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d354.s2" text="In vitro metabolism studies have demonstrated that tizoxanide has no significant inhibitory effect on cytochrome P450 enzymes.">
+        <entity charOffset="51-60" id="DDI-DrugBank.d354.s2.e0" text="tizoxanide" type="drug"/>
+    <negationtags>In vitro metabolism studies have demonstrated that tizoxanide has &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; inhibitory effect on cytochrome P450 enzymes. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d354.s3" text="Although no drug-drug interaction studies have been conducted in vivo, it is expected that no significant interaction would occur when nitazoxanide is co-administered with drugs that either are metabolized by or inhibit cytochrome P450 enzymes.">
+        <entity charOffset="135-146" id="DDI-DrugBank.d354.s3.e0" text="nitazoxanide" type="drug"/>
+    <negationtags>Although &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; drug-drug interaction studies have been conducted in vivo, it is expected that no significant interaction would occur when nitazoxanide is co-administered with drugs that either are metabolized by or inhibit cytochrome P450 enzymes. &lt;/scope&gt;</negationtags></sentence>
+</document>

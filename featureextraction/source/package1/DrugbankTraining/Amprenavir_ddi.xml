@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d437">
+    <sentence id="DDI-DrugBank.d437.s0" text="Amprenavir is metabolized in the liver by the cytochrome P450 enzyme system.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s0.e0" text="Amprenavir" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s1" text="Amprenavir inhibits CYP3A4.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s1.e0" text="Amprenavir" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s2" text="Caution should be used when coadministering medications that are substrates, inhibitors, or inducers of CYP3A4, or potentially toxic medications that are metabolized by CYP3A4."/>
+    <sentence id="DDI-DrugBank.d437.s3" text="Amprenavir does not inhibit CYP2D6, CYP1A2, CYP2C9, CYP2C19, CYP2E1, or uridine glucuronosyltransferase (UDPGT).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s3.e0" text="Amprenavir" type="drug"/>
+    <negationtags>Amprenavir does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; inhibit CYP2D6, CYP1A2, CYP2C9, CYP2C19, CYP2E1, or uridine glucuronosyltransferase (UDPGT). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d437.s4" text="HIV Protease Inhibitors: The effect of amprenavir on total drug concentrations of other HIV protease inhibitors in subjects receiving both agents was evaluated using comparisons to historical data.">
+        <entity charOffset="0-22" id="DDI-DrugBank.d437.s4.e0" text="HIV Protease Inhibitors" type="group"/>
+        <entity charOffset="39-48" id="DDI-DrugBank.d437.s4.e1" text="amprenavir" type="drug"/>
+        <entity charOffset="88-110" id="DDI-DrugBank.d437.s4.e2" text="HIV protease inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s4.e0" e2="DDI-DrugBank.d437.s4.e1" id="DDI-DrugBank.d437.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s4.e0" e2="DDI-DrugBank.d437.s4.e2" id="DDI-DrugBank.d437.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s4.e1" e2="DDI-DrugBank.d437.s4.e2" id="DDI-DrugBank.d437.s4.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s5" text="Indinavir steady-state Cmax, A.C. and Cmin were decreased by 22%, 38%, and 27%, respectively, by concomitant amprenavir.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d437.s5.e0" text="Indinavir" type="drug"/>
+        <entity charOffset="109-118" id="DDI-DrugBank.d437.s5.e1" text="amprenavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d437.s5.e0" e2="DDI-DrugBank.d437.s5.e1" id="DDI-DrugBank.d437.s5.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s6" text="Similar decreases in Cmax and AUC were seen after the first dose."/>
+    <sentence id="DDI-DrugBank.d437.s7" text="Saquinavir steady-state Cmax, A.C. and Cmin were increased 21%, decreased 19%, and decreased 48%, respectively, by concomitant amprenavir.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s7.e0" text="Saquinavir" type="drug"/>
+        <entity charOffset="127-136" id="DDI-DrugBank.d437.s7.e1" text="amprenavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d437.s7.e0" e2="DDI-DrugBank.d437.s7.e1" id="DDI-DrugBank.d437.s7.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s8" text="Nelfinavir steady-state Cmax, A.C. and Cmin were increased by 12%, 15%, and 14%, respectively, by concomitant amprenavir.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s8.e0" text="Nelfinavir" type="drug"/>
+        <entity charOffset="110-119" id="DDI-DrugBank.d437.s8.e1" text="amprenavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d437.s8.e0" e2="DDI-DrugBank.d437.s8.e1" id="DDI-DrugBank.d437.s8.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s9" text="Methadone: Coadministration of amprenavir and methadone can decrease plasma levels of methadone.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d437.s9.e0" text="Methadone" type="drug"/>
+        <entity charOffset="31-40" id="DDI-DrugBank.d437.s9.e1" text="amprenavir" type="drug"/>
+        <entity charOffset="46-54" id="DDI-DrugBank.d437.s9.e2" text="methadone" type="drug"/>
+        <entity charOffset="86-94" id="DDI-DrugBank.d437.s9.e3" text="methadone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s9.e0" e2="DDI-DrugBank.d437.s9.e1" id="DDI-DrugBank.d437.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s9.e0" e2="DDI-DrugBank.d437.s9.e2" id="DDI-DrugBank.d437.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s9.e0" e2="DDI-DrugBank.d437.s9.e3" id="DDI-DrugBank.d437.s9.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d437.s9.e1" e2="DDI-DrugBank.d437.s9.e2" id="DDI-DrugBank.d437.s9.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s9.e1" e2="DDI-DrugBank.d437.s9.e3" id="DDI-DrugBank.d437.s9.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s9.e2" e2="DDI-DrugBank.d437.s9.e3" id="DDI-DrugBank.d437.s9.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s10" text="Coadministration of amprenavir and methadone as compared to a non-matched historicalcontrol group resulted in a 30%, 27%, and 25% decrease in serum amprenavir AUC, Cmax, andCmin, respectively.">
+        <entity charOffset="20-29" id="DDI-DrugBank.d437.s10.e0" text="amprenavir" type="drug"/>
+        <entity charOffset="35-43" id="DDI-DrugBank.d437.s10.e1" text="methadone" type="drug"/>
+        <entity charOffset="148-157" id="DDI-DrugBank.d437.s10.e2" text="amprenavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d437.s10.e0" e2="DDI-DrugBank.d437.s10.e1" id="DDI-DrugBank.d437.s10.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s10.e0" e2="DDI-DrugBank.d437.s10.e2" id="DDI-DrugBank.d437.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s10.e1" e2="DDI-DrugBank.d437.s10.e2" id="DDI-DrugBank.d437.s10.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s11" text="Amprenavir is an inhibitor of cytochrome P450 C.P.A. metabolism and therefore should not be administered concurrently with medications with narrow therapeutic windows that are substrates of CYP3A4.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d437.s11.e0" text="Amprenavir" type="drug"/>
+    <negationtags>Amprenavir is an inhibitor of cytochrome P450 C.P.A. metabolism and therefore should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be administered concurrently with medications with narrow therapeutic windows that are substrates of CYP3A4. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d437.s12" text="There are other agents that may result in serious and/or life-threatening drug interactions."/>
+    <sentence id="DDI-DrugBank.d437.s13" text="Laboratory Tests: The combination of Amprenavir and low-dose ritonavir has been associated with elevations of cholesterol and triglycerides, SGOT (AST), and SGPT (ALT) in some patients.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d437.s13.e0" text="Amprenavir" type="drug"/>
+        <entity charOffset="61-69" id="DDI-DrugBank.d437.s13.e1" text="ritonavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d437.s13.e0" e2="DDI-DrugBank.d437.s13.e1" id="DDI-DrugBank.d437.s13.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s14" text="Appropriate laboratory testing should be considered prior to initiating combination therapy with Amprenavir and ritonavir and at periodic intervals or if any clinical signs or symptoms of hyperlipidemia or elevated liver function tests occur during therapy.">
+        <entity charOffset="97-106" id="DDI-DrugBank.d437.s14.e0" text="Amprenavir" type="drug"/>
+        <entity charOffset="112-120" id="DDI-DrugBank.d437.s14.e1" text="ritonavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d437.s14.e0" e2="DDI-DrugBank.d437.s14.e1" id="DDI-DrugBank.d437.s14.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d437.s15" text="For comprehensive information concerning laboratory test alterations associated with ritonavir, physicians should refer to the complete prescribing information for NORVIR (ritonavir).">
+        <entity charOffset="85-93" id="DDI-DrugBank.d437.s15.e0" text="ritonavir" type="drug"/>
+        <entity charOffset="164-169" id="DDI-DrugBank.d437.s15.e1" text="NORVIR" type="brand"/>
+        <entity charOffset="172-180" id="DDI-DrugBank.d437.s15.e2" text="ritonavir" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s15.e0" e2="DDI-DrugBank.d437.s15.e1" id="DDI-DrugBank.d437.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s15.e0" e2="DDI-DrugBank.d437.s15.e2" id="DDI-DrugBank.d437.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d437.s15.e1" e2="DDI-DrugBank.d437.s15.e2" id="DDI-DrugBank.d437.s15.p2"/>
+    </sentence>
+</document>

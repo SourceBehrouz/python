@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d126">
+    <sentence id="DDI-DrugBank.d126.s0" text="Drug interaction studies with decitabine have not been conducted.">
+        <entity charOffset="30-39" id="DDI-DrugBank.d126.s0.e0" text="decitabine" type="drug"/>
+    <negationtags>Drug interaction studies with decitabine have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d126.s1" text="In vitro studies in human liver microsomes suggest that decitabine is unlikely to inhibit or induce cytochrome P450 enzymes.">
+        <entity charOffset="56-65" id="DDI-DrugBank.d126.s1.e0" text="decitabine" type="drug"/>
+    <negationtags>&lt;scope&gt; In vitro studies in human liver microsomes suggest that decitabine is &lt;cue&gt; unlikely &lt;/cue&gt; &lt;/scope&gt; to inhibit or induce cytochrome P450 enzymes.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d126.s2" text="In vitro metabolism studies have suggested that decitabine is not a substrate for the human liver cytochrome P450 enzymes.">
+        <entity charOffset="48-57" id="DDI-DrugBank.d126.s2.e0" text="decitabine" type="drug"/>
+    <negationtags>In vitro metabolism studies have suggested that decitabine is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; a substrate for the human liver cytochrome P450 enzymes. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d126.s3" text="As plasma protein binding of decitabine is negligible ( 1%), interactions due to displacement of more highly protein bound drugs from plasma proteins are not expected.">
+        <entity charOffset="29-38" id="DDI-DrugBank.d126.s3.e0" text="decitabine" type="drug"/>
+    <negationtags>As plasma protein binding of decitabine is negligible ( 1%), interactions due to displacement of more highly protein bound drugs from plasma proteins are &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; expected. &lt;/scope&gt;</negationtags></sentence>
+</document>

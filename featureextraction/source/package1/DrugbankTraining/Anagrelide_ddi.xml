@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d75">
+    <sentence id="DDI-DrugBank.d75.s0" text="Limited PK and/or PD studies investigating possible interactions between anagrelide and other medicinal products have been conducted.">
+        <entity charOffset="73-82" id="DDI-DrugBank.d75.s0.e0" text="anagrelide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s1" text="In vivo interaction studies in humans have demonstrated that digoxin and warfarin do not affect the PK properties of anagrelide, nor does anagrelide affect the PK properties of digoxin or warfarin.">
+        <entity charOffset="61-67" id="DDI-DrugBank.d75.s1.e0" text="digoxin" type="drug"/>
+        <entity charOffset="73-80" id="DDI-DrugBank.d75.s1.e1" text="warfarin" type="drug"/>
+        <entity charOffset="117-126" id="DDI-DrugBank.d75.s1.e2" text="anagrelide" type="drug"/>
+        <entity charOffset="138-147" id="DDI-DrugBank.d75.s1.e3" text="anagrelide" type="drug"/>
+        <entity charOffset="177-183" id="DDI-DrugBank.d75.s1.e4" text="digoxin" type="drug"/>
+        <entity charOffset="188-195" id="DDI-DrugBank.d75.s1.e5" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e0" e2="DDI-DrugBank.d75.s1.e1" id="DDI-DrugBank.d75.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e0" e2="DDI-DrugBank.d75.s1.e2" id="DDI-DrugBank.d75.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e0" e2="DDI-DrugBank.d75.s1.e3" id="DDI-DrugBank.d75.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e0" e2="DDI-DrugBank.d75.s1.e4" id="DDI-DrugBank.d75.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e0" e2="DDI-DrugBank.d75.s1.e5" id="DDI-DrugBank.d75.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e1" e2="DDI-DrugBank.d75.s1.e2" id="DDI-DrugBank.d75.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e1" e2="DDI-DrugBank.d75.s1.e3" id="DDI-DrugBank.d75.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e1" e2="DDI-DrugBank.d75.s1.e4" id="DDI-DrugBank.d75.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e1" e2="DDI-DrugBank.d75.s1.e5" id="DDI-DrugBank.d75.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e2" e2="DDI-DrugBank.d75.s1.e3" id="DDI-DrugBank.d75.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e2" e2="DDI-DrugBank.d75.s1.e4" id="DDI-DrugBank.d75.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e2" e2="DDI-DrugBank.d75.s1.e5" id="DDI-DrugBank.d75.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e3" e2="DDI-DrugBank.d75.s1.e4" id="DDI-DrugBank.d75.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e3" e2="DDI-DrugBank.d75.s1.e5" id="DDI-DrugBank.d75.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s1.e4" e2="DDI-DrugBank.d75.s1.e5" id="DDI-DrugBank.d75.s1.p14"/>
+    <negationtags>In vivo interaction studies in humans have demonstrated that digoxin and warfarin do &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the PK properties of anagrelide, nor does anagrelide affect the PK properties of digoxin or warfarin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d75.s2" text="Although additional drug interaction studies have not been conducted, the most common medications used concomitantly with anagrelide in clinical trials were aspirin, acetaminophen, furosemide, iron, ranitidine, hydroxyurea, and allopurinol.">
+        <entity charOffset="122-131" id="DDI-DrugBank.d75.s2.e0" text="anagrelide" type="drug"/>
+        <entity charOffset="157-163" id="DDI-DrugBank.d75.s2.e1" text="aspirin" type="brand"/>
+        <entity charOffset="166-178" id="DDI-DrugBank.d75.s2.e2" text="acetaminophen" type="drug"/>
+        <entity charOffset="181-190" id="DDI-DrugBank.d75.s2.e3" text="furosemide" type="drug"/>
+        <entity charOffset="193-196" id="DDI-DrugBank.d75.s2.e4" text="iron" type="drug"/>
+        <entity charOffset="199-208" id="DDI-DrugBank.d75.s2.e5" text="ranitidine" type="drug"/>
+        <entity charOffset="211-221" id="DDI-DrugBank.d75.s2.e6" text="hydroxyurea" type="drug"/>
+        <entity charOffset="228-238" id="DDI-DrugBank.d75.s2.e7" text="allopurinol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e0" e2="DDI-DrugBank.d75.s2.e1" id="DDI-DrugBank.d75.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e0" e2="DDI-DrugBank.d75.s2.e2" id="DDI-DrugBank.d75.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e0" e2="DDI-DrugBank.d75.s2.e3" id="DDI-DrugBank.d75.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e0" e2="DDI-DrugBank.d75.s2.e4" id="DDI-DrugBank.d75.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e0" e2="DDI-DrugBank.d75.s2.e5" id="DDI-DrugBank.d75.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e0" e2="DDI-DrugBank.d75.s2.e6" id="DDI-DrugBank.d75.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e0" e2="DDI-DrugBank.d75.s2.e7" id="DDI-DrugBank.d75.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e1" e2="DDI-DrugBank.d75.s2.e2" id="DDI-DrugBank.d75.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e1" e2="DDI-DrugBank.d75.s2.e3" id="DDI-DrugBank.d75.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e1" e2="DDI-DrugBank.d75.s2.e4" id="DDI-DrugBank.d75.s2.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e1" e2="DDI-DrugBank.d75.s2.e5" id="DDI-DrugBank.d75.s2.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e1" e2="DDI-DrugBank.d75.s2.e6" id="DDI-DrugBank.d75.s2.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e1" e2="DDI-DrugBank.d75.s2.e7" id="DDI-DrugBank.d75.s2.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e2" e2="DDI-DrugBank.d75.s2.e3" id="DDI-DrugBank.d75.s2.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e2" e2="DDI-DrugBank.d75.s2.e4" id="DDI-DrugBank.d75.s2.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e2" e2="DDI-DrugBank.d75.s2.e5" id="DDI-DrugBank.d75.s2.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e2" e2="DDI-DrugBank.d75.s2.e6" id="DDI-DrugBank.d75.s2.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e2" e2="DDI-DrugBank.d75.s2.e7" id="DDI-DrugBank.d75.s2.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e3" e2="DDI-DrugBank.d75.s2.e4" id="DDI-DrugBank.d75.s2.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e3" e2="DDI-DrugBank.d75.s2.e5" id="DDI-DrugBank.d75.s2.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e3" e2="DDI-DrugBank.d75.s2.e6" id="DDI-DrugBank.d75.s2.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e3" e2="DDI-DrugBank.d75.s2.e7" id="DDI-DrugBank.d75.s2.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e4" e2="DDI-DrugBank.d75.s2.e5" id="DDI-DrugBank.d75.s2.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e4" e2="DDI-DrugBank.d75.s2.e6" id="DDI-DrugBank.d75.s2.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e4" e2="DDI-DrugBank.d75.s2.e7" id="DDI-DrugBank.d75.s2.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e5" e2="DDI-DrugBank.d75.s2.e6" id="DDI-DrugBank.d75.s2.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e5" e2="DDI-DrugBank.d75.s2.e7" id="DDI-DrugBank.d75.s2.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s2.e6" e2="DDI-DrugBank.d75.s2.e7" id="DDI-DrugBank.d75.s2.p27"/>
+    <negationtags>Although additional drug interaction studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been conducted, the most common medications used concomitantly with anagrelide in clinical trials were aspirin, acetaminophen, furosemide, iron, ranitidine, hydroxyurea, and allopurinol. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d75.s3" text="There is no clinical evidence to suggest that anagrelide interacts with any of these compounds.">
+        <entity charOffset="46-55" id="DDI-DrugBank.d75.s3.e0" text="anagrelide" type="drug"/>
+    <negationtags>There is &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinical evidence to suggest that anagrelide interacts with any of these compounds. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d75.s4" text="An in vivo interaction study in humans demonstrated that a single 1mg dose of anagrelide administered concomitantly with a single 900 mg dose of aspirin was generally well tolerated.">
+        <entity charOffset="78-87" id="DDI-DrugBank.d75.s4.e0" text="anagrelide" type="drug"/>
+        <entity charOffset="145-151" id="DDI-DrugBank.d75.s4.e1" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s4.e0" e2="DDI-DrugBank.d75.s4.e1" id="DDI-DrugBank.d75.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s5" text="There was no effect on bleeding time, PT or aPTT."><negationtags>There was &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on bleeding time, PT or aPTT. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d75.s6" text="No clinically relevant pharmacokinetic interactions between anagrelide and acetylsalicylic acid were observed.">
+        <entity charOffset="60-69" id="DDI-DrugBank.d75.s6.e0" text="anagrelide" type="drug"/>
+        <entity charOffset="75-94" id="DDI-DrugBank.d75.s6.e1" text="acetylsalicylic acid" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s6.e0" e2="DDI-DrugBank.d75.s6.e1" id="DDI-DrugBank.d75.s6.p0"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; clinically relevant pharmacokinetic interactions between anagrelide and acetylsalicylic acid were observed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d75.s7" text="In that same study, aspirin alone produced a marked inhibition in platelet aggregation ex vivo.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d75.s7.e0" text="aspirin" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s8" text="Anagrelide alone had no effect on platelet aggregation, but did slightly enhance the inhibition of platelet aggregation by aspirin.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d75.s8.e0" text="Anagrelide" type="drug"/>
+        <entity charOffset="123-129" id="DDI-DrugBank.d75.s8.e1" text="aspirin" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s8.e0" e2="DDI-DrugBank.d75.s8.e1" id="DDI-DrugBank.d75.s8.p0" type="effect"/>
+    <negationtags>Anagrelide alone had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on platelet aggregation, &lt;/scope&gt; but did slightly enhance the inhibition of platelet aggregation by aspirin.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d75.s9" text="Anagrelide is metabolized at least in part by CYP1A2.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d75.s9.e0" text="Anagrelide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s10" text="It is known that CYP1A2 is inhibited by several medicinal products, including fluvoxamine, and such medicinal products could theoretically adversely influence the clearance of anagrelide.">
+        <entity charOffset="78-88" id="DDI-DrugBank.d75.s10.e0" text="fluvoxamine" type="drug"/>
+        <entity charOffset="176-185" id="DDI-DrugBank.d75.s10.e1" text="anagrelide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s10.e0" e2="DDI-DrugBank.d75.s10.e1" id="DDI-DrugBank.d75.s10.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s11" text="Anagrelide demonstrates some limited inhibitory activity towards CYP1A2 which may present a theoretical potential for interaction with other coadministered medicinal products sharing that clearance mechanism e.g.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d75.s11.e0" text="Anagrelide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s12" text="Anagrelide demonstrates some limited inhibitory activity towards CYP1A2 which may present a theoretical potential for interaction with other coadministered medicinal products sharing that clearance mechanism e.g. theophylline.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d75.s12.e0" text="Anagrelide" type="drug"/>
+        <entity charOffset="213-224" id="DDI-DrugBank.d75.s12.e1" text="theophylline" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s12.e0" e2="DDI-DrugBank.d75.s12.e1" id="DDI-DrugBank.d75.s12.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s13" text="Anagrelide is an inhibitor of cyclic AMP PDE III.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d75.s13.e0" text="Anagrelide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s14" text="The effects of medicinal products with similar properties such as inotropes milrinone, enoximone, amrinone, olprinone and cilostazol may be exacerbated by anagrelide.">
+        <entity charOffset="76-84" id="DDI-DrugBank.d75.s14.e0" text="milrinone" type="drug"/>
+        <entity charOffset="87-95" id="DDI-DrugBank.d75.s14.e1" text="enoximone" type="drug"/>
+        <entity charOffset="98-105" id="DDI-DrugBank.d75.s14.e2" text="amrinone" type="drug"/>
+        <entity charOffset="108-116" id="DDI-DrugBank.d75.s14.e3" text="olprinone" type="drug_n"/>
+        <entity charOffset="122-131" id="DDI-DrugBank.d75.s14.e4" text="cilostazol" type="drug"/>
+        <entity charOffset="155-164" id="DDI-DrugBank.d75.s14.e5" text="anagrelide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e0" e2="DDI-DrugBank.d75.s14.e1" id="DDI-DrugBank.d75.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e0" e2="DDI-DrugBank.d75.s14.e2" id="DDI-DrugBank.d75.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e0" e2="DDI-DrugBank.d75.s14.e3" id="DDI-DrugBank.d75.s14.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e0" e2="DDI-DrugBank.d75.s14.e4" id="DDI-DrugBank.d75.s14.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s14.e0" e2="DDI-DrugBank.d75.s14.e5" id="DDI-DrugBank.d75.s14.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e1" e2="DDI-DrugBank.d75.s14.e2" id="DDI-DrugBank.d75.s14.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e1" e2="DDI-DrugBank.d75.s14.e3" id="DDI-DrugBank.d75.s14.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e1" e2="DDI-DrugBank.d75.s14.e4" id="DDI-DrugBank.d75.s14.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s14.e1" e2="DDI-DrugBank.d75.s14.e5" id="DDI-DrugBank.d75.s14.p8" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e2" e2="DDI-DrugBank.d75.s14.e3" id="DDI-DrugBank.d75.s14.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e2" e2="DDI-DrugBank.d75.s14.e4" id="DDI-DrugBank.d75.s14.p10"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s14.e2" e2="DDI-DrugBank.d75.s14.e5" id="DDI-DrugBank.d75.s14.p11" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d75.s14.e3" e2="DDI-DrugBank.d75.s14.e4" id="DDI-DrugBank.d75.s14.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s14.e3" e2="DDI-DrugBank.d75.s14.e5" id="DDI-DrugBank.d75.s14.p13" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s14.e4" e2="DDI-DrugBank.d75.s14.e5" id="DDI-DrugBank.d75.s14.p14" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s15" text="There is a single case report, which suggests that sucralfate may interfere with anagrelide absorption.">
+        <entity charOffset="51-60" id="DDI-DrugBank.d75.s15.e0" text="sucralfate" type="drug"/>
+        <entity charOffset="81-90" id="DDI-DrugBank.d75.s15.e1" text="anagrelide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d75.s15.e0" e2="DDI-DrugBank.d75.s15.e1" id="DDI-DrugBank.d75.s15.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d75.s16" text="Food has no clinically significant effect on the bioavailability of anagrelide.">
+        <entity charOffset="68-77" id="DDI-DrugBank.d75.s16.e0" text="anagrelide" type="drug"/>
+    <negationtags>Food has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically significant effect on the bioavailability of anagrelide. &lt;/scope&gt;</negationtags></sentence>
+</document>

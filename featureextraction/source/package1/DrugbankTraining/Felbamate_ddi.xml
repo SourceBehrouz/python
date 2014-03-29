@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d434">
+    <sentence id="DDI-DrugBank.d434.s0" text="The drug interaction data described in this section were obtained from controlled clinical trials and studies involving otherwise healthy adults with epilepsy."/>
+    <sentence id="DDI-DrugBank.d434.s1" text="Use in Conjunction with Other Antiepileptic Drugs: The addition of Felbatol  to antiepileptic drugs (AEDs) affects the steady-state plasma concentrations of AEDs.">
+        <entity charOffset="30-48" id="DDI-DrugBank.d434.s1.e0" text="Antiepileptic Drugs" type="group"/>
+        <entity charOffset="67-74" id="DDI-DrugBank.d434.s1.e1" text="Felbatol" type="brand"/>
+        <entity charOffset="80-98" id="DDI-DrugBank.d434.s1.e2" text="antiepileptic drugs" type="group"/>
+        <entity charOffset="101-104" id="DDI-DrugBank.d434.s1.e3" text="AEDs" type="group"/>
+        <entity charOffset="157-160" id="DDI-DrugBank.d434.s1.e4" text="AEDs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e0" e2="DDI-DrugBank.d434.s1.e1" id="DDI-DrugBank.d434.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e0" e2="DDI-DrugBank.d434.s1.e2" id="DDI-DrugBank.d434.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e0" e2="DDI-DrugBank.d434.s1.e3" id="DDI-DrugBank.d434.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e0" e2="DDI-DrugBank.d434.s1.e4" id="DDI-DrugBank.d434.s1.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s1.e1" e2="DDI-DrugBank.d434.s1.e2" id="DDI-DrugBank.d434.s1.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s1.e1" e2="DDI-DrugBank.d434.s1.e3" id="DDI-DrugBank.d434.s1.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e1" e2="DDI-DrugBank.d434.s1.e4" id="DDI-DrugBank.d434.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e2" e2="DDI-DrugBank.d434.s1.e3" id="DDI-DrugBank.d434.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e2" e2="DDI-DrugBank.d434.s1.e4" id="DDI-DrugBank.d434.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s1.e3" e2="DDI-DrugBank.d434.s1.e4" id="DDI-DrugBank.d434.s1.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s2" text="The net effect of these interactions is summarized in the following table: AED AED Felbatol">
+        <entity charOffset="75-77" id="DDI-DrugBank.d434.s2.e0" text="AED" type="group"/>
+        <entity charOffset="79-81" id="DDI-DrugBank.d434.s2.e1" text="AED" type="group"/>
+        <entity charOffset="83-90" id="DDI-DrugBank.d434.s2.e2" text="Felbatol" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s2.e0" e2="DDI-DrugBank.d434.s2.e1" id="DDI-DrugBank.d434.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s2.e0" e2="DDI-DrugBank.d434.s2.e2" id="DDI-DrugBank.d434.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s2.e1" e2="DDI-DrugBank.d434.s2.e2" id="DDI-DrugBank.d434.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s3" text="Coadministered Concentration Concentration"/>
+    <sentence id="DDI-DrugBank.d434.s4" text="Phenytoin">
+        <entity charOffset="0-8" id="DDI-DrugBank.d434.s4.e0" text="Phenytoin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s5" text="Valproate    **">
+        <entity charOffset="0-8" id="DDI-DrugBank.d434.s5.e0" text="Valproate" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s6" text="Carbamazepine (CBZ)">
+        <entity charOffset="0-12" id="DDI-DrugBank.d434.s6.e0" text="Carbamazepine" type="drug"/>
+        <entity charOffset="15-17" id="DDI-DrugBank.d434.s6.e1" text="CBZ" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s6.e0" e2="DDI-DrugBank.d434.s6.e1" id="DDI-DrugBank.d434.s6.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s7" text="*CBZ epoxide"/>
+    <sentence id="DDI-DrugBank.d434.s8" text="Phenobarbital">
+        <entity charOffset="0-12" id="DDI-DrugBank.d434.s8.e0" text="Phenobarbital" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s9" text="*Not administered, but an active metabolite of carbamazepine.">
+        <entity charOffset="47-59" id="DDI-DrugBank.d434.s9.e0" text="carbamazepine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s10" text="**No significant effect."/>
+    <sentence id="DDI-DrugBank.d434.s11" text="Specific Effects of Felbatol  on Other Antiepileptic Drugs Phenytoin: Felbatol  causes an increase in steady-state phenytoin plasma concentrations.">
+        <entity charOffset="20-27" id="DDI-DrugBank.d434.s11.e0" text="Felbatol" type="brand"/>
+        <entity charOffset="39-57" id="DDI-DrugBank.d434.s11.e1" text="Antiepileptic Drugs" type="group"/>
+        <entity charOffset="59-67" id="DDI-DrugBank.d434.s11.e2" text="Phenytoin" type="drug"/>
+        <entity charOffset="70-77" id="DDI-DrugBank.d434.s11.e3" text="Felbatol" type="brand"/>
+        <entity charOffset="115-123" id="DDI-DrugBank.d434.s11.e4" text="phenytoin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e0" e2="DDI-DrugBank.d434.s11.e1" id="DDI-DrugBank.d434.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e0" e2="DDI-DrugBank.d434.s11.e2" id="DDI-DrugBank.d434.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e0" e2="DDI-DrugBank.d434.s11.e3" id="DDI-DrugBank.d434.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e0" e2="DDI-DrugBank.d434.s11.e4" id="DDI-DrugBank.d434.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e1" e2="DDI-DrugBank.d434.s11.e2" id="DDI-DrugBank.d434.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e1" e2="DDI-DrugBank.d434.s11.e3" id="DDI-DrugBank.d434.s11.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e1" e2="DDI-DrugBank.d434.s11.e4" id="DDI-DrugBank.d434.s11.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e2" e2="DDI-DrugBank.d434.s11.e3" id="DDI-DrugBank.d434.s11.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s11.e2" e2="DDI-DrugBank.d434.s11.e4" id="DDI-DrugBank.d434.s11.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s11.e3" e2="DDI-DrugBank.d434.s11.e4" id="DDI-DrugBank.d434.s11.p9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s12" text="In 10 otherwise healthy subjects with epilepsy ingesting phenytoin, the steadystate trough (Cmin) phenytoin plasma concentration was 17 5 micrograms/mL.">
+        <entity charOffset="57-65" id="DDI-DrugBank.d434.s12.e0" text="phenytoin" type="drug"/>
+        <entity charOffset="98-106" id="DDI-DrugBank.d434.s12.e1" text="phenytoin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s12.e0" e2="DDI-DrugBank.d434.s12.e1" id="DDI-DrugBank.d434.s12.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s13" text="The steady-state Cmin increased to 21 5 micrograms/mL when 1200 mg/day of felbamate was coadministered.">
+        <entity charOffset="74-82" id="DDI-DrugBank.d434.s13.e0" text="felbamate" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s14" text="Increasing the felbamate dose to 1800 mg/day in six of these subjects increased the steady-state phenytoin Cmin to 25 7 micrograms/mL.">
+        <entity charOffset="15-23" id="DDI-DrugBank.d434.s14.e0" text="felbamate" type="drug"/>
+        <entity charOffset="97-105" id="DDI-DrugBank.d434.s14.e1" text="phenytoin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s14.e0" e2="DDI-DrugBank.d434.s14.e1" id="DDI-DrugBank.d434.s14.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s15" text="In order to maintain phenytoin levels, limit adverse experiences, and achieve the felbamate dose of 3600 mg/day, a phenytoin dose reduction of approximately 40% was necessary for eight of these 10 subjects.">
+        <entity charOffset="21-29" id="DDI-DrugBank.d434.s15.e0" text="phenytoin" type="drug"/>
+        <entity charOffset="82-90" id="DDI-DrugBank.d434.s15.e1" text="felbamate" type="drug"/>
+        <entity charOffset="115-123" id="DDI-DrugBank.d434.s15.e2" text="phenytoin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s15.e0" e2="DDI-DrugBank.d434.s15.e1" id="DDI-DrugBank.d434.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s15.e0" e2="DDI-DrugBank.d434.s15.e2" id="DDI-DrugBank.d434.s15.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s15.e1" e2="DDI-DrugBank.d434.s15.e2" id="DDI-DrugBank.d434.s15.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s16" text="In a controlled clinical trial, a 20% reduction of the phenytoin dose at the initiation of Felbatol  therapy resulted in phenytoin levels comparable to those prior to Felbatol  administration.">
+        <entity charOffset="55-63" id="DDI-DrugBank.d434.s16.e0" text="phenytoin" type="drug"/>
+        <entity charOffset="91-98" id="DDI-DrugBank.d434.s16.e1" text="Felbatol" type="brand"/>
+        <entity charOffset="121-129" id="DDI-DrugBank.d434.s16.e2" text="phenytoin" type="drug"/>
+        <entity charOffset="167-174" id="DDI-DrugBank.d434.s16.e3" text="Felbatol" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s16.e0" e2="DDI-DrugBank.d434.s16.e1" id="DDI-DrugBank.d434.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s16.e0" e2="DDI-DrugBank.d434.s16.e2" id="DDI-DrugBank.d434.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s16.e0" e2="DDI-DrugBank.d434.s16.e3" id="DDI-DrugBank.d434.s16.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s16.e1" e2="DDI-DrugBank.d434.s16.e2" id="DDI-DrugBank.d434.s16.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s16.e1" e2="DDI-DrugBank.d434.s16.e3" id="DDI-DrugBank.d434.s16.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s16.e2" e2="DDI-DrugBank.d434.s16.e3" id="DDI-DrugBank.d434.s16.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s17" text="Carbamazepine: Felbatol  causes a decrease in the steady-state carbamazepine plasma concentrations and an increase in the steady-state carbamazepine epoxide plasma concentration.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d434.s17.e0" text="Carbamazepine" type="drug"/>
+        <entity charOffset="15-22" id="DDI-DrugBank.d434.s17.e1" text="Felbatol" type="brand"/>
+        <entity charOffset="63-75" id="DDI-DrugBank.d434.s17.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="135-155" id="DDI-DrugBank.d434.s17.e3" text="carbamazepine epoxide" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s17.e0" e2="DDI-DrugBank.d434.s17.e1" id="DDI-DrugBank.d434.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s17.e0" e2="DDI-DrugBank.d434.s17.e2" id="DDI-DrugBank.d434.s17.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s17.e0" e2="DDI-DrugBank.d434.s17.e3" id="DDI-DrugBank.d434.s17.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s17.e1" e2="DDI-DrugBank.d434.s17.e2" id="DDI-DrugBank.d434.s17.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s17.e1" e2="DDI-DrugBank.d434.s17.e3" id="DDI-DrugBank.d434.s17.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s17.e2" e2="DDI-DrugBank.d434.s17.e3" id="DDI-DrugBank.d434.s17.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s18" text="In nine otherwise healthy subjects with epilepsy ingesting carbamazepine, the steady-state trough (Cmin) carbamazepine concentration was 8 2 micrograms/mL.">
+        <entity charOffset="59-71" id="DDI-DrugBank.d434.s18.e0" text="carbamazepine" type="drug"/>
+        <entity charOffset="105-117" id="DDI-DrugBank.d434.s18.e1" text="carbamazepine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s18.e0" e2="DDI-DrugBank.d434.s18.e1" id="DDI-DrugBank.d434.s18.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s19" text="The carbamazepine steady-state Cmin decreased 31% to 5 1 micrograms/mL when felbamate (3000 mg/day, divided into three doses) was coadministered.">
+        <entity charOffset="4-16" id="DDI-DrugBank.d434.s19.e0" text="carbamazepine" type="drug"/>
+        <entity charOffset="76-84" id="DDI-DrugBank.d434.s19.e1" text="felbamate" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s19.e0" e2="DDI-DrugBank.d434.s19.e1" id="DDI-DrugBank.d434.s19.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s20" text="Carbamazepine epoxide steady-state Cmin concentrations increased 57% from 1.0 0.3 to 1.6 0.4 micrograms/mL with the addition of felbamate.">
+        <entity charOffset="0-20" id="DDI-DrugBank.d434.s20.e0" text="Carbamazepine epoxide" type="drug_n"/>
+        <entity charOffset="128-136" id="DDI-DrugBank.d434.s20.e1" text="felbamate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s20.e0" e2="DDI-DrugBank.d434.s20.e1" id="DDI-DrugBank.d434.s20.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s21" text="In clinical trials, similar changes in carbamazepine and carbamazepine epoxide were seen.">
+        <entity charOffset="39-51" id="DDI-DrugBank.d434.s21.e0" text="carbamazepine" type="drug"/>
+        <entity charOffset="57-77" id="DDI-DrugBank.d434.s21.e1" text="carbamazepine epoxide" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s21.e0" e2="DDI-DrugBank.d434.s21.e1" id="DDI-DrugBank.d434.s21.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s22" text="Valproate: Felbatol  causes an increase in steady-state valproate concentrations.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d434.s22.e0" text="Valproate" type="drug"/>
+        <entity charOffset="11-18" id="DDI-DrugBank.d434.s22.e1" text="Felbatol" type="brand"/>
+        <entity charOffset="56-64" id="DDI-DrugBank.d434.s22.e2" text="valproate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s22.e0" e2="DDI-DrugBank.d434.s22.e1" id="DDI-DrugBank.d434.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s22.e0" e2="DDI-DrugBank.d434.s22.e2" id="DDI-DrugBank.d434.s22.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s22.e1" e2="DDI-DrugBank.d434.s22.e2" id="DDI-DrugBank.d434.s22.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s23" text="In four subjects with epilepsy ingesting valproate, the steady-state trough (Cmin) valproate plasma concentration was 63 16 micrograms/mL.">
+        <entity charOffset="41-49" id="DDI-DrugBank.d434.s23.e0" text="valproate" type="drug"/>
+        <entity charOffset="83-91" id="DDI-DrugBank.d434.s23.e1" text="valproate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s23.e0" e2="DDI-DrugBank.d434.s23.e1" id="DDI-DrugBank.d434.s23.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s24" text="The steady-state Cmin increased to 78 14 micrograms/mL when 1200 mg/day of felbamate was coadministered.">
+        <entity charOffset="75-83" id="DDI-DrugBank.d434.s24.e0" text="felbamate" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s25" text="Increasing the felbamate dose to 2400 mg/day increased the steadystate valproate Cmin to 96 25 micrograms/mL.">
+        <entity charOffset="15-23" id="DDI-DrugBank.d434.s25.e0" text="felbamate" type="drug"/>
+        <entity charOffset="71-79" id="DDI-DrugBank.d434.s25.e1" text="valproate" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s25.e0" e2="DDI-DrugBank.d434.s25.e1" id="DDI-DrugBank.d434.s25.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s26" text="Corresponding values for free valproate Cmin concentrations were 7 3, 9 4, and 11 6 micrograms/mL for 0, 1200, and 2400 mg/day Felbatol , respectively.">
+        <entity charOffset="30-38" id="DDI-DrugBank.d434.s26.e0" text="valproate" type="drug"/>
+        <entity charOffset="127-134" id="DDI-DrugBank.d434.s26.e1" text="Felbatol" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s26.e0" e2="DDI-DrugBank.d434.s26.e1" id="DDI-DrugBank.d434.s26.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s27" text="The ratios of the AUCs of unbound valproate to the AUCs of the total valproate were 11.1 %, 13.0%, and 11.5%, with coadministration of 0, 1200, and 2400 mg/day of Felbatol , respectively.">
+        <entity charOffset="34-42" id="DDI-DrugBank.d434.s27.e0" text="valproate" type="drug"/>
+        <entity charOffset="69-77" id="DDI-DrugBank.d434.s27.e1" text="valproate" type="drug"/>
+        <entity charOffset="163-170" id="DDI-DrugBank.d434.s27.e2" text="Felbatol" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s27.e0" e2="DDI-DrugBank.d434.s27.e1" id="DDI-DrugBank.d434.s27.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s27.e0" e2="DDI-DrugBank.d434.s27.e2" id="DDI-DrugBank.d434.s27.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s27.e1" e2="DDI-DrugBank.d434.s27.e2" id="DDI-DrugBank.d434.s27.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s28" text="Phenobarbital: Coadministration of felbamate with phenobarbital causes an increase in phenobarbital plasma concentrations, In 12 otherwise healthy male volunteers ingesting phenobarbital, the steady-state trough (Cmin) phenobarbital concentration was 14.2 micrograms/mL.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d434.s28.e0" text="Phenobarbital" type="drug"/>
+        <entity charOffset="35-43" id="DDI-DrugBank.d434.s28.e1" text="felbamate" type="drug"/>
+        <entity charOffset="50-62" id="DDI-DrugBank.d434.s28.e2" text="phenobarbital" type="drug"/>
+        <entity charOffset="86-98" id="DDI-DrugBank.d434.s28.e3" text="phenobarbital" type="drug"/>
+        <entity charOffset="173-185" id="DDI-DrugBank.d434.s28.e4" text="phenobarbital" type="drug"/>
+        <entity charOffset="219-231" id="DDI-DrugBank.d434.s28.e5" text="phenobarbital" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e0" e2="DDI-DrugBank.d434.s28.e1" id="DDI-DrugBank.d434.s28.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e0" e2="DDI-DrugBank.d434.s28.e2" id="DDI-DrugBank.d434.s28.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e0" e2="DDI-DrugBank.d434.s28.e3" id="DDI-DrugBank.d434.s28.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e0" e2="DDI-DrugBank.d434.s28.e4" id="DDI-DrugBank.d434.s28.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e0" e2="DDI-DrugBank.d434.s28.e5" id="DDI-DrugBank.d434.s28.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s28.e1" e2="DDI-DrugBank.d434.s28.e2" id="DDI-DrugBank.d434.s28.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e1" e2="DDI-DrugBank.d434.s28.e3" id="DDI-DrugBank.d434.s28.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e1" e2="DDI-DrugBank.d434.s28.e4" id="DDI-DrugBank.d434.s28.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e1" e2="DDI-DrugBank.d434.s28.e5" id="DDI-DrugBank.d434.s28.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e2" e2="DDI-DrugBank.d434.s28.e3" id="DDI-DrugBank.d434.s28.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e2" e2="DDI-DrugBank.d434.s28.e4" id="DDI-DrugBank.d434.s28.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e2" e2="DDI-DrugBank.d434.s28.e5" id="DDI-DrugBank.d434.s28.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e3" e2="DDI-DrugBank.d434.s28.e4" id="DDI-DrugBank.d434.s28.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e3" e2="DDI-DrugBank.d434.s28.e5" id="DDI-DrugBank.d434.s28.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s28.e4" e2="DDI-DrugBank.d434.s28.e5" id="DDI-DrugBank.d434.s28.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s29" text="The steady-state Cmin concentration increased to 17.8 micrograms/mL when 2400 mg/day of felbamate was coadministered for one week.">
+        <entity charOffset="88-96" id="DDI-DrugBank.d434.s29.e0" text="felbamate" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s30" text="Effects of Other Antiepileptic Drugs on Felbatol  Phenytoin: Phenytoin causes an approximate doubling of the clearance of Felbatol  (felbamate) at steady state and, therefore, the addition of phenytoin causes an approximate 45% decrease in the steady-state trough concentrations of Felbatol  as compared to the same dose of Felbatol  given as monotherapy.">
+        <entity charOffset="17-35" id="DDI-DrugBank.d434.s30.e0" text="Antiepileptic Drugs" type="group"/>
+        <entity charOffset="40-47" id="DDI-DrugBank.d434.s30.e1" text="Felbatol" type="brand"/>
+        <entity charOffset="50-58" id="DDI-DrugBank.d434.s30.e2" text="Phenytoin" type="drug"/>
+        <entity charOffset="61-69" id="DDI-DrugBank.d434.s30.e3" text="Phenytoin" type="drug"/>
+        <entity charOffset="122-129" id="DDI-DrugBank.d434.s30.e4" text="Felbatol" type="brand"/>
+        <entity charOffset="133-141" id="DDI-DrugBank.d434.s30.e5" text="felbamate" type="drug"/>
+        <entity charOffset="192-200" id="DDI-DrugBank.d434.s30.e6" text="phenytoin" type="drug"/>
+        <entity charOffset="282-289" id="DDI-DrugBank.d434.s30.e7" text="Felbatol" type="brand"/>
+        <entity charOffset="324-331" id="DDI-DrugBank.d434.s30.e8" text="Felbatol" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e1" id="DDI-DrugBank.d434.s30.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e2" id="DDI-DrugBank.d434.s30.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e3" id="DDI-DrugBank.d434.s30.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e4" id="DDI-DrugBank.d434.s30.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e5" id="DDI-DrugBank.d434.s30.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e6" id="DDI-DrugBank.d434.s30.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e7" id="DDI-DrugBank.d434.s30.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e0" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e1" e2="DDI-DrugBank.d434.s30.e2" id="DDI-DrugBank.d434.s30.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e1" e2="DDI-DrugBank.d434.s30.e3" id="DDI-DrugBank.d434.s30.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e1" e2="DDI-DrugBank.d434.s30.e4" id="DDI-DrugBank.d434.s30.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e1" e2="DDI-DrugBank.d434.s30.e5" id="DDI-DrugBank.d434.s30.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e1" e2="DDI-DrugBank.d434.s30.e6" id="DDI-DrugBank.d434.s30.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e1" e2="DDI-DrugBank.d434.s30.e7" id="DDI-DrugBank.d434.s30.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e1" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e2" e2="DDI-DrugBank.d434.s30.e3" id="DDI-DrugBank.d434.s30.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e2" e2="DDI-DrugBank.d434.s30.e4" id="DDI-DrugBank.d434.s30.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e2" e2="DDI-DrugBank.d434.s30.e5" id="DDI-DrugBank.d434.s30.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e2" e2="DDI-DrugBank.d434.s30.e6" id="DDI-DrugBank.d434.s30.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e2" e2="DDI-DrugBank.d434.s30.e7" id="DDI-DrugBank.d434.s30.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e2" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p20"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s30.e3" e2="DDI-DrugBank.d434.s30.e4" id="DDI-DrugBank.d434.s30.p21" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s30.e3" e2="DDI-DrugBank.d434.s30.e5" id="DDI-DrugBank.d434.s30.p22" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e3" e2="DDI-DrugBank.d434.s30.e6" id="DDI-DrugBank.d434.s30.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e3" e2="DDI-DrugBank.d434.s30.e7" id="DDI-DrugBank.d434.s30.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e3" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e4" e2="DDI-DrugBank.d434.s30.e5" id="DDI-DrugBank.d434.s30.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e4" e2="DDI-DrugBank.d434.s30.e6" id="DDI-DrugBank.d434.s30.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e4" e2="DDI-DrugBank.d434.s30.e7" id="DDI-DrugBank.d434.s30.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e4" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e5" e2="DDI-DrugBank.d434.s30.e6" id="DDI-DrugBank.d434.s30.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e5" e2="DDI-DrugBank.d434.s30.e7" id="DDI-DrugBank.d434.s30.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e5" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p32"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s30.e6" e2="DDI-DrugBank.d434.s30.e7" id="DDI-DrugBank.d434.s30.p33" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e6" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s30.e7" e2="DDI-DrugBank.d434.s30.e8" id="DDI-DrugBank.d434.s30.p35"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s31" text="Carbamazepine: Carbamazepine causes an approximate 50% increase in the clearance of Felbatol  at steady state and, therefore, the addition of carbamazepine results in an approximate 40% decrease in the steady-state trough concentrations of Felbatol  as compared to the same dose of Felbatol  given as monotherapy.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d434.s31.e0" text="Carbamazepine" type="drug"/>
+        <entity charOffset="15-27" id="DDI-DrugBank.d434.s31.e1" text="Carbamazepine" type="drug"/>
+        <entity charOffset="84-91" id="DDI-DrugBank.d434.s31.e2" text="Felbatol" type="brand"/>
+        <entity charOffset="142-154" id="DDI-DrugBank.d434.s31.e3" text="carbamazepine" type="drug"/>
+        <entity charOffset="240-247" id="DDI-DrugBank.d434.s31.e4" text="Felbatol" type="brand"/>
+        <entity charOffset="282-289" id="DDI-DrugBank.d434.s31.e5" text="Felbatol" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e0" e2="DDI-DrugBank.d434.s31.e1" id="DDI-DrugBank.d434.s31.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e0" e2="DDI-DrugBank.d434.s31.e2" id="DDI-DrugBank.d434.s31.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e0" e2="DDI-DrugBank.d434.s31.e3" id="DDI-DrugBank.d434.s31.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e0" e2="DDI-DrugBank.d434.s31.e4" id="DDI-DrugBank.d434.s31.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e0" e2="DDI-DrugBank.d434.s31.e5" id="DDI-DrugBank.d434.s31.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s31.e1" e2="DDI-DrugBank.d434.s31.e2" id="DDI-DrugBank.d434.s31.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e1" e2="DDI-DrugBank.d434.s31.e3" id="DDI-DrugBank.d434.s31.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e1" e2="DDI-DrugBank.d434.s31.e4" id="DDI-DrugBank.d434.s31.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e1" e2="DDI-DrugBank.d434.s31.e5" id="DDI-DrugBank.d434.s31.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e2" e2="DDI-DrugBank.d434.s31.e3" id="DDI-DrugBank.d434.s31.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e2" e2="DDI-DrugBank.d434.s31.e4" id="DDI-DrugBank.d434.s31.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e2" e2="DDI-DrugBank.d434.s31.e5" id="DDI-DrugBank.d434.s31.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s31.e3" e2="DDI-DrugBank.d434.s31.e4" id="DDI-DrugBank.d434.s31.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e3" e2="DDI-DrugBank.d434.s31.e5" id="DDI-DrugBank.d434.s31.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s31.e4" e2="DDI-DrugBank.d434.s31.e5" id="DDI-DrugBank.d434.s31.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s32" text="Valproate: Available data suggest that there is no significant effect of valproate on the clearance of Felbatol  at steady state, Therefore, the addition of valproate is not expected to cause a clinically important effect on Felbatol  (felbamate) plasma concentrations.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d434.s32.e0" text="Valproate" type="drug"/>
+        <entity charOffset="73-81" id="DDI-DrugBank.d434.s32.e1" text="valproate" type="drug"/>
+        <entity charOffset="103-110" id="DDI-DrugBank.d434.s32.e2" text="Felbatol" type="brand"/>
+        <entity charOffset="157-165" id="DDI-DrugBank.d434.s32.e3" text="valproate" type="drug"/>
+        <entity charOffset="225-232" id="DDI-DrugBank.d434.s32.e4" text="Felbatol" type="brand"/>
+        <entity charOffset="236-244" id="DDI-DrugBank.d434.s32.e5" text="felbamate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e0" e2="DDI-DrugBank.d434.s32.e1" id="DDI-DrugBank.d434.s32.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e0" e2="DDI-DrugBank.d434.s32.e2" id="DDI-DrugBank.d434.s32.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e0" e2="DDI-DrugBank.d434.s32.e3" id="DDI-DrugBank.d434.s32.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e0" e2="DDI-DrugBank.d434.s32.e4" id="DDI-DrugBank.d434.s32.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e0" e2="DDI-DrugBank.d434.s32.e5" id="DDI-DrugBank.d434.s32.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e1" e2="DDI-DrugBank.d434.s32.e2" id="DDI-DrugBank.d434.s32.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e1" e2="DDI-DrugBank.d434.s32.e3" id="DDI-DrugBank.d434.s32.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e1" e2="DDI-DrugBank.d434.s32.e4" id="DDI-DrugBank.d434.s32.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e1" e2="DDI-DrugBank.d434.s32.e5" id="DDI-DrugBank.d434.s32.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e2" e2="DDI-DrugBank.d434.s32.e3" id="DDI-DrugBank.d434.s32.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e2" e2="DDI-DrugBank.d434.s32.e4" id="DDI-DrugBank.d434.s32.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e2" e2="DDI-DrugBank.d434.s32.e5" id="DDI-DrugBank.d434.s32.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e3" e2="DDI-DrugBank.d434.s32.e4" id="DDI-DrugBank.d434.s32.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e3" e2="DDI-DrugBank.d434.s32.e5" id="DDI-DrugBank.d434.s32.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s32.e4" e2="DDI-DrugBank.d434.s32.e5" id="DDI-DrugBank.d434.s32.p14"/>
+    <negationtags>Valproate: Available data suggest that there is &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effect of valproate on the clearance of Felbatol at steady state, Therefore, the addition of valproate is not expected to cause a clinically important effect on Felbatol (felbamate) plasma concentrations. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d434.s33" text="Phenobarbital: It appears that phenobarbital may reduce plasma felbamate concentrations.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d434.s33.e0" text="Phenobarbital" type="drug"/>
+        <entity charOffset="31-43" id="DDI-DrugBank.d434.s33.e1" text="phenobarbital" type="drug"/>
+        <entity charOffset="63-71" id="DDI-DrugBank.d434.s33.e2" text="felbamate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s33.e0" e2="DDI-DrugBank.d434.s33.e1" id="DDI-DrugBank.d434.s33.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s33.e0" e2="DDI-DrugBank.d434.s33.e2" id="DDI-DrugBank.d434.s33.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s33.e1" e2="DDI-DrugBank.d434.s33.e2" id="DDI-DrugBank.d434.s33.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s34" text="Steady-state plasma felbamate concentrations were found to be 29% lower than the mean concentrations of a group of newly diagnosed subjects with epilepsy also receiving 2400 mg of felbamate a day.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d434.s34.e0" text="felbamate" type="drug"/>
+        <entity charOffset="180-188" id="DDI-DrugBank.d434.s34.e1" text="felbamate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s34.e0" e2="DDI-DrugBank.d434.s34.e1" id="DDI-DrugBank.d434.s34.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s35" text="Effects of Antacids on Felbatol  The rate and extent of absorption of a 2400 mg dose of Felbatol  as monotherapy given as tablets was not affected when coadministered with antacids.">
+        <entity charOffset="11-18" id="DDI-DrugBank.d434.s35.e0" text="Antacids" type="group"/>
+        <entity charOffset="23-30" id="DDI-DrugBank.d434.s35.e1" text="Felbatol" type="brand"/>
+        <entity charOffset="88-95" id="DDI-DrugBank.d434.s35.e2" text="Felbatol" type="brand"/>
+        <entity charOffset="172-179" id="DDI-DrugBank.d434.s35.e3" text="antacids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s35.e0" e2="DDI-DrugBank.d434.s35.e1" id="DDI-DrugBank.d434.s35.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s35.e0" e2="DDI-DrugBank.d434.s35.e2" id="DDI-DrugBank.d434.s35.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s35.e0" e2="DDI-DrugBank.d434.s35.e3" id="DDI-DrugBank.d434.s35.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s35.e1" e2="DDI-DrugBank.d434.s35.e2" id="DDI-DrugBank.d434.s35.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s35.e1" e2="DDI-DrugBank.d434.s35.e3" id="DDI-DrugBank.d434.s35.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s35.e2" e2="DDI-DrugBank.d434.s35.e3" id="DDI-DrugBank.d434.s35.p5"/>
+    <negationtags>Effects of Antacids on Felbatol The rate and extent of absorption of a 2400 mg dose of Felbatol as monotherapy given as tablets was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected when coadministered with antacids. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d434.s36" text="Effects of Erythromycin on Felbatol  The coadministration of erythromycin (1000 mg/day) for 10 days did not alter the pharmacokinetic parameters of Cmax, Cmin, AUC, CI/kg or tmax at felbamate daily doses of 3000 or 3600 mg/day in 10 otherwise healthy subjects with epilepsy.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d434.s36.e0" text="Erythromycin" type="drug"/>
+        <entity charOffset="27-34" id="DDI-DrugBank.d434.s36.e1" text="Felbatol" type="brand"/>
+        <entity charOffset="61-72" id="DDI-DrugBank.d434.s36.e2" text="erythromycin" type="drug"/>
+        <entity charOffset="182-190" id="DDI-DrugBank.d434.s36.e3" text="felbamate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s36.e0" e2="DDI-DrugBank.d434.s36.e1" id="DDI-DrugBank.d434.s36.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s36.e0" e2="DDI-DrugBank.d434.s36.e2" id="DDI-DrugBank.d434.s36.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s36.e0" e2="DDI-DrugBank.d434.s36.e3" id="DDI-DrugBank.d434.s36.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s36.e1" e2="DDI-DrugBank.d434.s36.e2" id="DDI-DrugBank.d434.s36.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s36.e1" e2="DDI-DrugBank.d434.s36.e3" id="DDI-DrugBank.d434.s36.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s36.e2" e2="DDI-DrugBank.d434.s36.e3" id="DDI-DrugBank.d434.s36.p5"/>
+    <negationtags>Effects of Erythromycin on Felbatol The coadministration of erythromycin (1000 mg/day) for 10 days did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; alter the pharmacokinetic parameters of Cmax, Cmin, AUC, CI/kg or tmax at felbamate daily doses of 3000 or 3600 mg/day in 10 otherwise healthy subjects with epilepsy. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d434.s37" text="Effects of Felbatol  on Low-Dose Combination Oral Contraceptives A group of 24 nonsmoking, healthy white female volunteers established on an oral contraceptive regimen containing 30 mg ethinyl estradiol and 75 mg gestodene for at least 3 months received 2400 mg/day of felbamate from midcycle (day 15) to midcycle (day 14) of two consecutive oral contraceptive cycles.">
+        <entity charOffset="11-18" id="DDI-DrugBank.d434.s37.e0" text="Felbatol" type="brand"/>
+        <entity charOffset="33-63" id="DDI-DrugBank.d434.s37.e1" text="Combination Oral Contraceptives" type="group"/>
+        <entity charOffset="146-158" id="DDI-DrugBank.d434.s37.e2" text="contraceptive" type="group"/>
+        <entity charOffset="185-201" id="DDI-DrugBank.d434.s37.e3" text="ethinyl estradiol" type="drug"/>
+        <entity charOffset="213-221" id="DDI-DrugBank.d434.s37.e4" text="gestodene" type="drug"/>
+        <entity charOffset="269-277" id="DDI-DrugBank.d434.s37.e5" text="felbamate" type="drug"/>
+        <entity charOffset="347-359" id="DDI-DrugBank.d434.s37.e6" text="contraceptive" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e0" e2="DDI-DrugBank.d434.s37.e1" id="DDI-DrugBank.d434.s37.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e0" e2="DDI-DrugBank.d434.s37.e2" id="DDI-DrugBank.d434.s37.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e0" e2="DDI-DrugBank.d434.s37.e3" id="DDI-DrugBank.d434.s37.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e0" e2="DDI-DrugBank.d434.s37.e4" id="DDI-DrugBank.d434.s37.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e0" e2="DDI-DrugBank.d434.s37.e5" id="DDI-DrugBank.d434.s37.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e0" e2="DDI-DrugBank.d434.s37.e6" id="DDI-DrugBank.d434.s37.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e1" e2="DDI-DrugBank.d434.s37.e2" id="DDI-DrugBank.d434.s37.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e1" e2="DDI-DrugBank.d434.s37.e3" id="DDI-DrugBank.d434.s37.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e1" e2="DDI-DrugBank.d434.s37.e4" id="DDI-DrugBank.d434.s37.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e1" e2="DDI-DrugBank.d434.s37.e5" id="DDI-DrugBank.d434.s37.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e1" e2="DDI-DrugBank.d434.s37.e6" id="DDI-DrugBank.d434.s37.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e2" e2="DDI-DrugBank.d434.s37.e3" id="DDI-DrugBank.d434.s37.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e2" e2="DDI-DrugBank.d434.s37.e4" id="DDI-DrugBank.d434.s37.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e2" e2="DDI-DrugBank.d434.s37.e5" id="DDI-DrugBank.d434.s37.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e2" e2="DDI-DrugBank.d434.s37.e6" id="DDI-DrugBank.d434.s37.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e3" e2="DDI-DrugBank.d434.s37.e4" id="DDI-DrugBank.d434.s37.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e3" e2="DDI-DrugBank.d434.s37.e5" id="DDI-DrugBank.d434.s37.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e3" e2="DDI-DrugBank.d434.s37.e6" id="DDI-DrugBank.d434.s37.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e4" e2="DDI-DrugBank.d434.s37.e5" id="DDI-DrugBank.d434.s37.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e4" e2="DDI-DrugBank.d434.s37.e6" id="DDI-DrugBank.d434.s37.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s37.e5" e2="DDI-DrugBank.d434.s37.e6" id="DDI-DrugBank.d434.s37.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d434.s38" text="Felbamate treatment resulted in a 42% decrease in the gestodene AUC 0-24, but no clinically relevant effect was observed on the pharmacokinetic parameters of ethinyl estradiol.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d434.s38.e0" text="Felbamate" type="drug"/>
+        <entity charOffset="54-62" id="DDI-DrugBank.d434.s38.e1" text="gestodene" type="drug"/>
+        <entity charOffset="158-174" id="DDI-DrugBank.d434.s38.e2" text="ethinyl estradiol" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d434.s38.e0" e2="DDI-DrugBank.d434.s38.e1" id="DDI-DrugBank.d434.s38.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s38.e0" e2="DDI-DrugBank.d434.s38.e2" id="DDI-DrugBank.d434.s38.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d434.s38.e1" e2="DDI-DrugBank.d434.s38.e2" id="DDI-DrugBank.d434.s38.p2"/>
+    <negationtags>Felbamate treatment resulted in a 42% decrease in the gestodene AUC 0-24, but &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically relevant effect was observed on the pharmacokinetic parameters of ethinyl estradiol. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d434.s39" text="No volunteer showed hormonal evidence of ovulation, but one volunteer reported intermenstrual bleeding during felbamate treatment.">
+        <entity charOffset="110-118" id="DDI-DrugBank.d434.s39.e0" text="felbamate" type="drug"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; volunteer showed hormonal evidence of ovulation, &lt;/scope&gt; but one volunteer reported intermenstrual bleeding during felbamate treatment.</negationtags></sentence>
+</document>

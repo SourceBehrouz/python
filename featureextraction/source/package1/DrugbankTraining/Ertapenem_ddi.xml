@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d329">
+    <sentence id="DDI-DrugBank.d329.s0" text="When ertapenem is co-administered with probenecid (500 mg p.o. every 6 hours), probenecid competes for active tubular secretion and reduces the renal clearance of ertapenem.">
+        <entity charOffset="5-13" id="DDI-DrugBank.d329.s0.e0" text="ertapenem" type="drug"/>
+        <entity charOffset="39-48" id="DDI-DrugBank.d329.s0.e1" text="probenecid" type="drug"/>
+        <entity charOffset="79-88" id="DDI-DrugBank.d329.s0.e2" text="probenecid" type="drug"/>
+        <entity charOffset="163-171" id="DDI-DrugBank.d329.s0.e3" text="ertapenem" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s0.e0" e2="DDI-DrugBank.d329.s0.e1" id="DDI-DrugBank.d329.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s0.e0" e2="DDI-DrugBank.d329.s0.e2" id="DDI-DrugBank.d329.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s0.e0" e2="DDI-DrugBank.d329.s0.e3" id="DDI-DrugBank.d329.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s0.e1" e2="DDI-DrugBank.d329.s0.e2" id="DDI-DrugBank.d329.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s0.e1" e2="DDI-DrugBank.d329.s0.e3" id="DDI-DrugBank.d329.s0.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d329.s0.e2" e2="DDI-DrugBank.d329.s0.e3" id="DDI-DrugBank.d329.s0.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d329.s1" text="Based on total ertapenem concentrations, probenecid increased the AUC by 25% and reduced the plasma and renal clearances by 20% and 35%, respectively.">
+        <entity charOffset="15-23" id="DDI-DrugBank.d329.s1.e0" text="ertapenem" type="drug"/>
+        <entity charOffset="41-50" id="DDI-DrugBank.d329.s1.e1" text="probenecid" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d329.s1.e0" e2="DDI-DrugBank.d329.s1.e1" id="DDI-DrugBank.d329.s1.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d329.s2" text="The half-life increased from 4.0 to 4.8 hours."/>
+    <sentence id="DDI-DrugBank.d329.s3" text="Because of the small effect on half-life, the coadministration with probenecid to extend the half-life of ertapenem is not recommended.">
+        <entity charOffset="68-77" id="DDI-DrugBank.d329.s3.e0" text="probenecid" type="drug"/>
+        <entity charOffset="106-114" id="DDI-DrugBank.d329.s3.e1" text="ertapenem" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d329.s3.e0" e2="DDI-DrugBank.d329.s3.e1" id="DDI-DrugBank.d329.s3.p0" type="advise"/>
+    <negationtags>Because of the small effect on half-life, the coadministration with probenecid to extend the half-life of ertapenem is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d329.s4" text="In vitro studies indicate that ertapenem does not inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport.">
+        <entity charOffset="31-39" id="DDI-DrugBank.d329.s4.e0" text="ertapenem" type="drug"/>
+        <entity charOffset="95-101" id="DDI-DrugBank.d329.s4.e1" text="digoxin" type="drug"/>
+        <entity charOffset="106-116" id="DDI-DrugBank.d329.s4.e2" text="vinblastine" type="drug"/>
+        <entity charOffset="127-135" id="DDI-DrugBank.d329.s4.e3" text="ertapenem" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s4.e0" e2="DDI-DrugBank.d329.s4.e1" id="DDI-DrugBank.d329.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s4.e0" e2="DDI-DrugBank.d329.s4.e2" id="DDI-DrugBank.d329.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s4.e0" e2="DDI-DrugBank.d329.s4.e3" id="DDI-DrugBank.d329.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s4.e1" e2="DDI-DrugBank.d329.s4.e2" id="DDI-DrugBank.d329.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s4.e1" e2="DDI-DrugBank.d329.s4.e3" id="DDI-DrugBank.d329.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d329.s4.e2" e2="DDI-DrugBank.d329.s4.e3" id="DDI-DrugBank.d329.s4.p5"/>
+    <negationtags>In vitro studies indicate that ertapenem does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; inhibit P-glycoprotein-mediated transport of digoxin or vinblastine and that ertapenem is not a substrate for P-glycoprotein-mediated transport. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d329.s5" text="In vitro studies in human liver microsomes indicate that ertapenem does not inhibit metabolism mediated by any of the following six cytochrome p450 (CYP) isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4.">
+        <entity charOffset="57-65" id="DDI-DrugBank.d329.s5.e0" text="ertapenem" type="drug"/>
+    <negationtags>In vitro studies in human liver microsomes indicate that ertapenem does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; inhibit metabolism mediated by any of the following six cytochrome p450 (CYP) isoforms: 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d329.s6" text="Drug interactions caused by inhibition of P-glycoprotein-mediated drug clearance or CYP-mediated drug clearance with the listed isoforms are unlikely."><negationtags>&lt;scope&gt; Drug interactions caused by inhibition of P-glycoprotein-mediated drug clearance or CYP-mediated drug clearance with the listed isoforms are &lt;cue&gt; unlikely. &lt;/cue&gt; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d329.s7" text="Other than with probenecid, no specific clinical drug interaction studies have been conducted">
+        <entity charOffset="16-25" id="DDI-DrugBank.d329.s7.e0" text="probenecid" type="drug"/>
+    <negationtags>Other than with probenecid, &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; specific clinical drug interaction studies have been conducted &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d329.s8" text="."/>
+    <sentence id="DDI-DrugBank.d329.s9" text=""/>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d392">
+    <sentence id="DDI-DrugBank.d392.s0" text="Patients who are applying Panretin gel should not concurrently use products that contain DEET (N, N-diethyl-m-toluamide), a common component of insect repellent products.">
+        <entity charOffset="26-33" id="DDI-DrugBank.d392.s0.e0" text="Panretin" type="brand"/>
+        <entity charOffset="89-92" id="DDI-DrugBank.d392.s0.e1" text="DEET" type="drug"/>
+        <entity charOffset="98-118" id="DDI-DrugBank.d392.s0.e2" text="N-diethyl-m-toluamide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d392.s0.e0" e2="DDI-DrugBank.d392.s0.e1" id="DDI-DrugBank.d392.s0.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d392.s0.e0" e2="DDI-DrugBank.d392.s0.e2" id="DDI-DrugBank.d392.s0.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s0.e1" e2="DDI-DrugBank.d392.s0.e2" id="DDI-DrugBank.d392.s0.p2"/>
+    <negationtags>Patients who are applying Panretin gel should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; concurrently use products that contain DEET (N, N-diethyl-m-toluamide), a common component of insect repellent products. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d392.s1" text="Animal toxicology studies showed increased DEET toxicity when DEET was included as proof of the formulation.">
+        <entity charOffset="43-46" id="DDI-DrugBank.d392.s1.e0" text="DEET" type="drug"/>
+        <entity charOffset="62-65" id="DDI-DrugBank.d392.s1.e1" text="DEET" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s1.e0" e2="DDI-DrugBank.d392.s1.e1" id="DDI-DrugBank.d392.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d392.s2" text="Although there was no clinical evidence in the vehicle-controlled studies of drug interactions with systemic antiretroviral agents, including protease inhibitors, macrolide antibiotics, and azole antifungals, the effect of Panretin gel on the steady-state concentrations of these drugs is not known.">
+        <entity charOffset="109-129" id="DDI-DrugBank.d392.s2.e0" text="antiretroviral agents" type="group"/>
+        <entity charOffset="142-160" id="DDI-DrugBank.d392.s2.e1" text="protease inhibitors" type="group"/>
+        <entity charOffset="163-183" id="DDI-DrugBank.d392.s2.e2" text="macrolide antibiotics" type="group"/>
+        <entity charOffset="190-206" id="DDI-DrugBank.d392.s2.e3" text="azole antifungals" type="group"/>
+        <entity charOffset="223-230" id="DDI-DrugBank.d392.s2.e4" text="Panretin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e0" e2="DDI-DrugBank.d392.s2.e1" id="DDI-DrugBank.d392.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e0" e2="DDI-DrugBank.d392.s2.e2" id="DDI-DrugBank.d392.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e0" e2="DDI-DrugBank.d392.s2.e3" id="DDI-DrugBank.d392.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e0" e2="DDI-DrugBank.d392.s2.e4" id="DDI-DrugBank.d392.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e1" e2="DDI-DrugBank.d392.s2.e2" id="DDI-DrugBank.d392.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e1" e2="DDI-DrugBank.d392.s2.e3" id="DDI-DrugBank.d392.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e1" e2="DDI-DrugBank.d392.s2.e4" id="DDI-DrugBank.d392.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e2" e2="DDI-DrugBank.d392.s2.e3" id="DDI-DrugBank.d392.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e2" e2="DDI-DrugBank.d392.s2.e4" id="DDI-DrugBank.d392.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d392.s2.e3" e2="DDI-DrugBank.d392.s2.e4" id="DDI-DrugBank.d392.s2.p9"/>
+    <negationtags>Although there was &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinical evidence in the vehicle-controlled studies of drug interactions with systemic antiretroviral agents, including protease inhibitors, macrolide antibiotics, and azole antifungals, the effect of Panretin gel on the steady-state concentrations of these drugs is not known. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d392.s3" text="No drug interaction data are available on concomitant administration of Panretin gel and systemic anti-KS agents.">
+        <entity charOffset="72-79" id="DDI-DrugBank.d392.s3.e0" text="Panretin" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; drug interaction data are available on concomitant administration of Panretin gel and systemic anti-KS agents. &lt;/scope&gt;</negationtags></sentence>
+</document>

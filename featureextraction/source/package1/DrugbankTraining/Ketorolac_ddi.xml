@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d3">
+    <sentence id="DDI-DrugBank.d3.s0" text="Ketorolac is highly bound to human plasma protein (mean 99.2%).">
+        <entity charOffset="0-8" id="DDI-DrugBank.d3.s0.e0" text="Ketorolac" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s1" text="Warfarin, Digoxin, Salicylate, and Heparin The in vitro binding of warfarin to plasma proteins is only slightly reduced by ketorolac tromethamine (99.5% control vs 99.3%) when ketorolac plasma concentrations reach 5 to10 m g/mL.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d3.s1.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="10-16" id="DDI-DrugBank.d3.s1.e1" text="Digoxin" type="drug"/>
+        <entity charOffset="19-28" id="DDI-DrugBank.d3.s1.e2" text="Salicylate" type="group"/>
+        <entity charOffset="35-41" id="DDI-DrugBank.d3.s1.e3" text="Heparin" type="drug"/>
+        <entity charOffset="67-74" id="DDI-DrugBank.d3.s1.e4" text="warfarin" type="drug"/>
+        <entity charOffset="123-144" id="DDI-DrugBank.d3.s1.e5" text="ketorolac tromethamine" type="drug"/>
+        <entity charOffset="176-184" id="DDI-DrugBank.d3.s1.e6" text="ketorolac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e0" e2="DDI-DrugBank.d3.s1.e1" id="DDI-DrugBank.d3.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e0" e2="DDI-DrugBank.d3.s1.e2" id="DDI-DrugBank.d3.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e0" e2="DDI-DrugBank.d3.s1.e3" id="DDI-DrugBank.d3.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e0" e2="DDI-DrugBank.d3.s1.e4" id="DDI-DrugBank.d3.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e0" e2="DDI-DrugBank.d3.s1.e5" id="DDI-DrugBank.d3.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e0" e2="DDI-DrugBank.d3.s1.e6" id="DDI-DrugBank.d3.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e1" e2="DDI-DrugBank.d3.s1.e2" id="DDI-DrugBank.d3.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e1" e2="DDI-DrugBank.d3.s1.e3" id="DDI-DrugBank.d3.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e1" e2="DDI-DrugBank.d3.s1.e4" id="DDI-DrugBank.d3.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e1" e2="DDI-DrugBank.d3.s1.e5" id="DDI-DrugBank.d3.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e1" e2="DDI-DrugBank.d3.s1.e6" id="DDI-DrugBank.d3.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e2" e2="DDI-DrugBank.d3.s1.e3" id="DDI-DrugBank.d3.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e2" e2="DDI-DrugBank.d3.s1.e4" id="DDI-DrugBank.d3.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e2" e2="DDI-DrugBank.d3.s1.e5" id="DDI-DrugBank.d3.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e2" e2="DDI-DrugBank.d3.s1.e6" id="DDI-DrugBank.d3.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e3" e2="DDI-DrugBank.d3.s1.e4" id="DDI-DrugBank.d3.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e3" e2="DDI-DrugBank.d3.s1.e5" id="DDI-DrugBank.d3.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e3" e2="DDI-DrugBank.d3.s1.e6" id="DDI-DrugBank.d3.s1.p17"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s1.e4" e2="DDI-DrugBank.d3.s1.e5" id="DDI-DrugBank.d3.s1.p18" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e4" e2="DDI-DrugBank.d3.s1.e6" id="DDI-DrugBank.d3.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s1.e5" e2="DDI-DrugBank.d3.s1.e6" id="DDI-DrugBank.d3.s1.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s2" text="Ketorolac does not alter digoxin protein binding.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d3.s2.e0" text="Ketorolac" type="drug"/>
+        <entity charOffset="25-31" id="DDI-DrugBank.d3.s2.e1" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s2.e0" e2="DDI-DrugBank.d3.s2.e1" id="DDI-DrugBank.d3.s2.p0"/>
+    <negationtags>Ketorolac does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; alter digoxin protein binding. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s3" text="In vitro studies indicate that, at therapeutic concentrations of salicylate (300 m g/mL), the binding of ketorolac was reduced from approximately 99.2% to 97.5%, representing a potential twofold increase in unbound ketorolac plasma levels.">
+        <entity charOffset="65-74" id="DDI-DrugBank.d3.s3.e0" text="salicylate" type="group"/>
+        <entity charOffset="105-113" id="DDI-DrugBank.d3.s3.e1" text="ketorolac" type="drug"/>
+        <entity charOffset="215-223" id="DDI-DrugBank.d3.s3.e2" text="ketorolac" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s3.e0" e2="DDI-DrugBank.d3.s3.e1" id="DDI-DrugBank.d3.s3.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s3.e0" e2="DDI-DrugBank.d3.s3.e2" id="DDI-DrugBank.d3.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s3.e1" e2="DDI-DrugBank.d3.s3.e2" id="DDI-DrugBank.d3.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s4" text="Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin andtolbutamide did not alter ketorolac tromethamine protein binding.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d3.s4.e0" text="digoxin" type="drug"/>
+        <entity charOffset="39-46" id="DDI-DrugBank.d3.s4.e1" text="warfarin" type="drug"/>
+        <entity charOffset="49-57" id="DDI-DrugBank.d3.s4.e2" text="ibuprofen" type="drug"/>
+        <entity charOffset="60-67" id="DDI-DrugBank.d3.s4.e3" text="naproxen" type="drug"/>
+        <entity charOffset="70-78" id="DDI-DrugBank.d3.s4.e4" text="piroxicam" type="drug"/>
+        <entity charOffset="81-93" id="DDI-DrugBank.d3.s4.e5" text="acetaminophen" type="drug"/>
+        <entity charOffset="96-104" id="DDI-DrugBank.d3.s4.e6" text="phenytoin" type="drug"/>
+        <entity charOffset="135-156" id="DDI-DrugBank.d3.s4.e7" text="ketorolac tromethamine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e0" e2="DDI-DrugBank.d3.s4.e1" id="DDI-DrugBank.d3.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e0" e2="DDI-DrugBank.d3.s4.e2" id="DDI-DrugBank.d3.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e0" e2="DDI-DrugBank.d3.s4.e3" id="DDI-DrugBank.d3.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e0" e2="DDI-DrugBank.d3.s4.e4" id="DDI-DrugBank.d3.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e0" e2="DDI-DrugBank.d3.s4.e5" id="DDI-DrugBank.d3.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e0" e2="DDI-DrugBank.d3.s4.e6" id="DDI-DrugBank.d3.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e0" e2="DDI-DrugBank.d3.s4.e7" id="DDI-DrugBank.d3.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e1" e2="DDI-DrugBank.d3.s4.e2" id="DDI-DrugBank.d3.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e1" e2="DDI-DrugBank.d3.s4.e3" id="DDI-DrugBank.d3.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e1" e2="DDI-DrugBank.d3.s4.e4" id="DDI-DrugBank.d3.s4.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e1" e2="DDI-DrugBank.d3.s4.e5" id="DDI-DrugBank.d3.s4.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e1" e2="DDI-DrugBank.d3.s4.e6" id="DDI-DrugBank.d3.s4.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e1" e2="DDI-DrugBank.d3.s4.e7" id="DDI-DrugBank.d3.s4.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e2" e2="DDI-DrugBank.d3.s4.e3" id="DDI-DrugBank.d3.s4.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e2" e2="DDI-DrugBank.d3.s4.e4" id="DDI-DrugBank.d3.s4.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e2" e2="DDI-DrugBank.d3.s4.e5" id="DDI-DrugBank.d3.s4.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e2" e2="DDI-DrugBank.d3.s4.e6" id="DDI-DrugBank.d3.s4.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e2" e2="DDI-DrugBank.d3.s4.e7" id="DDI-DrugBank.d3.s4.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e3" e2="DDI-DrugBank.d3.s4.e4" id="DDI-DrugBank.d3.s4.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e3" e2="DDI-DrugBank.d3.s4.e5" id="DDI-DrugBank.d3.s4.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e3" e2="DDI-DrugBank.d3.s4.e6" id="DDI-DrugBank.d3.s4.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e3" e2="DDI-DrugBank.d3.s4.e7" id="DDI-DrugBank.d3.s4.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e4" e2="DDI-DrugBank.d3.s4.e5" id="DDI-DrugBank.d3.s4.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e4" e2="DDI-DrugBank.d3.s4.e6" id="DDI-DrugBank.d3.s4.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e4" e2="DDI-DrugBank.d3.s4.e7" id="DDI-DrugBank.d3.s4.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e5" e2="DDI-DrugBank.d3.s4.e6" id="DDI-DrugBank.d3.s4.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e5" e2="DDI-DrugBank.d3.s4.e7" id="DDI-DrugBank.d3.s4.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s4.e6" e2="DDI-DrugBank.d3.s4.e7" id="DDI-DrugBank.d3.s4.p27"/>
+    <negationtags>Therapeutic concentrations of digoxin, warfarin, ibuprofen, naproxen, piroxicam, acetaminophen, phenytoin andtolbutamide did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; alter ketorolac tromethamine protein binding. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s5" text="In a study involving 12 adult volunteers, TORADOLORAL was coadministered with a single dose of 25 mg warfarin, causing no significant changes in pharmacokinetics or pharmacodynamics of warfarin.">
+        <entity charOffset="101-108" id="DDI-DrugBank.d3.s5.e0" text="warfarin" type="drug"/>
+        <entity charOffset="185-192" id="DDI-DrugBank.d3.s5.e1" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s5.e0" e2="DDI-DrugBank.d3.s5.e1" id="DDI-DrugBank.d3.s5.p0"/>
+    <negationtags>In a study involving 12 adult volunteers, TORADOLORAL was coadministered with a single dose of 25 mg warfarin, causing &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; changes in pharmacokinetics or pharmacodynamics of warfarin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s6" text="In another study, TORADOLIV/IM was given with two doses of 5000 U of heparin to 11 healthy volunteers, resulting in a mean template bleeding time of 6.4 minutes (3.2 to 11.4 min) compared to a mean of 6.0 minutes (3.4 to 7.5 min) for heparin alone and 5.1 minutes (3.5 to 8.5 min) for placebo.">
+        <entity charOffset="69-75" id="DDI-DrugBank.d3.s6.e0" text="heparin" type="drug"/>
+        <entity charOffset="234-240" id="DDI-DrugBank.d3.s6.e1" text="heparin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s6.e0" e2="DDI-DrugBank.d3.s6.e1" id="DDI-DrugBank.d3.s6.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s7" text="Although these results do not indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored.">
+        <entity charOffset="73-79" id="DDI-DrugBank.d3.s7.e0" text="TORADOL" type="brand"/>
+        <entity charOffset="85-92" id="DDI-DrugBank.d3.s7.e1" text="warfarin" type="drug"/>
+        <entity charOffset="97-103" id="DDI-DrugBank.d3.s7.e2" text="heparin" type="drug"/>
+        <entity charOffset="128-134" id="DDI-DrugBank.d3.s7.e3" text="TORADOL" type="brand"/>
+        <entity charOffset="155-168" id="DDI-DrugBank.d3.s7.e4" text="anticoagulants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e0" e2="DDI-DrugBank.d3.s7.e1" id="DDI-DrugBank.d3.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e0" e2="DDI-DrugBank.d3.s7.e2" id="DDI-DrugBank.d3.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e0" e2="DDI-DrugBank.d3.s7.e3" id="DDI-DrugBank.d3.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e0" e2="DDI-DrugBank.d3.s7.e4" id="DDI-DrugBank.d3.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e1" e2="DDI-DrugBank.d3.s7.e2" id="DDI-DrugBank.d3.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e1" e2="DDI-DrugBank.d3.s7.e3" id="DDI-DrugBank.d3.s7.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e1" e2="DDI-DrugBank.d3.s7.e4" id="DDI-DrugBank.d3.s7.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e2" e2="DDI-DrugBank.d3.s7.e3" id="DDI-DrugBank.d3.s7.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s7.e2" e2="DDI-DrugBank.d3.s7.e4" id="DDI-DrugBank.d3.s7.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s7.e3" e2="DDI-DrugBank.d3.s7.e4" id="DDI-DrugBank.d3.s7.p9" type="advise"/>
+    <negationtags>Although these results do &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; indicate a significant interaction between TORADOL and warfarin or heparin, the administration of TORADOL to patients taking anticoagulants should be done extremely cautiously, and patients should be closely monitored. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s8" text="Furosemide: TORADOL IV/IM reduced the diuretic response to furosemide in normovolemic healthy subjects by approximately 20% (mean sodium and urinary output decreased 17%).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d3.s8.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="12-18" id="DDI-DrugBank.d3.s8.e1" text="TORADOL" type="brand"/>
+        <entity charOffset="38-45" id="DDI-DrugBank.d3.s8.e2" text="diuretic" type="group"/>
+        <entity charOffset="59-68" id="DDI-DrugBank.d3.s8.e3" text="furosemide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s8.e0" e2="DDI-DrugBank.d3.s8.e1" id="DDI-DrugBank.d3.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s8.e0" e2="DDI-DrugBank.d3.s8.e2" id="DDI-DrugBank.d3.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s8.e0" e2="DDI-DrugBank.d3.s8.e3" id="DDI-DrugBank.d3.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s8.e1" e2="DDI-DrugBank.d3.s8.e2" id="DDI-DrugBank.d3.s8.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s8.e1" e2="DDI-DrugBank.d3.s8.e3" id="DDI-DrugBank.d3.s8.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s8.e2" e2="DDI-DrugBank.d3.s8.e3" id="DDI-DrugBank.d3.s8.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s9" text="Probenecid: Concomitant administration of TORADOL ORAL and probenecid resulted in decreased clearance of ketorolac and significant increases in ketorolac plasma levels (total AUC increased approximately threefold from 5.4 to 17.8 m g/h/mL) and terminal half-life increased approximately twofold from 6.6 to 15.1 hours.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d3.s9.e0" text="Probenecid" type="drug"/>
+        <entity charOffset="42-48" id="DDI-DrugBank.d3.s9.e1" text="TORADOL" type="brand"/>
+        <entity charOffset="59-68" id="DDI-DrugBank.d3.s9.e2" text="probenecid" type="drug"/>
+        <entity charOffset="105-113" id="DDI-DrugBank.d3.s9.e3" text="ketorolac" type="drug"/>
+        <entity charOffset="144-152" id="DDI-DrugBank.d3.s9.e4" text="ketorolac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e0" e2="DDI-DrugBank.d3.s9.e1" id="DDI-DrugBank.d3.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e0" e2="DDI-DrugBank.d3.s9.e2" id="DDI-DrugBank.d3.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e0" e2="DDI-DrugBank.d3.s9.e3" id="DDI-DrugBank.d3.s9.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e0" e2="DDI-DrugBank.d3.s9.e4" id="DDI-DrugBank.d3.s9.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s9.e1" e2="DDI-DrugBank.d3.s9.e2" id="DDI-DrugBank.d3.s9.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e1" e2="DDI-DrugBank.d3.s9.e3" id="DDI-DrugBank.d3.s9.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e1" e2="DDI-DrugBank.d3.s9.e4" id="DDI-DrugBank.d3.s9.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e2" e2="DDI-DrugBank.d3.s9.e3" id="DDI-DrugBank.d3.s9.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e2" e2="DDI-DrugBank.d3.s9.e4" id="DDI-DrugBank.d3.s9.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s9.e3" e2="DDI-DrugBank.d3.s9.e4" id="DDI-DrugBank.d3.s9.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s10" text="Therefore, concomitant use of TORADOL and probenecid is contraindicated.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d3.s10.e0" text="TORADOL" type="brand"/>
+        <entity charOffset="42-51" id="DDI-DrugBank.d3.s10.e1" text="probenecid" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s10.e0" e2="DDI-DrugBank.d3.s10.e1" id="DDI-DrugBank.d3.s10.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s11" text="Lithium: Inhibition of renal lithium clearance, leading to an increase in plasma lithium concentration, has been reported with some prostaglandin synthesis-inhibiting drugs.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d3.s11.e0" text="Lithium" type="drug"/>
+        <entity charOffset="29-35" id="DDI-DrugBank.d3.s11.e1" text="lithium" type="drug"/>
+        <entity charOffset="81-87" id="DDI-DrugBank.d3.s11.e2" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s11.e0" e2="DDI-DrugBank.d3.s11.e1" id="DDI-DrugBank.d3.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s11.e0" e2="DDI-DrugBank.d3.s11.e2" id="DDI-DrugBank.d3.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s11.e1" e2="DDI-DrugBank.d3.s11.e2" id="DDI-DrugBank.d3.s11.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s12" text="The effect of TORADOL on plasma lithium has not been studied, but cases of increased lithium plasma levels during TORADOL therapy have been reported.">
+        <entity charOffset="14-20" id="DDI-DrugBank.d3.s12.e0" text="TORADOL" type="brand"/>
+        <entity charOffset="32-38" id="DDI-DrugBank.d3.s12.e1" text="lithium" type="drug"/>
+        <entity charOffset="85-91" id="DDI-DrugBank.d3.s12.e2" text="lithium" type="drug"/>
+        <entity charOffset="114-120" id="DDI-DrugBank.d3.s12.e3" text="TORADOL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s12.e0" e2="DDI-DrugBank.d3.s12.e1" id="DDI-DrugBank.d3.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s12.e0" e2="DDI-DrugBank.d3.s12.e2" id="DDI-DrugBank.d3.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s12.e0" e2="DDI-DrugBank.d3.s12.e3" id="DDI-DrugBank.d3.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s12.e1" e2="DDI-DrugBank.d3.s12.e2" id="DDI-DrugBank.d3.s12.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s12.e1" e2="DDI-DrugBank.d3.s12.e3" id="DDI-DrugBank.d3.s12.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s12.e2" e2="DDI-DrugBank.d3.s12.e3" id="DDI-DrugBank.d3.s12.p5" type="mechanism"/>
+    <negationtags>The effect of TORADOL on plasma lithium has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied, &lt;/scope&gt; but cases of increased lithium plasma levels during TORADOL therapy have been reported.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s13" text="Methotrexate: Concomitant administration of methotrexate and some NSAIDs has been reported to reduce the clearance of methotrexate, enhancing the toxicity of methotrexate.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d3.s13.e0" text="Methotrexate" type="drug"/>
+        <entity charOffset="44-55" id="DDI-DrugBank.d3.s13.e1" text="methotrexate" type="drug"/>
+        <entity charOffset="66-71" id="DDI-DrugBank.d3.s13.e2" text="NSAIDs" type="group"/>
+        <entity charOffset="118-129" id="DDI-DrugBank.d3.s13.e3" text="methotrexate" type="drug"/>
+        <entity charOffset="158-169" id="DDI-DrugBank.d3.s13.e4" text="methotrexate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e0" e2="DDI-DrugBank.d3.s13.e1" id="DDI-DrugBank.d3.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e0" e2="DDI-DrugBank.d3.s13.e2" id="DDI-DrugBank.d3.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e0" e2="DDI-DrugBank.d3.s13.e3" id="DDI-DrugBank.d3.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e0" e2="DDI-DrugBank.d3.s13.e4" id="DDI-DrugBank.d3.s13.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s13.e1" e2="DDI-DrugBank.d3.s13.e2" id="DDI-DrugBank.d3.s13.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e1" e2="DDI-DrugBank.d3.s13.e3" id="DDI-DrugBank.d3.s13.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e1" e2="DDI-DrugBank.d3.s13.e4" id="DDI-DrugBank.d3.s13.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e2" e2="DDI-DrugBank.d3.s13.e3" id="DDI-DrugBank.d3.s13.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e2" e2="DDI-DrugBank.d3.s13.e4" id="DDI-DrugBank.d3.s13.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s13.e3" e2="DDI-DrugBank.d3.s13.e4" id="DDI-DrugBank.d3.s13.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s14" text="The effect of TORADOL on methotrexate clearance has not been studied.">
+        <entity charOffset="14-20" id="DDI-DrugBank.d3.s14.e0" text="TORADOL" type="brand"/>
+        <entity charOffset="25-36" id="DDI-DrugBank.d3.s14.e1" text="methotrexate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s14.e0" e2="DDI-DrugBank.d3.s14.e1" id="DDI-DrugBank.d3.s14.p0"/>
+    <negationtags>The effect of TORADOL on methotrexate clearance has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s15" text="Nondepolarizing Muscle Relaxants: In postmarketing experience there have been reports of a possible interaction between TORADOLIV/IM and nondepolarizing muscle relaxants that resulted in apnea.">
+        <entity charOffset="0-31" id="DDI-DrugBank.d3.s15.e0" text="Nondepolarizing Muscle Relaxants" type="group"/>
+        <entity charOffset="137-168" id="DDI-DrugBank.d3.s15.e1" text="nondepolarizing muscle relaxants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s15.e0" e2="DDI-DrugBank.d3.s15.e1" id="DDI-DrugBank.d3.s15.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s16" text="The concurrent use of TORADOL with muscle relaxants has not been formally studied.">
+        <entity charOffset="22-28" id="DDI-DrugBank.d3.s16.e0" text="TORADOL" type="brand"/>
+        <entity charOffset="35-50" id="DDI-DrugBank.d3.s16.e1" text="muscle relaxants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s16.e0" e2="DDI-DrugBank.d3.s16.e1" id="DDI-DrugBank.d3.s16.p0"/>
+    <negationtags>The concurrent use of TORADOL with muscle relaxants has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been formally studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s17" text="ACE Inhibitors: Concomitant use of ACE inhibitors may increase the risk of renal impairment, particularly in volume-depleted patients.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d3.s17.e0" text="ACE Inhibitors" type="group"/>
+        <entity charOffset="35-48" id="DDI-DrugBank.d3.s17.e1" text="ACE inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s17.e0" e2="DDI-DrugBank.d3.s17.e1" id="DDI-DrugBank.d3.s17.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s18" text="Antiepileptic Drugs: Sporadic cases of seizures have been reported during concomitant use of TORADOL and antiepileptic drugs (phenytoin, carbamazepine).">
+        <entity charOffset="0-18" id="DDI-DrugBank.d3.s18.e0" text="Antiepileptic Drugs" type="group"/>
+        <entity charOffset="93-99" id="DDI-DrugBank.d3.s18.e1" text="TORADOL" type="brand"/>
+        <entity charOffset="105-123" id="DDI-DrugBank.d3.s18.e2" text="antiepileptic drugs" type="group"/>
+        <entity charOffset="126-134" id="DDI-DrugBank.d3.s18.e3" text="phenytoin" type="drug"/>
+        <entity charOffset="137-149" id="DDI-DrugBank.d3.s18.e4" text="carbamazepine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s18.e0" e2="DDI-DrugBank.d3.s18.e1" id="DDI-DrugBank.d3.s18.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s18.e0" e2="DDI-DrugBank.d3.s18.e2" id="DDI-DrugBank.d3.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s18.e0" e2="DDI-DrugBank.d3.s18.e3" id="DDI-DrugBank.d3.s18.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s18.e0" e2="DDI-DrugBank.d3.s18.e4" id="DDI-DrugBank.d3.s18.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s18.e1" e2="DDI-DrugBank.d3.s18.e2" id="DDI-DrugBank.d3.s18.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s18.e1" e2="DDI-DrugBank.d3.s18.e3" id="DDI-DrugBank.d3.s18.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s18.e1" e2="DDI-DrugBank.d3.s18.e4" id="DDI-DrugBank.d3.s18.p6" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s18.e2" e2="DDI-DrugBank.d3.s18.e3" id="DDI-DrugBank.d3.s18.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s18.e2" e2="DDI-DrugBank.d3.s18.e4" id="DDI-DrugBank.d3.s18.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s18.e3" e2="DDI-DrugBank.d3.s18.e4" id="DDI-DrugBank.d3.s18.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s19" text="Psychoactive Drugs: Hallucinations have been reported when TORADOL was used in patients taking psychoactive drugs (fluoxetine, thiothixene, alprazolam).">
+        <entity charOffset="0-17" id="DDI-DrugBank.d3.s19.e0" text="Psychoactive Drugs" type="group"/>
+        <entity charOffset="59-65" id="DDI-DrugBank.d3.s19.e1" text="TORADOL" type="brand"/>
+        <entity charOffset="95-112" id="DDI-DrugBank.d3.s19.e2" text="psychoactive drugs" type="group"/>
+        <entity charOffset="115-124" id="DDI-DrugBank.d3.s19.e3" text="fluoxetine" type="drug"/>
+        <entity charOffset="127-137" id="DDI-DrugBank.d3.s19.e4" text="thiothixene" type="drug"/>
+        <entity charOffset="140-149" id="DDI-DrugBank.d3.s19.e5" text="alprazolam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e0" e2="DDI-DrugBank.d3.s19.e1" id="DDI-DrugBank.d3.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e0" e2="DDI-DrugBank.d3.s19.e2" id="DDI-DrugBank.d3.s19.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e0" e2="DDI-DrugBank.d3.s19.e3" id="DDI-DrugBank.d3.s19.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e0" e2="DDI-DrugBank.d3.s19.e4" id="DDI-DrugBank.d3.s19.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e0" e2="DDI-DrugBank.d3.s19.e5" id="DDI-DrugBank.d3.s19.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s19.e1" e2="DDI-DrugBank.d3.s19.e2" id="DDI-DrugBank.d3.s19.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s19.e1" e2="DDI-DrugBank.d3.s19.e3" id="DDI-DrugBank.d3.s19.p6" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s19.e1" e2="DDI-DrugBank.d3.s19.e4" id="DDI-DrugBank.d3.s19.p7" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d3.s19.e1" e2="DDI-DrugBank.d3.s19.e5" id="DDI-DrugBank.d3.s19.p8" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e2" e2="DDI-DrugBank.d3.s19.e3" id="DDI-DrugBank.d3.s19.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e2" e2="DDI-DrugBank.d3.s19.e4" id="DDI-DrugBank.d3.s19.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e2" e2="DDI-DrugBank.d3.s19.e5" id="DDI-DrugBank.d3.s19.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e3" e2="DDI-DrugBank.d3.s19.e4" id="DDI-DrugBank.d3.s19.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e3" e2="DDI-DrugBank.d3.s19.e5" id="DDI-DrugBank.d3.s19.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s19.e4" e2="DDI-DrugBank.d3.s19.e5" id="DDI-DrugBank.d3.s19.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d3.s20" text="Morphine: TORADOLIV/IM has been administered concurrently with morphine in several clinical trials of postoperative pain without evidence of adverse interactions.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d3.s20.e0" text="Morphine" type="drug"/>
+        <entity charOffset="63-70" id="DDI-DrugBank.d3.s20.e1" text="morphine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s20.e0" e2="DDI-DrugBank.d3.s20.e1" id="DDI-DrugBank.d3.s20.p0"/>
+    <negationtags>Morphine: TORADOLIV/IM has been administered concurrently with morphine in several clinical trials of postoperative pain &lt;scope&gt; &lt;cue&gt; without evidence &lt;/cue&gt; of adverse interactions. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s21" text="Do not mix TORADOL and morphine in the same syringe.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d3.s21.e0" text="TORADOL" type="brand"/>
+        <entity charOffset="23-30" id="DDI-DrugBank.d3.s21.e1" text="morphine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d3.s21.e0" e2="DDI-DrugBank.d3.s21.e1" id="DDI-DrugBank.d3.s21.p0"/>
+    <negationtags>Do &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; mix TORADOL and morphine in the same syringe. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s22" text="There is no evidence in animal or human studies that TORADOL induces or inhibits hepatic enzymes capable of metabolizing itself or other drugs">
+        <entity charOffset="53-59" id="DDI-DrugBank.d3.s22.e0" text="TORADOL" type="brand"/>
+    <negationtags>There is &lt;scope&gt; &lt;cue&gt; no evidence &lt;/cue&gt; in animal or human studies that TORADOL induces or inhibits hepatic enzymes capable of metabolizing itself or other drugs &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d3.s23" text="."/>
+    <sentence id="DDI-DrugBank.d3.s24" text=""/>
+</document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d344">
+    <sentence id="DDI-DrugBank.d344.s0" text="Concomitant use of calcium supplements and L-lysine may increase calcium absorption">
+        <entity charOffset="19-25" id="DDI-DrugBank.d344.s0.e0" text="calcium" type="drug"/>
+        <entity charOffset="43-50" id="DDI-DrugBank.d344.s0.e1" text="L-lysine" type="drug"/>
+        <entity charOffset="65-71" id="DDI-DrugBank.d344.s0.e2" text="calcium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d344.s0.e0" e2="DDI-DrugBank.d344.s0.e1" id="DDI-DrugBank.d344.s0.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d344.s0.e0" e2="DDI-DrugBank.d344.s0.e2" id="DDI-DrugBank.d344.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d344.s0.e1" e2="DDI-DrugBank.d344.s0.e2" id="DDI-DrugBank.d344.s0.p2"/>
+    </sentence>
+</document>

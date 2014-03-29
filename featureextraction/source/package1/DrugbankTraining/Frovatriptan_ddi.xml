@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d426">
+    <sentence id="DDI-DrugBank.d426.s0" text="Ergot-containing drugs have been reported to cause prolonged vasospastic reactions."/>
+    <sentence id="DDI-DrugBank.d426.s1" text="Due to a theoretical risk of a pharmacodynamic interaction, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and FROVA within 24 hours of each other should be avoided (see  a href= frova_od.htm#CI CONTRAINDICATIONS).">
+        <entity charOffset="67-76" id="DDI-DrugBank.d426.s1.e0" text="ergotamine" type="drug"/>
+        <entity charOffset="92-113" id="DDI-DrugBank.d426.s1.e1" text="ergot-type medications" type="group"/>
+        <entity charOffset="121-137" id="DDI-DrugBank.d426.s1.e2" text="dihydroergotamine" type="drug"/>
+        <entity charOffset="142-153" id="DDI-DrugBank.d426.s1.e3" text="methysergide" type="drug"/>
+        <entity charOffset="160-164" id="DDI-DrugBank.d426.s1.e4" text="FROVA" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s1.e0" e2="DDI-DrugBank.d426.s1.e1" id="DDI-DrugBank.d426.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s1.e0" e2="DDI-DrugBank.d426.s1.e2" id="DDI-DrugBank.d426.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s1.e0" e2="DDI-DrugBank.d426.s1.e3" id="DDI-DrugBank.d426.s1.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s1.e0" e2="DDI-DrugBank.d426.s1.e4" id="DDI-DrugBank.d426.s1.p3" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s1.e1" e2="DDI-DrugBank.d426.s1.e2" id="DDI-DrugBank.d426.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s1.e1" e2="DDI-DrugBank.d426.s1.e3" id="DDI-DrugBank.d426.s1.p5"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s1.e1" e2="DDI-DrugBank.d426.s1.e4" id="DDI-DrugBank.d426.s1.p6" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s1.e2" e2="DDI-DrugBank.d426.s1.e3" id="DDI-DrugBank.d426.s1.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s1.e2" e2="DDI-DrugBank.d426.s1.e4" id="DDI-DrugBank.d426.s1.p8" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s1.e3" e2="DDI-DrugBank.d426.s1.e4" id="DDI-DrugBank.d426.s1.p9" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d426.s2" text="Concomitant use of other 5-HT1B/1D agonists within 24 hours of FROVA treatment is not recommended.">
+        <entity charOffset="63-67" id="DDI-DrugBank.d426.s2.e0" text="FROVA" type="brand"/>
+    <negationtags>Concomitant use of other 5-HT1B/1D agonists within 24 hours of FROVA treatment is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d426.s3" text="Selective serotonin reuptake inhibitors (SSRIs) (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline) have been reported, rarely, to cause weakness, hyperreflexia, and incoordination when coadministered with 5-HT1 agonists.">
+        <entity charOffset="0-38" id="DDI-DrugBank.d426.s3.e0" text="Selective serotonin reuptake inhibitors" type="group"/>
+        <entity charOffset="41-45" id="DDI-DrugBank.d426.s3.e1" text="SSRIs" type="group"/>
+        <entity charOffset="55-64" id="DDI-DrugBank.d426.s3.e2" text="fluoxetine" type="drug"/>
+        <entity charOffset="67-77" id="DDI-DrugBank.d426.s3.e3" text="fluvoxamine" type="drug"/>
+        <entity charOffset="80-89" id="DDI-DrugBank.d426.s3.e4" text="paroxetine" type="drug"/>
+        <entity charOffset="92-101" id="DDI-DrugBank.d426.s3.e5" text="sertraline" type="drug"/>
+        <entity charOffset="210-223" id="DDI-DrugBank.d426.s3.e6" text="5-HT1 agonists" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e0" e2="DDI-DrugBank.d426.s3.e1" id="DDI-DrugBank.d426.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e0" e2="DDI-DrugBank.d426.s3.e2" id="DDI-DrugBank.d426.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e0" e2="DDI-DrugBank.d426.s3.e3" id="DDI-DrugBank.d426.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e0" e2="DDI-DrugBank.d426.s3.e4" id="DDI-DrugBank.d426.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e0" e2="DDI-DrugBank.d426.s3.e5" id="DDI-DrugBank.d426.s3.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s3.e0" e2="DDI-DrugBank.d426.s3.e6" id="DDI-DrugBank.d426.s3.p5" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e1" e2="DDI-DrugBank.d426.s3.e2" id="DDI-DrugBank.d426.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e1" e2="DDI-DrugBank.d426.s3.e3" id="DDI-DrugBank.d426.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e1" e2="DDI-DrugBank.d426.s3.e4" id="DDI-DrugBank.d426.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e1" e2="DDI-DrugBank.d426.s3.e5" id="DDI-DrugBank.d426.s3.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s3.e1" e2="DDI-DrugBank.d426.s3.e6" id="DDI-DrugBank.d426.s3.p10" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e2" e2="DDI-DrugBank.d426.s3.e3" id="DDI-DrugBank.d426.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e2" e2="DDI-DrugBank.d426.s3.e4" id="DDI-DrugBank.d426.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e2" e2="DDI-DrugBank.d426.s3.e5" id="DDI-DrugBank.d426.s3.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s3.e2" e2="DDI-DrugBank.d426.s3.e6" id="DDI-DrugBank.d426.s3.p14" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e3" e2="DDI-DrugBank.d426.s3.e4" id="DDI-DrugBank.d426.s3.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e3" e2="DDI-DrugBank.d426.s3.e5" id="DDI-DrugBank.d426.s3.p16"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s3.e3" e2="DDI-DrugBank.d426.s3.e6" id="DDI-DrugBank.d426.s3.p17" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d426.s3.e4" e2="DDI-DrugBank.d426.s3.e5" id="DDI-DrugBank.d426.s3.p18"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s3.e4" e2="DDI-DrugBank.d426.s3.e6" id="DDI-DrugBank.d426.s3.p19" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s3.e5" e2="DDI-DrugBank.d426.s3.e6" id="DDI-DrugBank.d426.s3.p20" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d426.s4" text="If concomitant treatment with frovatriptan and an SSRI is clinically warranted, appropriate observation of the patient is advised.">
+        <entity charOffset="30-41" id="DDI-DrugBank.d426.s4.e0" text="frovatriptan" type="drug"/>
+        <entity charOffset="50-53" id="DDI-DrugBank.d426.s4.e1" text="SSRI" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d426.s4.e0" e2="DDI-DrugBank.d426.s4.e1" id="DDI-DrugBank.d426.s4.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d426.s5" text="Drug/Laboratory Test Interactions FROVA is not known to interfere with commonly employed clinical laboratory tests.">
+        <entity charOffset="34-38" id="DDI-DrugBank.d426.s5.e0" text="FROVA" type="brand"/>
+    <negationtags>Drug/Laboratory Test Interactions FROVA is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known to interfere with commonly employed clinical laboratory tests. &lt;/scope&gt;</negationtags></sentence>
+</document>

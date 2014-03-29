@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d224">
+    <sentence id="DDI-DrugBank.d224.s0" text="Apraclonidine should not be used in patients receiving MAO inhibitors..">
+        <entity charOffset="0-12" id="DDI-DrugBank.d224.s0.e0" text="Apraclonidine" type="drug"/>
+        <entity charOffset="55-68" id="DDI-DrugBank.d224.s0.e1" text="MAO inhibitors" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s0.e0" e2="DDI-DrugBank.d224.s0.e1" id="DDI-DrugBank.d224.s0.p0" type="advise"/>
+    <negationtags>Apraclonidine should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used in patients receiving MAO inhibitors.. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d224.s1" text="Although no specific drug interactions with topical glaucoma drugs or systemic medications were identified in clinical studies of IOPIDINE 0.5% Ophthalmic Solution, the possibility of an additive or potentiating effect with CNS depressants (alcohol, barbiturates, opiates, sedatives, anesthetics) should be considered.">
+        <entity charOffset="130-137" id="DDI-DrugBank.d224.s1.e0" text="IOPIDINE" type="brand"/>
+        <entity charOffset="224-238" id="DDI-DrugBank.d224.s1.e1" text="CNS depressants" type="group"/>
+        <entity charOffset="241-247" id="DDI-DrugBank.d224.s1.e2" text="alcohol" type="drug"/>
+        <entity charOffset="250-261" id="DDI-DrugBank.d224.s1.e3" text="barbiturates" type="group"/>
+        <entity charOffset="264-270" id="DDI-DrugBank.d224.s1.e4" text="opiates" type="group"/>
+        <entity charOffset="273-281" id="DDI-DrugBank.d224.s1.e5" text="sedatives" type="group"/>
+        <entity charOffset="284-294" id="DDI-DrugBank.d224.s1.e6" text="anesthetics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s1.e0" e2="DDI-DrugBank.d224.s1.e1" id="DDI-DrugBank.d224.s1.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s1.e0" e2="DDI-DrugBank.d224.s1.e2" id="DDI-DrugBank.d224.s1.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s1.e0" e2="DDI-DrugBank.d224.s1.e3" id="DDI-DrugBank.d224.s1.p2" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s1.e0" e2="DDI-DrugBank.d224.s1.e4" id="DDI-DrugBank.d224.s1.p3" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s1.e0" e2="DDI-DrugBank.d224.s1.e5" id="DDI-DrugBank.d224.s1.p4" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s1.e0" e2="DDI-DrugBank.d224.s1.e6" id="DDI-DrugBank.d224.s1.p5" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e1" e2="DDI-DrugBank.d224.s1.e2" id="DDI-DrugBank.d224.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e1" e2="DDI-DrugBank.d224.s1.e3" id="DDI-DrugBank.d224.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e1" e2="DDI-DrugBank.d224.s1.e4" id="DDI-DrugBank.d224.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e1" e2="DDI-DrugBank.d224.s1.e5" id="DDI-DrugBank.d224.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e1" e2="DDI-DrugBank.d224.s1.e6" id="DDI-DrugBank.d224.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e2" e2="DDI-DrugBank.d224.s1.e3" id="DDI-DrugBank.d224.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e2" e2="DDI-DrugBank.d224.s1.e4" id="DDI-DrugBank.d224.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e2" e2="DDI-DrugBank.d224.s1.e5" id="DDI-DrugBank.d224.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e2" e2="DDI-DrugBank.d224.s1.e6" id="DDI-DrugBank.d224.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e3" e2="DDI-DrugBank.d224.s1.e4" id="DDI-DrugBank.d224.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e3" e2="DDI-DrugBank.d224.s1.e5" id="DDI-DrugBank.d224.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e3" e2="DDI-DrugBank.d224.s1.e6" id="DDI-DrugBank.d224.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e4" e2="DDI-DrugBank.d224.s1.e5" id="DDI-DrugBank.d224.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e4" e2="DDI-DrugBank.d224.s1.e6" id="DDI-DrugBank.d224.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s1.e5" e2="DDI-DrugBank.d224.s1.e6" id="DDI-DrugBank.d224.s1.p20"/>
+    <negationtags>Although &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; specific drug interactions with topical glaucoma drugs or systemic medications were identified in clinical studies of IOPIDINE 0.5% Ophthalmic Solution, the possibility of an additive or potentiating effect with CNS depressants (alcohol, barbiturates, opiates, sedatives, anesthetics) should be considered. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d224.s2" text="Tricyclic antidepressants have been reported to blunt the hypotensive effect of systemic clonidine.">
+        <entity charOffset="0-24" id="DDI-DrugBank.d224.s2.e0" text="Tricyclic antidepressants" type="group"/>
+        <entity charOffset="89-97" id="DDI-DrugBank.d224.s2.e1" text="clonidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s2.e0" e2="DDI-DrugBank.d224.s2.e1" id="DDI-DrugBank.d224.s2.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s3" text="It is not known whether the concurrent use of these agents with apraclonidine can lead to a reduction in IOP lowering effect.">
+        <entity charOffset="64-76" id="DDI-DrugBank.d224.s3.e0" text="apraclonidine" type="drug"/>
+    <negationtags>It is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known whether the concurrent use of these agents with apraclonidine can lead to a reduction in IOP lowering effect. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d224.s4" text="No data on the level of circulating catecholamines after apraclonidine withdrawal are available.">
+        <entity charOffset="57-69" id="DDI-DrugBank.d224.s4.e0" text="apraclonidine" type="drug"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; data on the level of circulating catecholamines after apraclonidine withdrawal are available. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d224.s5" text="Caution, however, is advised in patients taking tricyclic antidepressants which can affect the metabolism and uptake of circulating amines.">
+        <entity charOffset="48-72" id="DDI-DrugBank.d224.s5.e0" text="tricyclic antidepressants" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s6" text="An additive hypotensive effect has been reported with the combination of systemic clonidine and neuroleptic therapy.">
+        <entity charOffset="82-90" id="DDI-DrugBank.d224.s6.e0" text="clonidine" type="drug"/>
+        <entity charOffset="96-106" id="DDI-DrugBank.d224.s6.e1" text="neuroleptic" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s6.e0" e2="DDI-DrugBank.d224.s6.e1" id="DDI-DrugBank.d224.s6.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s7" text="Systemic clonidine may inhibit the production of catecholamines in response to insulin-induced hypoglycemia and mask the signs and symptoms of hypoglycemia.">
+        <entity charOffset="9-17" id="DDI-DrugBank.d224.s7.e0" text="clonidine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s8" text="Since apraclonidine may reduce pulse and blood pressure, caution in using drugs such as beta-blockers (ophthalmic and systemic), antihypertensives, and cardiac glycosides is advised.">
+        <entity charOffset="6-18" id="DDI-DrugBank.d224.s8.e0" text="apraclonidine" type="drug"/>
+        <entity charOffset="88-100" id="DDI-DrugBank.d224.s8.e1" text="beta-blockers" type="group"/>
+        <entity charOffset="129-145" id="DDI-DrugBank.d224.s8.e2" text="antihypertensives" type="group"/>
+        <entity charOffset="152-169" id="DDI-DrugBank.d224.s8.e3" text="cardiac glycosides" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s8.e0" e2="DDI-DrugBank.d224.s8.e1" id="DDI-DrugBank.d224.s8.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s8.e0" e2="DDI-DrugBank.d224.s8.e2" id="DDI-DrugBank.d224.s8.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d224.s8.e0" e2="DDI-DrugBank.d224.s8.e3" id="DDI-DrugBank.d224.s8.p2" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s8.e1" e2="DDI-DrugBank.d224.s8.e2" id="DDI-DrugBank.d224.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s8.e1" e2="DDI-DrugBank.d224.s8.e3" id="DDI-DrugBank.d224.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d224.s8.e2" e2="DDI-DrugBank.d224.s8.e3" id="DDI-DrugBank.d224.s8.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s9" text="Patients using cardiovascular drugs concurrently with IOPIDINE 0.5% Ophthalmic Solution should have pulse and blood pressures frequently monitored.">
+        <entity charOffset="54-61" id="DDI-DrugBank.d224.s9.e0" text="IOPIDINE" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s10" text="Caution should be exercised with simultaneous use of clonidine and other similar pharmacologic agents">
+        <entity charOffset="53-61" id="DDI-DrugBank.d224.s10.e0" text="clonidine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d224.s11" text="."/>
+    <sentence id="DDI-DrugBank.d224.s12" text=""/>
+</document>

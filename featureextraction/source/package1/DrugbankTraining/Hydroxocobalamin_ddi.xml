@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d418">
+    <sentence id="DDI-DrugBank.d418.s0" text="No formal drug interaction studies have been conducted with Cyanokit.">
+        <entity charOffset="60-67" id="DDI-DrugBank.d418.s0.e0" text="Cyanokit" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; formal drug interaction studies have been conducted with Cyanokit. &lt;/scope&gt;</negationtags></sentence>
+</document>

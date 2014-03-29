@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d258">
+    <sentence id="DDI-DrugBank.d258.s0" text="Loratadine (10 mg once daily) has been coadministered with therapeutic doses of erythromycin, cimetidine, and ketoconazole in controlled clinical pharmacology studies in adult volunteers.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d258.s0.e0" text="Loratadine" type="drug"/>
+        <entity charOffset="80-91" id="DDI-DrugBank.d258.s0.e1" text="erythromycin" type="drug"/>
+        <entity charOffset="94-103" id="DDI-DrugBank.d258.s0.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="110-121" id="DDI-DrugBank.d258.s0.e3" text="ketoconazole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s0.e0" e2="DDI-DrugBank.d258.s0.e1" id="DDI-DrugBank.d258.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s0.e0" e2="DDI-DrugBank.d258.s0.e2" id="DDI-DrugBank.d258.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s0.e0" e2="DDI-DrugBank.d258.s0.e3" id="DDI-DrugBank.d258.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s0.e1" e2="DDI-DrugBank.d258.s0.e2" id="DDI-DrugBank.d258.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s0.e1" e2="DDI-DrugBank.d258.s0.e3" id="DDI-DrugBank.d258.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s0.e2" e2="DDI-DrugBank.d258.s0.e3" id="DDI-DrugBank.d258.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s1" text="Although increased plasma concentrations (AUC 0-24 hrs) of loratadine and/or descarboethoxyloratadine were observed following coadministration of loratadine with each of these drugs in normal volunteers (n = 24 in each study), there were no clinically relevant changes in the safety profile of loratadine, as assessed by electrocardiographic parameters, clinical laboratory tests, vital signs, and adverse events.">
+        <entity charOffset="59-68" id="DDI-DrugBank.d258.s1.e0" text="loratadine" type="drug"/>
+        <entity charOffset="77-100" id="DDI-DrugBank.d258.s1.e1" text="descarboethoxyloratadine" type="drug"/>
+        <entity charOffset="146-155" id="DDI-DrugBank.d258.s1.e2" text="loratadine" type="drug"/>
+        <entity charOffset="294-303" id="DDI-DrugBank.d258.s1.e3" text="loratadine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s1.e0" e2="DDI-DrugBank.d258.s1.e1" id="DDI-DrugBank.d258.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s1.e0" e2="DDI-DrugBank.d258.s1.e2" id="DDI-DrugBank.d258.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s1.e0" e2="DDI-DrugBank.d258.s1.e3" id="DDI-DrugBank.d258.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s1.e1" e2="DDI-DrugBank.d258.s1.e2" id="DDI-DrugBank.d258.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s1.e1" e2="DDI-DrugBank.d258.s1.e3" id="DDI-DrugBank.d258.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s1.e2" e2="DDI-DrugBank.d258.s1.e3" id="DDI-DrugBank.d258.s1.p5"/>
+    <negationtags>Although increased plasma concentrations (AUC 0-24 hrs) of loratadine and/or descarboethoxyloratadine were observed following coadministration of loratadine with each of these drugs in normal volunteers (n = 24 in each study), there were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically relevant changes in the safety profile of loratadine, as assessed by electrocardiographic parameters, clinical laboratory tests, vital signs, and adverse events. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d258.s2" text="There were no significant effects on QTc intervals, and no reports of sedation or syncope."><negationtags>There were &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effects on QTc intervals, and no reports of sedation or syncope. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d258.s3" text="No effects on plasma concentrations of cimetidine or ketoconazole were observed.">
+        <entity charOffset="39-48" id="DDI-DrugBank.d258.s3.e0" text="cimetidine" type="drug"/>
+        <entity charOffset="53-64" id="DDI-DrugBank.d258.s3.e1" text="ketoconazole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s3.e0" e2="DDI-DrugBank.d258.s3.e1" id="DDI-DrugBank.d258.s3.p0"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; effects on plasma concentrations of cimetidine or ketoconazole were observed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d258.s4" text="Plasma concentrations (AUC 0-24 hrs) of erythromycin decreased 15% with coadministration of loratadine relative to that observed with erythromycin alone.">
+        <entity charOffset="40-51" id="DDI-DrugBank.d258.s4.e0" text="erythromycin" type="drug"/>
+        <entity charOffset="92-101" id="DDI-DrugBank.d258.s4.e1" text="loratadine" type="drug"/>
+        <entity charOffset="134-145" id="DDI-DrugBank.d258.s4.e2" text="erythromycin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d258.s4.e0" e2="DDI-DrugBank.d258.s4.e1" id="DDI-DrugBank.d258.s4.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s4.e0" e2="DDI-DrugBank.d258.s4.e2" id="DDI-DrugBank.d258.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s4.e1" e2="DDI-DrugBank.d258.s4.e2" id="DDI-DrugBank.d258.s4.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s5" text="The clinical relevance of this difference is unknown."/>
+    <sentence id="DDI-DrugBank.d258.s6" text="These above findings are summarized in TABLE 1."/>
+    <sentence id="DDI-DrugBank.d258.s7" text="TABLE 1 Effects on Plasma Concentrations (AUC 0-24 hrs) of Loratadine and Descarboethoxyloratadine After 10 Days of Coadministration (Loratadine 10 mg) in Normal Volunteers">
+        <entity charOffset="59-68" id="DDI-DrugBank.d258.s7.e0" text="Loratadine" type="drug"/>
+        <entity charOffset="74-97" id="DDI-DrugBank.d258.s7.e1" text="Descarboethoxyloratadine" type="drug"/>
+        <entity charOffset="134-143" id="DDI-DrugBank.d258.s7.e2" text="Loratadine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s7.e0" e2="DDI-DrugBank.d258.s7.e1" id="DDI-DrugBank.d258.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s7.e0" e2="DDI-DrugBank.d258.s7.e2" id="DDI-DrugBank.d258.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s7.e1" e2="DDI-DrugBank.d258.s7.e2" id="DDI-DrugBank.d258.s7.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s8" text="Loratadine Descarboethoxyloratadine">
+        <entity charOffset="0-9" id="DDI-DrugBank.d258.s8.e0" text="Loratadine" type="drug"/>
+        <entity charOffset="11-34" id="DDI-DrugBank.d258.s8.e1" text="Descarboethoxyloratadine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s8.e0" e2="DDI-DrugBank.d258.s8.e1" id="DDI-DrugBank.d258.s8.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s9" text="Erythromycin (500 mg q8h) + 40% +46%">
+        <entity charOffset="0-11" id="DDI-DrugBank.d258.s9.e0" text="Erythromycin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s10" text="Cimetidine (300 mg qid) +103% + 6%">
+        <entity charOffset="0-9" id="DDI-DrugBank.d258.s10.e0" text="Cimetidine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s11" text="Ketoconazole (200 mg q12h) +307% +73%">
+        <entity charOffset="0-11" id="DDI-DrugBank.d258.s11.e0" text="Ketoconazole" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d258.s12" text="There does not appear to be an increase in adverse events in subjects who received oral contraceptives and loratadine.">
+        <entity charOffset="88-101" id="DDI-DrugBank.d258.s12.e0" text="contraceptives" type="group"/>
+        <entity charOffset="107-116" id="DDI-DrugBank.d258.s12.e1" text="loratadine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d258.s12.e0" e2="DDI-DrugBank.d258.s12.e1" id="DDI-DrugBank.d258.s12.p0"/>
+    <negationtags>There does &lt;scope&gt; &lt;cue&gt; not appear &lt;/cue&gt; to be an increase in adverse events in subjects who received oral contraceptives and loratadine. &lt;/scope&gt;</negationtags></sentence>
+</document>

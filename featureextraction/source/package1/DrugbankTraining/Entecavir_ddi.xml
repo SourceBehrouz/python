@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d295">
+    <sentence id="DDI-DrugBank.d295.s0" text="Since entecavir is primarily eliminated by the kidneys, coadministration of BARACLUDE with drugs that reduce renal function or compete for active tubular secretion may increase serum concentrations of either entecavir or the coadministered drug.">
+        <entity charOffset="6-14" id="DDI-DrugBank.d295.s0.e0" text="entecavir" type="drug"/>
+        <entity charOffset="76-84" id="DDI-DrugBank.d295.s0.e1" text="BARACLUDE" type="brand"/>
+        <entity charOffset="208-216" id="DDI-DrugBank.d295.s0.e2" text="entecavir" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s0.e0" e2="DDI-DrugBank.d295.s0.e1" id="DDI-DrugBank.d295.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s0.e0" e2="DDI-DrugBank.d295.s0.e2" id="DDI-DrugBank.d295.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s0.e1" e2="DDI-DrugBank.d295.s0.e2" id="DDI-DrugBank.d295.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d295.s1" text="Coadministration of entecavir with lamivudine, adefovir dipivoxil,or tenofovir disoproxil fumarate did not result in significant drug interactions.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d295.s1.e0" text="entecavir" type="drug"/>
+        <entity charOffset="35-44" id="DDI-DrugBank.d295.s1.e1" text="lamivudine" type="drug"/>
+        <entity charOffset="47-64" id="DDI-DrugBank.d295.s1.e2" text="adefovir dipivoxil" type="drug"/>
+        <entity charOffset="69-97" id="DDI-DrugBank.d295.s1.e3" text="tenofovir disoproxil fumarate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s1.e0" e2="DDI-DrugBank.d295.s1.e1" id="DDI-DrugBank.d295.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s1.e0" e2="DDI-DrugBank.d295.s1.e2" id="DDI-DrugBank.d295.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s1.e0" e2="DDI-DrugBank.d295.s1.e3" id="DDI-DrugBank.d295.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s1.e1" e2="DDI-DrugBank.d295.s1.e2" id="DDI-DrugBank.d295.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s1.e1" e2="DDI-DrugBank.d295.s1.e3" id="DDI-DrugBank.d295.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s1.e2" e2="DDI-DrugBank.d295.s1.e3" id="DDI-DrugBank.d295.s1.p5"/>
+    <negationtags>Coadministration of entecavir with lamivudine, adefovir dipivoxil,or tenofovir disoproxil fumarate did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; result in significant drug interactions. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d295.s2" text="The effects of coadministration of BARACLUDE with other drugs that are renally eliminated or are known to affect renal function have not been evaluated, and patients should be monitored closely for adverse events when BARACLUDE is coadministered with such drugs.">
+        <entity charOffset="35-43" id="DDI-DrugBank.d295.s2.e0" text="BARACLUDE" type="brand"/>
+        <entity charOffset="218-226" id="DDI-DrugBank.d295.s2.e1" text="BARACLUDE" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d295.s2.e0" e2="DDI-DrugBank.d295.s2.e1" id="DDI-DrugBank.d295.s2.p0"/>
+    <negationtags>The effects of coadministration of BARACLUDE with other drugs that are renally eliminated or are known to affect renal function have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been evaluated, and patients should be monitored closely for adverse events when BARACLUDE is coadministered with such drugs. &lt;/scope&gt;</negationtags></sentence>
+</document>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d424">
+    <sentence id="DDI-DrugBank.d424.s0" text="Atovaquone is highly bound to plasma protein (99.9%).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d424.s0.e0" text="Atovaquone" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d424.s1" text="Therefore, caution should be used when administering MEPRON concurrently with other highly plasma protein- bound drugs with narrow therapeutic indices, as competition for binding sites may occur.">
+        <entity charOffset="53-58" id="DDI-DrugBank.d424.s1.e0" text="MEPRON" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d424.s2" text="The extent of plasma protein binding of atovaquone in human plasma is not affected by the presence of therapeutic concentrations of phenytoin (15 mcg/ mL), nor is the binding of phenytoin affected by the presence of atovaquone.">
+        <entity charOffset="40-49" id="DDI-DrugBank.d424.s2.e0" text="atovaquone" type="drug"/>
+        <entity charOffset="132-140" id="DDI-DrugBank.d424.s2.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="178-186" id="DDI-DrugBank.d424.s2.e2" text="phenytoin" type="drug"/>
+        <entity charOffset="216-225" id="DDI-DrugBank.d424.s2.e3" text="atovaquone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s2.e0" e2="DDI-DrugBank.d424.s2.e1" id="DDI-DrugBank.d424.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s2.e0" e2="DDI-DrugBank.d424.s2.e2" id="DDI-DrugBank.d424.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s2.e0" e2="DDI-DrugBank.d424.s2.e3" id="DDI-DrugBank.d424.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s2.e1" e2="DDI-DrugBank.d424.s2.e2" id="DDI-DrugBank.d424.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s2.e1" e2="DDI-DrugBank.d424.s2.e3" id="DDI-DrugBank.d424.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s2.e2" e2="DDI-DrugBank.d424.s2.e3" id="DDI-DrugBank.d424.s2.p5"/>
+    <negationtags>The extent of plasma protein binding of atovaquone in human plasma is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected by the presence of therapeutic concentrations of phenytoin (15 mcg/ mL), nor is the binding of phenytoin affected by the presence of atovaquone. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d424.s3" text="Rifampin: Coadministration of rifampin and MEPRON Suspension results in a significant decrease in average steady- state plasma atovaquone concentrations.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d424.s3.e0" text="Rifampin" type="drug"/>
+        <entity charOffset="30-37" id="DDI-DrugBank.d424.s3.e1" text="rifampin" type="drug"/>
+        <entity charOffset="43-48" id="DDI-DrugBank.d424.s3.e2" text="MEPRON" type="brand"/>
+        <entity charOffset="127-136" id="DDI-DrugBank.d424.s3.e3" text="atovaquone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s3.e0" e2="DDI-DrugBank.d424.s3.e1" id="DDI-DrugBank.d424.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s3.e0" e2="DDI-DrugBank.d424.s3.e2" id="DDI-DrugBank.d424.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s3.e0" e2="DDI-DrugBank.d424.s3.e3" id="DDI-DrugBank.d424.s3.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d424.s3.e1" e2="DDI-DrugBank.d424.s3.e2" id="DDI-DrugBank.d424.s3.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s3.e1" e2="DDI-DrugBank.d424.s3.e3" id="DDI-DrugBank.d424.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s3.e2" e2="DDI-DrugBank.d424.s3.e3" id="DDI-DrugBank.d424.s3.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d424.s4" text="Alternatives to rifampin should be considered during the course of PCP treatment with MEPRON.">
+        <entity charOffset="16-23" id="DDI-DrugBank.d424.s4.e0" text="rifampin" type="drug"/>
+        <entity charOffset="86-91" id="DDI-DrugBank.d424.s4.e1" text="MEPRON" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d424.s4.e0" e2="DDI-DrugBank.d424.s4.e1" id="DDI-DrugBank.d424.s4.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d424.s5" text="Rifabutin, another rifamycin, is structurally similar to rifampin and may possibly have some of the same drug interactions as rifampin.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d424.s5.e0" text="Rifabutin" type="drug"/>
+        <entity charOffset="19-27" id="DDI-DrugBank.d424.s5.e1" text="rifamycin" type="drug"/>
+        <entity charOffset="57-64" id="DDI-DrugBank.d424.s5.e2" text="rifampin" type="drug"/>
+        <entity charOffset="126-133" id="DDI-DrugBank.d424.s5.e3" text="rifampin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s5.e0" e2="DDI-DrugBank.d424.s5.e1" id="DDI-DrugBank.d424.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s5.e0" e2="DDI-DrugBank.d424.s5.e2" id="DDI-DrugBank.d424.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s5.e0" e2="DDI-DrugBank.d424.s5.e3" id="DDI-DrugBank.d424.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s5.e1" e2="DDI-DrugBank.d424.s5.e2" id="DDI-DrugBank.d424.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s5.e1" e2="DDI-DrugBank.d424.s5.e3" id="DDI-DrugBank.d424.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s5.e2" e2="DDI-DrugBank.d424.s5.e3" id="DDI-DrugBank.d424.s5.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d424.s6" text="No interaction trials have been conducted with MEPRON and rifabutin.">
+        <entity charOffset="47-52" id="DDI-DrugBank.d424.s6.e0" text="MEPRON" type="brand"/>
+        <entity charOffset="58-66" id="DDI-DrugBank.d424.s6.e1" text="rifabutin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d424.s6.e0" e2="DDI-DrugBank.d424.s6.e1" id="DDI-DrugBank.d424.s6.p0"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; interaction trials have been conducted with MEPRON and rifabutin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d424.s7" text="Drug/ Laboratory Test Interactions: It is not known if MEPRON interferes with clinical laboratory test or assay results.">
+        <entity charOffset="55-60" id="DDI-DrugBank.d424.s7.e0" text="MEPRON" type="brand"/>
+    <negationtags>Drug/ Laboratory Test Interactions: It is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known if MEPRON interferes with clinical laboratory test or assay results. &lt;/scope&gt;</negationtags></sentence>
+</document>

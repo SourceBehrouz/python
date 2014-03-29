@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d198">
+    <sentence id="DDI-DrugBank.d198.s0" text="Effect of other drugs on Vardenafil">
+        <entity charOffset="25-34" id="DDI-DrugBank.d198.s0.e0" text="Vardenafil" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s1" text="In vitro studies: Studies in human liver microsomes showed that vardenafil is metabolized primarily by cytochrome P450 (CYP) isoforms 3A4/5, and to a lesser degree by CYP2C9.">
+        <entity charOffset="64-73" id="DDI-DrugBank.d198.s1.e0" text="vardenafil" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s2" text="Therefore, inhibitors of these enzymes are expected to reduce vardenafil clearance.">
+        <entity charOffset="62-71" id="DDI-DrugBank.d198.s2.e0" text="vardenafil" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s3" text="In vivo studies: Cytochrome P450 Inhibitors"/>
+    <sentence id="DDI-DrugBank.d198.s4" text="Cimetidine (400 mg b.i.d.) had no effect on vardenafil bioavailability (AUC) and maximum concentration (Cmax) of vardenafil when co-administered with 20 mg Vardenafil in healthy volunteers.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d198.s4.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="44-53" id="DDI-DrugBank.d198.s4.e1" text="vardenafil" type="drug"/>
+        <entity charOffset="113-122" id="DDI-DrugBank.d198.s4.e2" text="vardenafil" type="drug"/>
+        <entity charOffset="156-165" id="DDI-DrugBank.d198.s4.e3" text="Vardenafil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s4.e0" e2="DDI-DrugBank.d198.s4.e1" id="DDI-DrugBank.d198.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s4.e0" e2="DDI-DrugBank.d198.s4.e2" id="DDI-DrugBank.d198.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s4.e0" e2="DDI-DrugBank.d198.s4.e3" id="DDI-DrugBank.d198.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s4.e1" e2="DDI-DrugBank.d198.s4.e2" id="DDI-DrugBank.d198.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s4.e1" e2="DDI-DrugBank.d198.s4.e3" id="DDI-DrugBank.d198.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s4.e2" e2="DDI-DrugBank.d198.s4.e3" id="DDI-DrugBank.d198.s4.p5"/>
+    <negationtags>Cimetidine (400 mg b.i.d.) had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on vardenafil bioavailability (AUC) and maximum concentration (Cmax) of vardenafil when co-administered with 20 mg Vardenafil in healthy volunteers. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s5" text="Erythromycin (500 mg t.i.d) produced a 4-fold increase in vardenafil AUC and a 3-fold increase in Cmax when co-administered with Vardenafil 5 mg in healthy volunteers.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d198.s5.e0" text="Erythromycin" type="drug"/>
+        <entity charOffset="58-67" id="DDI-DrugBank.d198.s5.e1" text="vardenafil" type="drug"/>
+        <entity charOffset="129-138" id="DDI-DrugBank.d198.s5.e2" text="Vardenafil" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s5.e0" e2="DDI-DrugBank.d198.s5.e1" id="DDI-DrugBank.d198.s5.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s5.e0" e2="DDI-DrugBank.d198.s5.e2" id="DDI-DrugBank.d198.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s5.e1" e2="DDI-DrugBank.d198.s5.e2" id="DDI-DrugBank.d198.s5.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s6" text="It is recommended not to exceed a single 5 mg dose of Vardenafil in a 24-hour period when used in combination with erythromycin.">
+        <entity charOffset="54-63" id="DDI-DrugBank.d198.s6.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="115-126" id="DDI-DrugBank.d198.s6.e1" text="erythromycin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s6.e0" e2="DDI-DrugBank.d198.s6.e1" id="DDI-DrugBank.d198.s6.p0" type="advise"/>
+    <negationtags>It is recommended &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; to exceed a single 5 mg dose of Vardenafil in a 24-hour period when used in combination with erythromycin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s7" text="Ketoconazole (200 mg once daily) produced a 10-fold increase in vardenafil AUC and a 4-fold increase in Cmax when co-administered with Vardenafil (5 mg) in healthy volunteers.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d198.s7.e0" text="Ketoconazole" type="drug"/>
+        <entity charOffset="64-73" id="DDI-DrugBank.d198.s7.e1" text="vardenafil" type="drug"/>
+        <entity charOffset="135-144" id="DDI-DrugBank.d198.s7.e2" text="Vardenafil" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s7.e0" e2="DDI-DrugBank.d198.s7.e1" id="DDI-DrugBank.d198.s7.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s7.e0" e2="DDI-DrugBank.d198.s7.e2" id="DDI-DrugBank.d198.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s7.e1" e2="DDI-DrugBank.d198.s7.e2" id="DDI-DrugBank.d198.s7.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s8" text="A 5-mg Vardenafil dose should not be exceeded when used in combination with 200 mg once daily ketoconazole.">
+        <entity charOffset="7-16" id="DDI-DrugBank.d198.s8.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="94-105" id="DDI-DrugBank.d198.s8.e1" text="ketoconazole" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s8.e0" e2="DDI-DrugBank.d198.s8.e1" id="DDI-DrugBank.d198.s8.p0" type="advise"/>
+    <negationtags>A 5-mg Vardenafil dose should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be exceeded when used in combination with 200 mg once daily ketoconazole. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s9" text="Since higher doses of ketoconazole (400 mg daily) may result in higher increases in Cmax and AUC, a single 2.5 mg dose of Vardenafil should not be exceeded in a 24-hour period when used in combination with ketoconazole 400 mg daily.">
+        <entity charOffset="22-33" id="DDI-DrugBank.d198.s9.e0" text="ketoconazole" type="drug"/>
+        <entity charOffset="122-131" id="DDI-DrugBank.d198.s9.e1" text="Vardenafil" type="drug"/>
+        <entity charOffset="206-217" id="DDI-DrugBank.d198.s9.e2" text="ketoconazole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s9.e0" e2="DDI-DrugBank.d198.s9.e1" id="DDI-DrugBank.d198.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s9.e0" e2="DDI-DrugBank.d198.s9.e2" id="DDI-DrugBank.d198.s9.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s9.e1" e2="DDI-DrugBank.d198.s9.e2" id="DDI-DrugBank.d198.s9.p2" type="advise"/>
+    <negationtags>Since higher doses of ketoconazole (400 mg daily) may result in higher increases in Cmax and AUC, a single 2.5 mg dose of Vardenafil should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be exceeded in a 24-hour period when used in combination with ketoconazole 400 mg daily. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s10" text="HIV Protease Inhibitors: Indinavir (800 mg t.i.d.) co-administered with Vardenafil 10 mg resulted in a 16-fold increase in vardenafil AUC, a 7-fold increase in vardenafil Cmax and a 2-fold increase in vardenafil half-life.">
+        <entity charOffset="0-22" id="DDI-DrugBank.d198.s10.e0" text="HIV Protease Inhibitors" type="group"/>
+        <entity charOffset="25-33" id="DDI-DrugBank.d198.s10.e1" text="Indinavir" type="drug"/>
+        <entity charOffset="72-81" id="DDI-DrugBank.d198.s10.e2" text="Vardenafil" type="drug"/>
+        <entity charOffset="123-132" id="DDI-DrugBank.d198.s10.e3" text="vardenafil" type="drug"/>
+        <entity charOffset="160-169" id="DDI-DrugBank.d198.s10.e4" text="vardenafil" type="drug"/>
+        <entity charOffset="201-210" id="DDI-DrugBank.d198.s10.e5" text="vardenafil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e0" e2="DDI-DrugBank.d198.s10.e1" id="DDI-DrugBank.d198.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e0" e2="DDI-DrugBank.d198.s10.e2" id="DDI-DrugBank.d198.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e0" e2="DDI-DrugBank.d198.s10.e3" id="DDI-DrugBank.d198.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e0" e2="DDI-DrugBank.d198.s10.e4" id="DDI-DrugBank.d198.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e0" e2="DDI-DrugBank.d198.s10.e5" id="DDI-DrugBank.d198.s10.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s10.e1" e2="DDI-DrugBank.d198.s10.e2" id="DDI-DrugBank.d198.s10.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e1" e2="DDI-DrugBank.d198.s10.e3" id="DDI-DrugBank.d198.s10.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e1" e2="DDI-DrugBank.d198.s10.e4" id="DDI-DrugBank.d198.s10.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e1" e2="DDI-DrugBank.d198.s10.e5" id="DDI-DrugBank.d198.s10.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e2" e2="DDI-DrugBank.d198.s10.e3" id="DDI-DrugBank.d198.s10.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e2" e2="DDI-DrugBank.d198.s10.e4" id="DDI-DrugBank.d198.s10.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e2" e2="DDI-DrugBank.d198.s10.e5" id="DDI-DrugBank.d198.s10.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e3" e2="DDI-DrugBank.d198.s10.e4" id="DDI-DrugBank.d198.s10.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e3" e2="DDI-DrugBank.d198.s10.e5" id="DDI-DrugBank.d198.s10.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s10.e4" e2="DDI-DrugBank.d198.s10.e5" id="DDI-DrugBank.d198.s10.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s11" text="It is recommended not to exceed a single 2.5 mg Vardenafil dose in a 24-hour period when used in combination with indinavir.">
+        <entity charOffset="48-57" id="DDI-DrugBank.d198.s11.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="114-122" id="DDI-DrugBank.d198.s11.e1" text="indinavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s11.e0" e2="DDI-DrugBank.d198.s11.e1" id="DDI-DrugBank.d198.s11.p0" type="advise"/>
+    <negationtags>It is recommended &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; to exceed a single 2.5 mg Vardenafil dose in a 24-hour period when used in combination with indinavir. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s12" text="Ritonavir (600 mg b.i.d.) co-administered with Vardenafil 5 mg resulted in a 49-fold increase in vardenafil AUC and a 13-fold increase in vardenafil Cmax.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d198.s12.e0" text="Ritonavir" type="drug"/>
+        <entity charOffset="47-56" id="DDI-DrugBank.d198.s12.e1" text="Vardenafil" type="drug"/>
+        <entity charOffset="97-106" id="DDI-DrugBank.d198.s12.e2" text="vardenafil" type="drug"/>
+        <entity charOffset="138-147" id="DDI-DrugBank.d198.s12.e3" text="vardenafil" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s12.e0" e2="DDI-DrugBank.d198.s12.e1" id="DDI-DrugBank.d198.s12.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s12.e0" e2="DDI-DrugBank.d198.s12.e2" id="DDI-DrugBank.d198.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s12.e0" e2="DDI-DrugBank.d198.s12.e3" id="DDI-DrugBank.d198.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s12.e1" e2="DDI-DrugBank.d198.s12.e2" id="DDI-DrugBank.d198.s12.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s12.e1" e2="DDI-DrugBank.d198.s12.e3" id="DDI-DrugBank.d198.s12.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s12.e2" e2="DDI-DrugBank.d198.s12.e3" id="DDI-DrugBank.d198.s12.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s13" text="The interaction is a consequence of blocking hepatic metabolism of vardenafil by ritonavir, a highly potent CYP3A4 inhibitor, which also inhibits CYP2C9.">
+        <entity charOffset="67-76" id="DDI-DrugBank.d198.s13.e0" text="vardenafil" type="drug"/>
+        <entity charOffset="81-89" id="DDI-DrugBank.d198.s13.e1" text="ritonavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s13.e0" e2="DDI-DrugBank.d198.s13.e1" id="DDI-DrugBank.d198.s13.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s14" text="Ritonavir significantly prolonged the half-life of vardenafil to 26 hours.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d198.s14.e0" text="Ritonavir" type="drug"/>
+        <entity charOffset="51-60" id="DDI-DrugBank.d198.s14.e1" text="vardenafil" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s14.e0" e2="DDI-DrugBank.d198.s14.e1" id="DDI-DrugBank.d198.s14.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s15" text="Consequently, it is recommended not to exceed a single 2.5 mg Vardenafil dose in a 72-hour period when used in combination with ritonavir.">
+        <entity charOffset="62-71" id="DDI-DrugBank.d198.s15.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="128-136" id="DDI-DrugBank.d198.s15.e1" text="ritonavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s15.e0" e2="DDI-DrugBank.d198.s15.e1" id="DDI-DrugBank.d198.s15.p0" type="advise"/>
+    <negationtags>Consequently, it is recommended &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; to exceed a single 2.5 mg Vardenafil dose in a 72-hour period when used in combination with ritonavir. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s16" text="Other Drug Interactions: No pharmacokinetic interactions were observed between vardenafil and the following drugs: glyburide, warfarin, digoxin, Maalox, and ranitidine.">
+        <entity charOffset="79-88" id="DDI-DrugBank.d198.s16.e0" text="vardenafil" type="drug"/>
+        <entity charOffset="115-123" id="DDI-DrugBank.d198.s16.e1" text="glyburide" type="drug"/>
+        <entity charOffset="126-133" id="DDI-DrugBank.d198.s16.e2" text="warfarin" type="drug"/>
+        <entity charOffset="136-142" id="DDI-DrugBank.d198.s16.e3" text="digoxin" type="drug"/>
+        <entity charOffset="145-150" id="DDI-DrugBank.d198.s16.e4" text="Maalox" type="brand"/>
+        <entity charOffset="157-166" id="DDI-DrugBank.d198.s16.e5" text="ranitidine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e0" e2="DDI-DrugBank.d198.s16.e1" id="DDI-DrugBank.d198.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e0" e2="DDI-DrugBank.d198.s16.e2" id="DDI-DrugBank.d198.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e0" e2="DDI-DrugBank.d198.s16.e3" id="DDI-DrugBank.d198.s16.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e0" e2="DDI-DrugBank.d198.s16.e4" id="DDI-DrugBank.d198.s16.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e0" e2="DDI-DrugBank.d198.s16.e5" id="DDI-DrugBank.d198.s16.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e1" e2="DDI-DrugBank.d198.s16.e2" id="DDI-DrugBank.d198.s16.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e1" e2="DDI-DrugBank.d198.s16.e3" id="DDI-DrugBank.d198.s16.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e1" e2="DDI-DrugBank.d198.s16.e4" id="DDI-DrugBank.d198.s16.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e1" e2="DDI-DrugBank.d198.s16.e5" id="DDI-DrugBank.d198.s16.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e2" e2="DDI-DrugBank.d198.s16.e3" id="DDI-DrugBank.d198.s16.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e2" e2="DDI-DrugBank.d198.s16.e4" id="DDI-DrugBank.d198.s16.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e2" e2="DDI-DrugBank.d198.s16.e5" id="DDI-DrugBank.d198.s16.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e3" e2="DDI-DrugBank.d198.s16.e4" id="DDI-DrugBank.d198.s16.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e3" e2="DDI-DrugBank.d198.s16.e5" id="DDI-DrugBank.d198.s16.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s16.e4" e2="DDI-DrugBank.d198.s16.e5" id="DDI-DrugBank.d198.s16.p14"/>
+    <negationtags>Other Drug Interactions: &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; pharmacokinetic interactions were observed between vardenafil and the following drugs: glyburide, warfarin, digoxin, Maalox, and ranitidine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s17" text="In the warfarin study, vardenafil had no effect on the prothrombin time or other pharmacodynamic parameters.">
+        <entity charOffset="7-14" id="DDI-DrugBank.d198.s17.e0" text="warfarin" type="drug"/>
+        <entity charOffset="23-32" id="DDI-DrugBank.d198.s17.e1" text="vardenafil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s17.e0" e2="DDI-DrugBank.d198.s17.e1" id="DDI-DrugBank.d198.s17.p0"/>
+    <negationtags>In the warfarin study, vardenafil had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the prothrombin time or other pharmacodynamic parameters. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s18" text="Effects of Vardenafil on other drugs">
+        <entity charOffset="11-20" id="DDI-DrugBank.d198.s18.e0" text="Vardenafil" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s19" text="In vitro studies: Vardenafil and its metabolites had no effect on CYP1A2, 2A6, and 2E1 (Ki   100uM).">
+        <entity charOffset="18-27" id="DDI-DrugBank.d198.s19.e0" text="Vardenafil" type="drug"/>
+    <negationtags>In vitro studies: Vardenafil and its metabolites had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on CYP1A2, 2A6, and 2E1 (Ki 100uM). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s20" text="Weak inhibitory effects toward other isoforms (CYP2C8, 2C9, 2C19, 2D6, 3A4) were found, but Ki values were in excess of plasma concentrations achieved following dosing."/>
+    <sentence id="DDI-DrugBank.d198.s21" text="The most potent inhibitory activity was observed for vardenafil metabolite M1, which had a Ki of 1.4 uM toward CYP3A4, which is about 20 times higher than the M1 Cmax values after an 80 mg Vardenafil dose.">
+        <entity charOffset="189-198" id="DDI-DrugBank.d198.s21.e0" text="Vardenafil" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s22" text="In vivo studies: Nitrates: The blood pressure lowering effects of sublingual nitrates (0.4 mg) taken 1 and 4 hours after vardenafil and increases in heart rate when taken at 1, 4 and 8 hours were potentiated by a 20 mg dose of Vardenafil in healthy middle-aged subjects.">
+        <entity charOffset="17-24" id="DDI-DrugBank.d198.s22.e0" text="Nitrates" type="group"/>
+        <entity charOffset="77-84" id="DDI-DrugBank.d198.s22.e1" text="nitrates" type="group"/>
+        <entity charOffset="121-130" id="DDI-DrugBank.d198.s22.e2" text="vardenafil" type="drug"/>
+        <entity charOffset="227-236" id="DDI-DrugBank.d198.s22.e3" text="Vardenafil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s22.e0" e2="DDI-DrugBank.d198.s22.e1" id="DDI-DrugBank.d198.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s22.e0" e2="DDI-DrugBank.d198.s22.e2" id="DDI-DrugBank.d198.s22.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s22.e0" e2="DDI-DrugBank.d198.s22.e3" id="DDI-DrugBank.d198.s22.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s22.e1" e2="DDI-DrugBank.d198.s22.e2" id="DDI-DrugBank.d198.s22.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s22.e1" e2="DDI-DrugBank.d198.s22.e3" id="DDI-DrugBank.d198.s22.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s22.e2" e2="DDI-DrugBank.d198.s22.e3" id="DDI-DrugBank.d198.s22.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s23" text="These effects were not observed when Vardenafil 20 mg was taken 24 hours before the NTG.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d198.s23.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="84-86" id="DDI-DrugBank.d198.s23.e1" text="NTG" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s23.e0" e2="DDI-DrugBank.d198.s23.e1" id="DDI-DrugBank.d198.s23.p0"/>
+    <negationtags>These effects were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; observed when Vardenafil 20 mg was taken 24 hours before the NTG. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s24" text="Potentiation of the hypotensive effects of nitrates for patients with ischemic heart disease has not been evaluated, and concomitant use of Vardenafil and nitrates is contraindicated.">
+        <entity charOffset="43-50" id="DDI-DrugBank.d198.s24.e0" text="nitrates" type="group"/>
+        <entity charOffset="140-149" id="DDI-DrugBank.d198.s24.e1" text="Vardenafil" type="drug"/>
+        <entity charOffset="155-162" id="DDI-DrugBank.d198.s24.e2" text="nitrates" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s24.e0" e2="DDI-DrugBank.d198.s24.e1" id="DDI-DrugBank.d198.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s24.e0" e2="DDI-DrugBank.d198.s24.e2" id="DDI-DrugBank.d198.s24.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s24.e1" e2="DDI-DrugBank.d198.s24.e2" id="DDI-DrugBank.d198.s24.p2" type="advise"/>
+    <negationtags>Potentiation of the hypotensive effects of nitrates for patients with ischemic heart disease has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been evaluated, and concomitant use of Vardenafil and nitrates is contraindicated. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s25" text="Nifedipine: Vardenafil 20 mg, when co-administered with slow-release nifedipine 30 mg or 60 mg once daily, did not affect the relative bioavailability (AUC) or maximum concentration (Cmax) of nifedipine, a drug that is metabolized via CYP3A4.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d198.s25.e0" text="Nifedipine" type="drug"/>
+        <entity charOffset="12-21" id="DDI-DrugBank.d198.s25.e1" text="Vardenafil" type="drug"/>
+        <entity charOffset="69-78" id="DDI-DrugBank.d198.s25.e2" text="nifedipine" type="drug"/>
+        <entity charOffset="192-201" id="DDI-DrugBank.d198.s25.e3" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s25.e0" e2="DDI-DrugBank.d198.s25.e1" id="DDI-DrugBank.d198.s25.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s25.e0" e2="DDI-DrugBank.d198.s25.e2" id="DDI-DrugBank.d198.s25.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s25.e0" e2="DDI-DrugBank.d198.s25.e3" id="DDI-DrugBank.d198.s25.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s25.e1" e2="DDI-DrugBank.d198.s25.e2" id="DDI-DrugBank.d198.s25.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s25.e1" e2="DDI-DrugBank.d198.s25.e3" id="DDI-DrugBank.d198.s25.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s25.e2" e2="DDI-DrugBank.d198.s25.e3" id="DDI-DrugBank.d198.s25.p5"/>
+    <negationtags>Nifedipine: Vardenafil 20 mg, when co-administered with slow-release nifedipine 30 mg or 60 mg once daily, did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the relative bioavailability (AUC) or maximum concentration (Cmax) of nifedipine, a drug that is metabolized via CYP3A4. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s26" text="Nifedipine did not alter the plasma levels of Vardenafil when taken in combination.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d198.s26.e0" text="Nifedipine" type="drug"/>
+        <entity charOffset="46-55" id="DDI-DrugBank.d198.s26.e1" text="Vardenafil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s26.e0" e2="DDI-DrugBank.d198.s26.e1" id="DDI-DrugBank.d198.s26.p0"/>
+    <negationtags>Nifedipine did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; alter the plasma levels of Vardenafil when taken in combination. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s27" text="In these patients whose hypertension was controlled with nifedipine, Vardenafil 20 mg produced mean additional supine systolic/diastolic blood pressure reductions of 6/5 mm Hg compared to placebo.">
+        <entity charOffset="57-66" id="DDI-DrugBank.d198.s27.e0" text="nifedipine" type="drug"/>
+        <entity charOffset="69-78" id="DDI-DrugBank.d198.s27.e1" text="Vardenafil" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s27.e0" e2="DDI-DrugBank.d198.s27.e1" id="DDI-DrugBank.d198.s27.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s28" text="Alpha-blockers: When Vardenafil 10 or 20 mg was given to healthy volunteers either simultaneously or 6 hours after a 10 mg dose of terazosin, significant hypotension developed in a substantial number of subjects.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d198.s28.e0" text="Alpha-blockers" type="group"/>
+        <entity charOffset="21-30" id="DDI-DrugBank.d198.s28.e1" text="Vardenafil" type="drug"/>
+        <entity charOffset="131-139" id="DDI-DrugBank.d198.s28.e2" text="terazosin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s28.e0" e2="DDI-DrugBank.d198.s28.e1" id="DDI-DrugBank.d198.s28.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s28.e0" e2="DDI-DrugBank.d198.s28.e2" id="DDI-DrugBank.d198.s28.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s28.e1" e2="DDI-DrugBank.d198.s28.e2" id="DDI-DrugBank.d198.s28.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s29" text="With simultaneous dosing of Vardenafil 10 mg and terazosin 10 mg, 6 of 8 subjects experienced a standing systolic blood pressure of less than 85 mm Hg.">
+        <entity charOffset="28-37" id="DDI-DrugBank.d198.s29.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="49-57" id="DDI-DrugBank.d198.s29.e1" text="terazosin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s29.e0" e2="DDI-DrugBank.d198.s29.e1" id="DDI-DrugBank.d198.s29.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s30" text="With simultaneous dosing of Vardenafil 20 mg and terazosin 10 mg, 2 of 9 subjects experienced a standing systolic blood pressure of less than 85 mm Hg.">
+        <entity charOffset="28-37" id="DDI-DrugBank.d198.s30.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="49-57" id="DDI-DrugBank.d198.s30.e1" text="terazosin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s30.e0" e2="DDI-DrugBank.d198.s30.e1" id="DDI-DrugBank.d198.s30.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s31" text="When Vardenafil dosing was separated from terazosin 10 mg by 6 hours, 7 of 28 subjects who received 20 mg of Vardenafil experienced a decrease in standing systolic blood pressure below 85 mm Hg.">
+        <entity charOffset="5-14" id="DDI-DrugBank.d198.s31.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="42-50" id="DDI-DrugBank.d198.s31.e1" text="terazosin" type="drug"/>
+        <entity charOffset="109-118" id="DDI-DrugBank.d198.s31.e2" text="Vardenafil" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s31.e0" e2="DDI-DrugBank.d198.s31.e1" id="DDI-DrugBank.d198.s31.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s31.e0" e2="DDI-DrugBank.d198.s31.e2" id="DDI-DrugBank.d198.s31.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s31.e1" e2="DDI-DrugBank.d198.s31.e2" id="DDI-DrugBank.d198.s31.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s32" text="In a similar study with tamsulosin in healthy volunteers, 1 of 24 subjects dosed with Vardenafil 20 mg and tamsulosin 0.4 mg separated by 6 hours experienced a standing systolic blood pressure below 85 mm Hg.">
+        <entity charOffset="24-33" id="DDI-DrugBank.d198.s32.e0" text="tamsulosin" type="drug"/>
+        <entity charOffset="86-95" id="DDI-DrugBank.d198.s32.e1" text="Vardenafil" type="drug"/>
+        <entity charOffset="107-116" id="DDI-DrugBank.d198.s32.e2" text="tamsulosin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s32.e0" e2="DDI-DrugBank.d198.s32.e1" id="DDI-DrugBank.d198.s32.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s32.e0" e2="DDI-DrugBank.d198.s32.e2" id="DDI-DrugBank.d198.s32.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s32.e1" e2="DDI-DrugBank.d198.s32.e2" id="DDI-DrugBank.d198.s32.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s33" text="Two of 16 subjects dosed simultaneously with Vardenafil 10 mg and tamsulosin 0.4 mg experienced a standing systolic blood pressure below 85 mm Hg.">
+        <entity charOffset="45-54" id="DDI-DrugBank.d198.s33.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="66-75" id="DDI-DrugBank.d198.s33.e1" text="tamsulosin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s33.e0" e2="DDI-DrugBank.d198.s33.e1" id="DDI-DrugBank.d198.s33.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s34" text="The administration of lower doses of Vardenafil with alpha-blockers has not been completely evaluated to determine if they can be safely administered together.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d198.s34.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="53-66" id="DDI-DrugBank.d198.s34.e1" text="alpha-blockers" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s34.e0" e2="DDI-DrugBank.d198.s34.e1" id="DDI-DrugBank.d198.s34.p0"/>
+    <negationtags>The administration of lower doses of Vardenafil with alpha-blockers has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been completely evaluated to determine if they can be safely administered together. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s35" text="Based on these data, Vardenafil should not be used in patients on alpha-blocker therapy.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d198.s35.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="66-78" id="DDI-DrugBank.d198.s35.e1" text="alpha-blocker" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s35.e0" e2="DDI-DrugBank.d198.s35.e1" id="DDI-DrugBank.d198.s35.p0" type="advise"/>
+    <negationtags>Based on these data, Vardenafil should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used in patients on alpha-blocker therapy. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s36" text="Ritonavir and indinavir: Upon concomitant administration of 5 mg of Vardenafil with 600 mg BID ritonavir, the Cmax and AUC of ritonavir were reduced by approximately 20%.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d198.s36.e0" text="Ritonavir" type="drug"/>
+        <entity charOffset="14-22" id="DDI-DrugBank.d198.s36.e1" text="indinavir" type="drug"/>
+        <entity charOffset="68-77" id="DDI-DrugBank.d198.s36.e2" text="Vardenafil" type="drug"/>
+        <entity charOffset="95-103" id="DDI-DrugBank.d198.s36.e3" text="ritonavir" type="drug"/>
+        <entity charOffset="126-134" id="DDI-DrugBank.d198.s36.e4" text="ritonavir" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e0" e2="DDI-DrugBank.d198.s36.e1" id="DDI-DrugBank.d198.s36.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e0" e2="DDI-DrugBank.d198.s36.e2" id="DDI-DrugBank.d198.s36.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e0" e2="DDI-DrugBank.d198.s36.e3" id="DDI-DrugBank.d198.s36.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e0" e2="DDI-DrugBank.d198.s36.e4" id="DDI-DrugBank.d198.s36.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e1" e2="DDI-DrugBank.d198.s36.e2" id="DDI-DrugBank.d198.s36.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e1" e2="DDI-DrugBank.d198.s36.e3" id="DDI-DrugBank.d198.s36.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e1" e2="DDI-DrugBank.d198.s36.e4" id="DDI-DrugBank.d198.s36.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s36.e2" e2="DDI-DrugBank.d198.s36.e3" id="DDI-DrugBank.d198.s36.p7" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e2" e2="DDI-DrugBank.d198.s36.e4" id="DDI-DrugBank.d198.s36.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s36.e3" e2="DDI-DrugBank.d198.s36.e4" id="DDI-DrugBank.d198.s36.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s37" text="Upon administration of 10 mg of Vardenafil with 800 mg TID indinavir, the Cmax and AUC of indinavir were reduced by 40% and 30%, respectively.">
+        <entity charOffset="32-41" id="DDI-DrugBank.d198.s37.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="59-67" id="DDI-DrugBank.d198.s37.e1" text="indinavir" type="drug"/>
+        <entity charOffset="90-98" id="DDI-DrugBank.d198.s37.e2" text="indinavir" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d198.s37.e0" e2="DDI-DrugBank.d198.s37.e1" id="DDI-DrugBank.d198.s37.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s37.e0" e2="DDI-DrugBank.d198.s37.e2" id="DDI-DrugBank.d198.s37.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s37.e1" e2="DDI-DrugBank.d198.s37.e2" id="DDI-DrugBank.d198.s37.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d198.s38" text="Alcohol: Alcohol (0.5 g/kg body weight: approximately 40 mL of absolute alcohol in a 70 kg person) and vardenafil plasma levels were not altered when dosed simultaneously.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d198.s38.e0" text="Alcohol" type="drug"/>
+        <entity charOffset="9-15" id="DDI-DrugBank.d198.s38.e1" text="Alcohol" type="drug"/>
+        <entity charOffset="103-112" id="DDI-DrugBank.d198.s38.e2" text="vardenafil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s38.e0" e2="DDI-DrugBank.d198.s38.e1" id="DDI-DrugBank.d198.s38.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s38.e0" e2="DDI-DrugBank.d198.s38.e2" id="DDI-DrugBank.d198.s38.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s38.e1" e2="DDI-DrugBank.d198.s38.e2" id="DDI-DrugBank.d198.s38.p2"/>
+    <negationtags>Alcohol: Alcohol (0.5 g/kg body weight: approximately 40 mL of absolute alcohol in a 70 kg person) and vardenafil plasma levels were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; altered when dosed simultaneously. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s39" text="Vardenafil (20 mg) did not potentiate the hypotensive effects of alcohol during the 4-hour observation period in healthy volunteers when administered with alcohol (0.5 g/kg body weight).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d198.s39.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="65-71" id="DDI-DrugBank.d198.s39.e1" text="alcohol" type="drug"/>
+        <entity charOffset="155-161" id="DDI-DrugBank.d198.s39.e2" text="alcohol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s39.e0" e2="DDI-DrugBank.d198.s39.e1" id="DDI-DrugBank.d198.s39.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s39.e0" e2="DDI-DrugBank.d198.s39.e2" id="DDI-DrugBank.d198.s39.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s39.e1" e2="DDI-DrugBank.d198.s39.e2" id="DDI-DrugBank.d198.s39.p2"/>
+    <negationtags>Vardenafil (20 mg) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; potentiate the hypotensive effects of alcohol during the 4-hour observation period in healthy volunteers when administered with alcohol (0.5 g/kg body weight). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s40" text="Aspirin: Vardenafil (10 mg and 20 mg) did not potentiate the increase in bleeding time caused by aspirin (two 81 mg tablets).">
+        <entity charOffset="0-6" id="DDI-DrugBank.d198.s40.e0" text="Aspirin" type="brand"/>
+        <entity charOffset="9-18" id="DDI-DrugBank.d198.s40.e1" text="Vardenafil" type="drug"/>
+        <entity charOffset="97-103" id="DDI-DrugBank.d198.s40.e2" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s40.e0" e2="DDI-DrugBank.d198.s40.e1" id="DDI-DrugBank.d198.s40.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s40.e0" e2="DDI-DrugBank.d198.s40.e2" id="DDI-DrugBank.d198.s40.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s40.e1" e2="DDI-DrugBank.d198.s40.e2" id="DDI-DrugBank.d198.s40.p2"/>
+    <negationtags>Aspirin: Vardenafil (10 mg and 20 mg) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; potentiate the increase in bleeding time caused by aspirin (two 81 mg tablets). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d198.s41" text="Other interactions: Vardenafil had no effect on the pharmacodynamics of glyburide (glucose and insulin concentrations) and warfarin (prothrombin time or other pharmacodynamic parameters).">
+        <entity charOffset="20-29" id="DDI-DrugBank.d198.s41.e0" text="Vardenafil" type="drug"/>
+        <entity charOffset="72-80" id="DDI-DrugBank.d198.s41.e1" text="glyburide" type="drug"/>
+        <entity charOffset="123-130" id="DDI-DrugBank.d198.s41.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s41.e0" e2="DDI-DrugBank.d198.s41.e1" id="DDI-DrugBank.d198.s41.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s41.e0" e2="DDI-DrugBank.d198.s41.e2" id="DDI-DrugBank.d198.s41.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d198.s41.e1" e2="DDI-DrugBank.d198.s41.e2" id="DDI-DrugBank.d198.s41.p2"/>
+    <negationtags>Other interactions: Vardenafil had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the pharmacodynamics of glyburide (glucose and insulin concentrations) and warfarin (prothrombin time or other pharmacodynamic parameters). &lt;/scope&gt;</negationtags></sentence>
+</document>

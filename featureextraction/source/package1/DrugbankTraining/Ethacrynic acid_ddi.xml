@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d414">
+    <sentence id="DDI-DrugBank.d414.s0" text="Lithium generally should not be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d414.s0.e0" text="Lithium" type="drug"/>
+        <entity charOffset="43-51" id="DDI-DrugBank.d414.s0.e1" text="diuretics" type="group"/>
+        <entity charOffset="116-122" id="DDI-DrugBank.d414.s0.e2" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s0.e0" e2="DDI-DrugBank.d414.s0.e1" id="DDI-DrugBank.d414.s0.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s0.e0" e2="DDI-DrugBank.d414.s0.e2" id="DDI-DrugBank.d414.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s0.e1" e2="DDI-DrugBank.d414.s0.e2" id="DDI-DrugBank.d414.s0.p2"/>
+    <negationtags>Lithium generally should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be given with diuretics because they reduce its renal clearance and add a high risk of lithium toxicity. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d414.s1" text="Read circulars for lithium preparations before use of such concomitant therapy.">
+        <entity charOffset="19-25" id="DDI-DrugBank.d414.s1.e0" text="lithium" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d414.s2" text="EDECRIN may increase the ototoxic potential of other drugs such as aminoglycoside and some cephalosporin antibiotics.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d414.s2.e0" text="EDECRIN" type="brand"/>
+        <entity charOffset="67-80" id="DDI-DrugBank.d414.s2.e1" text="aminoglycoside" type="group"/>
+        <entity charOffset="91-115" id="DDI-DrugBank.d414.s2.e2" text="cephalosporin antibiotics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s2.e0" e2="DDI-DrugBank.d414.s2.e1" id="DDI-DrugBank.d414.s2.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s2.e0" e2="DDI-DrugBank.d414.s2.e2" id="DDI-DrugBank.d414.s2.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s2.e1" e2="DDI-DrugBank.d414.s2.e2" id="DDI-DrugBank.d414.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d414.s3" text="Their concurrent use should be avoided."/>
+    <sentence id="DDI-DrugBank.d414.s4" text="A number of drugs, including ethacrynic acid, have been shown to displace warfarin from plasma protein;">
+        <entity charOffset="29-43" id="DDI-DrugBank.d414.s4.e0" text="ethacrynic acid" type="drug"/>
+        <entity charOffset="74-81" id="DDI-DrugBank.d414.s4.e1" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s4.e0" e2="DDI-DrugBank.d414.s4.e1" id="DDI-DrugBank.d414.s4.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d414.s5" text="a reduction in the usual anticoagulant dosage may be required in patients receiving both drugs.">
+        <entity charOffset="25-37" id="DDI-DrugBank.d414.s5.e0" text="anticoagulant" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d414.s6" text="In some patients, the administration of a non- steroidal antiinflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium- sparing and thiazide diuretics.">
+        <entity charOffset="42-78" id="DDI-DrugBank.d414.s6.e0" text="non- steroidal antiinflammatory agent" type="group"/>
+        <entity charOffset="150-153;188-196" id="DDI-DrugBank.d414.s6.e1" text="loop diuretics" type="group"/>
+        <entity charOffset="156-173;188-196" id="DDI-DrugBank.d414.s6.e2" text="potassium- sparing diuretics" type="group"/>
+        <entity charOffset="179-196" id="DDI-DrugBank.d414.s6.e3" text="thiazide diuretics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s6.e0" e2="DDI-DrugBank.d414.s6.e1" id="DDI-DrugBank.d414.s6.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s6.e0" e2="DDI-DrugBank.d414.s6.e2" id="DDI-DrugBank.d414.s6.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s6.e0" e2="DDI-DrugBank.d414.s6.e3" id="DDI-DrugBank.d414.s6.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s6.e1" e2="DDI-DrugBank.d414.s6.e2" id="DDI-DrugBank.d414.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s6.e1" e2="DDI-DrugBank.d414.s6.e3" id="DDI-DrugBank.d414.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s6.e2" e2="DDI-DrugBank.d414.s6.e3" id="DDI-DrugBank.d414.s6.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d414.s7" text="Therefore, when EDECRIN and non- steroidal anti- inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.">
+        <entity charOffset="16-22" id="DDI-DrugBank.d414.s7.e0" text="EDECRIN" type="brand"/>
+        <entity charOffset="28-67" id="DDI-DrugBank.d414.s7.e1" text="non- steroidal anti- inflammatory agents" type="group"/>
+        <entity charOffset="174-181" id="DDI-DrugBank.d414.s7.e2" text="diuretic" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d414.s7.e0" e2="DDI-DrugBank.d414.s7.e1" id="DDI-DrugBank.d414.s7.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s7.e0" e2="DDI-DrugBank.d414.s7.e2" id="DDI-DrugBank.d414.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d414.s7.e1" e2="DDI-DrugBank.d414.s7.e2" id="DDI-DrugBank.d414.s7.p2"/>
+    </sentence>
+</document>

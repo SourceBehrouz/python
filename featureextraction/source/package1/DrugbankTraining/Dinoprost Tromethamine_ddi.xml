@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d181">
+    <sentence id="DDI-DrugBank.d181.s0" text="Oxytocin or other oxytocics (concurrent use with dinoprost may result in uterine hypertonus, possibly causing uterine rupture or cervical laceration, especially in the absence of adequate cervical dilatation;">
+        <entity charOffset="0-7" id="DDI-DrugBank.d181.s0.e0" text="Oxytocin" type="drug"/>
+        <entity charOffset="18-26" id="DDI-DrugBank.d181.s0.e1" text="oxytocics" type="group"/>
+        <entity charOffset="49-57" id="DDI-DrugBank.d181.s0.e2" text="dinoprost" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d181.s0.e0" e2="DDI-DrugBank.d181.s0.e1" id="DDI-DrugBank.d181.s0.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d181.s0.e0" e2="DDI-DrugBank.d181.s0.e2" id="DDI-DrugBank.d181.s0.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d181.s0.e1" e2="DDI-DrugBank.d181.s0.e2" id="DDI-DrugBank.d181.s0.p2" type="effect"/>
+    <negationtags>Oxytocin or other oxytocics (concurrent use with dinoprost may result in uterine hypertonus, possibly causing uterine rupture or cervical laceration, especially in the &lt;scope&gt; &lt;cue&gt; absence of &lt;/cue&gt; adequate cervical dilatation; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d181.s1" text="although combinations are sometimes used for therapeutic advantage, when used concurrently, patient should be closely monitored."/>
+</document>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d218">
+    <sentence id="DDI-DrugBank.d218.s0" text="No pharmacokinetic-based drug-drug interaction studies have been conducted with SYNAREL.">
+        <entity charOffset="80-86" id="DDI-DrugBank.d218.s0.e0" text="SYNAREL" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; pharmacokinetic-based drug-drug interaction studies have been conducted with SYNAREL. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d218.s1" text="However, because nafarelin acetate is a peptide that is primarily degraded by peptidase and not by cytochrome P-450 enzymes, and the drug is only about 80% bound to plasma proteins at 4 C, drug interactions would not be expected to occur.">
+        <entity charOffset="17-33" id="DDI-DrugBank.d218.s1.e0" text="nafarelin acetate" type="drug"/>
+    <negationtags>However, because nafarelin acetate is a peptide that is primarily degraded by peptidase and &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; by cytochrome P-450 enzymes, and the drug is only about 80% bound to plasma proteins at 4 C, drug interactions would not be expected to occur. &lt;/scope&gt;</negationtags></sentence>
+</document>

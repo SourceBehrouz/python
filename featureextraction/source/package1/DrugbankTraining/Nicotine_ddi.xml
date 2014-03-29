@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d271">
+    <sentence id="DDI-DrugBank.d271.s0" text="Physiological changes resulting from smoking cessation, with or without nicotine replacement, may alter the pharmacokinetics of certain concomitant medications, such as tricyclic antidepressants and theophylline.">
+        <entity charOffset="72-79" id="DDI-DrugBank.d271.s0.e0" text="nicotine" type="drug"/>
+        <entity charOffset="169-193" id="DDI-DrugBank.d271.s0.e1" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="199-210" id="DDI-DrugBank.d271.s0.e2" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d271.s0.e0" e2="DDI-DrugBank.d271.s0.e1" id="DDI-DrugBank.d271.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d271.s0.e0" e2="DDI-DrugBank.d271.s0.e2" id="DDI-DrugBank.d271.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d271.s0.e1" e2="DDI-DrugBank.d271.s0.e2" id="DDI-DrugBank.d271.s0.p2"/>
+    <negationtags>Physiological changes resulting from smoking cessation, with or &lt;scope&gt; &lt;cue&gt; without &lt;/cue&gt; nicotine replacement, may alter the pharmacokinetics of certain concomitant medications, such as tricyclic antidepressants and theophylline. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d271.s1" text="Doses of these and perhaps other medications may need to be adjusted in patients who successfully quit smoking."/>
+</document>

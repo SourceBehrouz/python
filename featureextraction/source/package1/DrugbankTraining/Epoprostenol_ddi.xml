@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d241">
+    <sentence id="DDI-DrugBank.d241.s0" text="Additional reductions in blood pressure may occur when FLOLAN is administered with diuretics, antihypertensive agents, or other vasodilators.">
+        <entity charOffset="55-60" id="DDI-DrugBank.d241.s0.e0" text="FLOLAN" type="brand"/>
+        <entity charOffset="83-91" id="DDI-DrugBank.d241.s0.e1" text="diuretics" type="group"/>
+        <entity charOffset="94-116" id="DDI-DrugBank.d241.s0.e2" text="antihypertensive agents" type="group"/>
+        <entity charOffset="128-139" id="DDI-DrugBank.d241.s0.e3" text="vasodilators" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s0.e0" e2="DDI-DrugBank.d241.s0.e1" id="DDI-DrugBank.d241.s0.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s0.e0" e2="DDI-DrugBank.d241.s0.e2" id="DDI-DrugBank.d241.s0.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s0.e0" e2="DDI-DrugBank.d241.s0.e3" id="DDI-DrugBank.d241.s0.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s0.e1" e2="DDI-DrugBank.d241.s0.e2" id="DDI-DrugBank.d241.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s0.e1" e2="DDI-DrugBank.d241.s0.e3" id="DDI-DrugBank.d241.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s0.e2" e2="DDI-DrugBank.d241.s0.e3" id="DDI-DrugBank.d241.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d241.s1" text="When other antiplatelet agents or anticoagulants are used concomitantly, there is the potential for FLOLAN to increase the risk of bleeding.">
+        <entity charOffset="11-29" id="DDI-DrugBank.d241.s1.e0" text="antiplatelet agents" type="group"/>
+        <entity charOffset="34-47" id="DDI-DrugBank.d241.s1.e1" text="anticoagulants" type="group"/>
+        <entity charOffset="100-105" id="DDI-DrugBank.d241.s1.e2" text="FLOLAN" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s1.e0" e2="DDI-DrugBank.d241.s1.e1" id="DDI-DrugBank.d241.s1.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s1.e0" e2="DDI-DrugBank.d241.s1.e2" id="DDI-DrugBank.d241.s1.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s1.e1" e2="DDI-DrugBank.d241.s1.e2" id="DDI-DrugBank.d241.s1.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d241.s2" text="However, patients receiving infusions of FLOLAN in clinical trials were maintained on anticoagulants without evidence of increased bleeding.">
+        <entity charOffset="41-46" id="DDI-DrugBank.d241.s2.e0" text="FLOLAN" type="brand"/>
+        <entity charOffset="86-99" id="DDI-DrugBank.d241.s2.e1" text="anticoagulants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s2.e0" e2="DDI-DrugBank.d241.s2.e1" id="DDI-DrugBank.d241.s2.p0"/>
+    <negationtags>However, patients receiving infusions of FLOLAN in clinical trials were maintained on anticoagulants &lt;scope&gt; &lt;cue&gt; without evidence &lt;/cue&gt; of increased bleeding. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d241.s3" text="In clinical trials, FLOLAN was used with digoxin, diuretics, anticoagulants, oral vasodilators, and supplemental oxygen.In a pharmacokinetic substudy in patients with congestive heart failure receiving furosemide or digoxin in whom therapy with FLOLAN was initiated, apparent oral clearance values for furosemide (n = 23) and digoxin (n = 30) were decreased by 13% and 15%, respectively, on the second day of therapy and had returned to baseline values by day 87.">
+        <entity charOffset="20-25" id="DDI-DrugBank.d241.s3.e0" text="FLOLAN" type="brand"/>
+        <entity charOffset="41-47" id="DDI-DrugBank.d241.s3.e1" text="digoxin" type="drug"/>
+        <entity charOffset="50-58" id="DDI-DrugBank.d241.s3.e2" text="diuretics" type="group"/>
+        <entity charOffset="61-74" id="DDI-DrugBank.d241.s3.e3" text="anticoagulants" type="group"/>
+        <entity charOffset="82-93" id="DDI-DrugBank.d241.s3.e4" text="vasodilators" type="group"/>
+        <entity charOffset="113-118" id="DDI-DrugBank.d241.s3.e5" text="oxygen" type="drug"/>
+        <entity charOffset="202-211" id="DDI-DrugBank.d241.s3.e6" text="furosemide" type="drug"/>
+        <entity charOffset="216-222" id="DDI-DrugBank.d241.s3.e7" text="digoxin" type="drug"/>
+        <entity charOffset="245-250" id="DDI-DrugBank.d241.s3.e8" text="FLOLAN" type="brand"/>
+        <entity charOffset="302-311" id="DDI-DrugBank.d241.s3.e9" text="furosemide" type="drug"/>
+        <entity charOffset="326-332" id="DDI-DrugBank.d241.s3.e10" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e1" id="DDI-DrugBank.d241.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e2" id="DDI-DrugBank.d241.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e3" id="DDI-DrugBank.d241.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e4" id="DDI-DrugBank.d241.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e5" id="DDI-DrugBank.d241.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e6" id="DDI-DrugBank.d241.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e7" id="DDI-DrugBank.d241.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e0" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e2" id="DDI-DrugBank.d241.s3.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e3" id="DDI-DrugBank.d241.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e4" id="DDI-DrugBank.d241.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e5" id="DDI-DrugBank.d241.s3.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e6" id="DDI-DrugBank.d241.s3.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e7" id="DDI-DrugBank.d241.s3.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e1" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e3" id="DDI-DrugBank.d241.s3.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e4" id="DDI-DrugBank.d241.s3.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e5" id="DDI-DrugBank.d241.s3.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e6" id="DDI-DrugBank.d241.s3.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e7" id="DDI-DrugBank.d241.s3.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e2" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e3" e2="DDI-DrugBank.d241.s3.e4" id="DDI-DrugBank.d241.s3.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e3" e2="DDI-DrugBank.d241.s3.e5" id="DDI-DrugBank.d241.s3.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e3" e2="DDI-DrugBank.d241.s3.e6" id="DDI-DrugBank.d241.s3.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e3" e2="DDI-DrugBank.d241.s3.e7" id="DDI-DrugBank.d241.s3.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e3" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e3" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e3" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e4" e2="DDI-DrugBank.d241.s3.e5" id="DDI-DrugBank.d241.s3.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e4" e2="DDI-DrugBank.d241.s3.e6" id="DDI-DrugBank.d241.s3.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e4" e2="DDI-DrugBank.d241.s3.e7" id="DDI-DrugBank.d241.s3.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e4" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e4" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e4" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e5" e2="DDI-DrugBank.d241.s3.e6" id="DDI-DrugBank.d241.s3.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e5" e2="DDI-DrugBank.d241.s3.e7" id="DDI-DrugBank.d241.s3.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e5" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e5" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e5" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e6" e2="DDI-DrugBank.d241.s3.e7" id="DDI-DrugBank.d241.s3.p45"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s3.e6" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p46" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e6" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e6" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p48"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s3.e7" e2="DDI-DrugBank.d241.s3.e8" id="DDI-DrugBank.d241.s3.p49" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e7" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e7" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e8" e2="DDI-DrugBank.d241.s3.e9" id="DDI-DrugBank.d241.s3.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e8" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s3.e9" e2="DDI-DrugBank.d241.s3.e10" id="DDI-DrugBank.d241.s3.p54"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d241.s4" text="The change in furosemide clearance value is not likely to be clinically significant.">
+        <entity charOffset="14-23" id="DDI-DrugBank.d241.s4.e0" text="furosemide" type="drug"/>
+    <negationtags>The change in furosemide clearance value is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; likely to be clinically significant. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d241.s5" text="However, patients on digoxin may show elevations of digoxin concentrations after initiation of therapy with FLOLAN, which may be clinically significant in patients prone to digoxin toxicity.">
+        <entity charOffset="21-27" id="DDI-DrugBank.d241.s5.e0" text="digoxin" type="drug"/>
+        <entity charOffset="52-58" id="DDI-DrugBank.d241.s5.e1" text="digoxin" type="drug"/>
+        <entity charOffset="108-113" id="DDI-DrugBank.d241.s5.e2" text="FLOLAN" type="brand"/>
+        <entity charOffset="173-179" id="DDI-DrugBank.d241.s5.e3" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s5.e0" e2="DDI-DrugBank.d241.s5.e1" id="DDI-DrugBank.d241.s5.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d241.s5.e0" e2="DDI-DrugBank.d241.s5.e2" id="DDI-DrugBank.d241.s5.p1" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s5.e0" e2="DDI-DrugBank.d241.s5.e3" id="DDI-DrugBank.d241.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s5.e1" e2="DDI-DrugBank.d241.s5.e2" id="DDI-DrugBank.d241.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s5.e1" e2="DDI-DrugBank.d241.s5.e3" id="DDI-DrugBank.d241.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d241.s5.e2" e2="DDI-DrugBank.d241.s5.e3" id="DDI-DrugBank.d241.s5.p5"/>
+    </sentence>
+</document>

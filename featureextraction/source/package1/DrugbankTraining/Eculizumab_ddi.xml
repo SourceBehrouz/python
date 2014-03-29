@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d49">
+    <sentence id="DDI-DrugBank.d49.s0" text="Drug interaction studies have not been performed with Soliris.">
+        <entity charOffset="54-60" id="DDI-DrugBank.d49.s0.e0" text="Soliris" type="brand"/>
+    <negationtags>Drug interaction studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been performed with Soliris. &lt;/scope&gt;</negationtags></sentence>
+</document>

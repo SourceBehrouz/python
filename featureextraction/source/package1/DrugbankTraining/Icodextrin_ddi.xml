@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d501">
+    <sentence id="DDI-DrugBank.d501.s0" text="General No clinical drug interaction studies were performed."><negationtags>General &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; clinical drug interaction studies were performed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s1" text="No evaluation of EXTRANEALs effects on the cytochrome P450 system was conducted.">
+        <entity charOffset="17-25" id="DDI-DrugBank.d501.s1.e0" text="EXTRANEAL" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; evaluation of EXTRANEALs effects on the cytochrome P450 system was conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s2" text="As with other dialysis solutions, blood concentrations of dialyzable drugs may be reduced by dialysis.">
+        <entity charOffset="14-31" id="DDI-DrugBank.d501.s2.e0" text="dialysis solutions" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s3" text="Dosage adjustment of concomitant medications may be necessary."/>
+    <sentence id="DDI-DrugBank.d501.s4" text="In patients using cardiac glycosides (digoxin and others), plasma levels of calcium, potassium and magnesium must be carefully monitored.">
+        <entity charOffset="18-35" id="DDI-DrugBank.d501.s4.e0" text="cardiac glycosides" type="group"/>
+        <entity charOffset="38-44" id="DDI-DrugBank.d501.s4.e1" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s4.e0" e2="DDI-DrugBank.d501.s4.e1" id="DDI-DrugBank.d501.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s5" text="Insulin: A clinical study in 6 insulin-dependent diabetic patients demonstrated no effect of EXTRANEAL on insulin absorption from the peritoneal cavity or on insulins ability to control blood glucose when insulin was administered intraperitoneally with EXTRANEAL.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d501.s5.e0" text="Insulin" type="drug"/>
+        <entity charOffset="93-101" id="DDI-DrugBank.d501.s5.e1" text="EXTRANEAL" type="brand"/>
+        <entity charOffset="106-112" id="DDI-DrugBank.d501.s5.e2" text="insulin" type="drug"/>
+        <entity charOffset="158-164" id="DDI-DrugBank.d501.s5.e3" text="insulin" type="drug"/>
+        <entity charOffset="205-211" id="DDI-DrugBank.d501.s5.e4" text="insulin" type="drug"/>
+        <entity charOffset="253-261" id="DDI-DrugBank.d501.s5.e5" text="EXTRANEAL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e0" e2="DDI-DrugBank.d501.s5.e1" id="DDI-DrugBank.d501.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e0" e2="DDI-DrugBank.d501.s5.e2" id="DDI-DrugBank.d501.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e0" e2="DDI-DrugBank.d501.s5.e3" id="DDI-DrugBank.d501.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e0" e2="DDI-DrugBank.d501.s5.e4" id="DDI-DrugBank.d501.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e0" e2="DDI-DrugBank.d501.s5.e5" id="DDI-DrugBank.d501.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e1" e2="DDI-DrugBank.d501.s5.e2" id="DDI-DrugBank.d501.s5.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e1" e2="DDI-DrugBank.d501.s5.e3" id="DDI-DrugBank.d501.s5.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e1" e2="DDI-DrugBank.d501.s5.e4" id="DDI-DrugBank.d501.s5.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e1" e2="DDI-DrugBank.d501.s5.e5" id="DDI-DrugBank.d501.s5.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e2" e2="DDI-DrugBank.d501.s5.e3" id="DDI-DrugBank.d501.s5.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e2" e2="DDI-DrugBank.d501.s5.e4" id="DDI-DrugBank.d501.s5.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e2" e2="DDI-DrugBank.d501.s5.e5" id="DDI-DrugBank.d501.s5.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e3" e2="DDI-DrugBank.d501.s5.e4" id="DDI-DrugBank.d501.s5.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e3" e2="DDI-DrugBank.d501.s5.e5" id="DDI-DrugBank.d501.s5.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s5.e4" e2="DDI-DrugBank.d501.s5.e5" id="DDI-DrugBank.d501.s5.p14"/>
+    <negationtags>Insulin: A clinical study in 6 insulin-dependent diabetic patients demonstrated &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect of EXTRANEAL on insulin absorption from the peritoneal cavity or on insulins ability to control blood glucose when insulin was administered intraperitoneally with EXTRANEAL. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s6" text="However, appropriate monitoring of blood glucose should be performed when initiating EXTRANEAL in diabetic patients and insulin dosage should be adjusted if needed.">
+        <entity charOffset="85-93" id="DDI-DrugBank.d501.s6.e0" text="EXTRANEAL" type="brand"/>
+        <entity charOffset="120-126" id="DDI-DrugBank.d501.s6.e1" text="insulin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d501.s6.e0" e2="DDI-DrugBank.d501.s6.e1" id="DDI-DrugBank.d501.s6.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s7" text="Heparin: No human drug interaction studies with heparin were conducted.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d501.s7.e0" text="Heparin" type="drug"/>
+        <entity charOffset="48-54" id="DDI-DrugBank.d501.s7.e1" text="heparin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s7.e0" e2="DDI-DrugBank.d501.s7.e1" id="DDI-DrugBank.d501.s7.p0"/>
+    <negationtags>Heparin: &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; human drug interaction studies with heparin were conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s8" text="In vitro studies demonstrated no evidence of incompatibility of heparin with EXTRANEAL.">
+        <entity charOffset="64-70" id="DDI-DrugBank.d501.s8.e0" text="heparin" type="drug"/>
+        <entity charOffset="77-85" id="DDI-DrugBank.d501.s8.e1" text="EXTRANEAL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s8.e0" e2="DDI-DrugBank.d501.s8.e1" id="DDI-DrugBank.d501.s8.p0"/>
+    <negationtags>In vitro studies demonstrated &lt;scope&gt; &lt;cue&gt; no evidence &lt;/cue&gt; of incompatibility of heparin with EXTRANEAL. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s9" text="Antibiotics: No human drug interaction studies with antibiotics were conducted.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d501.s9.e0" text="Antibiotics" type="group"/>
+        <entity charOffset="52-62" id="DDI-DrugBank.d501.s9.e1" text="antibiotics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s9.e0" e2="DDI-DrugBank.d501.s9.e1" id="DDI-DrugBank.d501.s9.p0"/>
+    <negationtags>Antibiotics: &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; human drug interaction studies with antibiotics were conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s10" text="In vitro studies evaluating the minimum inhibitory concentration (MIC) of vancomycin, cefazolin, ampicillin, ampicillin/flucoxacillin, ceftazidime, gentamicin, and amphotericin demonstrated no evidence of incompatibility of these antibiotics with EXTRANEAL.">
+        <entity charOffset="74-83" id="DDI-DrugBank.d501.s10.e0" text="vancomycin" type="drug"/>
+        <entity charOffset="86-94" id="DDI-DrugBank.d501.s10.e1" text="cefazolin" type="drug"/>
+        <entity charOffset="97-106" id="DDI-DrugBank.d501.s10.e2" text="ampicillin" type="drug"/>
+        <entity charOffset="109-118" id="DDI-DrugBank.d501.s10.e3" text="ampicillin" type="drug"/>
+        <entity charOffset="135-145" id="DDI-DrugBank.d501.s10.e4" text="ceftazidime" type="drug"/>
+        <entity charOffset="148-157" id="DDI-DrugBank.d501.s10.e5" text="gentamicin" type="drug"/>
+        <entity charOffset="164-175" id="DDI-DrugBank.d501.s10.e6" text="amphotericin" type="drug"/>
+        <entity charOffset="230-240" id="DDI-DrugBank.d501.s10.e7" text="antibiotics" type="group"/>
+        <entity charOffset="247-255" id="DDI-DrugBank.d501.s10.e8" text="EXTRANEAL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e1" id="DDI-DrugBank.d501.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e2" id="DDI-DrugBank.d501.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e3" id="DDI-DrugBank.d501.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e4" id="DDI-DrugBank.d501.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e5" id="DDI-DrugBank.d501.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e6" id="DDI-DrugBank.d501.s10.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e7" id="DDI-DrugBank.d501.s10.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e0" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e1" e2="DDI-DrugBank.d501.s10.e2" id="DDI-DrugBank.d501.s10.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e1" e2="DDI-DrugBank.d501.s10.e3" id="DDI-DrugBank.d501.s10.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e1" e2="DDI-DrugBank.d501.s10.e4" id="DDI-DrugBank.d501.s10.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e1" e2="DDI-DrugBank.d501.s10.e5" id="DDI-DrugBank.d501.s10.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e1" e2="DDI-DrugBank.d501.s10.e6" id="DDI-DrugBank.d501.s10.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e1" e2="DDI-DrugBank.d501.s10.e7" id="DDI-DrugBank.d501.s10.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e1" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e2" e2="DDI-DrugBank.d501.s10.e3" id="DDI-DrugBank.d501.s10.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e2" e2="DDI-DrugBank.d501.s10.e4" id="DDI-DrugBank.d501.s10.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e2" e2="DDI-DrugBank.d501.s10.e5" id="DDI-DrugBank.d501.s10.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e2" e2="DDI-DrugBank.d501.s10.e6" id="DDI-DrugBank.d501.s10.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e2" e2="DDI-DrugBank.d501.s10.e7" id="DDI-DrugBank.d501.s10.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e2" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e3" e2="DDI-DrugBank.d501.s10.e4" id="DDI-DrugBank.d501.s10.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e3" e2="DDI-DrugBank.d501.s10.e5" id="DDI-DrugBank.d501.s10.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e3" e2="DDI-DrugBank.d501.s10.e6" id="DDI-DrugBank.d501.s10.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e3" e2="DDI-DrugBank.d501.s10.e7" id="DDI-DrugBank.d501.s10.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e3" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e4" e2="DDI-DrugBank.d501.s10.e5" id="DDI-DrugBank.d501.s10.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e4" e2="DDI-DrugBank.d501.s10.e6" id="DDI-DrugBank.d501.s10.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e4" e2="DDI-DrugBank.d501.s10.e7" id="DDI-DrugBank.d501.s10.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e4" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e5" e2="DDI-DrugBank.d501.s10.e6" id="DDI-DrugBank.d501.s10.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e5" e2="DDI-DrugBank.d501.s10.e7" id="DDI-DrugBank.d501.s10.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e5" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e6" e2="DDI-DrugBank.d501.s10.e7" id="DDI-DrugBank.d501.s10.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e6" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d501.s10.e7" e2="DDI-DrugBank.d501.s10.e8" id="DDI-DrugBank.d501.s10.p35"/>
+    <negationtags>In vitro studies evaluating the minimum inhibitory concentration (MIC) of vancomycin, cefazolin, ampicillin, ampicillin/flucoxacillin, ceftazidime, gentamicin, and amphotericin demonstrated &lt;scope&gt; &lt;cue&gt; no evidence &lt;/cue&gt; of incompatibility of these antibiotics with EXTRANEAL. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s11" text="Drug/Laboratory Test Interactions Blood Glucose Blood glucose measurement must be done with a glucose-specific method to prevent maltose interference with test results."/>
+    <sentence id="DDI-DrugBank.d501.s12" text="Since falsely elevated glucose levels have been observed with blood glucose monitoring devices and test strips that use glucose dehydrogenase pyrroloquinolinequinone (GDH PQQ)-based methods, GDH PQQ-based methods should not be used to measure glucose levels in patients administered EXTRANEAL..">
+        <entity charOffset="283-291" id="DDI-DrugBank.d501.s12.e0" text="EXTRANEAL" type="brand"/>
+    <negationtags>Since falsely elevated glucose levels have been observed with blood glucose monitoring devices and test strips that use glucose dehydrogenase pyrroloquinolinequinone (GDH PQQ)-based methods, GDH PQQ-based methods should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used to measure glucose levels in patients administered EXTRANEAL.. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d501.s13" text="Serum Amylase An apparent decrease in serum amylase activity has been observed in patients administered EXTRANEAL.">
+        <entity charOffset="104-112" id="DDI-DrugBank.d501.s13.e0" text="EXTRANEAL" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s14" text="Preliminary investigations indicate that icodextrin and its metabolites interfere with enzymatic-based amylase assays, resulting in inaccurately low values.">
+        <entity charOffset="41-50" id="DDI-DrugBank.d501.s14.e0" text="icodextrin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d501.s15" text="This should be taken into account when evaluating serum amylase levels for diagnosis or monitoring of pancreatitis in patients using EXTRANEAL.">
+        <entity charOffset="133-141" id="DDI-DrugBank.d501.s15.e0" text="EXTRANEAL" type="brand"/>
+    </sentence>
+</document>

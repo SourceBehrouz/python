@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d81">
+    <sentence id="DDI-DrugBank.d81.s0" text="Nitroglycerin: DynaCirc  (isradipine) has been safely coadministered with nitroglycerin.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d81.s0.e0" text="Nitroglycerin" type="drug"/>
+        <entity charOffset="15-22" id="DDI-DrugBank.d81.s0.e1" text="DynaCirc" type="brand"/>
+        <entity charOffset="26-35" id="DDI-DrugBank.d81.s0.e2" text="isradipine" type="drug"/>
+        <entity charOffset="74-86" id="DDI-DrugBank.d81.s0.e3" text="nitroglycerin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s0.e0" e2="DDI-DrugBank.d81.s0.e1" id="DDI-DrugBank.d81.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s0.e0" e2="DDI-DrugBank.d81.s0.e2" id="DDI-DrugBank.d81.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s0.e0" e2="DDI-DrugBank.d81.s0.e3" id="DDI-DrugBank.d81.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s0.e1" e2="DDI-DrugBank.d81.s0.e2" id="DDI-DrugBank.d81.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s0.e1" e2="DDI-DrugBank.d81.s0.e3" id="DDI-DrugBank.d81.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s0.e2" e2="DDI-DrugBank.d81.s0.e3" id="DDI-DrugBank.d81.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s1" text="Hydrochlorothiazide: A study in normal healthy volunteers has shown that concomitant administration of DynaCirc  (isradipine) and hydrochlorothiazide does not result in altered pharmacoktnetics of either drug.">
+        <entity charOffset="0-18" id="DDI-DrugBank.d81.s1.e0" text="Hydrochlorothiazide" type="drug"/>
+        <entity charOffset="103-110" id="DDI-DrugBank.d81.s1.e1" text="DynaCirc" type="brand"/>
+        <entity charOffset="114-123" id="DDI-DrugBank.d81.s1.e2" text="isradipine" type="drug"/>
+        <entity charOffset="130-148" id="DDI-DrugBank.d81.s1.e3" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s1.e0" e2="DDI-DrugBank.d81.s1.e1" id="DDI-DrugBank.d81.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s1.e0" e2="DDI-DrugBank.d81.s1.e2" id="DDI-DrugBank.d81.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s1.e0" e2="DDI-DrugBank.d81.s1.e3" id="DDI-DrugBank.d81.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s1.e1" e2="DDI-DrugBank.d81.s1.e2" id="DDI-DrugBank.d81.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s1.e1" e2="DDI-DrugBank.d81.s1.e3" id="DDI-DrugBank.d81.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s1.e2" e2="DDI-DrugBank.d81.s1.e3" id="DDI-DrugBank.d81.s1.p5"/>
+    <negationtags>Hydrochlorothiazide: A study in normal healthy volunteers has shown that concomitant administration of DynaCirc (isradipine) and hydrochlorothiazide does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; result in altered pharmacoktnetics of either drug. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d81.s2" text="In a study in hypertensive patients, addition of isradipine to existing hydrochlorothiazide therapy did not result in any unexpected adverse effects, and isradipine had an additional antihypertensive effect.">
+        <entity charOffset="49-58" id="DDI-DrugBank.d81.s2.e0" text="isradipine" type="drug"/>
+        <entity charOffset="72-90" id="DDI-DrugBank.d81.s2.e1" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="154-163" id="DDI-DrugBank.d81.s2.e2" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s2.e0" e2="DDI-DrugBank.d81.s2.e1" id="DDI-DrugBank.d81.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s2.e0" e2="DDI-DrugBank.d81.s2.e2" id="DDI-DrugBank.d81.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s2.e1" e2="DDI-DrugBank.d81.s2.e2" id="DDI-DrugBank.d81.s2.p2"/>
+    <negationtags>In a study in hypertensive patients, addition of isradipine to existing hydrochlorothiazide therapy did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; result in any unexpected adverse effects, and isradipine had an additional antihypertensive effect. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d81.s3" text="Propranolol: In a single dose study in normal volunteers, coadministration of propranolol had a small effect on the rate but no effect on the extent of isradipine bioavailability.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d81.s3.e0" text="Propranolol" type="drug"/>
+        <entity charOffset="78-88" id="DDI-DrugBank.d81.s3.e1" text="propranolol" type="drug"/>
+        <entity charOffset="152-161" id="DDI-DrugBank.d81.s3.e2" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s3.e0" e2="DDI-DrugBank.d81.s3.e1" id="DDI-DrugBank.d81.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s3.e0" e2="DDI-DrugBank.d81.s3.e2" id="DDI-DrugBank.d81.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s3.e1" e2="DDI-DrugBank.d81.s3.e2" id="DDI-DrugBank.d81.s3.p2"/>
+    <negationtags>Propranolol: In a single dose study in normal volunteers, coadministration of propranolol had a small effect on the rate but &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the extent of isradipine bioavailability. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d81.s4" text="Significant increases In AUC (27%) and Cmax (58%) and decreases in tmax (23%) of propranolol were noted in this study.">
+        <entity charOffset="81-91" id="DDI-DrugBank.d81.s4.e0" text="propranolol" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s5" text="However, concomitant administration of 5 mg b.i.d. isradipine and 40 mg b.i.d.">
+        <entity charOffset="51-60" id="DDI-DrugBank.d81.s5.e0" text="isradipine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s6" text="propranolol to healthy volunteers under steady-state conditions had no relevant effect on either drug s bioavailability, AUC and Cmax, differences were  20% between isradipine given singly and in combination with propranolol, and between propranolol given singly and in combination with isradipine.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d81.s6.e0" text="propranolol" type="drug"/>
+        <entity charOffset="165-174" id="DDI-DrugBank.d81.s6.e1" text="isradipine" type="drug"/>
+        <entity charOffset="213-223" id="DDI-DrugBank.d81.s6.e2" text="propranolol" type="drug"/>
+        <entity charOffset="238-248" id="DDI-DrugBank.d81.s6.e3" text="propranolol" type="drug"/>
+        <entity charOffset="287-296" id="DDI-DrugBank.d81.s6.e4" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e0" e2="DDI-DrugBank.d81.s6.e1" id="DDI-DrugBank.d81.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e0" e2="DDI-DrugBank.d81.s6.e2" id="DDI-DrugBank.d81.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e0" e2="DDI-DrugBank.d81.s6.e3" id="DDI-DrugBank.d81.s6.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e0" e2="DDI-DrugBank.d81.s6.e4" id="DDI-DrugBank.d81.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e1" e2="DDI-DrugBank.d81.s6.e2" id="DDI-DrugBank.d81.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e1" e2="DDI-DrugBank.d81.s6.e3" id="DDI-DrugBank.d81.s6.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e1" e2="DDI-DrugBank.d81.s6.e4" id="DDI-DrugBank.d81.s6.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e2" e2="DDI-DrugBank.d81.s6.e3" id="DDI-DrugBank.d81.s6.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e2" e2="DDI-DrugBank.d81.s6.e4" id="DDI-DrugBank.d81.s6.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s6.e3" e2="DDI-DrugBank.d81.s6.e4" id="DDI-DrugBank.d81.s6.p9"/>
+    <negationtags>propranolol to healthy volunteers under steady-state conditions had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; relevant effect on either drug s bioavailability, AUC and Cmax, differences were 20% between isradipine given singly and in combination with propranolol, and between propranolol given singly and in combination with isradipine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d81.s7" text="Cimetidine: In a study in healthy volunteers, a one-week course of cimetidine at 400 mg b.i.d. with a single 5 mg dose of isradipine on the sixth day showed an increase in isradipine mean peak plasma concentrations (36%) and significant increase in area under the curve (50%).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d81.s7.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="67-76" id="DDI-DrugBank.d81.s7.e1" text="cimetidine" type="drug"/>
+        <entity charOffset="122-131" id="DDI-DrugBank.d81.s7.e2" text="isradipine" type="drug"/>
+        <entity charOffset="172-181" id="DDI-DrugBank.d81.s7.e3" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s7.e0" e2="DDI-DrugBank.d81.s7.e1" id="DDI-DrugBank.d81.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s7.e0" e2="DDI-DrugBank.d81.s7.e2" id="DDI-DrugBank.d81.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s7.e0" e2="DDI-DrugBank.d81.s7.e3" id="DDI-DrugBank.d81.s7.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d81.s7.e1" e2="DDI-DrugBank.d81.s7.e2" id="DDI-DrugBank.d81.s7.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s7.e1" e2="DDI-DrugBank.d81.s7.e3" id="DDI-DrugBank.d81.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s7.e2" e2="DDI-DrugBank.d81.s7.e3" id="DDI-DrugBank.d81.s7.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s8" text="If isradipine therapy is initiated in a patient currently receiving cimetidine careful monitoring for adverse reactions is advised and downward dose adjustment may be required.">
+        <entity charOffset="3-12" id="DDI-DrugBank.d81.s8.e0" text="isradipine" type="drug"/>
+        <entity charOffset="68-77" id="DDI-DrugBank.d81.s8.e1" text="cimetidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d81.s8.e0" e2="DDI-DrugBank.d81.s8.e1" id="DDI-DrugBank.d81.s8.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s9" text="Rifampicin: In a study in healthy volunteers, a six-day course of rifampicin at 600 mg/day followed by a single 5 mg dose of isradipine resulted in a reduction in isradipine levels to below detectable limits.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d81.s9.e0" text="Rifampicin" type="drug"/>
+        <entity charOffset="66-75" id="DDI-DrugBank.d81.s9.e1" text="rifampicin" type="drug"/>
+        <entity charOffset="125-134" id="DDI-DrugBank.d81.s9.e2" text="isradipine" type="drug"/>
+        <entity charOffset="163-172" id="DDI-DrugBank.d81.s9.e3" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s9.e0" e2="DDI-DrugBank.d81.s9.e1" id="DDI-DrugBank.d81.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s9.e0" e2="DDI-DrugBank.d81.s9.e2" id="DDI-DrugBank.d81.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s9.e0" e2="DDI-DrugBank.d81.s9.e3" id="DDI-DrugBank.d81.s9.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d81.s9.e1" e2="DDI-DrugBank.d81.s9.e2" id="DDI-DrugBank.d81.s9.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s9.e1" e2="DDI-DrugBank.d81.s9.e3" id="DDI-DrugBank.d81.s9.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s9.e2" e2="DDI-DrugBank.d81.s9.e3" id="DDI-DrugBank.d81.s9.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s10" text="If rifampicin therapy is required, isradipine concentrations and therapeutic effects are likely to be markedly reduced or abolished as a consequence of increased metabolism and higher clearance of isradipine.">
+        <entity charOffset="3-12" id="DDI-DrugBank.d81.s10.e0" text="rifampicin" type="drug"/>
+        <entity charOffset="35-44" id="DDI-DrugBank.d81.s10.e1" text="isradipine" type="drug"/>
+        <entity charOffset="197-206" id="DDI-DrugBank.d81.s10.e2" text="isradipine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d81.s10.e0" e2="DDI-DrugBank.d81.s10.e1" id="DDI-DrugBank.d81.s10.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s10.e0" e2="DDI-DrugBank.d81.s10.e2" id="DDI-DrugBank.d81.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s10.e1" e2="DDI-DrugBank.d81.s10.e2" id="DDI-DrugBank.d81.s10.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s11" text="Warfarin: In a study in healthy volunteers, no clinically relevant pharmacokinetic or pharmacodynamic interaction between isradipine and racemic warfarin was seen when two single oral doses of warfarin (0.7 mg/kg body weight) were administered during 11 days of multipledose treatment with 5 mg b.i.d. isradipine.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d81.s11.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="122-131" id="DDI-DrugBank.d81.s11.e1" text="isradipine" type="drug"/>
+        <entity charOffset="145-152" id="DDI-DrugBank.d81.s11.e2" text="warfarin" type="drug"/>
+        <entity charOffset="193-200" id="DDI-DrugBank.d81.s11.e3" text="warfarin" type="drug"/>
+        <entity charOffset="302-311" id="DDI-DrugBank.d81.s11.e4" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e0" e2="DDI-DrugBank.d81.s11.e1" id="DDI-DrugBank.d81.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e0" e2="DDI-DrugBank.d81.s11.e2" id="DDI-DrugBank.d81.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e0" e2="DDI-DrugBank.d81.s11.e3" id="DDI-DrugBank.d81.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e0" e2="DDI-DrugBank.d81.s11.e4" id="DDI-DrugBank.d81.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e1" e2="DDI-DrugBank.d81.s11.e2" id="DDI-DrugBank.d81.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e1" e2="DDI-DrugBank.d81.s11.e3" id="DDI-DrugBank.d81.s11.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e1" e2="DDI-DrugBank.d81.s11.e4" id="DDI-DrugBank.d81.s11.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e2" e2="DDI-DrugBank.d81.s11.e3" id="DDI-DrugBank.d81.s11.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e2" e2="DDI-DrugBank.d81.s11.e4" id="DDI-DrugBank.d81.s11.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s11.e3" e2="DDI-DrugBank.d81.s11.e4" id="DDI-DrugBank.d81.s11.p9"/>
+    <negationtags>Warfarin: In a study in healthy volunteers, &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically relevant pharmacokinetic or pharmacodynamic interaction between isradipine and racemic warfarin was seen when two single oral doses of warfarin (0.7 mg/kg body weight) were administered during 11 days of multipledose treatment with 5 mg b.i.d. isradipine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d81.s12" text="Neither racemic warfarin nor isradipine binding to plasma proteins in vitro was altered by the addition of the other drug.">
+        <entity charOffset="16-23" id="DDI-DrugBank.d81.s12.e0" text="warfarin" type="drug"/>
+        <entity charOffset="29-38" id="DDI-DrugBank.d81.s12.e1" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s12.e0" e2="DDI-DrugBank.d81.s12.e1" id="DDI-DrugBank.d81.s12.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s13" text="Digoxin: The concomitant administration of DynaCirc  (isradipine) and digoxin in a single-dose pharmacokinetic study did not affect renal, nonrenal and total body clearance of digoxin.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d81.s13.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="43-50" id="DDI-DrugBank.d81.s13.e1" text="DynaCirc" type="brand"/>
+        <entity charOffset="54-63" id="DDI-DrugBank.d81.s13.e2" text="isradipine" type="drug"/>
+        <entity charOffset="70-76" id="DDI-DrugBank.d81.s13.e3" text="digoxin" type="drug"/>
+        <entity charOffset="176-182" id="DDI-DrugBank.d81.s13.e4" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e0" e2="DDI-DrugBank.d81.s13.e1" id="DDI-DrugBank.d81.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e0" e2="DDI-DrugBank.d81.s13.e2" id="DDI-DrugBank.d81.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e0" e2="DDI-DrugBank.d81.s13.e3" id="DDI-DrugBank.d81.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e0" e2="DDI-DrugBank.d81.s13.e4" id="DDI-DrugBank.d81.s13.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e1" e2="DDI-DrugBank.d81.s13.e2" id="DDI-DrugBank.d81.s13.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e1" e2="DDI-DrugBank.d81.s13.e3" id="DDI-DrugBank.d81.s13.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e1" e2="DDI-DrugBank.d81.s13.e4" id="DDI-DrugBank.d81.s13.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e2" e2="DDI-DrugBank.d81.s13.e3" id="DDI-DrugBank.d81.s13.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e2" e2="DDI-DrugBank.d81.s13.e4" id="DDI-DrugBank.d81.s13.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s13.e3" e2="DDI-DrugBank.d81.s13.e4" id="DDI-DrugBank.d81.s13.p9"/>
+    <negationtags>Digoxin: The concomitant administration of DynaCirc (isradipine) and digoxin in a single-dose pharmacokinetic study did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect renal, nonrenal and total body clearance of digoxin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d81.s14" text="Fentanyl Anesthesia: Severe hypotension has been reported during fentanyl anesthesia with concomitant use of a beta blocker and a calcium channel blocker.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d81.s14.e0" text="Fentanyl" type="drug"/>
+        <entity charOffset="65-72" id="DDI-DrugBank.d81.s14.e1" text="fentanyl" type="drug"/>
+        <entity charOffset="111-122" id="DDI-DrugBank.d81.s14.e2" text="beta blocker" type="group"/>
+        <entity charOffset="130-152" id="DDI-DrugBank.d81.s14.e3" text="calcium channel blocker" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s14.e0" e2="DDI-DrugBank.d81.s14.e1" id="DDI-DrugBank.d81.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s14.e0" e2="DDI-DrugBank.d81.s14.e2" id="DDI-DrugBank.d81.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s14.e0" e2="DDI-DrugBank.d81.s14.e3" id="DDI-DrugBank.d81.s14.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d81.s14.e1" e2="DDI-DrugBank.d81.s14.e2" id="DDI-DrugBank.d81.s14.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d81.s14.e1" e2="DDI-DrugBank.d81.s14.e3" id="DDI-DrugBank.d81.s14.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s14.e2" e2="DDI-DrugBank.d81.s14.e3" id="DDI-DrugBank.d81.s14.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d81.s15" text="Even though such interactions have not been seen in clinical studies with DynaCirc  (isradipine), an increased volume of circulating fluids might be required if such an interaction were to occur.">
+        <entity charOffset="74-81" id="DDI-DrugBank.d81.s15.e0" text="DynaCirc" type="brand"/>
+        <entity charOffset="85-94" id="DDI-DrugBank.d81.s15.e1" text="isradipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d81.s15.e0" e2="DDI-DrugBank.d81.s15.e1" id="DDI-DrugBank.d81.s15.p0"/>
+    <negationtags>Even though such interactions have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been seen in clinical studies with DynaCirc (isradipine), an increased volume of circulating fluids might be required if such an interaction were to occur. &lt;/scope&gt;</negationtags></sentence>
+</document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d525">
+    <sentence id="DDI-DrugBank.d525.s0" text="Eprosartan has been shown to have no effect on the pharmacokinetics of digoxin and the pharmacodynamics of warfarin and glyburide.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d525.s0.e0" text="Eprosartan" type="drug"/>
+        <entity charOffset="71-77" id="DDI-DrugBank.d525.s0.e1" text="digoxin" type="drug"/>
+        <entity charOffset="107-114" id="DDI-DrugBank.d525.s0.e2" text="warfarin" type="drug"/>
+        <entity charOffset="120-128" id="DDI-DrugBank.d525.s0.e3" text="glyburide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s0.e0" e2="DDI-DrugBank.d525.s0.e1" id="DDI-DrugBank.d525.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s0.e0" e2="DDI-DrugBank.d525.s0.e2" id="DDI-DrugBank.d525.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s0.e0" e2="DDI-DrugBank.d525.s0.e3" id="DDI-DrugBank.d525.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s0.e1" e2="DDI-DrugBank.d525.s0.e2" id="DDI-DrugBank.d525.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s0.e1" e2="DDI-DrugBank.d525.s0.e3" id="DDI-DrugBank.d525.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s0.e2" e2="DDI-DrugBank.d525.s0.e3" id="DDI-DrugBank.d525.s0.p5"/>
+    <negationtags>Eprosartan has been shown to have &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the pharmacokinetics of digoxin and the pharmacodynamics of warfarin and glyburide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d525.s1" text="Thus no dosing adjustments are necessary during concomitant use with these agents."><negationtags>Thus &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; dosing adjustments are necessary during concomitant use with these agents. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d525.s2" text="Because eprosartan is not metabolized by the cytochrome P450 system, inhibitors of CYP450 enzyme would not be expected to affect its metabolism, and ketoconazole and fluconazole, potent inhibitors of CYP3A and 2C9, respectively, have been shown to have no effect on eprosartan pharmacokinetics.">
+        <entity charOffset="8-17" id="DDI-DrugBank.d525.s2.e0" text="eprosartan" type="drug"/>
+        <entity charOffset="149-160" id="DDI-DrugBank.d525.s2.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="166-176" id="DDI-DrugBank.d525.s2.e2" text="fluconazole" type="drug"/>
+        <entity charOffset="266-275" id="DDI-DrugBank.d525.s2.e3" text="eprosartan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s2.e0" e2="DDI-DrugBank.d525.s2.e1" id="DDI-DrugBank.d525.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s2.e0" e2="DDI-DrugBank.d525.s2.e2" id="DDI-DrugBank.d525.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s2.e0" e2="DDI-DrugBank.d525.s2.e3" id="DDI-DrugBank.d525.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s2.e1" e2="DDI-DrugBank.d525.s2.e2" id="DDI-DrugBank.d525.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s2.e1" e2="DDI-DrugBank.d525.s2.e3" id="DDI-DrugBank.d525.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s2.e2" e2="DDI-DrugBank.d525.s2.e3" id="DDI-DrugBank.d525.s2.p5"/>
+    <negationtags>Because eprosartan is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; metabolized by the cytochrome P450 system, inhibitors of CYP450 enzyme would not be expected to affect its metabolism, and ketoconazole and fluconazole, potent inhibitors of CYP3A and 2C9, respectively, have been shown to have no effect on eprosartan pharmacokinetics. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d525.s3" text="Ranitidine also has no effect on eprosartan pharmacokinetics.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d525.s3.e0" text="Ranitidine" type="drug"/>
+        <entity charOffset="33-42" id="DDI-DrugBank.d525.s3.e1" text="eprosartan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s3.e0" e2="DDI-DrugBank.d525.s3.e1" id="DDI-DrugBank.d525.s3.p0"/>
+    <negationtags>Ranitidine also has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on eprosartan pharmacokinetics. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d525.s4" text="Eprosartan (up to 400 mg b.i.d. or 800 mg q.d.) doses have been safely used concomitantly with a thiazide diuretic (hydrochlorothiazide).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d525.s4.e0" text="Eprosartan" type="drug"/>
+        <entity charOffset="97-113" id="DDI-DrugBank.d525.s4.e1" text="thiazide diuretic" type="group"/>
+        <entity charOffset="116-134" id="DDI-DrugBank.d525.s4.e2" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s4.e0" e2="DDI-DrugBank.d525.s4.e1" id="DDI-DrugBank.d525.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s4.e0" e2="DDI-DrugBank.d525.s4.e2" id="DDI-DrugBank.d525.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s4.e1" e2="DDI-DrugBank.d525.s4.e2" id="DDI-DrugBank.d525.s4.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d525.s5" text="Eprosartan doses of up to 300 mg b.i.d. have been safely used concomitantly with sustained-release calcium channel blockers (sustained-release nifedipine) with no clinically significant adverse interactions.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d525.s5.e0" text="Eprosartan" type="drug"/>
+        <entity charOffset="99-122" id="DDI-DrugBank.d525.s5.e1" text="calcium channel blockers" type="group"/>
+        <entity charOffset="143-152" id="DDI-DrugBank.d525.s5.e2" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s5.e0" e2="DDI-DrugBank.d525.s5.e1" id="DDI-DrugBank.d525.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s5.e0" e2="DDI-DrugBank.d525.s5.e2" id="DDI-DrugBank.d525.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d525.s5.e1" e2="DDI-DrugBank.d525.s5.e2" id="DDI-DrugBank.d525.s5.p2"/>
+    <negationtags>Eprosartan doses of up to 300 mg b.i.d. have been safely used concomitantly with sustained-release calcium channel blockers (sustained-release nifedipine) &lt;scope&gt; &lt;cue&gt; with no &lt;/cue&gt; clinically significant adverse interactions. &lt;/scope&gt;</negationtags></sentence>
+</document>

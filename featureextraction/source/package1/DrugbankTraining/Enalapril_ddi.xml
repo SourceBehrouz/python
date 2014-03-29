@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d107">
+    <sentence id="DDI-DrugBank.d107.s0" text="Hypotension: Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with enalapril or enalaprilat.">
+        <entity charOffset="55-63" id="DDI-DrugBank.d107.s0.e0" text="diuretics" type="drug"/>
+        <entity charOffset="238-246" id="DDI-DrugBank.d107.s0.e1" text="enalapril" type="drug"/>
+        <entity charOffset="251-261" id="DDI-DrugBank.d107.s0.e2" text="enalaprilat" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s0.e0" e2="DDI-DrugBank.d107.s0.e1" id="DDI-DrugBank.d107.s0.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s0.e0" e2="DDI-DrugBank.d107.s0.e2" id="DDI-DrugBank.d107.s0.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s0.e1" e2="DDI-DrugBank.d107.s0.e2" id="DDI-DrugBank.d107.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s1" text="The possibility of hypotensive effects with enalapril or enalaprilat can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with enalapril or enalaprilat.">
+        <entity charOffset="44-52" id="DDI-DrugBank.d107.s1.e0" text="enalapril" type="drug"/>
+        <entity charOffset="57-67" id="DDI-DrugBank.d107.s1.e1" text="enalaprilat" type="drug"/>
+        <entity charOffset="114-121" id="DDI-DrugBank.d107.s1.e2" text="diuretic" type="drug"/>
+        <entity charOffset="191-199" id="DDI-DrugBank.d107.s1.e3" text="enalapril" type="drug"/>
+        <entity charOffset="204-214" id="DDI-DrugBank.d107.s1.e4" text="enalaprilat" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e0" e2="DDI-DrugBank.d107.s1.e1" id="DDI-DrugBank.d107.s1.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s1.e0" e2="DDI-DrugBank.d107.s1.e2" id="DDI-DrugBank.d107.s1.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e0" e2="DDI-DrugBank.d107.s1.e3" id="DDI-DrugBank.d107.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e0" e2="DDI-DrugBank.d107.s1.e4" id="DDI-DrugBank.d107.s1.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s1.e1" e2="DDI-DrugBank.d107.s1.e2" id="DDI-DrugBank.d107.s1.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e1" e2="DDI-DrugBank.d107.s1.e3" id="DDI-DrugBank.d107.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e1" e2="DDI-DrugBank.d107.s1.e4" id="DDI-DrugBank.d107.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e2" e2="DDI-DrugBank.d107.s1.e3" id="DDI-DrugBank.d107.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e2" e2="DDI-DrugBank.d107.s1.e4" id="DDI-DrugBank.d107.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s1.e3" e2="DDI-DrugBank.d107.s1.e4" id="DDI-DrugBank.d107.s1.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s2" text="If it is necessary to continue the diuretic, provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour..">
+        <entity charOffset="35-42" id="DDI-DrugBank.d107.s2.e0" text="diuretic" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s3" text="Agents Causing Renin Release: The antihypertensive effect of enalapril and enalapril IV is augmented by antihypertensive agents that cause renin release (e.g., diuretics).">
+        <entity charOffset="61-69" id="DDI-DrugBank.d107.s3.e0" text="enalapril" type="drug"/>
+        <entity charOffset="75-83" id="DDI-DrugBank.d107.s3.e1" text="enalapril" type="drug"/>
+        <entity charOffset="104-126" id="DDI-DrugBank.d107.s3.e2" text="antihypertensive agents" type="group"/>
+        <entity charOffset="160-168" id="DDI-DrugBank.d107.s3.e3" text="diuretics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s3.e0" e2="DDI-DrugBank.d107.s3.e1" id="DDI-DrugBank.d107.s3.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s3.e0" e2="DDI-DrugBank.d107.s3.e2" id="DDI-DrugBank.d107.s3.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s3.e0" e2="DDI-DrugBank.d107.s3.e3" id="DDI-DrugBank.d107.s3.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s3.e1" e2="DDI-DrugBank.d107.s3.e2" id="DDI-DrugBank.d107.s3.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s3.e1" e2="DDI-DrugBank.d107.s3.e3" id="DDI-DrugBank.d107.s3.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s3.e2" e2="DDI-DrugBank.d107.s3.e3" id="DDI-DrugBank.d107.s3.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s4" text="Non-steroidal Anti-inflammatory Agents: In some patients with compromised renal function who are being treated with nonsteroidal anti-inflammatory drugs, the co-administration of enalapril may result in a further deterioration of renal function.">
+        <entity charOffset="0-37" id="DDI-DrugBank.d107.s4.e0" text="Non-steroidal Anti-inflammatory Agents" type="group"/>
+        <entity charOffset="116-151" id="DDI-DrugBank.d107.s4.e1" text="nonsteroidal anti-inflammatory drugs" type="group"/>
+        <entity charOffset="179-187" id="DDI-DrugBank.d107.s4.e2" text="enalapril" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s4.e0" e2="DDI-DrugBank.d107.s4.e1" id="DDI-DrugBank.d107.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s4.e0" e2="DDI-DrugBank.d107.s4.e2" id="DDI-DrugBank.d107.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s4.e1" e2="DDI-DrugBank.d107.s4.e2" id="DDI-DrugBank.d107.s4.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s5" text="These effects are usually reversible."/>
+    <sentence id="DDI-DrugBank.d107.s6" text="In a clinical pharmacology study, indomethacin or sulindac was administered to hypertensive patients receiving VASOTEC.">
+        <entity charOffset="34-45" id="DDI-DrugBank.d107.s6.e0" text="indomethacin" type="drug"/>
+        <entity charOffset="50-57" id="DDI-DrugBank.d107.s6.e1" text="sulindac" type="drug"/>
+        <entity charOffset="111-117" id="DDI-DrugBank.d107.s6.e2" text="VASOTEC" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s6.e0" e2="DDI-DrugBank.d107.s6.e1" id="DDI-DrugBank.d107.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s6.e0" e2="DDI-DrugBank.d107.s6.e2" id="DDI-DrugBank.d107.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s6.e1" e2="DDI-DrugBank.d107.s6.e2" id="DDI-DrugBank.d107.s6.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s7" text="In this study there was no evidence of a blunting of the antihypertensive action of VASOTEC.">
+        <entity charOffset="84-90" id="DDI-DrugBank.d107.s7.e0" text="VASOTEC" type="brand"/>
+    <negationtags>In this study there was &lt;scope&gt; &lt;cue&gt; no evidence &lt;/cue&gt; of a blunting of the antihypertensive action of VASOTEC. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d107.s8" text="However, reports suggest that NSAIDs may diminish the antihypertensive effect of ACE inhibitors.">
+        <entity charOffset="30-35" id="DDI-DrugBank.d107.s8.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="81-94" id="DDI-DrugBank.d107.s8.e1" text="ACE inhibitors" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s8.e0" e2="DDI-DrugBank.d107.s8.e1" id="DDI-DrugBank.d107.s8.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s9" text="This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d107.s9.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="92-105" id="DDI-DrugBank.d107.s9.e1" text="ACE inhibitors" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s9.e0" e2="DDI-DrugBank.d107.s9.e1" id="DDI-DrugBank.d107.s9.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s10" text="Other Cardiovascular Agents: Enalapril and enalapril IV have been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine, prazosin and digoxin without evidence of clinically significant adverse interactions.">
+        <entity charOffset="29-37" id="DDI-DrugBank.d107.s10.e0" text="Enalapril" type="drug"/>
+        <entity charOffset="43-51" id="DDI-DrugBank.d107.s10.e1" text="enalapril" type="drug"/>
+        <entity charOffset="90-120" id="DDI-DrugBank.d107.s10.e2" text="beta adrenergic-blocking agents" type="group"/>
+        <entity charOffset="123-132" id="DDI-DrugBank.d107.s10.e3" text="methyldopa" type="drug"/>
+        <entity charOffset="135-142" id="DDI-DrugBank.d107.s10.e4" text="nitrates" type="group"/>
+        <entity charOffset="145-167" id="DDI-DrugBank.d107.s10.e5" text="calcium-blocking agents" type="group"/>
+        <entity charOffset="170-180" id="DDI-DrugBank.d107.s10.e6" text="hydralazine" type="drug"/>
+        <entity charOffset="183-190" id="DDI-DrugBank.d107.s10.e7" text="prazosin" type="drug"/>
+        <entity charOffset="196-202" id="DDI-DrugBank.d107.s10.e8" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e1" id="DDI-DrugBank.d107.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e2" id="DDI-DrugBank.d107.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e3" id="DDI-DrugBank.d107.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e4" id="DDI-DrugBank.d107.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e5" id="DDI-DrugBank.d107.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e6" id="DDI-DrugBank.d107.s10.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e7" id="DDI-DrugBank.d107.s10.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e0" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e1" e2="DDI-DrugBank.d107.s10.e2" id="DDI-DrugBank.d107.s10.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e1" e2="DDI-DrugBank.d107.s10.e3" id="DDI-DrugBank.d107.s10.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e1" e2="DDI-DrugBank.d107.s10.e4" id="DDI-DrugBank.d107.s10.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e1" e2="DDI-DrugBank.d107.s10.e5" id="DDI-DrugBank.d107.s10.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e1" e2="DDI-DrugBank.d107.s10.e6" id="DDI-DrugBank.d107.s10.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e1" e2="DDI-DrugBank.d107.s10.e7" id="DDI-DrugBank.d107.s10.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e1" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e2" e2="DDI-DrugBank.d107.s10.e3" id="DDI-DrugBank.d107.s10.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e2" e2="DDI-DrugBank.d107.s10.e4" id="DDI-DrugBank.d107.s10.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e2" e2="DDI-DrugBank.d107.s10.e5" id="DDI-DrugBank.d107.s10.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e2" e2="DDI-DrugBank.d107.s10.e6" id="DDI-DrugBank.d107.s10.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e2" e2="DDI-DrugBank.d107.s10.e7" id="DDI-DrugBank.d107.s10.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e2" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e3" e2="DDI-DrugBank.d107.s10.e4" id="DDI-DrugBank.d107.s10.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e3" e2="DDI-DrugBank.d107.s10.e5" id="DDI-DrugBank.d107.s10.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e3" e2="DDI-DrugBank.d107.s10.e6" id="DDI-DrugBank.d107.s10.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e3" e2="DDI-DrugBank.d107.s10.e7" id="DDI-DrugBank.d107.s10.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e3" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e4" e2="DDI-DrugBank.d107.s10.e5" id="DDI-DrugBank.d107.s10.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e4" e2="DDI-DrugBank.d107.s10.e6" id="DDI-DrugBank.d107.s10.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e4" e2="DDI-DrugBank.d107.s10.e7" id="DDI-DrugBank.d107.s10.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e4" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e5" e2="DDI-DrugBank.d107.s10.e6" id="DDI-DrugBank.d107.s10.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e5" e2="DDI-DrugBank.d107.s10.e7" id="DDI-DrugBank.d107.s10.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e5" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e6" e2="DDI-DrugBank.d107.s10.e7" id="DDI-DrugBank.d107.s10.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e6" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s10.e7" e2="DDI-DrugBank.d107.s10.e8" id="DDI-DrugBank.d107.s10.p35"/>
+    <negationtags>Other Cardiovascular Agents: Enalapril and enalapril IV have been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine, prazosin and digoxin &lt;scope&gt; &lt;cue&gt; without evidence &lt;/cue&gt; of clinically significant adverse interactions. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d107.s11" text="Enalapril IV has been used concomitantly with digitalis without evidence of clinically significant adverse reactions.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d107.s11.e0" text="Enalapril" type="drug"/>
+        <entity charOffset="46-54" id="DDI-DrugBank.d107.s11.e1" text="digitalis" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s11.e0" e2="DDI-DrugBank.d107.s11.e1" id="DDI-DrugBank.d107.s11.p0"/>
+    <negationtags>Enalapril IV has been used concomitantly with digitalis &lt;scope&gt; &lt;cue&gt; without evidence &lt;/cue&gt; of clinically significant adverse reactions. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d107.s12" text="Agents Increasing Serum Potassium: Enalapril and enalapril IV attenuate potassium loss caused by thiazide-type diuretics.">
+        <entity charOffset="35-43" id="DDI-DrugBank.d107.s12.e0" text="Enalapril" type="drug"/>
+        <entity charOffset="49-57" id="DDI-DrugBank.d107.s12.e1" text="enalapril" type="drug"/>
+        <entity charOffset="97-119" id="DDI-DrugBank.d107.s12.e2" text="thiazide-type diuretics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s12.e0" e2="DDI-DrugBank.d107.s12.e1" id="DDI-DrugBank.d107.s12.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s12.e0" e2="DDI-DrugBank.d107.s12.e2" id="DDI-DrugBank.d107.s12.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s12.e1" e2="DDI-DrugBank.d107.s12.e2" id="DDI-DrugBank.d107.s12.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s13" text="Potassium-sparing diuretics (e.g., spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.">
+        <entity charOffset="0-26" id="DDI-DrugBank.d107.s13.e0" text="Potassium-sparing diuretics" type="group"/>
+        <entity charOffset="35-48" id="DDI-DrugBank.d107.s13.e1" text="spironolactone" type="drug"/>
+        <entity charOffset="51-61" id="DDI-DrugBank.d107.s13.e2" text="triamterene" type="drug"/>
+        <entity charOffset="67-75" id="DDI-DrugBank.d107.s13.e3" text="amiloride" type="drug"/>
+        <entity charOffset="79-87" id="DDI-DrugBank.d107.s13.e4" text="potassium" type="drug"/>
+        <entity charOffset="105-113" id="DDI-DrugBank.d107.s13.e5" text="potassium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e0" e2="DDI-DrugBank.d107.s13.e1" id="DDI-DrugBank.d107.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e0" e2="DDI-DrugBank.d107.s13.e2" id="DDI-DrugBank.d107.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e0" e2="DDI-DrugBank.d107.s13.e3" id="DDI-DrugBank.d107.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e0" e2="DDI-DrugBank.d107.s13.e4" id="DDI-DrugBank.d107.s13.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e0" e2="DDI-DrugBank.d107.s13.e5" id="DDI-DrugBank.d107.s13.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e1" e2="DDI-DrugBank.d107.s13.e2" id="DDI-DrugBank.d107.s13.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e1" e2="DDI-DrugBank.d107.s13.e3" id="DDI-DrugBank.d107.s13.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e1" e2="DDI-DrugBank.d107.s13.e4" id="DDI-DrugBank.d107.s13.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e1" e2="DDI-DrugBank.d107.s13.e5" id="DDI-DrugBank.d107.s13.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e2" e2="DDI-DrugBank.d107.s13.e3" id="DDI-DrugBank.d107.s13.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e2" e2="DDI-DrugBank.d107.s13.e4" id="DDI-DrugBank.d107.s13.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e2" e2="DDI-DrugBank.d107.s13.e5" id="DDI-DrugBank.d107.s13.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e3" e2="DDI-DrugBank.d107.s13.e4" id="DDI-DrugBank.d107.s13.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e3" e2="DDI-DrugBank.d107.s13.e5" id="DDI-DrugBank.d107.s13.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s13.e4" e2="DDI-DrugBank.d107.s13.e5" id="DDI-DrugBank.d107.s13.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s14" text="Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium."/>
+    <sentence id="DDI-DrugBank.d107.s15" text="Potassium sparing agents should generally not be used in patients with heart failure receiving enalapril.">
+        <entity charOffset="95-103" id="DDI-DrugBank.d107.s15.e0" text="enalapril" type="drug"/>
+    <negationtags>Potassium sparing agents should generally &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used in patients with heart failure receiving enalapril. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d107.s16" text="Lithium: Lithium toxicity has been reported in patients receiving lithium concomitantly with drugs which cause elimination of sodium, including ACE inhibitors.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d107.s16.e0" text="Lithium" type="drug"/>
+        <entity charOffset="9-15" id="DDI-DrugBank.d107.s16.e1" text="Lithium" type="drug"/>
+        <entity charOffset="66-72" id="DDI-DrugBank.d107.s16.e2" text="lithium" type="drug"/>
+        <entity charOffset="144-157" id="DDI-DrugBank.d107.s16.e3" text="ACE inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s16.e0" e2="DDI-DrugBank.d107.s16.e1" id="DDI-DrugBank.d107.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s16.e0" e2="DDI-DrugBank.d107.s16.e2" id="DDI-DrugBank.d107.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s16.e0" e2="DDI-DrugBank.d107.s16.e3" id="DDI-DrugBank.d107.s16.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s16.e1" e2="DDI-DrugBank.d107.s16.e2" id="DDI-DrugBank.d107.s16.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s16.e1" e2="DDI-DrugBank.d107.s16.e3" id="DDI-DrugBank.d107.s16.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s16.e2" e2="DDI-DrugBank.d107.s16.e3" id="DDI-DrugBank.d107.s16.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d107.s17" text="It is recommended that serum lithium levels be monitored frequently if enalapril is administered concomitantly with lithium.">
+        <entity charOffset="29-35" id="DDI-DrugBank.d107.s17.e0" text="lithium" type="drug"/>
+        <entity charOffset="71-79" id="DDI-DrugBank.d107.s17.e1" text="enalapril" type="drug"/>
+        <entity charOffset="116-122" id="DDI-DrugBank.d107.s17.e2" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s17.e0" e2="DDI-DrugBank.d107.s17.e1" id="DDI-DrugBank.d107.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d107.s17.e0" e2="DDI-DrugBank.d107.s17.e2" id="DDI-DrugBank.d107.s17.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d107.s17.e1" e2="DDI-DrugBank.d107.s17.e2" id="DDI-DrugBank.d107.s17.p2" type="advise"/>
+    </sentence>
+</document>

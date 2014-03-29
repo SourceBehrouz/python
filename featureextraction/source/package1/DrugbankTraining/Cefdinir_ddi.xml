@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d420">
+    <sentence id="DDI-DrugBank.d420.s0" text="Antacids (aluminum- or magnesium-containing): Concomitant administration of 300-mg cefdinir capsules with 30 mL Maalox TC suspension reduces the rate (Cmax) and extent (AUC) of absorption by approximately 40%.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d420.s0.e0" text="Antacids" type="group"/>
+        <entity charOffset="10-17" id="DDI-DrugBank.d420.s0.e1" text="aluminum" type="drug"/>
+        <entity charOffset="23-31" id="DDI-DrugBank.d420.s0.e2" text="magnesium" type="drug"/>
+        <entity charOffset="83-90" id="DDI-DrugBank.d420.s0.e3" text="cefdinir" type="drug"/>
+        <entity charOffset="112-120" id="DDI-DrugBank.d420.s0.e4" text="Maalox TC" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e0" e2="DDI-DrugBank.d420.s0.e1" id="DDI-DrugBank.d420.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e0" e2="DDI-DrugBank.d420.s0.e2" id="DDI-DrugBank.d420.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e0" e2="DDI-DrugBank.d420.s0.e3" id="DDI-DrugBank.d420.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e0" e2="DDI-DrugBank.d420.s0.e4" id="DDI-DrugBank.d420.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e1" e2="DDI-DrugBank.d420.s0.e2" id="DDI-DrugBank.d420.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e1" e2="DDI-DrugBank.d420.s0.e3" id="DDI-DrugBank.d420.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e1" e2="DDI-DrugBank.d420.s0.e4" id="DDI-DrugBank.d420.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e2" e2="DDI-DrugBank.d420.s0.e3" id="DDI-DrugBank.d420.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s0.e2" e2="DDI-DrugBank.d420.s0.e4" id="DDI-DrugBank.d420.s0.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s0.e3" e2="DDI-DrugBank.d420.s0.e4" id="DDI-DrugBank.d420.s0.p9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s1" text="Time to reach Cmax is also prolonged by 1 hour."/>
+    <sentence id="DDI-DrugBank.d420.s2" text="There are no significant effects on cefdinir pharmacokinetics if the antacid is administered 2 hours before or 2 hours after cefdinir.">
+        <entity charOffset="36-43" id="DDI-DrugBank.d420.s2.e0" text="cefdinir" type="drug"/>
+        <entity charOffset="69-75" id="DDI-DrugBank.d420.s2.e1" text="antacid" type="group"/>
+        <entity charOffset="125-132" id="DDI-DrugBank.d420.s2.e2" text="cefdinir" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s2.e0" e2="DDI-DrugBank.d420.s2.e1" id="DDI-DrugBank.d420.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s2.e0" e2="DDI-DrugBank.d420.s2.e2" id="DDI-DrugBank.d420.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s2.e1" e2="DDI-DrugBank.d420.s2.e2" id="DDI-DrugBank.d420.s2.p2"/>
+    <negationtags>There are &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effects on cefdinir pharmacokinetics if the antacid is administered 2 hours before or 2 hours after cefdinir. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d420.s3" text="If antacids are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the antacid.">
+        <entity charOffset="3-10" id="DDI-DrugBank.d420.s3.e0" text="antacids" type="group"/>
+        <entity charOffset="32-38" id="DDI-DrugBank.d420.s3.e1" text="OMNICEF" type="brand"/>
+        <entity charOffset="49-55" id="DDI-DrugBank.d420.s3.e2" text="OMNICEF" type="brand"/>
+        <entity charOffset="110-116" id="DDI-DrugBank.d420.s3.e3" text="antacid" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s3.e0" e2="DDI-DrugBank.d420.s3.e1" id="DDI-DrugBank.d420.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s3.e0" e2="DDI-DrugBank.d420.s3.e2" id="DDI-DrugBank.d420.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s3.e0" e2="DDI-DrugBank.d420.s3.e3" id="DDI-DrugBank.d420.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s3.e1" e2="DDI-DrugBank.d420.s3.e2" id="DDI-DrugBank.d420.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s3.e1" e2="DDI-DrugBank.d420.s3.e3" id="DDI-DrugBank.d420.s3.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s3.e2" e2="DDI-DrugBank.d420.s3.e3" id="DDI-DrugBank.d420.s3.p5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s4" text="Probenecid: As with other b-lactam antibiotics, probenecid inhibits the renal excretion of cefdinir, resulting in an approximate doubling in A.C. a 54% increase in peak cefdinir plasma levels, and a 50% prolongation in the apparent elimination half-life.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d420.s4.e0" text="Probenecid" type="drug"/>
+        <entity charOffset="26-45" id="DDI-DrugBank.d420.s4.e1" text="b-lactam antibiotics" type="group"/>
+        <entity charOffset="48-57" id="DDI-DrugBank.d420.s4.e2" text="probenecid" type="drug"/>
+        <entity charOffset="91-98" id="DDI-DrugBank.d420.s4.e3" text="cefdinir" type="drug"/>
+        <entity charOffset="169-176" id="DDI-DrugBank.d420.s4.e4" text="cefdinir" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e0" e2="DDI-DrugBank.d420.s4.e1" id="DDI-DrugBank.d420.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e0" e2="DDI-DrugBank.d420.s4.e2" id="DDI-DrugBank.d420.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e0" e2="DDI-DrugBank.d420.s4.e3" id="DDI-DrugBank.d420.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e0" e2="DDI-DrugBank.d420.s4.e4" id="DDI-DrugBank.d420.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e1" e2="DDI-DrugBank.d420.s4.e2" id="DDI-DrugBank.d420.s4.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s4.e1" e2="DDI-DrugBank.d420.s4.e3" id="DDI-DrugBank.d420.s4.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e1" e2="DDI-DrugBank.d420.s4.e4" id="DDI-DrugBank.d420.s4.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s4.e2" e2="DDI-DrugBank.d420.s4.e3" id="DDI-DrugBank.d420.s4.p7" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e2" e2="DDI-DrugBank.d420.s4.e4" id="DDI-DrugBank.d420.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s4.e3" e2="DDI-DrugBank.d420.s4.e4" id="DDI-DrugBank.d420.s4.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s5" text="Iron Supplements and Foods Fortified With Iron Concomitant administration of cefdinir with a therapeutic iron supplement containing 60 mg of elemental iron (as FeSO4) or vitamins supplemented with 10 mg of elemental iron reduced extent of absorption by 80% and 31%, respectively.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d420.s5.e0" text="Iron Supplements" type="group"/>
+        <entity charOffset="42-45" id="DDI-DrugBank.d420.s5.e1" text="Iron" type="drug"/>
+        <entity charOffset="77-84" id="DDI-DrugBank.d420.s5.e2" text="cefdinir" type="drug"/>
+        <entity charOffset="105-119" id="DDI-DrugBank.d420.s5.e3" text="iron supplement" type="group"/>
+        <entity charOffset="151-154" id="DDI-DrugBank.d420.s5.e4" text="iron" type="drug"/>
+        <entity charOffset="170-177" id="DDI-DrugBank.d420.s5.e5" text="vitamins" type="group"/>
+        <entity charOffset="216-219" id="DDI-DrugBank.d420.s5.e6" text="iron" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e0" e2="DDI-DrugBank.d420.s5.e1" id="DDI-DrugBank.d420.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e0" e2="DDI-DrugBank.d420.s5.e2" id="DDI-DrugBank.d420.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e0" e2="DDI-DrugBank.d420.s5.e3" id="DDI-DrugBank.d420.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e0" e2="DDI-DrugBank.d420.s5.e4" id="DDI-DrugBank.d420.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e0" e2="DDI-DrugBank.d420.s5.e5" id="DDI-DrugBank.d420.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e0" e2="DDI-DrugBank.d420.s5.e6" id="DDI-DrugBank.d420.s5.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e1" e2="DDI-DrugBank.d420.s5.e2" id="DDI-DrugBank.d420.s5.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e1" e2="DDI-DrugBank.d420.s5.e3" id="DDI-DrugBank.d420.s5.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e1" e2="DDI-DrugBank.d420.s5.e4" id="DDI-DrugBank.d420.s5.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e1" e2="DDI-DrugBank.d420.s5.e5" id="DDI-DrugBank.d420.s5.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e1" e2="DDI-DrugBank.d420.s5.e6" id="DDI-DrugBank.d420.s5.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e2" e2="DDI-DrugBank.d420.s5.e3" id="DDI-DrugBank.d420.s5.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s5.e2" e2="DDI-DrugBank.d420.s5.e4" id="DDI-DrugBank.d420.s5.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e2" e2="DDI-DrugBank.d420.s5.e5" id="DDI-DrugBank.d420.s5.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s5.e2" e2="DDI-DrugBank.d420.s5.e6" id="DDI-DrugBank.d420.s5.p14" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e3" e2="DDI-DrugBank.d420.s5.e4" id="DDI-DrugBank.d420.s5.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e3" e2="DDI-DrugBank.d420.s5.e5" id="DDI-DrugBank.d420.s5.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e3" e2="DDI-DrugBank.d420.s5.e6" id="DDI-DrugBank.d420.s5.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e4" e2="DDI-DrugBank.d420.s5.e5" id="DDI-DrugBank.d420.s5.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e4" e2="DDI-DrugBank.d420.s5.e6" id="DDI-DrugBank.d420.s5.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s5.e5" e2="DDI-DrugBank.d420.s5.e6" id="DDI-DrugBank.d420.s5.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s6" text="If iron supplements are required during OMNICEF therapy, OMNICEF should be taken at least 2 hours before or after the supplement.">
+        <entity charOffset="3-18" id="DDI-DrugBank.d420.s6.e0" text="iron supplements" type="group"/>
+        <entity charOffset="40-46" id="DDI-DrugBank.d420.s6.e1" text="OMNICEF" type="brand"/>
+        <entity charOffset="57-63" id="DDI-DrugBank.d420.s6.e2" text="OMNICEF" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s6.e0" e2="DDI-DrugBank.d420.s6.e1" id="DDI-DrugBank.d420.s6.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s6.e0" e2="DDI-DrugBank.d420.s6.e2" id="DDI-DrugBank.d420.s6.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s6.e1" e2="DDI-DrugBank.d420.s6.e2" id="DDI-DrugBank.d420.s6.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s7" text="The effect of foods highly fortified with elemental iron (primarily iron-fortified breakfast cereals) on cefdinir absorption has not been studied.">
+        <entity charOffset="52-55" id="DDI-DrugBank.d420.s7.e0" text="iron" type="drug_n"/>
+        <entity charOffset="68-71" id="DDI-DrugBank.d420.s7.e1" text="iron" type="drug_n"/>
+        <entity charOffset="105-112" id="DDI-DrugBank.d420.s7.e2" text="cefdinir" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s7.e0" e2="DDI-DrugBank.d420.s7.e1" id="DDI-DrugBank.d420.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s7.e0" e2="DDI-DrugBank.d420.s7.e2" id="DDI-DrugBank.d420.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s7.e1" e2="DDI-DrugBank.d420.s7.e2" id="DDI-DrugBank.d420.s7.p2"/>
+    <negationtags>The effect of foods highly fortified with elemental iron (primarily iron-fortified breakfast cereals) on cefdinir absorption has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d420.s8" text="Concomitantly administered iron-fortified infant formula (2.2 mg elemental iron/6 oz) has no significant effect on cefdinir pharmacokinetics.">
+        <entity charOffset="27-30" id="DDI-DrugBank.d420.s8.e0" text="iron" type="drug_n"/>
+        <entity charOffset="75-78" id="DDI-DrugBank.d420.s8.e1" text="iron" type="drug_n"/>
+        <entity charOffset="115-122" id="DDI-DrugBank.d420.s8.e2" text="cefdinir" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s8.e0" e2="DDI-DrugBank.d420.s8.e1" id="DDI-DrugBank.d420.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s8.e0" e2="DDI-DrugBank.d420.s8.e2" id="DDI-DrugBank.d420.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s8.e1" e2="DDI-DrugBank.d420.s8.e2" id="DDI-DrugBank.d420.s8.p2"/>
+    <negationtags>Concomitantly administered iron-fortified infant formula (2.2 mg elemental iron/6 oz) has &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effect on cefdinir pharmacokinetics. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d420.s9" text="Therefore, OMNICEF for Oral Suspension can be administered with iron-fortified infant formula.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d420.s9.e0" text="OMNICEF" type="brand"/>
+        <entity charOffset="64-67" id="DDI-DrugBank.d420.s9.e1" text="iron" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s9.e0" e2="DDI-DrugBank.d420.s9.e1" id="DDI-DrugBank.d420.s9.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s10" text="There have been rare reports of reddish stools in patients who have received cefdinir in Japan.">
+        <entity charOffset="77-84" id="DDI-DrugBank.d420.s10.e0" text="cefdinir" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s11" text="The reddish color is due to the formation of a nonabsorbable complex between cefdinir or its breakdown products and iron in the gastrointestinal tract.">
+        <entity charOffset="77-84" id="DDI-DrugBank.d420.s11.e0" text="cefdinir" type="drug"/>
+        <entity charOffset="116-119" id="DDI-DrugBank.d420.s11.e1" text="iron" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d420.s11.e0" e2="DDI-DrugBank.d420.s11.e1" id="DDI-DrugBank.d420.s11.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s12" text="Drug/Laboratory Test Interactions A false-positive reaction for ketones in the urine may occur with tests using nitroprusside, but not with those using nitroferricyanide.">
+        <entity charOffset="112-124" id="DDI-DrugBank.d420.s12.e0" text="nitroprusside" type="drug"/>
+        <entity charOffset="152-168" id="DDI-DrugBank.d420.s12.e1" text="nitroferricyanide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d420.s12.e0" e2="DDI-DrugBank.d420.s12.e1" id="DDI-DrugBank.d420.s12.p0"/>
+    <negationtags>Drug/Laboratory Test Interactions A false-positive reaction for ketones in the urine may occur with tests using nitroprusside, but &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; with those using nitroferricyanide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d420.s13" text="The administration of cefdinir may result in a false-positive reaction for glucose in urine using Clinitest , Benedict s solution, or Fehlings solution.">
+        <entity charOffset="22-29" id="DDI-DrugBank.d420.s13.e0" text="cefdinir" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d420.s14" text="It is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix  or Tes-Tape ) be used."/>
+    <sentence id="DDI-DrugBank.d420.s15" text="Cephalosporins are known to occasionally induce a positive direct Coombs  test.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d420.s15.e0" text="Cephalosporins" type="group"/>
+    </sentence>
+</document>

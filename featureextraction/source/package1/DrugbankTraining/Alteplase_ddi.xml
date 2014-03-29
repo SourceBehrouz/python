@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d508">
+    <sentence id="DDI-DrugBank.d508.s0" text="The interaction of Activase with other cardioactive or cerebroactive drugs has not been studied.">
+        <entity charOffset="19-26" id="DDI-DrugBank.d508.s0.e0" text="Activase" type="brand"/>
+    <negationtags>The interaction of Activase with other cardioactive or cerebroactive drugs has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d508.s1" text="In addition to bleeding associated with heparin and vitamin K antagonists, drugs that alter platelet function (such as acetylsalicylic acid, dipyridamole and Abciximab) may increase the risk of bleeding if administered prior to, during, or after Activase therapy.">
+        <entity charOffset="40-46" id="DDI-DrugBank.d508.s1.e0" text="heparin" type="drug"/>
+        <entity charOffset="52-72" id="DDI-DrugBank.d508.s1.e1" text="vitamin K antagonists" type="group"/>
+        <entity charOffset="119-138" id="DDI-DrugBank.d508.s1.e2" text="acetylsalicylic acid" type="drug"/>
+        <entity charOffset="141-152" id="DDI-DrugBank.d508.s1.e3" text="dipyridamole" type="drug"/>
+        <entity charOffset="158-166" id="DDI-DrugBank.d508.s1.e4" text="Abciximab" type="drug"/>
+        <entity charOffset="246-253" id="DDI-DrugBank.d508.s1.e5" text="Activase" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e0" e2="DDI-DrugBank.d508.s1.e1" id="DDI-DrugBank.d508.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e0" e2="DDI-DrugBank.d508.s1.e2" id="DDI-DrugBank.d508.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e0" e2="DDI-DrugBank.d508.s1.e3" id="DDI-DrugBank.d508.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e0" e2="DDI-DrugBank.d508.s1.e4" id="DDI-DrugBank.d508.s1.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d508.s1.e0" e2="DDI-DrugBank.d508.s1.e5" id="DDI-DrugBank.d508.s1.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e1" e2="DDI-DrugBank.d508.s1.e2" id="DDI-DrugBank.d508.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e1" e2="DDI-DrugBank.d508.s1.e3" id="DDI-DrugBank.d508.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e1" e2="DDI-DrugBank.d508.s1.e4" id="DDI-DrugBank.d508.s1.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d508.s1.e1" e2="DDI-DrugBank.d508.s1.e5" id="DDI-DrugBank.d508.s1.p8" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e2" e2="DDI-DrugBank.d508.s1.e3" id="DDI-DrugBank.d508.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e2" e2="DDI-DrugBank.d508.s1.e4" id="DDI-DrugBank.d508.s1.p10"/>
+        <pair ddi="true" e1="DDI-DrugBank.d508.s1.e2" e2="DDI-DrugBank.d508.s1.e5" id="DDI-DrugBank.d508.s1.p11" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s1.e3" e2="DDI-DrugBank.d508.s1.e4" id="DDI-DrugBank.d508.s1.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d508.s1.e3" e2="DDI-DrugBank.d508.s1.e5" id="DDI-DrugBank.d508.s1.p13" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d508.s1.e4" e2="DDI-DrugBank.d508.s1.e5" id="DDI-DrugBank.d508.s1.p14" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d508.s2" text="Use of Antithrombotics Aspirin and heparin have been administered concomitantly with and following infusions of Activase in the management of acute myocardial infarction or pulmonary embolism.">
+        <entity charOffset="7-21" id="DDI-DrugBank.d508.s2.e0" text="Antithrombotics" type="group"/>
+        <entity charOffset="23-29" id="DDI-DrugBank.d508.s2.e1" text="Aspirin" type="brand"/>
+        <entity charOffset="35-41" id="DDI-DrugBank.d508.s2.e2" text="heparin" type="drug"/>
+        <entity charOffset="112-119" id="DDI-DrugBank.d508.s2.e3" text="Activase" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s2.e0" e2="DDI-DrugBank.d508.s2.e1" id="DDI-DrugBank.d508.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s2.e0" e2="DDI-DrugBank.d508.s2.e2" id="DDI-DrugBank.d508.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s2.e0" e2="DDI-DrugBank.d508.s2.e3" id="DDI-DrugBank.d508.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s2.e1" e2="DDI-DrugBank.d508.s2.e2" id="DDI-DrugBank.d508.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s2.e1" e2="DDI-DrugBank.d508.s2.e3" id="DDI-DrugBank.d508.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s2.e2" e2="DDI-DrugBank.d508.s2.e3" id="DDI-DrugBank.d508.s2.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d508.s3" text="Because heparin, aspirin, or Activase may cause bleeding complications, careful monitoring for bleeding is advised, especially at arterial puncture sites.">
+        <entity charOffset="8-14" id="DDI-DrugBank.d508.s3.e0" text="heparin" type="drug"/>
+        <entity charOffset="17-23" id="DDI-DrugBank.d508.s3.e1" text="aspirin" type="brand"/>
+        <entity charOffset="29-36" id="DDI-DrugBank.d508.s3.e2" text="Activase" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s3.e0" e2="DDI-DrugBank.d508.s3.e1" id="DDI-DrugBank.d508.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s3.e0" e2="DDI-DrugBank.d508.s3.e2" id="DDI-DrugBank.d508.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s3.e1" e2="DDI-DrugBank.d508.s3.e2" id="DDI-DrugBank.d508.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d508.s4" text="The concomitant use of heparin or aspirin during the first 24 hours following symptom onset were prohibited in The NINDS t-PA Stroke Trial.">
+        <entity charOffset="23-29" id="DDI-DrugBank.d508.s4.e0" text="heparin" type="drug"/>
+        <entity charOffset="34-40" id="DDI-DrugBank.d508.s4.e1" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d508.s4.e0" e2="DDI-DrugBank.d508.s4.e1" id="DDI-DrugBank.d508.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d508.s5" text="The safety of such concomitant use with Activase for the management of acute ischemic stroke is unknown.">
+        <entity charOffset="40-47" id="DDI-DrugBank.d508.s5.e0" text="Activase" type="brand"/>
+    </sentence>
+</document>

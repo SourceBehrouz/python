@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d503">
+    <sentence id="DDI-DrugBank.d503.s0" text="Chlorprothixene may increase the plasma-level of concomitantly given lithium.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d503.s0.e0" text="Chlorprothixene" type="drug"/>
+        <entity charOffset="69-75" id="DDI-DrugBank.d503.s0.e1" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s0.e0" e2="DDI-DrugBank.d503.s0.e1" id="DDI-DrugBank.d503.s0.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d503.s1" text="In order to avoid lithium intoxication, lithium plasma levels should be monitored closely.">
+        <entity charOffset="18-24" id="DDI-DrugBank.d503.s1.e0" text="lithium" type="drug"/>
+        <entity charOffset="40-46" id="DDI-DrugBank.d503.s1.e1" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s1.e0" e2="DDI-DrugBank.d503.s1.e1" id="DDI-DrugBank.d503.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d503.s2" text="If chlorprothixene is given concomitantly with opioids, the opioid dose should be reduced (by approx. 50%), because chlorprothixene amplifies the therapeutic actions and side-effects of opioids massively.">
+        <entity charOffset="3-17" id="DDI-DrugBank.d503.s2.e0" text="chlorprothixene" type="drug"/>
+        <entity charOffset="47-53" id="DDI-DrugBank.d503.s2.e1" text="opioids" type="group"/>
+        <entity charOffset="60-65" id="DDI-DrugBank.d503.s2.e2" text="opioid" type="group"/>
+        <entity charOffset="116-130" id="DDI-DrugBank.d503.s2.e3" text="chlorprothixene" type="drug"/>
+        <entity charOffset="186-192" id="DDI-DrugBank.d503.s2.e4" text="opioids" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s2.e0" e2="DDI-DrugBank.d503.s2.e1" id="DDI-DrugBank.d503.s2.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e0" e2="DDI-DrugBank.d503.s2.e2" id="DDI-DrugBank.d503.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e0" e2="DDI-DrugBank.d503.s2.e3" id="DDI-DrugBank.d503.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e0" e2="DDI-DrugBank.d503.s2.e4" id="DDI-DrugBank.d503.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e1" e2="DDI-DrugBank.d503.s2.e2" id="DDI-DrugBank.d503.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e1" e2="DDI-DrugBank.d503.s2.e3" id="DDI-DrugBank.d503.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e1" e2="DDI-DrugBank.d503.s2.e4" id="DDI-DrugBank.d503.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e2" e2="DDI-DrugBank.d503.s2.e3" id="DDI-DrugBank.d503.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s2.e2" e2="DDI-DrugBank.d503.s2.e4" id="DDI-DrugBank.d503.s2.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s2.e3" e2="DDI-DrugBank.d503.s2.e4" id="DDI-DrugBank.d503.s2.p9" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d503.s3" text="Avoid the concomitant use of chlorprothixene and tramadol (Ultram).">
+        <entity charOffset="29-43" id="DDI-DrugBank.d503.s3.e0" text="chlorprothixene" type="drug"/>
+        <entity charOffset="49-56" id="DDI-DrugBank.d503.s3.e1" text="tramadol" type="drug"/>
+        <entity charOffset="59-64" id="DDI-DrugBank.d503.s3.e2" text="Ultram" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s3.e0" e2="DDI-DrugBank.d503.s3.e1" id="DDI-DrugBank.d503.s3.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s3.e0" e2="DDI-DrugBank.d503.s3.e2" id="DDI-DrugBank.d503.s3.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s3.e1" e2="DDI-DrugBank.d503.s3.e2" id="DDI-DrugBank.d503.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d503.s4" text="Massive seizures may be encountered with this combination."/>
+    <sentence id="DDI-DrugBank.d503.s5" text="Consider additive sedative effects and confusional states to emerge, if chlorprothixene is given with benzodiazepines or barbituates.">
+        <entity charOffset="72-86" id="DDI-DrugBank.d503.s5.e0" text="chlorprothixene" type="drug"/>
+        <entity charOffset="102-116" id="DDI-DrugBank.d503.s5.e1" text="benzodiazepines" type="group"/>
+        <entity charOffset="121-131" id="DDI-DrugBank.d503.s5.e2" text="barbituates" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s5.e0" e2="DDI-DrugBank.d503.s5.e1" id="DDI-DrugBank.d503.s5.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s5.e0" e2="DDI-DrugBank.d503.s5.e2" id="DDI-DrugBank.d503.s5.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s5.e1" e2="DDI-DrugBank.d503.s5.e2" id="DDI-DrugBank.d503.s5.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d503.s6" text="Choose particular low doses of these drugs."/>
+    <sentence id="DDI-DrugBank.d503.s7" text="Exert particular caution in combining chlorprothixene with other anticholinergic drugs (tricyclic antidepressants and antiparkinsonian agents): Particularly the elderly may develop delirium, high fever, severe obstipation, even ileus and glaucoma.">
+        <entity charOffset="38-52" id="DDI-DrugBank.d503.s7.e0" text="chlorprothixene" type="drug"/>
+        <entity charOffset="65-85" id="DDI-DrugBank.d503.s7.e1" text="anticholinergic drugs" type="group"/>
+        <entity charOffset="88-112" id="DDI-DrugBank.d503.s7.e2" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="118-140" id="DDI-DrugBank.d503.s7.e3" text="antiparkinsonian agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s7.e0" e2="DDI-DrugBank.d503.s7.e1" id="DDI-DrugBank.d503.s7.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s7.e0" e2="DDI-DrugBank.d503.s7.e2" id="DDI-DrugBank.d503.s7.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d503.s7.e0" e2="DDI-DrugBank.d503.s7.e3" id="DDI-DrugBank.d503.s7.p2" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s7.e1" e2="DDI-DrugBank.d503.s7.e2" id="DDI-DrugBank.d503.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s7.e1" e2="DDI-DrugBank.d503.s7.e3" id="DDI-DrugBank.d503.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d503.s7.e2" e2="DDI-DrugBank.d503.s7.e3" id="DDI-DrugBank.d503.s7.p5"/>
+    </sentence>
+</document>

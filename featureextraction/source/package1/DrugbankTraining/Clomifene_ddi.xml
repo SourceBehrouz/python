@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d451">
+    <sentence id="DDI-DrugBank.d451.s0" text="Drug interactions with clomiphene citrate tablets USP have not been documented.">
+        <entity charOffset="23-40" id="DDI-DrugBank.d451.s0.e0" text="clomiphene citrate" type="drug"/>
+    <negationtags>Drug interactions with clomiphene citrate tablets USP have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been documented. &lt;/scope&gt;</negationtags></sentence>
+</document>

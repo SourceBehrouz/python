@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d239">
+    <sentence id="DDI-DrugBank.d239.s0" text="No trials specifically examining potential drug interactions with Natrecor were conducted, although many concomitant drugs were used in clinical trials.">
+        <entity charOffset="66-73" id="DDI-DrugBank.d239.s0.e0" text="Natrecor" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; trials specifically examining potential drug interactions with Natrecor were conducted, &lt;/scope&gt; although many concomitant drugs were used in clinical trials.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d239.s1" text="No drug interactions were detected except for an increase in symptomatic hypotension in patients receiving oral ACE inhibitors.">
+        <entity charOffset="112-125" id="DDI-DrugBank.d239.s1.e0" text="ACE inhibitors" type="group"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; drug interactions were detected &lt;/scope&gt; except for an increase in symptomatic hypotension in patients receiving oral ACE inhibitors.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d239.s2" text="The co-administration of Natrecor with IV vasodilators such as nitroglycerin, nitroprusside, milrinone, or IV ACE inhibitors has not been evaluated (these drugs were not co-administered with Natrecor in clinical trials).">
+        <entity charOffset="25-32" id="DDI-DrugBank.d239.s2.e0" text="Natrecor" type="brand"/>
+        <entity charOffset="42-53" id="DDI-DrugBank.d239.s2.e1" text="vasodilators" type="group"/>
+        <entity charOffset="63-75" id="DDI-DrugBank.d239.s2.e2" text="nitroglycerin" type="drug"/>
+        <entity charOffset="78-90" id="DDI-DrugBank.d239.s2.e3" text="nitroprusside" type="drug"/>
+        <entity charOffset="93-101" id="DDI-DrugBank.d239.s2.e4" text="milrinone" type="drug"/>
+        <entity charOffset="110-123" id="DDI-DrugBank.d239.s2.e5" text="ACE inhibitors" type="group"/>
+        <entity charOffset="191-198" id="DDI-DrugBank.d239.s2.e6" text="Natrecor" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e0" e2="DDI-DrugBank.d239.s2.e1" id="DDI-DrugBank.d239.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e0" e2="DDI-DrugBank.d239.s2.e2" id="DDI-DrugBank.d239.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e0" e2="DDI-DrugBank.d239.s2.e3" id="DDI-DrugBank.d239.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e0" e2="DDI-DrugBank.d239.s2.e4" id="DDI-DrugBank.d239.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e0" e2="DDI-DrugBank.d239.s2.e5" id="DDI-DrugBank.d239.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e0" e2="DDI-DrugBank.d239.s2.e6" id="DDI-DrugBank.d239.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e1" e2="DDI-DrugBank.d239.s2.e2" id="DDI-DrugBank.d239.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e1" e2="DDI-DrugBank.d239.s2.e3" id="DDI-DrugBank.d239.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e1" e2="DDI-DrugBank.d239.s2.e4" id="DDI-DrugBank.d239.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e1" e2="DDI-DrugBank.d239.s2.e5" id="DDI-DrugBank.d239.s2.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e1" e2="DDI-DrugBank.d239.s2.e6" id="DDI-DrugBank.d239.s2.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e2" e2="DDI-DrugBank.d239.s2.e3" id="DDI-DrugBank.d239.s2.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e2" e2="DDI-DrugBank.d239.s2.e4" id="DDI-DrugBank.d239.s2.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e2" e2="DDI-DrugBank.d239.s2.e5" id="DDI-DrugBank.d239.s2.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e2" e2="DDI-DrugBank.d239.s2.e6" id="DDI-DrugBank.d239.s2.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e3" e2="DDI-DrugBank.d239.s2.e4" id="DDI-DrugBank.d239.s2.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e3" e2="DDI-DrugBank.d239.s2.e5" id="DDI-DrugBank.d239.s2.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e3" e2="DDI-DrugBank.d239.s2.e6" id="DDI-DrugBank.d239.s2.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e4" e2="DDI-DrugBank.d239.s2.e5" id="DDI-DrugBank.d239.s2.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e4" e2="DDI-DrugBank.d239.s2.e6" id="DDI-DrugBank.d239.s2.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d239.s2.e5" e2="DDI-DrugBank.d239.s2.e6" id="DDI-DrugBank.d239.s2.p20"/>
+    <negationtags>The co-administration of Natrecor with IV vasodilators such as nitroglycerin, nitroprusside, milrinone, or IV ACE inhibitors has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been evaluated (these drugs were not co-administered with Natrecor in clinical trials). &lt;/scope&gt;</negationtags></sentence>
+</document>

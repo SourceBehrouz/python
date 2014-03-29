@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d219">
+    <sentence id="DDI-DrugBank.d219.s0" text="ACE-inhibitors Reports suggest that NSAIDs may diminish the antihypertensive effect of ACE-inhibitors.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d219.s0.e0" text="ACE-inhibitors" type="group"/>
+        <entity charOffset="36-41" id="DDI-DrugBank.d219.s0.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="87-100" id="DDI-DrugBank.d219.s0.e2" text="ACE-inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s0.e0" e2="DDI-DrugBank.d219.s0.e1" id="DDI-DrugBank.d219.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s0.e0" e2="DDI-DrugBank.d219.s0.e2" id="DDI-DrugBank.d219.s0.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s0.e1" e2="DDI-DrugBank.d219.s0.e2" id="DDI-DrugBank.d219.s0.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s1" text="This interaction should be given consideration in patients taking NSAIDs concomitantly with ACE-inhibitors.">
+        <entity charOffset="66-71" id="DDI-DrugBank.d219.s1.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="92-105" id="DDI-DrugBank.d219.s1.e1" text="ACE-inhibitors" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s1.e0" e2="DDI-DrugBank.d219.s1.e1" id="DDI-DrugBank.d219.s1.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s2" text="Antacids: The concomitant administration of antacids has no apparent effect on the extent of absorption of Lodine.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d219.s2.e0" text="Antacids" type="group"/>
+        <entity charOffset="44-51" id="DDI-DrugBank.d219.s2.e1" text="antacids" type="group"/>
+        <entity charOffset="107-112" id="DDI-DrugBank.d219.s2.e2" text="Lodine" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s2.e0" e2="DDI-DrugBank.d219.s2.e1" id="DDI-DrugBank.d219.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s2.e0" e2="DDI-DrugBank.d219.s2.e2" id="DDI-DrugBank.d219.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s2.e1" e2="DDI-DrugBank.d219.s2.e2" id="DDI-DrugBank.d219.s2.p2"/>
+    <negationtags>Antacids: The concomitant administration of antacids has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; apparent effect on the extent of absorption of Lodine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s3" text="However, antacids can decrease the peak concentration reached by 15% to 20% but have no detectable effect on the time-to-peak.">
+        <entity charOffset="9-16" id="DDI-DrugBank.d219.s3.e0" text="antacids" type="group"/>
+    <negationtags>However, antacids can decrease the peak concentration reached by 15% to 20% but have &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; detectable effect on the time-to-peak. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s4" text="Aspirin: When Lodine is administered with aspirin, its protein binding is reduced, although the clearance of free etodolac is not altered.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d219.s4.e0" text="Aspirin" type="brand"/>
+        <entity charOffset="14-19" id="DDI-DrugBank.d219.s4.e1" text="Lodine" type="brand"/>
+        <entity charOffset="42-48" id="DDI-DrugBank.d219.s4.e2" text="aspirin" type="brand"/>
+        <entity charOffset="114-121" id="DDI-DrugBank.d219.s4.e3" text="etodolac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s4.e0" e2="DDI-DrugBank.d219.s4.e1" id="DDI-DrugBank.d219.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s4.e0" e2="DDI-DrugBank.d219.s4.e2" id="DDI-DrugBank.d219.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s4.e0" e2="DDI-DrugBank.d219.s4.e3" id="DDI-DrugBank.d219.s4.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s4.e1" e2="DDI-DrugBank.d219.s4.e2" id="DDI-DrugBank.d219.s4.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s4.e1" e2="DDI-DrugBank.d219.s4.e3" id="DDI-DrugBank.d219.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s4.e2" e2="DDI-DrugBank.d219.s4.e3" id="DDI-DrugBank.d219.s4.p5"/>
+    <negationtags>Aspirin: When Lodine is administered with aspirin, its protein binding is reduced, although the clearance of free etodolac is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; altered. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s5" text="The clinical significance of this interaction is not known;"><negationtags>The clinical significance of this interaction is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s6" text="however, as with other NSAIDs, concomitant administration of Lodine and aspirin is not generally recommended because of the potential of increased adverse effects.">
+        <entity charOffset="23-28" id="DDI-DrugBank.d219.s6.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="61-66" id="DDI-DrugBank.d219.s6.e1" text="Lodine" type="brand"/>
+        <entity charOffset="72-78" id="DDI-DrugBank.d219.s6.e2" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s6.e0" e2="DDI-DrugBank.d219.s6.e1" id="DDI-DrugBank.d219.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s6.e0" e2="DDI-DrugBank.d219.s6.e2" id="DDI-DrugBank.d219.s6.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s6.e1" e2="DDI-DrugBank.d219.s6.e2" id="DDI-DrugBank.d219.s6.p2" type="advise"/>
+    <negationtags>however, as with other NSAIDs, concomitant administration of Lodine and aspirin is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; generally recommended because of the potential of increased adverse effects. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s7" text="Cyclosporine, Digoxin, Methotrexate Lodine, like other NSAIDs, through effects on renal prostaglandins, may cause changes in the elimination of these drugs leading to elevated serum levels of cyclosporine, digoxin, methotrexate, and increased toxicity.">
+        <entity charOffset="36-41" id="DDI-DrugBank.d219.s7.e0" text="Lodine" type="brand"/>
+        <entity charOffset="55-60" id="DDI-DrugBank.d219.s7.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="192-203" id="DDI-DrugBank.d219.s7.e2" text="cyclosporine" type="drug"/>
+        <entity charOffset="206-212" id="DDI-DrugBank.d219.s7.e3" text="digoxin" type="drug"/>
+        <entity charOffset="215-226" id="DDI-DrugBank.d219.s7.e4" text="methotrexate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s7.e0" e2="DDI-DrugBank.d219.s7.e1" id="DDI-DrugBank.d219.s7.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s7.e0" e2="DDI-DrugBank.d219.s7.e2" id="DDI-DrugBank.d219.s7.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s7.e0" e2="DDI-DrugBank.d219.s7.e3" id="DDI-DrugBank.d219.s7.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s7.e0" e2="DDI-DrugBank.d219.s7.e4" id="DDI-DrugBank.d219.s7.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s7.e1" e2="DDI-DrugBank.d219.s7.e2" id="DDI-DrugBank.d219.s7.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s7.e1" e2="DDI-DrugBank.d219.s7.e3" id="DDI-DrugBank.d219.s7.p5" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s7.e1" e2="DDI-DrugBank.d219.s7.e4" id="DDI-DrugBank.d219.s7.p6" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s7.e2" e2="DDI-DrugBank.d219.s7.e3" id="DDI-DrugBank.d219.s7.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s7.e2" e2="DDI-DrugBank.d219.s7.e4" id="DDI-DrugBank.d219.s7.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s7.e3" e2="DDI-DrugBank.d219.s7.e4" id="DDI-DrugBank.d219.s7.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s8" text="Nephrotoxicity associated with cyclosporine may also be enhanced.">
+        <entity charOffset="31-42" id="DDI-DrugBank.d219.s8.e0" text="cyclosporine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s9" text="Patients receiving these drugs who are given Lodine, or any other NSAID, and particularly those patients with altered renal function, should be observed for the development of the specific toxicities of these drugs.">
+        <entity charOffset="45-50" id="DDI-DrugBank.d219.s9.e0" text="Lodine" type="brand"/>
+        <entity charOffset="66-70" id="DDI-DrugBank.d219.s9.e1" text="NSAID" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s9.e0" e2="DDI-DrugBank.d219.s9.e1" id="DDI-DrugBank.d219.s9.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s10" text="Diuretics: Etodolac has no apparent pharmacokinetic interaction when administered with furosemide or hydrochlorothiazide.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d219.s10.e0" text="Diuretics" type="group"/>
+        <entity charOffset="87-96" id="DDI-DrugBank.d219.s10.e1" text="furosemide" type="drug"/>
+        <entity charOffset="101-119" id="DDI-DrugBank.d219.s10.e2" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s10.e0" e2="DDI-DrugBank.d219.s10.e1" id="DDI-DrugBank.d219.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s10.e0" e2="DDI-DrugBank.d219.s10.e2" id="DDI-DrugBank.d219.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s10.e1" e2="DDI-DrugBank.d219.s10.e2" id="DDI-DrugBank.d219.s10.p2"/>
+    <negationtags>Diuretics: Etodolac has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; apparent pharmacokinetic interaction when administered with furosemide or hydrochlorothiazide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s11" text="Nevertheless, clinical studies, as well as postmarketing observations have shown that Lodine can reduce the natriuretic effect of furosemide and thiazides in some patients.">
+        <entity charOffset="86-91" id="DDI-DrugBank.d219.s11.e0" text="Lodine" type="brand"/>
+        <entity charOffset="130-139" id="DDI-DrugBank.d219.s11.e1" text="furosemide" type="drug"/>
+        <entity charOffset="145-153" id="DDI-DrugBank.d219.s11.e2" text="thiazides" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s11.e0" e2="DDI-DrugBank.d219.s11.e1" id="DDI-DrugBank.d219.s11.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s11.e0" e2="DDI-DrugBank.d219.s11.e2" id="DDI-DrugBank.d219.s11.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s11.e1" e2="DDI-DrugBank.d219.s11.e2" id="DDI-DrugBank.d219.s11.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s12" text="This response has been attributed to inhibition of renal prostaglandin synthesis."/>
+    <sentence id="DDI-DrugBank.d219.s13" text="During concomitant therapy with NSAIDs, the patient should be observed closely for signs of renal failure, as well as to assure diuretic efficacy.">
+        <entity charOffset="32-37" id="DDI-DrugBank.d219.s13.e0" text="NSAIDs" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s14" text="Glyburide: Etodolac has no apparent pharmacokinetic interaction when administered with glyburide.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d219.s14.e0" text="Glyburide" type="drug"/>
+        <entity charOffset="11-18" id="DDI-DrugBank.d219.s14.e1" text="Etodolac" type="drug"/>
+        <entity charOffset="87-95" id="DDI-DrugBank.d219.s14.e2" text="glyburide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s14.e0" e2="DDI-DrugBank.d219.s14.e1" id="DDI-DrugBank.d219.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s14.e0" e2="DDI-DrugBank.d219.s14.e2" id="DDI-DrugBank.d219.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s14.e1" e2="DDI-DrugBank.d219.s14.e2" id="DDI-DrugBank.d219.s14.p2"/>
+    <negationtags>Glyburide: Etodolac has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; apparent pharmacokinetic interaction when administered with glyburide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s15" text="Lithium: NSAIDs have produced an elevation of plasma lithium levels and a reduction in renal lithium clearance.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d219.s15.e0" text="Lithium" type="drug"/>
+        <entity charOffset="9-14" id="DDI-DrugBank.d219.s15.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="53-59" id="DDI-DrugBank.d219.s15.e2" text="lithium" type="drug"/>
+        <entity charOffset="93-99" id="DDI-DrugBank.d219.s15.e3" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s15.e0" e2="DDI-DrugBank.d219.s15.e1" id="DDI-DrugBank.d219.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s15.e0" e2="DDI-DrugBank.d219.s15.e2" id="DDI-DrugBank.d219.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s15.e0" e2="DDI-DrugBank.d219.s15.e3" id="DDI-DrugBank.d219.s15.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s15.e1" e2="DDI-DrugBank.d219.s15.e2" id="DDI-DrugBank.d219.s15.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s15.e1" e2="DDI-DrugBank.d219.s15.e3" id="DDI-DrugBank.d219.s15.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s15.e2" e2="DDI-DrugBank.d219.s15.e3" id="DDI-DrugBank.d219.s15.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s16" text="The mean minimum lithium concentration increased 15% and the renal clearance was decreased by approximately 20%.">
+        <entity charOffset="17-23" id="DDI-DrugBank.d219.s16.e0" text="lithium" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s17" text="These effects have been attributed to inhibition of renal prostaglandin synthesis by the NSAID.">
+        <entity charOffset="89-93" id="DDI-DrugBank.d219.s17.e0" text="NSAID" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s18" text="Thus, when NSAIDs and lithium are administered concurrently, subjects should be observed carefully for signs of lithium toxicity.">
+        <entity charOffset="11-16" id="DDI-DrugBank.d219.s18.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="22-28" id="DDI-DrugBank.d219.s18.e1" text="lithium" type="drug"/>
+        <entity charOffset="112-118" id="DDI-DrugBank.d219.s18.e2" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s18.e0" e2="DDI-DrugBank.d219.s18.e1" id="DDI-DrugBank.d219.s18.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s18.e0" e2="DDI-DrugBank.d219.s18.e2" id="DDI-DrugBank.d219.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s18.e1" e2="DDI-DrugBank.d219.s18.e2" id="DDI-DrugBank.d219.s18.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s19" text="Phenylbutazone: Phenylbutazone causes increase (by about 80%) in the free fraction of etodolac.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d219.s19.e0" text="Phenylbutazone" type="drug"/>
+        <entity charOffset="16-29" id="DDI-DrugBank.d219.s19.e1" text="Phenylbutazone" type="drug"/>
+        <entity charOffset="86-93" id="DDI-DrugBank.d219.s19.e2" text="etodolac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s19.e0" e2="DDI-DrugBank.d219.s19.e1" id="DDI-DrugBank.d219.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s19.e0" e2="DDI-DrugBank.d219.s19.e2" id="DDI-DrugBank.d219.s19.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s19.e1" e2="DDI-DrugBank.d219.s19.e2" id="DDI-DrugBank.d219.s19.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s20" text="Although in vivo studies have not been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered.">
+        <entity charOffset="54-61" id="DDI-DrugBank.d219.s20.e0" text="etodolac" type="drug"/>
+        <entity charOffset="107-120" id="DDI-DrugBank.d219.s20.e1" text="phenylbutazone" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s20.e0" e2="DDI-DrugBank.d219.s20.e1" id="DDI-DrugBank.d219.s20.p0" type="advise"/>
+    <negationtags>Although in vivo studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been done to see if etodolac clearance is changed by coadministration of phenylbutazone, it is not recommended that they be coadministered. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s21" text="Phenytoin: Etodolac has no apparent pharmacokinetic interaction when administered with phenytoin.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d219.s21.e0" text="Phenytoin" type="drug"/>
+        <entity charOffset="11-18" id="DDI-DrugBank.d219.s21.e1" text="Etodolac" type="drug"/>
+        <entity charOffset="87-95" id="DDI-DrugBank.d219.s21.e2" text="phenytoin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s21.e0" e2="DDI-DrugBank.d219.s21.e1" id="DDI-DrugBank.d219.s21.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s21.e0" e2="DDI-DrugBank.d219.s21.e2" id="DDI-DrugBank.d219.s21.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s21.e1" e2="DDI-DrugBank.d219.s21.e2" id="DDI-DrugBank.d219.s21.p2"/>
+    <negationtags>Phenytoin: Etodolac has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; apparent pharmacokinetic interaction when administered with phenytoin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s22" text="Warfarin: The effects of warfarin and NSAIDs on GI bleeding are synergistic, such that users of both drugs together have a risk of serious GI bleeding higher than that of users of either drug alone.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d219.s22.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="25-32" id="DDI-DrugBank.d219.s22.e1" text="warfarin" type="drug"/>
+        <entity charOffset="38-43" id="DDI-DrugBank.d219.s22.e2" text="NSAIDs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s22.e0" e2="DDI-DrugBank.d219.s22.e1" id="DDI-DrugBank.d219.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s22.e0" e2="DDI-DrugBank.d219.s22.e2" id="DDI-DrugBank.d219.s22.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s22.e1" e2="DDI-DrugBank.d219.s22.e2" id="DDI-DrugBank.d219.s22.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s23" text="Short-term pharmacokinetic studies have demonstrated that concomitant administration of warfarin and Lodine  (etodolac capsules and tablets) results in reduced protein binding of warfarin, but there was no change in the clearance of free warfarin.">
+        <entity charOffset="88-95" id="DDI-DrugBank.d219.s23.e0" text="warfarin" type="drug"/>
+        <entity charOffset="101-106" id="DDI-DrugBank.d219.s23.e1" text="Lodine" type="brand"/>
+        <entity charOffset="110-117" id="DDI-DrugBank.d219.s23.e2" text="etodolac" type="drug"/>
+        <entity charOffset="179-186" id="DDI-DrugBank.d219.s23.e3" text="warfarin" type="drug"/>
+        <entity charOffset="238-245" id="DDI-DrugBank.d219.s23.e4" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s23.e0" e2="DDI-DrugBank.d219.s23.e1" id="DDI-DrugBank.d219.s23.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s23.e0" e2="DDI-DrugBank.d219.s23.e2" id="DDI-DrugBank.d219.s23.p1" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e0" e2="DDI-DrugBank.d219.s23.e3" id="DDI-DrugBank.d219.s23.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e0" e2="DDI-DrugBank.d219.s23.e4" id="DDI-DrugBank.d219.s23.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e1" e2="DDI-DrugBank.d219.s23.e2" id="DDI-DrugBank.d219.s23.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e1" e2="DDI-DrugBank.d219.s23.e3" id="DDI-DrugBank.d219.s23.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e1" e2="DDI-DrugBank.d219.s23.e4" id="DDI-DrugBank.d219.s23.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e2" e2="DDI-DrugBank.d219.s23.e3" id="DDI-DrugBank.d219.s23.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e2" e2="DDI-DrugBank.d219.s23.e4" id="DDI-DrugBank.d219.s23.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s23.e3" e2="DDI-DrugBank.d219.s23.e4" id="DDI-DrugBank.d219.s23.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s24" text="There was no significant difference in the pharmacodynamic effect of warfarin administered alone and warfarin administered with Lodine as measured by prothrombin time.">
+        <entity charOffset="69-76" id="DDI-DrugBank.d219.s24.e0" text="warfarin" type="drug"/>
+        <entity charOffset="101-108" id="DDI-DrugBank.d219.s24.e1" text="warfarin" type="drug"/>
+        <entity charOffset="128-133" id="DDI-DrugBank.d219.s24.e2" text="Lodine" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s24.e0" e2="DDI-DrugBank.d219.s24.e1" id="DDI-DrugBank.d219.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s24.e0" e2="DDI-DrugBank.d219.s24.e2" id="DDI-DrugBank.d219.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s24.e1" e2="DDI-DrugBank.d219.s24.e2" id="DDI-DrugBank.d219.s24.p2"/>
+    <negationtags>There was &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; difference in the pharmacodynamic effect of warfarin administered alone and warfarin administered with Lodine as measured by prothrombin time. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s25" text="Thus, concomitant therapy with warfarin and Lodine should not require dosage adjustment of either drug.">
+        <entity charOffset="31-38" id="DDI-DrugBank.d219.s25.e0" text="warfarin" type="drug"/>
+        <entity charOffset="44-49" id="DDI-DrugBank.d219.s25.e1" text="Lodine" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s25.e0" e2="DDI-DrugBank.d219.s25.e1" id="DDI-DrugBank.d219.s25.p0"/>
+    <negationtags>Thus, concomitant therapy with warfarin and Lodine should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; require dosage adjustment of either drug. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s26" text="However, caution should be exercised because there have been a few spontaneous reports of prolonged prothrombin times, with or without bleeding, in etodolac-treated patients receiving concomitant warfarin therapy.">
+        <entity charOffset="148-155" id="DDI-DrugBank.d219.s26.e0" text="etodolac" type="drug"/>
+        <entity charOffset="196-203" id="DDI-DrugBank.d219.s26.e1" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d219.s26.e0" e2="DDI-DrugBank.d219.s26.e1" id="DDI-DrugBank.d219.s26.p0" type="effect"/>
+    <negationtags>However, caution should be exercised because there have been a few spontaneous reports of prolonged prothrombin times, with or &lt;scope&gt; &lt;cue&gt; without &lt;/cue&gt; bleeding, in etodolac-treated patients receiving concomitant warfarin therapy. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s27" text="Drug/Laboratory Test Interactions The urine of patients who take Lodine can give a false-positive reaction for urinary bilirubin (urobilin) due to the presence of phenolic metabolites of etodolac.">
+        <entity charOffset="65-70" id="DDI-DrugBank.d219.s27.e0" text="Lodine" type="brand"/>
+        <entity charOffset="187-194" id="DDI-DrugBank.d219.s27.e1" text="etodolac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d219.s27.e0" e2="DDI-DrugBank.d219.s27.e1" id="DDI-DrugBank.d219.s27.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s28" text="Diagnostic dip-stick methodology, used to detect ketone bodies in urine, has resulted in false-positive findings in some patients treated with Lodine.">
+        <entity charOffset="143-148" id="DDI-DrugBank.d219.s28.e0" text="Lodine" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s29" text="Generally, this phenomenon has not been associated with other clinically significant events."><negationtags>Generally, this phenomenon has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been associated with other clinically significant events. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s30" text="No dose relationship has been observed."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; dose relationship has been observed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d219.s31" text="Lodine treatment is associated with a small decrease in serum uric acid levels.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d219.s31.e0" text="Lodine" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s32" text="In clinical trials, mean decreases of 1 to 2 mg/dL were observed in arthritic patients receiving etodolac (600 mg to 1000 mg/day) after 4 weeks of therapy.">
+        <entity charOffset="97-104" id="DDI-DrugBank.d219.s32.e0" text="etodolac" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d219.s33" text="These levels then remained stable for up to 1 year of therapy."/>
+    <sentence id="DDI-DrugBank.d219.s34" text=""/>
+</document>

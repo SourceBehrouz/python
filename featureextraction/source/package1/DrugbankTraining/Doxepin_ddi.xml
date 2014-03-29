@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d223">
+    <sentence id="DDI-DrugBank.d223.s0" text="Drugs Metabolized by P450 2D6: The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7-10% of Caucasians are so-called poor metabolizers);"/>
+    <sentence id="DDI-DrugBank.d223.s1" text="reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available."><negationtags>reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; yet available. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d223.s2" text="Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.">
+        <entity charOffset="69-93" id="DDI-DrugBank.d223.s2.e0" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="96-99" id="DDI-DrugBank.d223.s2.e1" text="TCAs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s2.e0" e2="DDI-DrugBank.d223.s2.e1" id="DDI-DrugBank.d223.s2.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s3" text="Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA)."/>
+    <sentence id="DDI-DrugBank.d223.s4" text="In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers."/>
+    <sentence id="DDI-DrugBank.d223.s5" text="An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy.">
+        <entity charOffset="47-49" id="DDI-DrugBank.d223.s5.e0" text="TCA" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s6" text="The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine;">
+        <entity charOffset="96-104" id="DDI-DrugBank.d223.s6.e0" text="quinidine" type="drug"/>
+    <negationtags>The drugs that inhibit cytochrome P450 2D6 include some that are &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; metabolized by the enzyme (quinidine; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d223.s7" text="cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d223.s7.e0" text="cimetidine" type="drug"/>
+        <entity charOffset="66-80" id="DDI-DrugBank.d223.s7.e1" text="antidepressants" type="group"/>
+        <entity charOffset="83-96" id="DDI-DrugBank.d223.s7.e2" text="phenothiazines" type="group"/>
+        <entity charOffset="107-129" id="DDI-DrugBank.d223.s7.e3" text="Type 1C antiarrhythmics" type="group"/>
+        <entity charOffset="131-141" id="DDI-DrugBank.d223.s7.e4" text="propafenone" type="drug"/>
+        <entity charOffset="147-156" id="DDI-DrugBank.d223.s7.e5" text="flecainide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e0" e2="DDI-DrugBank.d223.s7.e1" id="DDI-DrugBank.d223.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e0" e2="DDI-DrugBank.d223.s7.e2" id="DDI-DrugBank.d223.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e0" e2="DDI-DrugBank.d223.s7.e3" id="DDI-DrugBank.d223.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e0" e2="DDI-DrugBank.d223.s7.e4" id="DDI-DrugBank.d223.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e0" e2="DDI-DrugBank.d223.s7.e5" id="DDI-DrugBank.d223.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e1" e2="DDI-DrugBank.d223.s7.e2" id="DDI-DrugBank.d223.s7.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e1" e2="DDI-DrugBank.d223.s7.e3" id="DDI-DrugBank.d223.s7.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e1" e2="DDI-DrugBank.d223.s7.e4" id="DDI-DrugBank.d223.s7.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e1" e2="DDI-DrugBank.d223.s7.e5" id="DDI-DrugBank.d223.s7.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e2" e2="DDI-DrugBank.d223.s7.e3" id="DDI-DrugBank.d223.s7.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e2" e2="DDI-DrugBank.d223.s7.e4" id="DDI-DrugBank.d223.s7.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e2" e2="DDI-DrugBank.d223.s7.e5" id="DDI-DrugBank.d223.s7.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e3" e2="DDI-DrugBank.d223.s7.e4" id="DDI-DrugBank.d223.s7.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e3" e2="DDI-DrugBank.d223.s7.e5" id="DDI-DrugBank.d223.s7.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s7.e4" e2="DDI-DrugBank.d223.s7.e5" id="DDI-DrugBank.d223.s7.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s8" text="While all the selective serotonin reuptake inhibitors (SSRIs), e.g., citalopram, escitalopram, fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition.">
+        <entity charOffset="14-52" id="DDI-DrugBank.d223.s8.e0" text="selective serotonin reuptake inhibitors" type="group"/>
+        <entity charOffset="55-59" id="DDI-DrugBank.d223.s8.e1" text="SSRIs" type="group"/>
+        <entity charOffset="69-78" id="DDI-DrugBank.d223.s8.e2" text="citalopram" type="drug"/>
+        <entity charOffset="81-92" id="DDI-DrugBank.d223.s8.e3" text="escitalopram" type="drug"/>
+        <entity charOffset="95-104" id="DDI-DrugBank.d223.s8.e4" text="fluoxetine" type="drug"/>
+        <entity charOffset="107-116" id="DDI-DrugBank.d223.s8.e5" text="sertraline" type="drug"/>
+        <entity charOffset="123-132" id="DDI-DrugBank.d223.s8.e6" text="paroxetine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e0" e2="DDI-DrugBank.d223.s8.e1" id="DDI-DrugBank.d223.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e0" e2="DDI-DrugBank.d223.s8.e2" id="DDI-DrugBank.d223.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e0" e2="DDI-DrugBank.d223.s8.e3" id="DDI-DrugBank.d223.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e0" e2="DDI-DrugBank.d223.s8.e4" id="DDI-DrugBank.d223.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e0" e2="DDI-DrugBank.d223.s8.e5" id="DDI-DrugBank.d223.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e0" e2="DDI-DrugBank.d223.s8.e6" id="DDI-DrugBank.d223.s8.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e1" e2="DDI-DrugBank.d223.s8.e2" id="DDI-DrugBank.d223.s8.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e1" e2="DDI-DrugBank.d223.s8.e3" id="DDI-DrugBank.d223.s8.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e1" e2="DDI-DrugBank.d223.s8.e4" id="DDI-DrugBank.d223.s8.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e1" e2="DDI-DrugBank.d223.s8.e5" id="DDI-DrugBank.d223.s8.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e1" e2="DDI-DrugBank.d223.s8.e6" id="DDI-DrugBank.d223.s8.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e2" e2="DDI-DrugBank.d223.s8.e3" id="DDI-DrugBank.d223.s8.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e2" e2="DDI-DrugBank.d223.s8.e4" id="DDI-DrugBank.d223.s8.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e2" e2="DDI-DrugBank.d223.s8.e5" id="DDI-DrugBank.d223.s8.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e2" e2="DDI-DrugBank.d223.s8.e6" id="DDI-DrugBank.d223.s8.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e3" e2="DDI-DrugBank.d223.s8.e4" id="DDI-DrugBank.d223.s8.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e3" e2="DDI-DrugBank.d223.s8.e5" id="DDI-DrugBank.d223.s8.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e3" e2="DDI-DrugBank.d223.s8.e6" id="DDI-DrugBank.d223.s8.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e4" e2="DDI-DrugBank.d223.s8.e5" id="DDI-DrugBank.d223.s8.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e4" e2="DDI-DrugBank.d223.s8.e6" id="DDI-DrugBank.d223.s8.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s8.e5" e2="DDI-DrugBank.d223.s8.e6" id="DDI-DrugBank.d223.s8.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s9" text="The extent to which SSRI-TCA interactions may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved.">
+        <entity charOffset="20-23" id="DDI-DrugBank.d223.s9.e0" text="SSRI" type="group"/>
+        <entity charOffset="25-27" id="DDI-DrugBank.d223.s9.e1" text="TCA" type="group"/>
+        <entity charOffset="141-144" id="DDI-DrugBank.d223.s9.e2" text="SSRI" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s9.e0" e2="DDI-DrugBank.d223.s9.e1" id="DDI-DrugBank.d223.s9.p0" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s9.e0" e2="DDI-DrugBank.d223.s9.e2" id="DDI-DrugBank.d223.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s9.e1" e2="DDI-DrugBank.d223.s9.e2" id="DDI-DrugBank.d223.s9.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s10" text="Nevertheless, caution is indicated in the co-administration of TCAs with any of the SSRIs and also in switching from one class to the other.">
+        <entity charOffset="63-66" id="DDI-DrugBank.d223.s10.e0" text="TCAs" type="group"/>
+        <entity charOffset="84-88" id="DDI-DrugBank.d223.s10.e1" text="SSRIs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s10.e0" e2="DDI-DrugBank.d223.s10.e1" id="DDI-DrugBank.d223.s10.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s11" text="Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).">
+        <entity charOffset="120-129" id="DDI-DrugBank.d223.s11.e0" text="fluoxetine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s12" text="Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug.">
+        <entity charOffset="19-43" id="DDI-DrugBank.d223.s12.e0" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="156-179" id="DDI-DrugBank.d223.s12.e1" text="tricyclic antidepressant" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s12.e0" e2="DDI-DrugBank.d223.s12.e1" id="DDI-DrugBank.d223.s12.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s13" text="Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.">
+        <entity charOffset="98-121" id="DDI-DrugBank.d223.s13.e0" text="tricyclic antidepressant" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s14" text="It is desirable to monitor TCA plasma levels whenever a TCA is going to be co-administered with another drug known to be an inhibitor of P450 2D6.">
+        <entity charOffset="27-29" id="DDI-DrugBank.d223.s14.e0" text="TCA" type="group"/>
+        <entity charOffset="56-58" id="DDI-DrugBank.d223.s14.e1" text="TCA" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s14.e0" e2="DDI-DrugBank.d223.s14.e1" id="DDI-DrugBank.d223.s14.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s15" text="Doxepin is primarily metabolized by CYP2D6 (with CYP1A2  and  CYP3A4 as minor pathways).">
+        <entity charOffset="0-6" id="DDI-DrugBank.d223.s15.e0" text="Doxepin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s16" text="Inhibitors or substrates of CYP2D6 (i.e., quinidine, selective serotonin reuptake inhibitors [SSRIs]) may increase the plasma concentration of doxepin when administered concomitantly.">
+        <entity charOffset="42-50" id="DDI-DrugBank.d223.s16.e0" text="quinidine" type="drug"/>
+        <entity charOffset="53-91" id="DDI-DrugBank.d223.s16.e1" text="selective serotonin reuptake inhibitors" type="group"/>
+        <entity charOffset="94-98" id="DDI-DrugBank.d223.s16.e2" text="SSRIs" type="group"/>
+        <entity charOffset="143-149" id="DDI-DrugBank.d223.s16.e3" text="doxepin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s16.e0" e2="DDI-DrugBank.d223.s16.e1" id="DDI-DrugBank.d223.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s16.e0" e2="DDI-DrugBank.d223.s16.e2" id="DDI-DrugBank.d223.s16.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s16.e0" e2="DDI-DrugBank.d223.s16.e3" id="DDI-DrugBank.d223.s16.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s16.e1" e2="DDI-DrugBank.d223.s16.e2" id="DDI-DrugBank.d223.s16.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s16.e1" e2="DDI-DrugBank.d223.s16.e3" id="DDI-DrugBank.d223.s16.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s16.e2" e2="DDI-DrugBank.d223.s16.e3" id="DDI-DrugBank.d223.s16.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s17" text="The extent of interaction depends on the variability of effect on CYP2D6."/>
+    <sentence id="DDI-DrugBank.d223.s18" text="The clinical significance of this interaction with doxepin has not been systematically evaluated.">
+        <entity charOffset="51-57" id="DDI-DrugBank.d223.s18.e0" text="doxepin" type="drug"/>
+    <negationtags>The clinical significance of this interaction with doxepin has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been systematically evaluated. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d223.s19" text="MAO Inhibitors: Serious side effects and even death have been reported following the concomitant use of certain drugs with MAO inhibitors.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d223.s19.e0" text="MAO Inhibitors" type="group"/>
+        <entity charOffset="123-136" id="DDI-DrugBank.d223.s19.e1" text="MAO inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s19.e0" e2="DDI-DrugBank.d223.s19.e1" id="DDI-DrugBank.d223.s19.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s20" text="Therefore, MAO inhibitors should be discontinued at least two weeks prior to the cautious initiation of therapy with SINEQUAN.">
+        <entity charOffset="11-24" id="DDI-DrugBank.d223.s20.e0" text="MAO inhibitors" type="group"/>
+        <entity charOffset="117-124" id="DDI-DrugBank.d223.s20.e1" text="SINEQUAN" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s20.e0" e2="DDI-DrugBank.d223.s20.e1" id="DDI-DrugBank.d223.s20.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s21" text="The exact length of time may vary and is dependent upon the particular MAO inhibitor being used, the length of time it has been administered, and the dosage involved.">
+        <entity charOffset="71-83" id="DDI-DrugBank.d223.s21.e0" text="MAO inhibitor" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s22" text="Cimetidine: Cimetidine has been reported to produce clinically significant fluctuations in steady-state serum concentrations of various tricyclic antidepressants.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d223.s22.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="12-21" id="DDI-DrugBank.d223.s22.e1" text="Cimetidine" type="drug"/>
+        <entity charOffset="136-160" id="DDI-DrugBank.d223.s22.e2" text="tricyclic antidepressants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s22.e0" e2="DDI-DrugBank.d223.s22.e1" id="DDI-DrugBank.d223.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s22.e0" e2="DDI-DrugBank.d223.s22.e2" id="DDI-DrugBank.d223.s22.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s22.e1" e2="DDI-DrugBank.d223.s22.e2" id="DDI-DrugBank.d223.s22.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s23" text="Serious anticholinergic symptoms (i.e., severe dry mouth, urinary retention and blurred vision) have been associated with elevations in the serum levels of tricyclic antidepressant when cimetidine therapy is initiated.">
+        <entity charOffset="156-179" id="DDI-DrugBank.d223.s23.e0" text="tricyclic antidepressant" type="group"/>
+        <entity charOffset="186-195" id="DDI-DrugBank.d223.s23.e1" text="cimetidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s23.e0" e2="DDI-DrugBank.d223.s23.e1" id="DDI-DrugBank.d223.s23.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s24" text="Additionally, higher than expected tricyclic antidepressant levels have been observed when they are begun in patients already taking cimetidine.">
+        <entity charOffset="35-58" id="DDI-DrugBank.d223.s24.e0" text="tricyclic antidepressant" type="group"/>
+        <entity charOffset="133-142" id="DDI-DrugBank.d223.s24.e1" text="cimetidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s24.e0" e2="DDI-DrugBank.d223.s24.e1" id="DDI-DrugBank.d223.s24.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s25" text="In patients who have been reported to be well controlled on tricyclic antidepressants receiving concurrent cimetidine therapy, discontinuation of cimetidine has been reported to decrease established steady-state serum tricyclic antidepressant levels and compromise their therapeutic effects.">
+        <entity charOffset="60-84" id="DDI-DrugBank.d223.s25.e0" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="107-116" id="DDI-DrugBank.d223.s25.e1" text="cimetidine" type="drug"/>
+        <entity charOffset="146-155" id="DDI-DrugBank.d223.s25.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="218-241" id="DDI-DrugBank.d223.s25.e3" text="tricyclic antidepressant" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s25.e0" e2="DDI-DrugBank.d223.s25.e1" id="DDI-DrugBank.d223.s25.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s25.e0" e2="DDI-DrugBank.d223.s25.e2" id="DDI-DrugBank.d223.s25.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s25.e0" e2="DDI-DrugBank.d223.s25.e3" id="DDI-DrugBank.d223.s25.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s25.e1" e2="DDI-DrugBank.d223.s25.e2" id="DDI-DrugBank.d223.s25.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s25.e1" e2="DDI-DrugBank.d223.s25.e3" id="DDI-DrugBank.d223.s25.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s25.e2" e2="DDI-DrugBank.d223.s25.e3" id="DDI-DrugBank.d223.s25.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s26" text="Alcohol: It should be borne in mind that alcohol ingestion may increase the danger inherent in any intentional or unintentional SINEQUAN overdosage.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d223.s26.e0" text="Alcohol" type="drug"/>
+        <entity charOffset="41-47" id="DDI-DrugBank.d223.s26.e1" text="alcohol" type="drug"/>
+        <entity charOffset="128-135" id="DDI-DrugBank.d223.s26.e2" text="SINEQUAN" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s26.e0" e2="DDI-DrugBank.d223.s26.e1" id="DDI-DrugBank.d223.s26.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s26.e0" e2="DDI-DrugBank.d223.s26.e2" id="DDI-DrugBank.d223.s26.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s26.e1" e2="DDI-DrugBank.d223.s26.e2" id="DDI-DrugBank.d223.s26.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s27" text="This is especially important in patients who may use alcohol excessively.">
+        <entity charOffset="53-59" id="DDI-DrugBank.d223.s27.e0" text="alcohol" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d223.s28" text="Tolazamide: A case of severe hypoglycemia has been reported in a type II diabetic patient maintained on tolazamide (1 gm/day) 11 days after the addition of doxepin (75 mg/day).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d223.s28.e0" text="Tolazamide" type="drug"/>
+        <entity charOffset="104-113" id="DDI-DrugBank.d223.s28.e1" text="tolazamide" type="drug"/>
+        <entity charOffset="156-162" id="DDI-DrugBank.d223.s28.e2" text="doxepin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s28.e0" e2="DDI-DrugBank.d223.s28.e1" id="DDI-DrugBank.d223.s28.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d223.s28.e0" e2="DDI-DrugBank.d223.s28.e2" id="DDI-DrugBank.d223.s28.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d223.s28.e1" e2="DDI-DrugBank.d223.s28.e2" id="DDI-DrugBank.d223.s28.p2" type="effect"/>
+    </sentence>
+</document>

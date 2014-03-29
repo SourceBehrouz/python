@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d381">
+    <sentence id="DDI-DrugBank.d381.s0" text="ERGAMISOL  (levamisole hydrochloride) has been reported to produce ANTABUSE-like side effects when given concomitantly with alcohol.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d381.s0.e0" text="ERGAMISOL" type="brand"/>
+        <entity charOffset="12-35" id="DDI-DrugBank.d381.s0.e1" text="levamisole hydrochloride" type="drug"/>
+        <entity charOffset="124-130" id="DDI-DrugBank.d381.s0.e2" text="alcohol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d381.s0.e0" e2="DDI-DrugBank.d381.s0.e1" id="DDI-DrugBank.d381.s0.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d381.s0.e0" e2="DDI-DrugBank.d381.s0.e2" id="DDI-DrugBank.d381.s0.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d381.s0.e1" e2="DDI-DrugBank.d381.s0.e2" id="DDI-DrugBank.d381.s0.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d381.s1" text="The physician is advised to monitor plasma levels of phenytoin and to decrease the dose if necessary.">
+        <entity charOffset="53-61" id="DDI-DrugBank.d381.s1.e0" text="phenytoin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d381.s2" text="Because of reports of prolongation of the prothrombin time beyond the therapeutic range in patients taking concurrent levamisole and warfarin sodium, it is suggested that the prothrombin time be monitored carefully, and the dose of warfarin sodium or other coumarin-like drugs should be adjusted accordingly, in patients taking both drugs.">
+        <entity charOffset="118-127" id="DDI-DrugBank.d381.s2.e0" text="levamisole" type="drug"/>
+        <entity charOffset="133-147" id="DDI-DrugBank.d381.s2.e1" text="warfarin sodium" type="drug"/>
+        <entity charOffset="232-246" id="DDI-DrugBank.d381.s2.e2" text="warfarin sodium" type="drug"/>
+        <entity charOffset="257-264" id="DDI-DrugBank.d381.s2.e3" text="coumarin" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d381.s2.e0" e2="DDI-DrugBank.d381.s2.e1" id="DDI-DrugBank.d381.s2.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d381.s2.e0" e2="DDI-DrugBank.d381.s2.e2" id="DDI-DrugBank.d381.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d381.s2.e0" e2="DDI-DrugBank.d381.s2.e3" id="DDI-DrugBank.d381.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d381.s2.e1" e2="DDI-DrugBank.d381.s2.e2" id="DDI-DrugBank.d381.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d381.s2.e1" e2="DDI-DrugBank.d381.s2.e3" id="DDI-DrugBank.d381.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d381.s2.e2" e2="DDI-DrugBank.d381.s2.e3" id="DDI-DrugBank.d381.s2.p5"/>
+    </sentence>
+</document>

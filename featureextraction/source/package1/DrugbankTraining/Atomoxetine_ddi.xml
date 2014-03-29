@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d11">
+    <sentence id="DDI-DrugBank.d11.s0" text="Drug-Drug Interactions Albuterol - STRATTERA should be administered with caution to patients being treated with systemically-administered (oral or intravenous) albuterol (or other beta2 agonists) because the action of albuterol on the cardiovascular system can be potentiated resulting in increases in heart rate and blood pressure.">
+        <entity charOffset="23-31" id="DDI-DrugBank.d11.s0.e0" text="Albuterol" type="drug"/>
+        <entity charOffset="35-43" id="DDI-DrugBank.d11.s0.e1" text="STRATTERA" type="brand"/>
+        <entity charOffset="160-168" id="DDI-DrugBank.d11.s0.e2" text="albuterol" type="drug"/>
+        <entity charOffset="180-193" id="DDI-DrugBank.d11.s0.e3" text="beta2 agonists" type="group"/>
+        <entity charOffset="218-226" id="DDI-DrugBank.d11.s0.e4" text="albuterol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e0" e2="DDI-DrugBank.d11.s0.e1" id="DDI-DrugBank.d11.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e0" e2="DDI-DrugBank.d11.s0.e2" id="DDI-DrugBank.d11.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e0" e2="DDI-DrugBank.d11.s0.e3" id="DDI-DrugBank.d11.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e0" e2="DDI-DrugBank.d11.s0.e4" id="DDI-DrugBank.d11.s0.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d11.s0.e1" e2="DDI-DrugBank.d11.s0.e2" id="DDI-DrugBank.d11.s0.p4" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e1" e2="DDI-DrugBank.d11.s0.e3" id="DDI-DrugBank.d11.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e1" e2="DDI-DrugBank.d11.s0.e4" id="DDI-DrugBank.d11.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e2" e2="DDI-DrugBank.d11.s0.e3" id="DDI-DrugBank.d11.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e2" e2="DDI-DrugBank.d11.s0.e4" id="DDI-DrugBank.d11.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s0.e3" e2="DDI-DrugBank.d11.s0.e4" id="DDI-DrugBank.d11.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d11.s1" text="CYP2D6 inhibitors - Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.">
+        <entity charOffset="20-30" id="DDI-DrugBank.d11.s1.e0" text="Atomoxetine" type="drug"/>
+        <entity charOffset="82-101" id="DDI-DrugBank.d11.s1.e1" text="4-hydroxyatomoxetine" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s1.e0" e2="DDI-DrugBank.d11.s1.e1" id="DDI-DrugBank.d11.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d11.s2" text="In EMs, selective inhibitors of CYP2D6 increase atomoxetine steady-state plasma concentrations to exposures similar to those observed in PMs.">
+        <entity charOffset="48-58" id="DDI-DrugBank.d11.s2.e0" text="atomoxetine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d11.s3" text="Dosage adjustment of STRATTERA may be necessary when coadministered with CYP2D6 inhibitors, e.g., paroxetine, fluoxetine, and quinidine.">
+        <entity charOffset="21-29" id="DDI-DrugBank.d11.s3.e0" text="STRATTERA" type="brand"/>
+        <entity charOffset="98-107" id="DDI-DrugBank.d11.s3.e1" text="paroxetine" type="drug"/>
+        <entity charOffset="110-119" id="DDI-DrugBank.d11.s3.e2" text="fluoxetine" type="drug"/>
+        <entity charOffset="126-134" id="DDI-DrugBank.d11.s3.e3" text="quinidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d11.s3.e0" e2="DDI-DrugBank.d11.s3.e1" id="DDI-DrugBank.d11.s3.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d11.s3.e0" e2="DDI-DrugBank.d11.s3.e2" id="DDI-DrugBank.d11.s3.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d11.s3.e0" e2="DDI-DrugBank.d11.s3.e3" id="DDI-DrugBank.d11.s3.p2" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s3.e1" e2="DDI-DrugBank.d11.s3.e2" id="DDI-DrugBank.d11.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s3.e1" e2="DDI-DrugBank.d11.s3.e3" id="DDI-DrugBank.d11.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s3.e2" e2="DDI-DrugBank.d11.s3.e3" id="DDI-DrugBank.d11.s3.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d11.s4" text="In EM individuals treated with paroxetine or fluoxetine, the AUC of atomoxetine is approximately 6- to 8-fold and Css,max is about 3- to 4-fold greater than atomoxetine alone.">
+        <entity charOffset="31-40" id="DDI-DrugBank.d11.s4.e0" text="paroxetine" type="drug"/>
+        <entity charOffset="45-54" id="DDI-DrugBank.d11.s4.e1" text="fluoxetine" type="drug"/>
+        <entity charOffset="68-78" id="DDI-DrugBank.d11.s4.e2" text="atomoxetine" type="drug"/>
+        <entity charOffset="157-167" id="DDI-DrugBank.d11.s4.e3" text="atomoxetine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s4.e0" e2="DDI-DrugBank.d11.s4.e1" id="DDI-DrugBank.d11.s4.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d11.s4.e0" e2="DDI-DrugBank.d11.s4.e2" id="DDI-DrugBank.d11.s4.p1" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s4.e0" e2="DDI-DrugBank.d11.s4.e3" id="DDI-DrugBank.d11.s4.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d11.s4.e1" e2="DDI-DrugBank.d11.s4.e2" id="DDI-DrugBank.d11.s4.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s4.e1" e2="DDI-DrugBank.d11.s4.e3" id="DDI-DrugBank.d11.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d11.s4.e2" e2="DDI-DrugBank.d11.s4.e3" id="DDI-DrugBank.d11.s4.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d11.s5" text="In vitro studies suggest that coadministration of cytochrome P450 inhibitors to PMs will not increase the plasma concentrations of atomoxetine.">
+        <entity charOffset="131-141" id="DDI-DrugBank.d11.s5.e0" text="atomoxetine" type="drug"/>
+    <negationtags>In vitro studies suggest that coadministration of cytochrome P450 inhibitors to PMs will &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; increase the plasma concentrations of atomoxetine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d11.s6" text="Pressor agents - Because of possible effects on blood pressure, STRATTERA should be used cautiously with pressor agents.">
+        <entity charOffset="64-72" id="DDI-DrugBank.d11.s6.e0" text="STRATTERA" type="brand"/>
+    </sentence>
+</document>

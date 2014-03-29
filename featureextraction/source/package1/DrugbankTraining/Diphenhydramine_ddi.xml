@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d296">
+    <sentence id="DDI-DrugBank.d296.s0" text="Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc).">
+        <entity charOffset="0-28" id="DDI-DrugBank.d296.s0.e0" text="Diphenhydramine hydrochloride" type="drug"/>
+        <entity charOffset="56-62" id="DDI-DrugBank.d296.s0.e1" text="alcohol" type="drug"/>
+        <entity charOffset="74-88" id="DDI-DrugBank.d296.s0.e2" text="CNS depressants" type="group"/>
+        <entity charOffset="91-99" id="DDI-DrugBank.d296.s0.e3" text="hypnotics" type="group"/>
+        <entity charOffset="102-110" id="DDI-DrugBank.d296.s0.e4" text="sedatives" type="group"/>
+        <entity charOffset="113-125" id="DDI-DrugBank.d296.s0.e5" text="tranquilizers" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d296.s0.e0" e2="DDI-DrugBank.d296.s0.e1" id="DDI-DrugBank.d296.s0.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d296.s0.e0" e2="DDI-DrugBank.d296.s0.e2" id="DDI-DrugBank.d296.s0.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d296.s0.e0" e2="DDI-DrugBank.d296.s0.e3" id="DDI-DrugBank.d296.s0.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d296.s0.e0" e2="DDI-DrugBank.d296.s0.e4" id="DDI-DrugBank.d296.s0.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d296.s0.e0" e2="DDI-DrugBank.d296.s0.e5" id="DDI-DrugBank.d296.s0.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e1" e2="DDI-DrugBank.d296.s0.e2" id="DDI-DrugBank.d296.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e1" e2="DDI-DrugBank.d296.s0.e3" id="DDI-DrugBank.d296.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e1" e2="DDI-DrugBank.d296.s0.e4" id="DDI-DrugBank.d296.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e1" e2="DDI-DrugBank.d296.s0.e5" id="DDI-DrugBank.d296.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e2" e2="DDI-DrugBank.d296.s0.e3" id="DDI-DrugBank.d296.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e2" e2="DDI-DrugBank.d296.s0.e4" id="DDI-DrugBank.d296.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e2" e2="DDI-DrugBank.d296.s0.e5" id="DDI-DrugBank.d296.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e3" e2="DDI-DrugBank.d296.s0.e4" id="DDI-DrugBank.d296.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e3" e2="DDI-DrugBank.d296.s0.e5" id="DDI-DrugBank.d296.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d296.s0.e4" e2="DDI-DrugBank.d296.s0.e5" id="DDI-DrugBank.d296.s0.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d296.s1" text="MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d296.s1.e0" text="MAO inhibitors" type="group"/>
+        <entity charOffset="77-90" id="DDI-DrugBank.d296.s1.e1" text="antihistamines" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d296.s1.e0" e2="DDI-DrugBank.d296.s1.e1" id="DDI-DrugBank.d296.s1.p0" type="effect"/>
+    </sentence>
+</document>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d526">
+    <sentence id="DDI-DrugBank.d526.s0" text="When administered concurrently, the following drugs may interact with adrenal corticosteroids.">
+        <entity charOffset="70-92" id="DDI-DrugBank.d526.s0.e0" text="adrenal corticosteroids" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s1" text="Amphotericin B or potassium-depleting diuretics (benzothiadiazines and related drugs, ethacrynic acid and furosemide) enhanced hypokalemia.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d526.s1.e0" text="Amphotericin B" type="drug"/>
+        <entity charOffset="18-46" id="DDI-DrugBank.d526.s1.e1" text="potassium-depleting diuretics" type="group"/>
+        <entity charOffset="49-65" id="DDI-DrugBank.d526.s1.e2" text="benzothiadiazines" type="group"/>
+        <entity charOffset="86-100" id="DDI-DrugBank.d526.s1.e3" text="ethacrynic acid" type="drug"/>
+        <entity charOffset="106-115" id="DDI-DrugBank.d526.s1.e4" text="furosemide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e0" e2="DDI-DrugBank.d526.s1.e1" id="DDI-DrugBank.d526.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e0" e2="DDI-DrugBank.d526.s1.e2" id="DDI-DrugBank.d526.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e0" e2="DDI-DrugBank.d526.s1.e3" id="DDI-DrugBank.d526.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e0" e2="DDI-DrugBank.d526.s1.e4" id="DDI-DrugBank.d526.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e1" e2="DDI-DrugBank.d526.s1.e2" id="DDI-DrugBank.d526.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e1" e2="DDI-DrugBank.d526.s1.e3" id="DDI-DrugBank.d526.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e1" e2="DDI-DrugBank.d526.s1.e4" id="DDI-DrugBank.d526.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e2" e2="DDI-DrugBank.d526.s1.e3" id="DDI-DrugBank.d526.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e2" e2="DDI-DrugBank.d526.s1.e4" id="DDI-DrugBank.d526.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s1.e3" e2="DDI-DrugBank.d526.s1.e4" id="DDI-DrugBank.d526.s1.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s2" text="Check serum potassium levels at frequent intervals;"/>
+    <sentence id="DDI-DrugBank.d526.s3" text="use potassium supplements if necessary .">
+        <entity charOffset="4-12" id="DDI-DrugBank.d526.s3.e0" text="potassium" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s4" text="Digitalis glycosides enhanced possibility of arrhythmias or digitalis toxicity associated with hypokalemia.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d526.s4.e0" text="Digitalis glycosides" type="group"/>
+        <entity charOffset="60-68" id="DDI-DrugBank.d526.s4.e1" text="digitalis" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s4.e0" e2="DDI-DrugBank.d526.s4.e1" id="DDI-DrugBank.d526.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s5" text="Monitor serum potassium levels;"/>
+    <sentence id="DDI-DrugBank.d526.s6" text="use potassium supplements if necessary.">
+        <entity charOffset="4-12" id="DDI-DrugBank.d526.s6.e0" text="potassium" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s7" text="Oral anticoagulants decreased prothrombin time response.">
+        <entity charOffset="5-18" id="DDI-DrugBank.d526.s7.e0" text="anticoagulants" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s8" text="Monitor prothrombin levels and adjust anticoagulant dosage accordingly.">
+        <entity charOffset="38-50" id="DDI-DrugBank.d526.s8.e0" text="anticoagulant" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s9" text="Antidiabetic drugs (oral agents and insulin) diminished antidiabetic effect.">
+        <entity charOffset="0-17" id="DDI-DrugBank.d526.s9.e0" text="Antidiabetic drugs" type="group"/>
+        <entity charOffset="36-42" id="DDI-DrugBank.d526.s9.e1" text="insulin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s9.e0" e2="DDI-DrugBank.d526.s9.e1" id="DDI-DrugBank.d526.s9.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s10" text="Monitor for symptoms of hyperglycemia;"/>
+    <sentence id="DDI-DrugBank.d526.s11" text="adjust dosage of antidiabetic drug upward if necessary.">
+        <entity charOffset="17-33" id="DDI-DrugBank.d526.s11.e0" text="antidiabetic drug" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s12" text="Aspirin increased ulcerogenic effect;">
+        <entity charOffset="0-6" id="DDI-DrugBank.d526.s12.e0" text="Aspirin" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s13" text="decreased pharmacologic effect of aspirin.">
+        <entity charOffset="34-40" id="DDI-DrugBank.d526.s13.e0" text="aspirin" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s14" text="Rarely salicylate toxicity may occur in patients who discontinue steroids after concurrent high-dose aspirin therapy.">
+        <entity charOffset="7-16" id="DDI-DrugBank.d526.s14.e0" text="salicylate" type="group"/>
+        <entity charOffset="65-72" id="DDI-DrugBank.d526.s14.e1" text="steroids" type="group"/>
+        <entity charOffset="101-107" id="DDI-DrugBank.d526.s14.e2" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s14.e0" e2="DDI-DrugBank.d526.s14.e1" id="DDI-DrugBank.d526.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s14.e0" e2="DDI-DrugBank.d526.s14.e2" id="DDI-DrugBank.d526.s14.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d526.s14.e1" e2="DDI-DrugBank.d526.s14.e2" id="DDI-DrugBank.d526.s14.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s15" text="Monitor salicylate levels or the therapeutic effect for which aspirin is given;">
+        <entity charOffset="8-17" id="DDI-DrugBank.d526.s15.e0" text="salicylate" type="group"/>
+        <entity charOffset="62-68" id="DDI-DrugBank.d526.s15.e1" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s15.e0" e2="DDI-DrugBank.d526.s15.e1" id="DDI-DrugBank.d526.s15.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s16" text="adjust salicylate dosage accordingly if effect is altered.">
+        <entity charOffset="7-16" id="DDI-DrugBank.d526.s16.e0" text="salicylate" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s17" text="Barbiturates, phenytoin, or rifampin increased metabolic clearance of fludrocortisone acetate because of the induction of hepatic enzymes.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d526.s17.e0" text="Barbiturates" type="group"/>
+        <entity charOffset="14-22" id="DDI-DrugBank.d526.s17.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="28-35" id="DDI-DrugBank.d526.s17.e2" text="rifampin" type="drug"/>
+        <entity charOffset="70-92" id="DDI-DrugBank.d526.s17.e3" text="fludrocortisone acetate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s17.e0" e2="DDI-DrugBank.d526.s17.e1" id="DDI-DrugBank.d526.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s17.e0" e2="DDI-DrugBank.d526.s17.e2" id="DDI-DrugBank.d526.s17.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d526.s17.e0" e2="DDI-DrugBank.d526.s17.e3" id="DDI-DrugBank.d526.s17.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s17.e1" e2="DDI-DrugBank.d526.s17.e2" id="DDI-DrugBank.d526.s17.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d526.s17.e1" e2="DDI-DrugBank.d526.s17.e3" id="DDI-DrugBank.d526.s17.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d526.s17.e2" e2="DDI-DrugBank.d526.s17.e3" id="DDI-DrugBank.d526.s17.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s18" text="Observe the patient for possible diminished effect of steroid and increase the steroid dosage accordingly.">
+        <entity charOffset="54-60" id="DDI-DrugBank.d526.s18.e0" text="steroid" type="group"/>
+        <entity charOffset="79-85" id="DDI-DrugBank.d526.s18.e1" text="steroid" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s18.e0" e2="DDI-DrugBank.d526.s18.e1" id="DDI-DrugBank.d526.s18.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s19" text="Anabolic steroids (particularly C-17 alkylated androgens such as oxymetholone, methandrostenolone, norethandrolone, and similar compounds) enhanced tendency toward edema.">
+        <entity charOffset="0-16" id="DDI-DrugBank.d526.s19.e0" text="Anabolic steroids" type="group"/>
+        <entity charOffset="47-55" id="DDI-DrugBank.d526.s19.e1" text="androgens" type="group"/>
+        <entity charOffset="65-76" id="DDI-DrugBank.d526.s19.e2" text="oxymetholone" type="drug"/>
+        <entity charOffset="79-96" id="DDI-DrugBank.d526.s19.e3" text="methandrostenolone" type="drug"/>
+        <entity charOffset="99-113" id="DDI-DrugBank.d526.s19.e4" text="norethandrolone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e0" e2="DDI-DrugBank.d526.s19.e1" id="DDI-DrugBank.d526.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e0" e2="DDI-DrugBank.d526.s19.e2" id="DDI-DrugBank.d526.s19.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e0" e2="DDI-DrugBank.d526.s19.e3" id="DDI-DrugBank.d526.s19.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e0" e2="DDI-DrugBank.d526.s19.e4" id="DDI-DrugBank.d526.s19.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e1" e2="DDI-DrugBank.d526.s19.e2" id="DDI-DrugBank.d526.s19.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e1" e2="DDI-DrugBank.d526.s19.e3" id="DDI-DrugBank.d526.s19.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e1" e2="DDI-DrugBank.d526.s19.e4" id="DDI-DrugBank.d526.s19.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e2" e2="DDI-DrugBank.d526.s19.e3" id="DDI-DrugBank.d526.s19.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e2" e2="DDI-DrugBank.d526.s19.e4" id="DDI-DrugBank.d526.s19.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s19.e3" e2="DDI-DrugBank.d526.s19.e4" id="DDI-DrugBank.d526.s19.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s20" text="Use caution when giving these drugs together, especially in patients with hepatic or cardiac disease."/>
+    <sentence id="DDI-DrugBank.d526.s21" text="Vaccines neurological complications and lack of antibody response .">
+        <entity charOffset="0-7" id="DDI-DrugBank.d526.s21.e0" text="Vaccines" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s22" text="Estrogen increased levels of corticosteroid-binding globulin, thereby increasing the bound (inactive) fraction;">
+        <entity charOffset="0-7" id="DDI-DrugBank.d526.s22.e0" text="Estrogen" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s23" text="this effect is at least balanced by decreased metabolism of corticosteroids.">
+        <entity charOffset="60-74" id="DDI-DrugBank.d526.s23.e0" text="corticosteroids" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s24" text="When estrogen therapy is initiated, a reduction in corticosteroid dosage may be required, and increased amounts may be required when estrogen is terminated.">
+        <entity charOffset="5-12" id="DDI-DrugBank.d526.s24.e0" text="estrogen" type="group"/>
+        <entity charOffset="51-64" id="DDI-DrugBank.d526.s24.e1" text="corticosteroid" type="group"/>
+        <entity charOffset="133-140" id="DDI-DrugBank.d526.s24.e2" text="estrogen" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s24.e0" e2="DDI-DrugBank.d526.s24.e1" id="DDI-DrugBank.d526.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s24.e0" e2="DDI-DrugBank.d526.s24.e2" id="DDI-DrugBank.d526.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d526.s24.e1" e2="DDI-DrugBank.d526.s24.e2" id="DDI-DrugBank.d526.s24.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d526.s25" text="Drug/Laboratory Test Interactions Corticosteroids may affect the nitrobluetetrazolium test for bacterial infection and produce false-negative results">
+        <entity charOffset="34-48" id="DDI-DrugBank.d526.s25.e0" text="Corticosteroids" type="group"/>
+    <negationtags>Drug/Laboratory Test Interactions Corticosteroids may affect the nitrobluetetrazolium &lt;scope&gt; &lt;cue&gt; test for &lt;/cue&gt; bacterial infection and produce false-negative results &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d526.s26" text="."/>
+    <sentence id="DDI-DrugBank.d526.s27" text=""><negationtags>DDI-DrugBank.d234.s0</negationtags></sentence>
+</document>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d360">
+    <sentence id="DDI-DrugBank.d360.s0" text="Reduced efficacy and increased incidence of breakthrough bleeding and menstrual irregularities have been associated with concomitant use of rifampin.">
+        <entity charOffset="140-147" id="DDI-DrugBank.d360.s0.e0" text="rifampin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d360.s1" text="A similar association, though less marked, has been suggested with barbiturates, phenylbutazone, phenytoin sodium, carbamazepine, griseofulvin, topiramate, and possibly with ampicillin and tetracyclines 72.">
+        <entity charOffset="67-78" id="DDI-DrugBank.d360.s1.e0" text="barbiturates" type="group"/>
+        <entity charOffset="81-94" id="DDI-DrugBank.d360.s1.e1" text="phenylbutazone" type="drug"/>
+        <entity charOffset="97-112" id="DDI-DrugBank.d360.s1.e2" text="phenytoin sodium" type="drug"/>
+        <entity charOffset="115-127" id="DDI-DrugBank.d360.s1.e3" text="carbamazepine" type="drug"/>
+        <entity charOffset="130-141" id="DDI-DrugBank.d360.s1.e4" text="griseofulvin" type="drug"/>
+        <entity charOffset="144-153" id="DDI-DrugBank.d360.s1.e5" text="topiramate" type="drug"/>
+        <entity charOffset="174-183" id="DDI-DrugBank.d360.s1.e6" text="ampicillin" type="drug"/>
+        <entity charOffset="189-201" id="DDI-DrugBank.d360.s1.e7" text="tetracyclines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e0" e2="DDI-DrugBank.d360.s1.e1" id="DDI-DrugBank.d360.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e0" e2="DDI-DrugBank.d360.s1.e2" id="DDI-DrugBank.d360.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e0" e2="DDI-DrugBank.d360.s1.e3" id="DDI-DrugBank.d360.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e0" e2="DDI-DrugBank.d360.s1.e4" id="DDI-DrugBank.d360.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e0" e2="DDI-DrugBank.d360.s1.e5" id="DDI-DrugBank.d360.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e0" e2="DDI-DrugBank.d360.s1.e6" id="DDI-DrugBank.d360.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e0" e2="DDI-DrugBank.d360.s1.e7" id="DDI-DrugBank.d360.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e1" e2="DDI-DrugBank.d360.s1.e2" id="DDI-DrugBank.d360.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e1" e2="DDI-DrugBank.d360.s1.e3" id="DDI-DrugBank.d360.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e1" e2="DDI-DrugBank.d360.s1.e4" id="DDI-DrugBank.d360.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e1" e2="DDI-DrugBank.d360.s1.e5" id="DDI-DrugBank.d360.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e1" e2="DDI-DrugBank.d360.s1.e6" id="DDI-DrugBank.d360.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e1" e2="DDI-DrugBank.d360.s1.e7" id="DDI-DrugBank.d360.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e2" e2="DDI-DrugBank.d360.s1.e3" id="DDI-DrugBank.d360.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e2" e2="DDI-DrugBank.d360.s1.e4" id="DDI-DrugBank.d360.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e2" e2="DDI-DrugBank.d360.s1.e5" id="DDI-DrugBank.d360.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e2" e2="DDI-DrugBank.d360.s1.e6" id="DDI-DrugBank.d360.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e2" e2="DDI-DrugBank.d360.s1.e7" id="DDI-DrugBank.d360.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e3" e2="DDI-DrugBank.d360.s1.e4" id="DDI-DrugBank.d360.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e3" e2="DDI-DrugBank.d360.s1.e5" id="DDI-DrugBank.d360.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e3" e2="DDI-DrugBank.d360.s1.e6" id="DDI-DrugBank.d360.s1.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e3" e2="DDI-DrugBank.d360.s1.e7" id="DDI-DrugBank.d360.s1.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e4" e2="DDI-DrugBank.d360.s1.e5" id="DDI-DrugBank.d360.s1.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e4" e2="DDI-DrugBank.d360.s1.e6" id="DDI-DrugBank.d360.s1.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e4" e2="DDI-DrugBank.d360.s1.e7" id="DDI-DrugBank.d360.s1.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e5" e2="DDI-DrugBank.d360.s1.e6" id="DDI-DrugBank.d360.s1.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e5" e2="DDI-DrugBank.d360.s1.e7" id="DDI-DrugBank.d360.s1.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s1.e6" e2="DDI-DrugBank.d360.s1.e7" id="DDI-DrugBank.d360.s1.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d360.s2" text="A possible interaction has been suggested with hormonal contraceptives and the herbal supplement St. Johns Wort based on some reports of oral contraceptive users experiencing breakthrough bleeding shortly after starting St. Johns Wort.">
+        <entity charOffset="47-69" id="DDI-DrugBank.d360.s2.e0" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="142-154" id="DDI-DrugBank.d360.s2.e1" text="contraceptive" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d360.s2.e0" e2="DDI-DrugBank.d360.s2.e1" id="DDI-DrugBank.d360.s2.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d360.s3" text="Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. Johns Wort.">
+        <entity charOffset="43-74" id="DDI-DrugBank.d360.s3.e0" text="combined hormonal contraceptives" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d360.s4" text="Healthcare prescribers are advised to consult the package inserts of medication administered concomitantly with oral contraceptives.">
+        <entity charOffset="117-130" id="DDI-DrugBank.d360.s4.e0" text="contraceptives" type="group"/>
+    </sentence>
+</document>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d533">
+    <sentence id="DDI-DrugBank.d533.s0" text="Effects of Other Drugs on Aliskiren Based on in-vitro studies, aliskiren is metabolized by CYP 3A4.">
+        <entity charOffset="26-34" id="DDI-DrugBank.d533.s0.e0" text="Aliskiren" type="drug"/>
+        <entity charOffset="63-71" id="DDI-DrugBank.d533.s0.e1" text="aliskiren" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s0.e0" e2="DDI-DrugBank.d533.s0.e1" id="DDI-DrugBank.d533.s0.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s1" text="Co-administration of lovastatin, atenolol, warfarin, furosemide, digoxin, celecoxib, hydrochlorothiazide, ramipril, valsartan, metformin and amlodipine did not result in clinically significant increases in aliskiren exposure.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d533.s1.e0" text="lovastatin" type="drug"/>
+        <entity charOffset="33-40" id="DDI-DrugBank.d533.s1.e1" text="atenolol" type="drug"/>
+        <entity charOffset="43-50" id="DDI-DrugBank.d533.s1.e2" text="warfarin" type="drug"/>
+        <entity charOffset="53-62" id="DDI-DrugBank.d533.s1.e3" text="furosemide" type="drug"/>
+        <entity charOffset="65-71" id="DDI-DrugBank.d533.s1.e4" text="digoxin" type="drug"/>
+        <entity charOffset="74-82" id="DDI-DrugBank.d533.s1.e5" text="celecoxib" type="drug"/>
+        <entity charOffset="85-103" id="DDI-DrugBank.d533.s1.e6" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="106-113" id="DDI-DrugBank.d533.s1.e7" text="ramipril" type="drug"/>
+        <entity charOffset="116-124" id="DDI-DrugBank.d533.s1.e8" text="valsartan" type="drug"/>
+        <entity charOffset="127-135" id="DDI-DrugBank.d533.s1.e9" text="metformin" type="drug"/>
+        <entity charOffset="141-150" id="DDI-DrugBank.d533.s1.e10" text="amlodipine" type="drug"/>
+        <entity charOffset="206-214" id="DDI-DrugBank.d533.s1.e11" text="aliskiren" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e1" id="DDI-DrugBank.d533.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e2" id="DDI-DrugBank.d533.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e3" id="DDI-DrugBank.d533.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e4" id="DDI-DrugBank.d533.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e5" id="DDI-DrugBank.d533.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e6" id="DDI-DrugBank.d533.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e7" id="DDI-DrugBank.d533.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e0" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e2" id="DDI-DrugBank.d533.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e3" id="DDI-DrugBank.d533.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e4" id="DDI-DrugBank.d533.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e5" id="DDI-DrugBank.d533.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e6" id="DDI-DrugBank.d533.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e7" id="DDI-DrugBank.d533.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e1" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e3" id="DDI-DrugBank.d533.s1.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e4" id="DDI-DrugBank.d533.s1.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e5" id="DDI-DrugBank.d533.s1.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e6" id="DDI-DrugBank.d533.s1.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e7" id="DDI-DrugBank.d533.s1.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e2" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e4" id="DDI-DrugBank.d533.s1.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e5" id="DDI-DrugBank.d533.s1.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e6" id="DDI-DrugBank.d533.s1.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e7" id="DDI-DrugBank.d533.s1.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e3" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e4" e2="DDI-DrugBank.d533.s1.e5" id="DDI-DrugBank.d533.s1.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e4" e2="DDI-DrugBank.d533.s1.e6" id="DDI-DrugBank.d533.s1.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e4" e2="DDI-DrugBank.d533.s1.e7" id="DDI-DrugBank.d533.s1.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e4" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e4" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e4" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e4" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e5" e2="DDI-DrugBank.d533.s1.e6" id="DDI-DrugBank.d533.s1.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e5" e2="DDI-DrugBank.d533.s1.e7" id="DDI-DrugBank.d533.s1.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e5" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e5" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e5" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e5" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e6" e2="DDI-DrugBank.d533.s1.e7" id="DDI-DrugBank.d533.s1.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e6" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e6" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e6" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e6" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e7" e2="DDI-DrugBank.d533.s1.e8" id="DDI-DrugBank.d533.s1.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e7" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e7" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e7" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e8" e2="DDI-DrugBank.d533.s1.e9" id="DDI-DrugBank.d533.s1.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e8" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e8" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e9" e2="DDI-DrugBank.d533.s1.e10" id="DDI-DrugBank.d533.s1.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e9" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s1.e10" e2="DDI-DrugBank.d533.s1.e11" id="DDI-DrugBank.d533.s1.p65"/>
+    <negationtags>Co-administration of lovastatin, atenolol, warfarin, furosemide, digoxin, celecoxib, hydrochlorothiazide, ramipril, valsartan, metformin and amlodipine did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; result in clinically significant increases in aliskiren exposure. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d533.s2" text="Co-administration of irbesartan reduced aliskiren Cmax up to 50% after multiple dosing.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d533.s2.e0" text="irbesartan" type="drug"/>
+        <entity charOffset="40-48" id="DDI-DrugBank.d533.s2.e1" text="aliskiren" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d533.s2.e0" e2="DDI-DrugBank.d533.s2.e1" id="DDI-DrugBank.d533.s2.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s3" text="Co-administration of atorvastatin resulted in about a 50% increase in aliskiren Cmax and AUC after multiple dosing.">
+        <entity charOffset="21-32" id="DDI-DrugBank.d533.s3.e0" text="atorvastatin" type="drug"/>
+        <entity charOffset="70-78" id="DDI-DrugBank.d533.s3.e1" text="aliskiren" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d533.s3.e0" e2="DDI-DrugBank.d533.s3.e1" id="DDI-DrugBank.d533.s3.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s4" text="Ketoconazole: Co-administration of 200 mg twice-daily ketoconazole with aliskiren resulted in an approximate 80% increase in plasma levels of aliskiren.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d533.s4.e0" text="Ketoconazole" type="drug"/>
+        <entity charOffset="54-65" id="DDI-DrugBank.d533.s4.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="72-80" id="DDI-DrugBank.d533.s4.e2" text="aliskiren" type="drug"/>
+        <entity charOffset="142-150" id="DDI-DrugBank.d533.s4.e3" text="aliskiren" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s4.e0" e2="DDI-DrugBank.d533.s4.e1" id="DDI-DrugBank.d533.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s4.e0" e2="DDI-DrugBank.d533.s4.e2" id="DDI-DrugBank.d533.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s4.e0" e2="DDI-DrugBank.d533.s4.e3" id="DDI-DrugBank.d533.s4.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d533.s4.e1" e2="DDI-DrugBank.d533.s4.e2" id="DDI-DrugBank.d533.s4.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s4.e1" e2="DDI-DrugBank.d533.s4.e3" id="DDI-DrugBank.d533.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s4.e2" e2="DDI-DrugBank.d533.s4.e3" id="DDI-DrugBank.d533.s4.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d533.s5" text="A 400 mg once-daily dose was not studied but would be expected to increase aliskiren blood levels further.">
+        <entity charOffset="75-83" id="DDI-DrugBank.d533.s5.e0" text="aliskiren" type="drug"/>
+    <negationtags>A 400 mg once-daily dose was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; studied &lt;/scope&gt; but would be expected to increase aliskiren blood levels further.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d533.s6" text="Effects of Aliskiren on Other Drugs Aliskiren does not inhibit the CYP450 isoenzymes (CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, and CYP 3A) or induce CYP 3A4.">
+        <entity charOffset="11-19" id="DDI-DrugBank.d533.s6.e0" text="Aliskiren" type="drug"/>
+        <entity charOffset="36-44" id="DDI-DrugBank.d533.s6.e1" text="Aliskiren" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s6.e0" e2="DDI-DrugBank.d533.s6.e1" id="DDI-DrugBank.d533.s6.p0"/>
+    <negationtags>Effects of Aliskiren on Other Drugs Aliskiren does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; inhibit the CYP450 isoenzymes (CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, and CYP 3A) or induce CYP 3A4. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d533.s7" text="Co-administration of aliskiren did not significantly affect the pharmacokinetics of lovastatin, digoxin, valsartan, amlodipine, metformin, celecoxib, atenolol, atorvastatin, ramipril or hydrochlorothiazide.">
+        <entity charOffset="21-29" id="DDI-DrugBank.d533.s7.e0" text="aliskiren" type="drug"/>
+        <entity charOffset="84-93" id="DDI-DrugBank.d533.s7.e1" text="lovastatin" type="drug"/>
+        <entity charOffset="96-102" id="DDI-DrugBank.d533.s7.e2" text="digoxin" type="drug"/>
+        <entity charOffset="105-113" id="DDI-DrugBank.d533.s7.e3" text="valsartan" type="drug"/>
+        <entity charOffset="116-125" id="DDI-DrugBank.d533.s7.e4" text="amlodipine" type="drug"/>
+        <entity charOffset="128-136" id="DDI-DrugBank.d533.s7.e5" text="metformin" type="drug"/>
+        <entity charOffset="139-147" id="DDI-DrugBank.d533.s7.e6" text="celecoxib" type="drug"/>
+        <entity charOffset="150-157" id="DDI-DrugBank.d533.s7.e7" text="atenolol" type="drug"/>
+        <entity charOffset="160-171" id="DDI-DrugBank.d533.s7.e8" text="atorvastatin" type="drug"/>
+        <entity charOffset="174-181" id="DDI-DrugBank.d533.s7.e9" text="ramipril" type="drug"/>
+        <entity charOffset="186-204" id="DDI-DrugBank.d533.s7.e10" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e1" id="DDI-DrugBank.d533.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e2" id="DDI-DrugBank.d533.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e3" id="DDI-DrugBank.d533.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e4" id="DDI-DrugBank.d533.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e5" id="DDI-DrugBank.d533.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e6" id="DDI-DrugBank.d533.s7.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e7" id="DDI-DrugBank.d533.s7.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e0" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e2" id="DDI-DrugBank.d533.s7.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e3" id="DDI-DrugBank.d533.s7.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e4" id="DDI-DrugBank.d533.s7.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e5" id="DDI-DrugBank.d533.s7.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e6" id="DDI-DrugBank.d533.s7.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e7" id="DDI-DrugBank.d533.s7.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e1" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e3" id="DDI-DrugBank.d533.s7.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e4" id="DDI-DrugBank.d533.s7.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e5" id="DDI-DrugBank.d533.s7.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e6" id="DDI-DrugBank.d533.s7.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e7" id="DDI-DrugBank.d533.s7.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e2" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e3" e2="DDI-DrugBank.d533.s7.e4" id="DDI-DrugBank.d533.s7.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e3" e2="DDI-DrugBank.d533.s7.e5" id="DDI-DrugBank.d533.s7.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e3" e2="DDI-DrugBank.d533.s7.e6" id="DDI-DrugBank.d533.s7.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e3" e2="DDI-DrugBank.d533.s7.e7" id="DDI-DrugBank.d533.s7.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e3" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e3" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e3" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e4" e2="DDI-DrugBank.d533.s7.e5" id="DDI-DrugBank.d533.s7.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e4" e2="DDI-DrugBank.d533.s7.e6" id="DDI-DrugBank.d533.s7.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e4" e2="DDI-DrugBank.d533.s7.e7" id="DDI-DrugBank.d533.s7.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e4" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e4" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e4" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e5" e2="DDI-DrugBank.d533.s7.e6" id="DDI-DrugBank.d533.s7.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e5" e2="DDI-DrugBank.d533.s7.e7" id="DDI-DrugBank.d533.s7.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e5" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e5" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e5" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e6" e2="DDI-DrugBank.d533.s7.e7" id="DDI-DrugBank.d533.s7.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e6" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e6" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e6" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e7" e2="DDI-DrugBank.d533.s7.e8" id="DDI-DrugBank.d533.s7.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e7" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e7" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e8" e2="DDI-DrugBank.d533.s7.e9" id="DDI-DrugBank.d533.s7.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e8" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s7.e9" e2="DDI-DrugBank.d533.s7.e10" id="DDI-DrugBank.d533.s7.p54"/>
+    <negationtags>Co-administration of aliskiren did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly affect the pharmacokinetics of lovastatin, digoxin, valsartan, amlodipine, metformin, celecoxib, atenolol, atorvastatin, ramipril or hydrochlorothiazide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d533.s8" text="Warfarin: The effects of aliskiren on warfarin pharmacokinetics have not been evaluated in a well-controlled clinical trial.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d533.s8.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="25-33" id="DDI-DrugBank.d533.s8.e1" text="aliskiren" type="drug"/>
+        <entity charOffset="38-45" id="DDI-DrugBank.d533.s8.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s8.e0" e2="DDI-DrugBank.d533.s8.e1" id="DDI-DrugBank.d533.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s8.e0" e2="DDI-DrugBank.d533.s8.e2" id="DDI-DrugBank.d533.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s8.e1" e2="DDI-DrugBank.d533.s8.e2" id="DDI-DrugBank.d533.s8.p2"/>
+    <negationtags>Warfarin: The effects of aliskiren on warfarin pharmacokinetics have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been evaluated in a well-controlled clinical trial. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d533.s9" text="Furosemide: When aliskiren was co-administered with furosemide, the AUC and Cmax of furosemide were reduced by about 30% and 50%, respectively.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d533.s9.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="17-25" id="DDI-DrugBank.d533.s9.e1" text="aliskiren" type="drug"/>
+        <entity charOffset="52-61" id="DDI-DrugBank.d533.s9.e2" text="furosemide" type="drug"/>
+        <entity charOffset="84-93" id="DDI-DrugBank.d533.s9.e3" text="furosemide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s9.e0" e2="DDI-DrugBank.d533.s9.e1" id="DDI-DrugBank.d533.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s9.e0" e2="DDI-DrugBank.d533.s9.e2" id="DDI-DrugBank.d533.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s9.e0" e2="DDI-DrugBank.d533.s9.e3" id="DDI-DrugBank.d533.s9.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d533.s9.e1" e2="DDI-DrugBank.d533.s9.e2" id="DDI-DrugBank.d533.s9.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s9.e1" e2="DDI-DrugBank.d533.s9.e3" id="DDI-DrugBank.d533.s9.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d533.s9.e2" e2="DDI-DrugBank.d533.s9.e3" id="DDI-DrugBank.d533.s9.p5"/>
+    </sentence>
+</document>

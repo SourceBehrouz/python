@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d395">
+    <sentence id="DDI-DrugBank.d395.s0" text="Bismuth: Bismuth subsalicylate, given concomitantly with enoxacin or 60 minutes following enoxacin administration, decreased enoxacin bioavailability by approximately 25%.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d395.s0.e0" text="Bismuth" type="drug"/>
+        <entity charOffset="9-29" id="DDI-DrugBank.d395.s0.e1" text="Bismuth subsalicylate" type="drug"/>
+        <entity charOffset="57-64" id="DDI-DrugBank.d395.s0.e2" text="enoxacin" type="drug"/>
+        <entity charOffset="90-97" id="DDI-DrugBank.d395.s0.e3" text="enoxacin" type="drug"/>
+        <entity charOffset="125-132" id="DDI-DrugBank.d395.s0.e4" text="enoxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e0" e2="DDI-DrugBank.d395.s0.e1" id="DDI-DrugBank.d395.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e0" e2="DDI-DrugBank.d395.s0.e2" id="DDI-DrugBank.d395.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e0" e2="DDI-DrugBank.d395.s0.e3" id="DDI-DrugBank.d395.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e0" e2="DDI-DrugBank.d395.s0.e4" id="DDI-DrugBank.d395.s0.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s0.e1" e2="DDI-DrugBank.d395.s0.e2" id="DDI-DrugBank.d395.s0.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e1" e2="DDI-DrugBank.d395.s0.e3" id="DDI-DrugBank.d395.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e1" e2="DDI-DrugBank.d395.s0.e4" id="DDI-DrugBank.d395.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e2" e2="DDI-DrugBank.d395.s0.e3" id="DDI-DrugBank.d395.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e2" e2="DDI-DrugBank.d395.s0.e4" id="DDI-DrugBank.d395.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s0.e3" e2="DDI-DrugBank.d395.s0.e4" id="DDI-DrugBank.d395.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s1" text="Thus, concomitant administration of enoxacin and bismuth subsalicylate should be avoided.">
+        <entity charOffset="36-43" id="DDI-DrugBank.d395.s1.e0" text="enoxacin" type="drug"/>
+        <entity charOffset="49-69" id="DDI-DrugBank.d395.s1.e1" text="bismuth subsalicylate" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s1.e0" e2="DDI-DrugBank.d395.s1.e1" id="DDI-DrugBank.d395.s1.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s2" text="Caffeine: Enoxacin is a potent inhibitor of the cytochrome P-450 isozymes responsible for the metabolism of methylxanthines.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d395.s2.e0" text="Caffeine" type="drug"/>
+        <entity charOffset="10-17" id="DDI-DrugBank.d395.s2.e1" text="Enoxacin" type="drug"/>
+        <entity charOffset="108-122" id="DDI-DrugBank.d395.s2.e2" text="methylxanthines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s2.e0" e2="DDI-DrugBank.d395.s2.e1" id="DDI-DrugBank.d395.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s2.e0" e2="DDI-DrugBank.d395.s2.e2" id="DDI-DrugBank.d395.s2.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s2.e1" e2="DDI-DrugBank.d395.s2.e2" id="DDI-DrugBank.d395.s2.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s3" text="In a multiple-dose study, enoxacin caused a dose-related increase in the mean elimination half-life of caffeine, thereby decreasing the clearance of caffeine by up to 80% and leading to a five-fold increase in the AUC and the half-life of caffeine.">
+        <entity charOffset="26-33" id="DDI-DrugBank.d395.s3.e0" text="enoxacin" type="drug"/>
+        <entity charOffset="103-110" id="DDI-DrugBank.d395.s3.e1" text="caffeine" type="drug"/>
+        <entity charOffset="149-156" id="DDI-DrugBank.d395.s3.e2" text="caffeine" type="drug"/>
+        <entity charOffset="239-246" id="DDI-DrugBank.d395.s3.e3" text="caffeine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s3.e0" e2="DDI-DrugBank.d395.s3.e1" id="DDI-DrugBank.d395.s3.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s3.e0" e2="DDI-DrugBank.d395.s3.e2" id="DDI-DrugBank.d395.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s3.e0" e2="DDI-DrugBank.d395.s3.e3" id="DDI-DrugBank.d395.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s3.e1" e2="DDI-DrugBank.d395.s3.e2" id="DDI-DrugBank.d395.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s3.e1" e2="DDI-DrugBank.d395.s3.e3" id="DDI-DrugBank.d395.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s3.e2" e2="DDI-DrugBank.d395.s3.e3" id="DDI-DrugBank.d395.s3.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s4" text="Trough plasma enoxacin levels were also 20% higher when caffeine and enoxacin were administered concomitantly.">
+        <entity charOffset="14-21" id="DDI-DrugBank.d395.s4.e0" text="enoxacin" type="drug"/>
+        <entity charOffset="56-63" id="DDI-DrugBank.d395.s4.e1" text="caffeine" type="drug"/>
+        <entity charOffset="69-76" id="DDI-DrugBank.d395.s4.e2" text="enoxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s4.e0" e2="DDI-DrugBank.d395.s4.e1" id="DDI-DrugBank.d395.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s4.e0" e2="DDI-DrugBank.d395.s4.e2" id="DDI-DrugBank.d395.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s4.e1" e2="DDI-DrugBank.d395.s4.e2" id="DDI-DrugBank.d395.s4.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s5" text="Caffeine-related adverse effects have occurred in patients consuming caffeine while on therapy with enoxacin.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d395.s5.e0" text="Caffeine" type="drug"/>
+        <entity charOffset="69-76" id="DDI-DrugBank.d395.s5.e1" text="caffeine" type="drug"/>
+        <entity charOffset="100-107" id="DDI-DrugBank.d395.s5.e2" text="enoxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s5.e0" e2="DDI-DrugBank.d395.s5.e1" id="DDI-DrugBank.d395.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s5.e0" e2="DDI-DrugBank.d395.s5.e2" id="DDI-DrugBank.d395.s5.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s5.e1" e2="DDI-DrugBank.d395.s5.e2" id="DDI-DrugBank.d395.s5.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s6" text="Cyclosporine: Elevated serum levels of cyclosporine have been reported with concomitant use of cyclosporine with other members of the quinolone class.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d395.s6.e0" text="Cyclosporine" type="drug"/>
+        <entity charOffset="39-50" id="DDI-DrugBank.d395.s6.e1" text="cyclosporine" type="drug"/>
+        <entity charOffset="95-106" id="DDI-DrugBank.d395.s6.e2" text="cyclosporine" type="drug"/>
+        <entity charOffset="134-148" id="DDI-DrugBank.d395.s6.e3" text="quinolone class" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s6.e0" e2="DDI-DrugBank.d395.s6.e1" id="DDI-DrugBank.d395.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s6.e0" e2="DDI-DrugBank.d395.s6.e2" id="DDI-DrugBank.d395.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s6.e0" e2="DDI-DrugBank.d395.s6.e3" id="DDI-DrugBank.d395.s6.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s6.e1" e2="DDI-DrugBank.d395.s6.e2" id="DDI-DrugBank.d395.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s6.e1" e2="DDI-DrugBank.d395.s6.e3" id="DDI-DrugBank.d395.s6.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s6.e2" e2="DDI-DrugBank.d395.s6.e3" id="DDI-DrugBank.d395.s6.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s7" text="Digoxin: Enoxacin may raise serum digoxin levels in some individuals.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d395.s7.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="9-16" id="DDI-DrugBank.d395.s7.e1" text="Enoxacin" type="drug"/>
+        <entity charOffset="34-40" id="DDI-DrugBank.d395.s7.e2" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s7.e0" e2="DDI-DrugBank.d395.s7.e1" id="DDI-DrugBank.d395.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s7.e0" e2="DDI-DrugBank.d395.s7.e2" id="DDI-DrugBank.d395.s7.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s7.e1" e2="DDI-DrugBank.d395.s7.e2" id="DDI-DrugBank.d395.s7.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s8" text="If signs and symptoms suggestive of digoxin toxicity occur when enoxacin and digoxin are given concomitantly, physicians are advised to obtain serum digoxin levels and adjust digoxin doses appropriately.">
+        <entity charOffset="36-42" id="DDI-DrugBank.d395.s8.e0" text="digoxin" type="drug"/>
+        <entity charOffset="64-71" id="DDI-DrugBank.d395.s8.e1" text="enoxacin" type="drug"/>
+        <entity charOffset="77-83" id="DDI-DrugBank.d395.s8.e2" text="digoxin" type="drug"/>
+        <entity charOffset="149-155" id="DDI-DrugBank.d395.s8.e3" text="digoxin" type="drug"/>
+        <entity charOffset="175-181" id="DDI-DrugBank.d395.s8.e4" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e0" e2="DDI-DrugBank.d395.s8.e1" id="DDI-DrugBank.d395.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e0" e2="DDI-DrugBank.d395.s8.e2" id="DDI-DrugBank.d395.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e0" e2="DDI-DrugBank.d395.s8.e3" id="DDI-DrugBank.d395.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e0" e2="DDI-DrugBank.d395.s8.e4" id="DDI-DrugBank.d395.s8.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s8.e1" e2="DDI-DrugBank.d395.s8.e2" id="DDI-DrugBank.d395.s8.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e1" e2="DDI-DrugBank.d395.s8.e3" id="DDI-DrugBank.d395.s8.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e1" e2="DDI-DrugBank.d395.s8.e4" id="DDI-DrugBank.d395.s8.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e2" e2="DDI-DrugBank.d395.s8.e3" id="DDI-DrugBank.d395.s8.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e2" e2="DDI-DrugBank.d395.s8.e4" id="DDI-DrugBank.d395.s8.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s8.e3" e2="DDI-DrugBank.d395.s8.e4" id="DDI-DrugBank.d395.s8.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s9" text="Non-steroidal anti-inflammatory agents: Seizures have been reported in patients taking enoxacin concomitantly with the nonsteroidal anti-inflammatory drug fenbufen.">
+        <entity charOffset="0-37" id="DDI-DrugBank.d395.s9.e0" text="Non-steroidal anti-inflammatory agents" type="group"/>
+        <entity charOffset="87-94" id="DDI-DrugBank.d395.s9.e1" text="enoxacin" type="drug"/>
+        <entity charOffset="119-153" id="DDI-DrugBank.d395.s9.e2" text="nonsteroidal anti-inflammatory drug" type="group"/>
+        <entity charOffset="155-162" id="DDI-DrugBank.d395.s9.e3" text="fenbufen" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s9.e0" e2="DDI-DrugBank.d395.s9.e1" id="DDI-DrugBank.d395.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s9.e0" e2="DDI-DrugBank.d395.s9.e2" id="DDI-DrugBank.d395.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s9.e0" e2="DDI-DrugBank.d395.s9.e3" id="DDI-DrugBank.d395.s9.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s9.e1" e2="DDI-DrugBank.d395.s9.e2" id="DDI-DrugBank.d395.s9.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s9.e1" e2="DDI-DrugBank.d395.s9.e3" id="DDI-DrugBank.d395.s9.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s9.e2" e2="DDI-DrugBank.d395.s9.e3" id="DDI-DrugBank.d395.s9.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s10" text="Animal studies also suggest an increased potential for seizures when these two drugs are given concomitantly."/>
+    <sentence id="DDI-DrugBank.d395.s11" text="Fenbufen is not approved in the United States at this time.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d395.s11.e0" text="Fenbufen" type="drug"/>
+    <negationtags>Fenbufen is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; approved in the United States at this time. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d395.s12" text="Sucralfate and antacids: Quinolones form chelates with metal cations.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d395.s12.e0" text="Sucralfate" type="drug"/>
+        <entity charOffset="15-22" id="DDI-DrugBank.d395.s12.e1" text="antacids" type="group"/>
+        <entity charOffset="25-34" id="DDI-DrugBank.d395.s12.e2" text="Quinolones" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s12.e0" e2="DDI-DrugBank.d395.s12.e1" id="DDI-DrugBank.d395.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s12.e0" e2="DDI-DrugBank.d395.s12.e2" id="DDI-DrugBank.d395.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s12.e1" e2="DDI-DrugBank.d395.s12.e2" id="DDI-DrugBank.d395.s12.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s13" text="Therefore, administration of quinolones with antacids containing calcium, magnesium, or aluminum;">
+        <entity charOffset="29-38" id="DDI-DrugBank.d395.s13.e0" text="quinolones" type="group"/>
+        <entity charOffset="45-52" id="DDI-DrugBank.d395.s13.e1" text="antacids" type="group"/>
+        <entity charOffset="65-71" id="DDI-DrugBank.d395.s13.e2" text="calcium" type="drug"/>
+        <entity charOffset="74-82" id="DDI-DrugBank.d395.s13.e3" text="magnesium" type="drug"/>
+        <entity charOffset="88-95" id="DDI-DrugBank.d395.s13.e4" text="aluminum" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e0" e2="DDI-DrugBank.d395.s13.e1" id="DDI-DrugBank.d395.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e0" e2="DDI-DrugBank.d395.s13.e2" id="DDI-DrugBank.d395.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e0" e2="DDI-DrugBank.d395.s13.e3" id="DDI-DrugBank.d395.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e0" e2="DDI-DrugBank.d395.s13.e4" id="DDI-DrugBank.d395.s13.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e1" e2="DDI-DrugBank.d395.s13.e2" id="DDI-DrugBank.d395.s13.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e1" e2="DDI-DrugBank.d395.s13.e3" id="DDI-DrugBank.d395.s13.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e1" e2="DDI-DrugBank.d395.s13.e4" id="DDI-DrugBank.d395.s13.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e2" e2="DDI-DrugBank.d395.s13.e3" id="DDI-DrugBank.d395.s13.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e2" e2="DDI-DrugBank.d395.s13.e4" id="DDI-DrugBank.d395.s13.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s13.e3" e2="DDI-DrugBank.d395.s13.e4" id="DDI-DrugBank.d395.s13.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s14" text="with sucralfate;">
+        <entity charOffset="5-14" id="DDI-DrugBank.d395.s14.e0" text="sucralfate" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s15" text="with divalent or trivalent cations such as iron;">
+        <entity charOffset="43-46" id="DDI-DrugBank.d395.s15.e0" text="iron" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s16" text="or with multivitamins containing zinc may substantially interfere with drug absorption and result in insufficient plasma and tissue quinolone concentrations.">
+        <entity charOffset="8-20" id="DDI-DrugBank.d395.s16.e0" text="multivitamins" type="group"/>
+        <entity charOffset="33-36" id="DDI-DrugBank.d395.s16.e1" text="zinc" type="drug"/>
+        <entity charOffset="132-140" id="DDI-DrugBank.d395.s16.e2" text="quinolone" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s16.e0" e2="DDI-DrugBank.d395.s16.e1" id="DDI-DrugBank.d395.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s16.e0" e2="DDI-DrugBank.d395.s16.e2" id="DDI-DrugBank.d395.s16.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s16.e1" e2="DDI-DrugBank.d395.s16.e2" id="DDI-DrugBank.d395.s16.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s17" text="Antacids containing aluminum hydroxide and magnesium hydroxide reduce the oral absorption of enoxacin by 75%.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d395.s17.e0" text="Antacids" type="group"/>
+        <entity charOffset="20-37" id="DDI-DrugBank.d395.s17.e1" text="aluminum hydroxide" type="drug"/>
+        <entity charOffset="43-61" id="DDI-DrugBank.d395.s17.e2" text="magnesium hydroxide" type="drug"/>
+        <entity charOffset="93-100" id="DDI-DrugBank.d395.s17.e3" text="enoxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s17.e0" e2="DDI-DrugBank.d395.s17.e1" id="DDI-DrugBank.d395.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s17.e0" e2="DDI-DrugBank.d395.s17.e2" id="DDI-DrugBank.d395.s17.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s17.e0" e2="DDI-DrugBank.d395.s17.e3" id="DDI-DrugBank.d395.s17.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s17.e1" e2="DDI-DrugBank.d395.s17.e2" id="DDI-DrugBank.d395.s17.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s17.e1" e2="DDI-DrugBank.d395.s17.e3" id="DDI-DrugBank.d395.s17.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s17.e2" e2="DDI-DrugBank.d395.s17.e3" id="DDI-DrugBank.d395.s17.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s18" text="The oral bioavailability of enoxacin is reduced by 60% with coadministration of ranitidine.">
+        <entity charOffset="28-35" id="DDI-DrugBank.d395.s18.e0" text="enoxacin" type="drug"/>
+        <entity charOffset="80-89" id="DDI-DrugBank.d395.s18.e1" text="ranitidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s18.e0" e2="DDI-DrugBank.d395.s18.e1" id="DDI-DrugBank.d395.s18.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s19" text="These agents should not be taken for 8 hours before or for 2 hours after enoxacin administration.">
+        <entity charOffset="73-80" id="DDI-DrugBank.d395.s19.e0" text="enoxacin" type="drug"/>
+    <negationtags>These agents should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be taken for 8 hours before or for 2 hours after enoxacin administration. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d395.s20" text="Theophylline: Enoxacin is a potent inhibitor of the cytochrome P-450 isozymes responsible for the metabolism of methylxanthines.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d395.s20.e0" text="Theophylline" type="drug"/>
+        <entity charOffset="14-21" id="DDI-DrugBank.d395.s20.e1" text="Enoxacin" type="drug"/>
+        <entity charOffset="112-126" id="DDI-DrugBank.d395.s20.e2" text="methylxanthines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s20.e0" e2="DDI-DrugBank.d395.s20.e1" id="DDI-DrugBank.d395.s20.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s20.e0" e2="DDI-DrugBank.d395.s20.e2" id="DDI-DrugBank.d395.s20.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s20.e1" e2="DDI-DrugBank.d395.s20.e2" id="DDI-DrugBank.d395.s20.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s21" text="Enoxacin interferes with the metabolism of theophylline resulting in a 42% to 74% dose-related decrease in theophylline clearance and a subsequent 260% to 350% increase in serum theophylline levels.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d395.s21.e0" text="Enoxacin" type="drug"/>
+        <entity charOffset="43-54" id="DDI-DrugBank.d395.s21.e1" text="theophylline" type="drug"/>
+        <entity charOffset="107-118" id="DDI-DrugBank.d395.s21.e2" text="theophylline" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s21.e0" e2="DDI-DrugBank.d395.s21.e1" id="DDI-DrugBank.d395.s21.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s21.e0" e2="DDI-DrugBank.d395.s21.e2" id="DDI-DrugBank.d395.s21.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s21.e1" e2="DDI-DrugBank.d395.s21.e2" id="DDI-DrugBank.d395.s21.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s22" text="Theophylline-related adverse effects have occurred in patients when theophylline and enoxacin were coadministered.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d395.s22.e0" text="Theophylline" type="drug"/>
+        <entity charOffset="68-79" id="DDI-DrugBank.d395.s22.e1" text="theophylline" type="drug"/>
+        <entity charOffset="85-92" id="DDI-DrugBank.d395.s22.e2" text="enoxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s22.e0" e2="DDI-DrugBank.d395.s22.e1" id="DDI-DrugBank.d395.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s22.e0" e2="DDI-DrugBank.d395.s22.e2" id="DDI-DrugBank.d395.s22.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s22.e1" e2="DDI-DrugBank.d395.s22.e2" id="DDI-DrugBank.d395.s22.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s23" text="Warfarin: Quinolones, including enoxacin, decrease the clearance of R-warfarin, the less active isomer of racemic warfarin.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d395.s23.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="10-19" id="DDI-DrugBank.d395.s23.e1" text="Quinolones" type="group"/>
+        <entity charOffset="32-39" id="DDI-DrugBank.d395.s23.e2" text="enoxacin" type="drug"/>
+        <entity charOffset="68-77" id="DDI-DrugBank.d395.s23.e3" text="R-warfarin" type="drug"/>
+        <entity charOffset="114-121" id="DDI-DrugBank.d395.s23.e4" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e0" e2="DDI-DrugBank.d395.s23.e1" id="DDI-DrugBank.d395.s23.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e0" e2="DDI-DrugBank.d395.s23.e2" id="DDI-DrugBank.d395.s23.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e0" e2="DDI-DrugBank.d395.s23.e3" id="DDI-DrugBank.d395.s23.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e0" e2="DDI-DrugBank.d395.s23.e4" id="DDI-DrugBank.d395.s23.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e1" e2="DDI-DrugBank.d395.s23.e2" id="DDI-DrugBank.d395.s23.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s23.e1" e2="DDI-DrugBank.d395.s23.e3" id="DDI-DrugBank.d395.s23.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e1" e2="DDI-DrugBank.d395.s23.e4" id="DDI-DrugBank.d395.s23.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s23.e2" e2="DDI-DrugBank.d395.s23.e3" id="DDI-DrugBank.d395.s23.p7" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e2" e2="DDI-DrugBank.d395.s23.e4" id="DDI-DrugBank.d395.s23.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s23.e3" e2="DDI-DrugBank.d395.s23.e4" id="DDI-DrugBank.d395.s23.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d395.s24" text="Enoxacin does not affect the clearance of the active S-isomer, and changes in clotting time have not been observed when enoxacin and warfarin were coadministered.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d395.s24.e0" text="Enoxacin" type="drug"/>
+        <entity charOffset="120-127" id="DDI-DrugBank.d395.s24.e1" text="enoxacin" type="drug"/>
+        <entity charOffset="133-140" id="DDI-DrugBank.d395.s24.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s24.e0" e2="DDI-DrugBank.d395.s24.e1" id="DDI-DrugBank.d395.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s24.e0" e2="DDI-DrugBank.d395.s24.e2" id="DDI-DrugBank.d395.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d395.s24.e1" e2="DDI-DrugBank.d395.s24.e2" id="DDI-DrugBank.d395.s24.p2"/>
+    <negationtags>Enoxacin does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the clearance of the active S-isomer, and changes in clotting time have not been observed when enoxacin and warfarin were coadministered. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d395.s25" text="Nevertheless, the prothrombin time or other suitable coagulation test should be monitored when warfarin or its derivatives and enoxacin are given concomitantly.">
+        <entity charOffset="95-102" id="DDI-DrugBank.d395.s25.e0" text="warfarin" type="drug"/>
+        <entity charOffset="127-134" id="DDI-DrugBank.d395.s25.e1" text="enoxacin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d395.s25.e0" e2="DDI-DrugBank.d395.s25.e1" id="DDI-DrugBank.d395.s25.p0" type="advise"/>
+    </sentence>
+</document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d510">
+    <sentence id="DDI-DrugBank.d510.s0" text="The concurrent use of Robinul Injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects.">
+        <entity charOffset="22-28" id="DDI-DrugBank.d510.s0.e0" text="Robinul" type="brand"/>
+        <entity charOffset="51-66" id="DDI-DrugBank.d510.s0.e1" text="anticholinergics" type="group"/>
+        <entity charOffset="122-135" id="DDI-DrugBank.d510.s0.e2" text="phenothiazines" type="group"/>
+        <entity charOffset="138-156" id="DDI-DrugBank.d510.s0.e3" text="antiparkinson drugs" type="group"/>
+        <entity charOffset="162-186" id="DDI-DrugBank.d510.s0.e4" text="tricyclic antidepressants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d510.s0.e0" e2="DDI-DrugBank.d510.s0.e1" id="DDI-DrugBank.d510.s0.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d510.s0.e0" e2="DDI-DrugBank.d510.s0.e2" id="DDI-DrugBank.d510.s0.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d510.s0.e0" e2="DDI-DrugBank.d510.s0.e3" id="DDI-DrugBank.d510.s0.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d510.s0.e0" e2="DDI-DrugBank.d510.s0.e4" id="DDI-DrugBank.d510.s0.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d510.s0.e1" e2="DDI-DrugBank.d510.s0.e2" id="DDI-DrugBank.d510.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d510.s0.e1" e2="DDI-DrugBank.d510.s0.e3" id="DDI-DrugBank.d510.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d510.s0.e1" e2="DDI-DrugBank.d510.s0.e4" id="DDI-DrugBank.d510.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d510.s0.e2" e2="DDI-DrugBank.d510.s0.e3" id="DDI-DrugBank.d510.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d510.s0.e2" e2="DDI-DrugBank.d510.s0.e4" id="DDI-DrugBank.d510.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d510.s0.e3" e2="DDI-DrugBank.d510.s0.e4" id="DDI-DrugBank.d510.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d510.s1" text="Concomitant administration of Robinul Injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d510.s1.e0" text="Robinul" type="brand"/>
+        <entity charOffset="52-69" id="DDI-DrugBank.d510.s1.e1" text="potassium chloride" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d510.s1.e0" e2="DDI-DrugBank.d510.s1.e1" id="DDI-DrugBank.d510.s1.p0" type="mechanism"/>
+    </sentence>
+</document>

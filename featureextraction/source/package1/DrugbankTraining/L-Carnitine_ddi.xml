@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d539">
+    <sentence id="DDI-DrugBank.d539.s0" text="Interacts with valproic acid">
+        <entity charOffset="15-27" id="DDI-DrugBank.d539.s0.e0" text="valproic acid" type="drug"/>
+    </sentence>
+</document>

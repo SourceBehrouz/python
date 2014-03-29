@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d337">
+    <sentence id="DDI-DrugBank.d337.s0" text="Warfarin: Concomitant administration of daptomycin (6 mg/kg once every 24 hours for 5 days) and warfarin (25 mg single oral dose) had no significant effect on the pharmacokinetics of either drug, and the INR was not significantly altered.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d337.s0.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="40-49" id="DDI-DrugBank.d337.s0.e1" text="daptomycin" type="drug"/>
+        <entity charOffset="96-103" id="DDI-DrugBank.d337.s0.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s0.e0" e2="DDI-DrugBank.d337.s0.e1" id="DDI-DrugBank.d337.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s0.e0" e2="DDI-DrugBank.d337.s0.e2" id="DDI-DrugBank.d337.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s0.e1" e2="DDI-DrugBank.d337.s0.e2" id="DDI-DrugBank.d337.s0.p2"/>
+    <negationtags>DDI-DrugBank.d337.s0</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d337.s1" text="HMG-CoA Reductase Inhibitors: Inhibitors of HMG-CoA reductase may cause myopathy, which is manifested as muscle pain or weakness associated with elevated levels of CPK.">
+        <entity charOffset="0-27" id="DDI-DrugBank.d337.s1.e0" text="HMG-CoA Reductase Inhibitors" type="group"/>
+        <entity charOffset="30-60" id="DDI-DrugBank.d337.s1.e1" text="Inhibitors of HMG-CoA reductase" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s1.e0" e2="DDI-DrugBank.d337.s1.e1" id="DDI-DrugBank.d337.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d337.s2" text="There were no reports of skeletal myopathy in a placebo-controlled Phase I trial in which 10 healthy subjects on stable simvastatin therapy were treated concurrently with daptomycin (4 mg/kg once every 24 hours) for 14 days.">
+        <entity charOffset="120-130" id="DDI-DrugBank.d337.s2.e0" text="simvastatin" type="drug"/>
+        <entity charOffset="171-180" id="DDI-DrugBank.d337.s2.e1" text="daptomycin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s2.e0" e2="DDI-DrugBank.d337.s2.e1" id="DDI-DrugBank.d337.s2.p0"/>
+    <negationtags>There were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; reports of skeletal myopathy in a placebo-controlled Phase I trial in which 10 healthy subjects on stable simvastatin therapy were treated concurrently with daptomycin (4 mg/kg once every 24 hours) for 14 days. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d337.s3" text="Experience with co-administration of HMG-CoA reductase inhibitors and Fentanyl in patients is limited,therefore,consideration should be given to temporarily suspending use of HMG-CoA reductase inhibitors in patients receiving Fentanyl.">
+        <entity charOffset="37-64" id="DDI-DrugBank.d337.s3.e0" text="HMG-CoA reductase inhibitors" type="group"/>
+        <entity charOffset="70-77" id="DDI-DrugBank.d337.s3.e1" text="Fentanyl" type="drug"/>
+        <entity charOffset="175-202" id="DDI-DrugBank.d337.s3.e2" text="HMG-CoA reductase inhibitors" type="group"/>
+        <entity charOffset="226-233" id="DDI-DrugBank.d337.s3.e3" text="Fentanyl" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s3.e0" e2="DDI-DrugBank.d337.s3.e1" id="DDI-DrugBank.d337.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s3.e0" e2="DDI-DrugBank.d337.s3.e2" id="DDI-DrugBank.d337.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s3.e0" e2="DDI-DrugBank.d337.s3.e3" id="DDI-DrugBank.d337.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s3.e1" e2="DDI-DrugBank.d337.s3.e2" id="DDI-DrugBank.d337.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d337.s3.e1" e2="DDI-DrugBank.d337.s3.e3" id="DDI-DrugBank.d337.s3.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d337.s3.e2" e2="DDI-DrugBank.d337.s3.e3" id="DDI-DrugBank.d337.s3.p5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d337.s4" text="Drug-Laboratory Test Interactions: There are no reported drug-laboratory test interactions."><negationtags>Drug-Laboratory Test Interactions: There are &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; reported drug-laboratory test interactions. &lt;/scope&gt;</negationtags></sentence>
+</document>

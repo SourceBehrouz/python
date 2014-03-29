@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d544">
+    <sentence id="DDI-DrugBank.d544.s0" text="No dose adjustment is necessary when Simulect is added to triple-immunosuppression regimens including cyclosporine, corticosteroids, and either azathioprine or mycophenolate mofetil.">
+        <entity charOffset="37-44" id="DDI-DrugBank.d544.s0.e0" text="Simulect" type="brand"/>
+        <entity charOffset="102-113" id="DDI-DrugBank.d544.s0.e1" text="cyclosporine" type="drug"/>
+        <entity charOffset="116-130" id="DDI-DrugBank.d544.s0.e2" text="corticosteroids" type="group"/>
+        <entity charOffset="144-155" id="DDI-DrugBank.d544.s0.e3" text="azathioprine" type="drug"/>
+        <entity charOffset="160-180" id="DDI-DrugBank.d544.s0.e4" text="mycophenolate mofetil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e0" e2="DDI-DrugBank.d544.s0.e1" id="DDI-DrugBank.d544.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e0" e2="DDI-DrugBank.d544.s0.e2" id="DDI-DrugBank.d544.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e0" e2="DDI-DrugBank.d544.s0.e3" id="DDI-DrugBank.d544.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e0" e2="DDI-DrugBank.d544.s0.e4" id="DDI-DrugBank.d544.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e1" e2="DDI-DrugBank.d544.s0.e2" id="DDI-DrugBank.d544.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e1" e2="DDI-DrugBank.d544.s0.e3" id="DDI-DrugBank.d544.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e1" e2="DDI-DrugBank.d544.s0.e4" id="DDI-DrugBank.d544.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e2" e2="DDI-DrugBank.d544.s0.e3" id="DDI-DrugBank.d544.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e2" e2="DDI-DrugBank.d544.s0.e4" id="DDI-DrugBank.d544.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s0.e3" e2="DDI-DrugBank.d544.s0.e4" id="DDI-DrugBank.d544.s0.p9"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; dose adjustment is necessary when Simulect is added to triple-immunosuppression regimens including cyclosporine, corticosteroids, and either azathioprine or mycophenolate mofetil. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d544.s1" text="Three clinical trials have investigated Simulect use in combination with triple-therapy regimens.">
+        <entity charOffset="40-47" id="DDI-DrugBank.d544.s1.e0" text="Simulect" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d544.s2" text="Pharmacokinetics were assessed in two of these trials."/>
+    <sentence id="DDI-DrugBank.d544.s3" text="Total body clearance of Simulect was reduced by an average 22% and 51% when azathioprine and mycophenolate mofetil, respectively, were added to a regimen consisting of cyclosporine, USP (MODIFIED) and corticosteroids.">
+        <entity charOffset="24-31" id="DDI-DrugBank.d544.s3.e0" text="Simulect" type="brand"/>
+        <entity charOffset="76-87" id="DDI-DrugBank.d544.s3.e1" text="azathioprine" type="drug"/>
+        <entity charOffset="93-113" id="DDI-DrugBank.d544.s3.e2" text="mycophenolate mofetil" type="drug"/>
+        <entity charOffset="168-179" id="DDI-DrugBank.d544.s3.e3" text="cyclosporine" type="drug"/>
+        <entity charOffset="201-215" id="DDI-DrugBank.d544.s3.e4" text="corticosteroids" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d544.s3.e0" e2="DDI-DrugBank.d544.s3.e1" id="DDI-DrugBank.d544.s3.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d544.s3.e0" e2="DDI-DrugBank.d544.s3.e2" id="DDI-DrugBank.d544.s3.p1" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e0" e2="DDI-DrugBank.d544.s3.e3" id="DDI-DrugBank.d544.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e0" e2="DDI-DrugBank.d544.s3.e4" id="DDI-DrugBank.d544.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e1" e2="DDI-DrugBank.d544.s3.e2" id="DDI-DrugBank.d544.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e1" e2="DDI-DrugBank.d544.s3.e3" id="DDI-DrugBank.d544.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e1" e2="DDI-DrugBank.d544.s3.e4" id="DDI-DrugBank.d544.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e2" e2="DDI-DrugBank.d544.s3.e3" id="DDI-DrugBank.d544.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e2" e2="DDI-DrugBank.d544.s3.e4" id="DDI-DrugBank.d544.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s3.e3" e2="DDI-DrugBank.d544.s3.e4" id="DDI-DrugBank.d544.s3.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d544.s4" text="Nonetheless, the range of individual Simulect clearance values in the presence of azathioprine (12-57 mL/h) or mycophenolate mofetil (7-54 mL/h) did not extend outside the range observed with dual therapy (10-78 mL/h).">
+        <entity charOffset="37-44" id="DDI-DrugBank.d544.s4.e0" text="Simulect" type="brand"/>
+        <entity charOffset="82-93" id="DDI-DrugBank.d544.s4.e1" text="azathioprine" type="drug"/>
+        <entity charOffset="111-131" id="DDI-DrugBank.d544.s4.e2" text="mycophenolate mofetil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s4.e0" e2="DDI-DrugBank.d544.s4.e1" id="DDI-DrugBank.d544.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s4.e0" e2="DDI-DrugBank.d544.s4.e2" id="DDI-DrugBank.d544.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s4.e1" e2="DDI-DrugBank.d544.s4.e2" id="DDI-DrugBank.d544.s4.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d544.s5" text="The following medications have been administered in clinical trials with Simulect with no increase in adverse reactions: ATG/ALG, azathioprine, corticosteroids, cyclosporine, mycophenolate mofetil, and muromonab-CD3.">
+        <entity charOffset="73-80" id="DDI-DrugBank.d544.s5.e0" text="Simulect" type="brand"/>
+        <entity charOffset="130-141" id="DDI-DrugBank.d544.s5.e1" text="azathioprine" type="drug"/>
+        <entity charOffset="144-158" id="DDI-DrugBank.d544.s5.e2" text="corticosteroids" type="group"/>
+        <entity charOffset="161-172" id="DDI-DrugBank.d544.s5.e3" text="cyclosporine" type="drug"/>
+        <entity charOffset="175-195" id="DDI-DrugBank.d544.s5.e4" text="mycophenolate mofetil" type="drug"/>
+        <entity charOffset="202-214" id="DDI-DrugBank.d544.s5.e5" text="muromonab-CD3" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e0" e2="DDI-DrugBank.d544.s5.e1" id="DDI-DrugBank.d544.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e0" e2="DDI-DrugBank.d544.s5.e2" id="DDI-DrugBank.d544.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e0" e2="DDI-DrugBank.d544.s5.e3" id="DDI-DrugBank.d544.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e0" e2="DDI-DrugBank.d544.s5.e4" id="DDI-DrugBank.d544.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e0" e2="DDI-DrugBank.d544.s5.e5" id="DDI-DrugBank.d544.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e1" e2="DDI-DrugBank.d544.s5.e2" id="DDI-DrugBank.d544.s5.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e1" e2="DDI-DrugBank.d544.s5.e3" id="DDI-DrugBank.d544.s5.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e1" e2="DDI-DrugBank.d544.s5.e4" id="DDI-DrugBank.d544.s5.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e1" e2="DDI-DrugBank.d544.s5.e5" id="DDI-DrugBank.d544.s5.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e2" e2="DDI-DrugBank.d544.s5.e3" id="DDI-DrugBank.d544.s5.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e2" e2="DDI-DrugBank.d544.s5.e4" id="DDI-DrugBank.d544.s5.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e2" e2="DDI-DrugBank.d544.s5.e5" id="DDI-DrugBank.d544.s5.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e3" e2="DDI-DrugBank.d544.s5.e4" id="DDI-DrugBank.d544.s5.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e3" e2="DDI-DrugBank.d544.s5.e5" id="DDI-DrugBank.d544.s5.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d544.s5.e4" e2="DDI-DrugBank.d544.s5.e5" id="DDI-DrugBank.d544.s5.p14"/>
+    <negationtags>The following medications have been administered in clinical trials with Simulect &lt;scope&gt; &lt;cue&gt; with no &lt;/cue&gt; increase in adverse reactions: ATG/ALG, azathioprine, corticosteroids, cyclosporine, mycophenolate mofetil, and muromonab-CD3. &lt;/scope&gt;</negationtags></sentence>
+</document>

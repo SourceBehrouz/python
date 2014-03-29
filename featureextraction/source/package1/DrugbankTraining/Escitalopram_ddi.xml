@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d568">
+    <sentence id="DDI-DrugBank.d568.s0" text="CNS Drugs - Given the primary CNS effects of escitalopram, caution should be used when it is taken in combination with other centrally acting drugs.">
+        <entity charOffset="45-56" id="DDI-DrugBank.d568.s0.e0" text="escitalopram" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s1" text="Alcohol - Although LEXAPRO did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking LEXAPRO is not recommended.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d568.s1.e0" text="Alcohol" type="drug"/>
+        <entity charOffset="19-25" id="DDI-DrugBank.d568.s1.e1" text="LEXAPRO" type="brand"/>
+        <entity charOffset="81-87" id="DDI-DrugBank.d568.s1.e2" text="alcohol" type="drug"/>
+        <entity charOffset="124-147" id="DDI-DrugBank.d568.s1.e3" text="psychotropic medications" type="group"/>
+        <entity charOffset="161-167" id="DDI-DrugBank.d568.s1.e4" text="alcohol" type="drug"/>
+        <entity charOffset="188-194" id="DDI-DrugBank.d568.s1.e5" text="LEXAPRO" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e0" e2="DDI-DrugBank.d568.s1.e1" id="DDI-DrugBank.d568.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e0" e2="DDI-DrugBank.d568.s1.e2" id="DDI-DrugBank.d568.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e0" e2="DDI-DrugBank.d568.s1.e3" id="DDI-DrugBank.d568.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e0" e2="DDI-DrugBank.d568.s1.e4" id="DDI-DrugBank.d568.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e0" e2="DDI-DrugBank.d568.s1.e5" id="DDI-DrugBank.d568.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e1" e2="DDI-DrugBank.d568.s1.e2" id="DDI-DrugBank.d568.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e1" e2="DDI-DrugBank.d568.s1.e3" id="DDI-DrugBank.d568.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e1" e2="DDI-DrugBank.d568.s1.e4" id="DDI-DrugBank.d568.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e1" e2="DDI-DrugBank.d568.s1.e5" id="DDI-DrugBank.d568.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e2" e2="DDI-DrugBank.d568.s1.e3" id="DDI-DrugBank.d568.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e2" e2="DDI-DrugBank.d568.s1.e4" id="DDI-DrugBank.d568.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e2" e2="DDI-DrugBank.d568.s1.e5" id="DDI-DrugBank.d568.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s1.e3" e2="DDI-DrugBank.d568.s1.e4" id="DDI-DrugBank.d568.s1.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s1.e3" e2="DDI-DrugBank.d568.s1.e5" id="DDI-DrugBank.d568.s1.p13" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s1.e4" e2="DDI-DrugBank.d568.s1.e5" id="DDI-DrugBank.d568.s1.p14" type="advise"/>
+    <negationtags>Alcohol - Although LEXAPRO did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking LEXAPRO is not recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s2" text="Monoamine Oxidase Inhibitors (MAOIs)">
+        <entity charOffset="0-27" id="DDI-DrugBank.d568.s2.e0" text="Monoamine Oxidase Inhibitors" type="group"/>
+        <entity charOffset="30-34" id="DDI-DrugBank.d568.s2.e1" text="MAOIs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s2.e0" e2="DDI-DrugBank.d568.s2.e1" id="DDI-DrugBank.d568.s2.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s3" text="Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)">
+        <entity charOffset="38-43" id="DDI-DrugBank.d568.s3.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="46-52" id="DDI-DrugBank.d568.s3.e1" text="Aspirin" type="brand"/>
+        <entity charOffset="55-62" id="DDI-DrugBank.d568.s3.e2" text="Warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s3.e0" e2="DDI-DrugBank.d568.s3.e1" id="DDI-DrugBank.d568.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s3.e0" e2="DDI-DrugBank.d568.s3.e2" id="DDI-DrugBank.d568.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s3.e1" e2="DDI-DrugBank.d568.s3.e2" id="DDI-DrugBank.d568.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s4" text="Serotonin release by platelets plays an important role in hemostasis."/>
+    <sentence id="DDI-DrugBank.d568.s5" text="Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin potentiated the risk of bleeding.">
+        <entity charOffset="115-132" id="DDI-DrugBank.d568.s5.e0" text="psychotropic drugs" type="group"/>
+        <entity charOffset="269-273" id="DDI-DrugBank.d568.s5.e1" text="NSAID" type="group"/>
+        <entity charOffset="278-284" id="DDI-DrugBank.d568.s5.e2" text="aspirin" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s5.e0" e2="DDI-DrugBank.d568.s5.e1" id="DDI-DrugBank.d568.s5.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s5.e0" e2="DDI-DrugBank.d568.s5.e2" id="DDI-DrugBank.d568.s5.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s5.e1" e2="DDI-DrugBank.d568.s5.e2" id="DDI-DrugBank.d568.s5.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s6" text="Thus, patients should be cautioned about the use of such drugs concurrently with LEXAPRO.">
+        <entity charOffset="81-87" id="DDI-DrugBank.d568.s6.e0" text="LEXAPRO" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s7" text="Cimetidine - In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d568.s7.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="71-80" id="DDI-DrugBank.d568.s7.e1" text="citalopram" type="drug"/>
+        <entity charOffset="121-130" id="DDI-DrugBank.d568.s7.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="170-179" id="DDI-DrugBank.d568.s7.e3" text="citalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s7.e0" e2="DDI-DrugBank.d568.s7.e1" id="DDI-DrugBank.d568.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s7.e0" e2="DDI-DrugBank.d568.s7.e2" id="DDI-DrugBank.d568.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s7.e0" e2="DDI-DrugBank.d568.s7.e3" id="DDI-DrugBank.d568.s7.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s7.e1" e2="DDI-DrugBank.d568.s7.e2" id="DDI-DrugBank.d568.s7.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s7.e1" e2="DDI-DrugBank.d568.s7.e3" id="DDI-DrugBank.d568.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s7.e2" e2="DDI-DrugBank.d568.s7.e3" id="DDI-DrugBank.d568.s7.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s8" text="The clinical significance of these findings is unknown."/>
+    <sentence id="DDI-DrugBank.d568.s9" text="Digoxin - In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of citalopram and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d568.s9.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="68-77" id="DDI-DrugBank.d568.s9.e1" text="citalopram" type="drug"/>
+        <entity charOffset="107-116" id="DDI-DrugBank.d568.s9.e2" text="citalopram" type="drug"/>
+        <entity charOffset="122-128" id="DDI-DrugBank.d568.s9.e3" text="digoxin" type="drug"/>
+        <entity charOffset="212-221" id="DDI-DrugBank.d568.s9.e4" text="citalopram" type="drug"/>
+        <entity charOffset="226-232" id="DDI-DrugBank.d568.s9.e5" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e0" e2="DDI-DrugBank.d568.s9.e1" id="DDI-DrugBank.d568.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e0" e2="DDI-DrugBank.d568.s9.e2" id="DDI-DrugBank.d568.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e0" e2="DDI-DrugBank.d568.s9.e3" id="DDI-DrugBank.d568.s9.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e0" e2="DDI-DrugBank.d568.s9.e4" id="DDI-DrugBank.d568.s9.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e0" e2="DDI-DrugBank.d568.s9.e5" id="DDI-DrugBank.d568.s9.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e1" e2="DDI-DrugBank.d568.s9.e2" id="DDI-DrugBank.d568.s9.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e1" e2="DDI-DrugBank.d568.s9.e3" id="DDI-DrugBank.d568.s9.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e1" e2="DDI-DrugBank.d568.s9.e4" id="DDI-DrugBank.d568.s9.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e1" e2="DDI-DrugBank.d568.s9.e5" id="DDI-DrugBank.d568.s9.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e2" e2="DDI-DrugBank.d568.s9.e3" id="DDI-DrugBank.d568.s9.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e2" e2="DDI-DrugBank.d568.s9.e4" id="DDI-DrugBank.d568.s9.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e2" e2="DDI-DrugBank.d568.s9.e5" id="DDI-DrugBank.d568.s9.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e3" e2="DDI-DrugBank.d568.s9.e4" id="DDI-DrugBank.d568.s9.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e3" e2="DDI-DrugBank.d568.s9.e5" id="DDI-DrugBank.d568.s9.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s9.e4" e2="DDI-DrugBank.d568.s9.e5" id="DDI-DrugBank.d568.s9.p14"/>
+    <negationtags>Digoxin - In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of citalopram and digoxin (single dose of 1 mg) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly affect the pharmacokinetics of either citalopram or digoxin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s10" text="Lithium - Coadministration of racemic citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d568.s10.e0" text="Lithium" type="drug"/>
+        <entity charOffset="38-47" id="DDI-DrugBank.d568.s10.e1" text="citalopram" type="drug"/>
+        <entity charOffset="77-83" id="DDI-DrugBank.d568.s10.e2" text="lithium" type="drug"/>
+        <entity charOffset="163-172" id="DDI-DrugBank.d568.s10.e3" text="citalopram" type="drug"/>
+        <entity charOffset="177-183" id="DDI-DrugBank.d568.s10.e4" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e0" e2="DDI-DrugBank.d568.s10.e1" id="DDI-DrugBank.d568.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e0" e2="DDI-DrugBank.d568.s10.e2" id="DDI-DrugBank.d568.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e0" e2="DDI-DrugBank.d568.s10.e3" id="DDI-DrugBank.d568.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e0" e2="DDI-DrugBank.d568.s10.e4" id="DDI-DrugBank.d568.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e1" e2="DDI-DrugBank.d568.s10.e2" id="DDI-DrugBank.d568.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e1" e2="DDI-DrugBank.d568.s10.e3" id="DDI-DrugBank.d568.s10.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e1" e2="DDI-DrugBank.d568.s10.e4" id="DDI-DrugBank.d568.s10.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e2" e2="DDI-DrugBank.d568.s10.e3" id="DDI-DrugBank.d568.s10.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e2" e2="DDI-DrugBank.d568.s10.e4" id="DDI-DrugBank.d568.s10.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s10.e3" e2="DDI-DrugBank.d568.s10.e4" id="DDI-DrugBank.d568.s10.p9"/>
+    <negationtags>Lithium - Coadministration of racemic citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effect on the pharmacokinetics of citalopram or lithium. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s11" text="Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.">
+        <entity charOffset="21-27" id="DDI-DrugBank.d568.s11.e0" text="lithium" type="drug"/>
+        <entity charOffset="91-97" id="DDI-DrugBank.d568.s11.e1" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s11.e0" e2="DDI-DrugBank.d568.s11.e1" id="DDI-DrugBank.d568.s11.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s12" text="Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when LEXAPRO and lithium are coadministered.">
+        <entity charOffset="8-14" id="DDI-DrugBank.d568.s12.e0" text="lithium" type="drug"/>
+        <entity charOffset="56-67" id="DDI-DrugBank.d568.s12.e1" text="escitalopram" type="drug"/>
+        <entity charOffset="103-109" id="DDI-DrugBank.d568.s12.e2" text="LEXAPRO" type="brand"/>
+        <entity charOffset="115-121" id="DDI-DrugBank.d568.s12.e3" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s12.e0" e2="DDI-DrugBank.d568.s12.e1" id="DDI-DrugBank.d568.s12.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s12.e0" e2="DDI-DrugBank.d568.s12.e2" id="DDI-DrugBank.d568.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s12.e0" e2="DDI-DrugBank.d568.s12.e3" id="DDI-DrugBank.d568.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s12.e1" e2="DDI-DrugBank.d568.s12.e2" id="DDI-DrugBank.d568.s12.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s12.e1" e2="DDI-DrugBank.d568.s12.e3" id="DDI-DrugBank.d568.s12.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s12.e2" e2="DDI-DrugBank.d568.s12.e3" id="DDI-DrugBank.d568.s12.p5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s13" text="Pimozide and Celexa - In a controlled study, a single dose of pimozide 2 mg co-administered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d568.s13.e0" text="Pimozide" type="drug"/>
+        <entity charOffset="13-18" id="DDI-DrugBank.d568.s13.e1" text="Celexa" type="brand"/>
+        <entity charOffset="62-69" id="DDI-DrugBank.d568.s13.e2" text="pimozide" type="drug"/>
+        <entity charOffset="105-114" id="DDI-DrugBank.d568.s13.e3" text="citalopram" type="drug"/>
+        <entity charOffset="238-245" id="DDI-DrugBank.d568.s13.e4" text="pimozide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e0" e2="DDI-DrugBank.d568.s13.e1" id="DDI-DrugBank.d568.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e0" e2="DDI-DrugBank.d568.s13.e2" id="DDI-DrugBank.d568.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e0" e2="DDI-DrugBank.d568.s13.e3" id="DDI-DrugBank.d568.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e0" e2="DDI-DrugBank.d568.s13.e4" id="DDI-DrugBank.d568.s13.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e1" e2="DDI-DrugBank.d568.s13.e2" id="DDI-DrugBank.d568.s13.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e1" e2="DDI-DrugBank.d568.s13.e3" id="DDI-DrugBank.d568.s13.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e1" e2="DDI-DrugBank.d568.s13.e4" id="DDI-DrugBank.d568.s13.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s13.e2" e2="DDI-DrugBank.d568.s13.e3" id="DDI-DrugBank.d568.s13.p7" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e2" e2="DDI-DrugBank.d568.s13.e4" id="DDI-DrugBank.d568.s13.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s13.e3" e2="DDI-DrugBank.d568.s13.e4" id="DDI-DrugBank.d568.s13.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s14" text="Racemic citalopram did not alter the mean AUC or Cmax of pimozide.">
+        <entity charOffset="8-17" id="DDI-DrugBank.d568.s14.e0" text="citalopram" type="drug"/>
+        <entity charOffset="57-64" id="DDI-DrugBank.d568.s14.e1" text="pimozide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s14.e0" e2="DDI-DrugBank.d568.s14.e1" id="DDI-DrugBank.d568.s14.p0"/>
+    <negationtags>Racemic citalopram did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; alter the mean AUC or Cmax of pimozide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s15" text="The mechanism of this pharmacodynamic interaction is not known."><negationtags>The mechanism of this pharmacodynamic interaction is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s16" text="Sumatriptan - There have been rare postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of a selective serotonin reuptake inhibitor (SSRI) and sumatriptan.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d568.s16.e0" text="Sumatriptan" type="drug"/>
+        <entity charOffset="149-186" id="DDI-DrugBank.d568.s16.e1" text="selective serotonin reuptake inhibitor" type="group"/>
+        <entity charOffset="189-192" id="DDI-DrugBank.d568.s16.e2" text="SSRI" type="group"/>
+        <entity charOffset="199-209" id="DDI-DrugBank.d568.s16.e3" text="sumatriptan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s16.e0" e2="DDI-DrugBank.d568.s16.e1" id="DDI-DrugBank.d568.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s16.e0" e2="DDI-DrugBank.d568.s16.e2" id="DDI-DrugBank.d568.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s16.e0" e2="DDI-DrugBank.d568.s16.e3" id="DDI-DrugBank.d568.s16.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s16.e1" e2="DDI-DrugBank.d568.s16.e2" id="DDI-DrugBank.d568.s16.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s16.e1" e2="DDI-DrugBank.d568.s16.e3" id="DDI-DrugBank.d568.s16.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s16.e2" e2="DDI-DrugBank.d568.s16.e3" id="DDI-DrugBank.d568.s16.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s17" text="If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram, escitalopram) is clinically warranted, appropriate observation of the patient is advised.">
+        <entity charOffset="30-40" id="DDI-DrugBank.d568.s17.e0" text="sumatriptan" type="drug"/>
+        <entity charOffset="49-52" id="DDI-DrugBank.d568.s17.e1" text="SSRI" type="group"/>
+        <entity charOffset="61-70" id="DDI-DrugBank.d568.s17.e2" text="fluoxetine" type="drug"/>
+        <entity charOffset="73-83" id="DDI-DrugBank.d568.s17.e3" text="fluvoxamine" type="drug"/>
+        <entity charOffset="86-95" id="DDI-DrugBank.d568.s17.e4" text="paroxetine" type="drug"/>
+        <entity charOffset="98-107" id="DDI-DrugBank.d568.s17.e5" text="sertraline" type="drug"/>
+        <entity charOffset="110-119" id="DDI-DrugBank.d568.s17.e6" text="citalopram" type="drug"/>
+        <entity charOffset="122-133" id="DDI-DrugBank.d568.s17.e7" text="escitalopram" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s17.e0" e2="DDI-DrugBank.d568.s17.e1" id="DDI-DrugBank.d568.s17.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s17.e0" e2="DDI-DrugBank.d568.s17.e2" id="DDI-DrugBank.d568.s17.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s17.e0" e2="DDI-DrugBank.d568.s17.e3" id="DDI-DrugBank.d568.s17.p2" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s17.e0" e2="DDI-DrugBank.d568.s17.e4" id="DDI-DrugBank.d568.s17.p3" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s17.e0" e2="DDI-DrugBank.d568.s17.e5" id="DDI-DrugBank.d568.s17.p4" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s17.e0" e2="DDI-DrugBank.d568.s17.e6" id="DDI-DrugBank.d568.s17.p5" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s17.e0" e2="DDI-DrugBank.d568.s17.e7" id="DDI-DrugBank.d568.s17.p6" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e1" e2="DDI-DrugBank.d568.s17.e2" id="DDI-DrugBank.d568.s17.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e1" e2="DDI-DrugBank.d568.s17.e3" id="DDI-DrugBank.d568.s17.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e1" e2="DDI-DrugBank.d568.s17.e4" id="DDI-DrugBank.d568.s17.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e1" e2="DDI-DrugBank.d568.s17.e5" id="DDI-DrugBank.d568.s17.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e1" e2="DDI-DrugBank.d568.s17.e6" id="DDI-DrugBank.d568.s17.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e1" e2="DDI-DrugBank.d568.s17.e7" id="DDI-DrugBank.d568.s17.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e2" e2="DDI-DrugBank.d568.s17.e3" id="DDI-DrugBank.d568.s17.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e2" e2="DDI-DrugBank.d568.s17.e4" id="DDI-DrugBank.d568.s17.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e2" e2="DDI-DrugBank.d568.s17.e5" id="DDI-DrugBank.d568.s17.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e2" e2="DDI-DrugBank.d568.s17.e6" id="DDI-DrugBank.d568.s17.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e2" e2="DDI-DrugBank.d568.s17.e7" id="DDI-DrugBank.d568.s17.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e3" e2="DDI-DrugBank.d568.s17.e4" id="DDI-DrugBank.d568.s17.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e3" e2="DDI-DrugBank.d568.s17.e5" id="DDI-DrugBank.d568.s17.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e3" e2="DDI-DrugBank.d568.s17.e6" id="DDI-DrugBank.d568.s17.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e3" e2="DDI-DrugBank.d568.s17.e7" id="DDI-DrugBank.d568.s17.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e4" e2="DDI-DrugBank.d568.s17.e5" id="DDI-DrugBank.d568.s17.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e4" e2="DDI-DrugBank.d568.s17.e6" id="DDI-DrugBank.d568.s17.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e4" e2="DDI-DrugBank.d568.s17.e7" id="DDI-DrugBank.d568.s17.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e5" e2="DDI-DrugBank.d568.s17.e6" id="DDI-DrugBank.d568.s17.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e5" e2="DDI-DrugBank.d568.s17.e7" id="DDI-DrugBank.d568.s17.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s17.e6" e2="DDI-DrugBank.d568.s17.e7" id="DDI-DrugBank.d568.s17.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s18" text="Theophylline - Combined administration of racemic citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did not affect the pharmacokinetics of theophylline.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d568.s18.e0" text="Theophylline" type="drug"/>
+        <entity charOffset="50-59" id="DDI-DrugBank.d568.s18.e1" text="citalopram" type="drug"/>
+        <entity charOffset="110-121" id="DDI-DrugBank.d568.s18.e2" text="theophylline" type="drug"/>
+        <entity charOffset="186-197" id="DDI-DrugBank.d568.s18.e3" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s18.e0" e2="DDI-DrugBank.d568.s18.e1" id="DDI-DrugBank.d568.s18.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s18.e0" e2="DDI-DrugBank.d568.s18.e2" id="DDI-DrugBank.d568.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s18.e0" e2="DDI-DrugBank.d568.s18.e3" id="DDI-DrugBank.d568.s18.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s18.e1" e2="DDI-DrugBank.d568.s18.e2" id="DDI-DrugBank.d568.s18.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s18.e1" e2="DDI-DrugBank.d568.s18.e3" id="DDI-DrugBank.d568.s18.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s18.e2" e2="DDI-DrugBank.d568.s18.e3" id="DDI-DrugBank.d568.s18.p5"/>
+    <negationtags>Theophylline - Combined administration of racemic citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the pharmacokinetics of theophylline. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s19" text="The effect of theophylline on the pharmacokinetics of citalopram was not evaluated.">
+        <entity charOffset="14-25" id="DDI-DrugBank.d568.s19.e0" text="theophylline" type="drug"/>
+        <entity charOffset="54-63" id="DDI-DrugBank.d568.s19.e1" text="citalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s19.e0" e2="DDI-DrugBank.d568.s19.e1" id="DDI-DrugBank.d568.s19.p0"/>
+    <negationtags>The effect of theophylline on the pharmacokinetics of citalopram was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; evaluated. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s20" text="Warfarin - Administration of 40 mg/day racemic citalopram for 21 days did not affect the pharmacokinetics of warfarin, a CYP3A4 substrate.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d568.s20.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="47-56" id="DDI-DrugBank.d568.s20.e1" text="citalopram" type="drug"/>
+        <entity charOffset="109-116" id="DDI-DrugBank.d568.s20.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s20.e0" e2="DDI-DrugBank.d568.s20.e1" id="DDI-DrugBank.d568.s20.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s20.e0" e2="DDI-DrugBank.d568.s20.e2" id="DDI-DrugBank.d568.s20.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s20.e1" e2="DDI-DrugBank.d568.s20.e2" id="DDI-DrugBank.d568.s20.p2"/>
+    <negationtags>Warfarin - Administration of 40 mg/day racemic citalopram for 21 days did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the pharmacokinetics of warfarin, a CYP3A4 substrate. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s21" text="Prothrombin time was increased by 5%, the clinical significance of which is unknown."/>
+    <sentence id="DDI-DrugBank.d568.s22" text="Carbamazepine - Combined administration of racemic citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d568.s22.e0" text="Carbamazepine" type="drug"/>
+        <entity charOffset="51-60" id="DDI-DrugBank.d568.s22.e1" text="citalopram" type="drug"/>
+        <entity charOffset="90-102" id="DDI-DrugBank.d568.s22.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="194-206" id="DDI-DrugBank.d568.s22.e3" text="carbamazepine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s22.e0" e2="DDI-DrugBank.d568.s22.e1" id="DDI-DrugBank.d568.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s22.e0" e2="DDI-DrugBank.d568.s22.e2" id="DDI-DrugBank.d568.s22.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s22.e0" e2="DDI-DrugBank.d568.s22.e3" id="DDI-DrugBank.d568.s22.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s22.e1" e2="DDI-DrugBank.d568.s22.e2" id="DDI-DrugBank.d568.s22.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s22.e1" e2="DDI-DrugBank.d568.s22.e3" id="DDI-DrugBank.d568.s22.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s22.e2" e2="DDI-DrugBank.d568.s22.e3" id="DDI-DrugBank.d568.s22.p5"/>
+    <negationtags>Carbamazepine - Combined administration of racemic citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s23" text="Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.">
+        <entity charOffset="16-25" id="DDI-DrugBank.d568.s23.e0" text="citalopram" type="drug"/>
+        <entity charOffset="98-110" id="DDI-DrugBank.d568.s23.e1" text="carbamazepine" type="drug"/>
+        <entity charOffset="134-146" id="DDI-DrugBank.d568.s23.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="180-191" id="DDI-DrugBank.d568.s23.e3" text="escitalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s23.e0" e2="DDI-DrugBank.d568.s23.e1" id="DDI-DrugBank.d568.s23.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s23.e0" e2="DDI-DrugBank.d568.s23.e2" id="DDI-DrugBank.d568.s23.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s23.e0" e2="DDI-DrugBank.d568.s23.e3" id="DDI-DrugBank.d568.s23.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s23.e1" e2="DDI-DrugBank.d568.s23.e2" id="DDI-DrugBank.d568.s23.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s23.e1" e2="DDI-DrugBank.d568.s23.e3" id="DDI-DrugBank.d568.s23.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s23.e2" e2="DDI-DrugBank.d568.s23.e3" id="DDI-DrugBank.d568.s23.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s24" text="Triazolam - Combined administration of racemic citalopram (titrated to 40 mg/day for 28 days) and the CYP3A4 substrate triazolam (single dose of 0.25 mg) did not significantly affect the pharmacokinetics of either citalopram or triazolam.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d568.s24.e0" text="Triazolam" type="drug"/>
+        <entity charOffset="47-56" id="DDI-DrugBank.d568.s24.e1" text="citalopram" type="drug"/>
+        <entity charOffset="119-127" id="DDI-DrugBank.d568.s24.e2" text="triazolam" type="drug"/>
+        <entity charOffset="214-223" id="DDI-DrugBank.d568.s24.e3" text="citalopram" type="drug"/>
+        <entity charOffset="228-236" id="DDI-DrugBank.d568.s24.e4" text="triazolam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e0" e2="DDI-DrugBank.d568.s24.e1" id="DDI-DrugBank.d568.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e0" e2="DDI-DrugBank.d568.s24.e2" id="DDI-DrugBank.d568.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e0" e2="DDI-DrugBank.d568.s24.e3" id="DDI-DrugBank.d568.s24.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e0" e2="DDI-DrugBank.d568.s24.e4" id="DDI-DrugBank.d568.s24.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e1" e2="DDI-DrugBank.d568.s24.e2" id="DDI-DrugBank.d568.s24.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e1" e2="DDI-DrugBank.d568.s24.e3" id="DDI-DrugBank.d568.s24.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e1" e2="DDI-DrugBank.d568.s24.e4" id="DDI-DrugBank.d568.s24.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e2" e2="DDI-DrugBank.d568.s24.e3" id="DDI-DrugBank.d568.s24.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e2" e2="DDI-DrugBank.d568.s24.e4" id="DDI-DrugBank.d568.s24.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s24.e3" e2="DDI-DrugBank.d568.s24.e4" id="DDI-DrugBank.d568.s24.p9"/>
+    <negationtags>Triazolam - Combined administration of racemic citalopram (titrated to 40 mg/day for 28 days) and the CYP3A4 substrate triazolam (single dose of 0.25 mg) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly affect the pharmacokinetics of either citalopram or triazolam. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s25" text="Ketoconazole - Combined administration of racemic citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d568.s25.e0" text="Ketoconazole" type="drug"/>
+        <entity charOffset="50-59" id="DDI-DrugBank.d568.s25.e1" text="citalopram" type="drug"/>
+        <entity charOffset="73-84" id="DDI-DrugBank.d568.s25.e2" text="ketoconazole" type="drug"/>
+        <entity charOffset="125-136" id="DDI-DrugBank.d568.s25.e3" text="ketoconazole" type="drug"/>
+        <entity charOffset="225-234" id="DDI-DrugBank.d568.s25.e4" text="citalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e0" e2="DDI-DrugBank.d568.s25.e1" id="DDI-DrugBank.d568.s25.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e0" e2="DDI-DrugBank.d568.s25.e2" id="DDI-DrugBank.d568.s25.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e0" e2="DDI-DrugBank.d568.s25.e3" id="DDI-DrugBank.d568.s25.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e0" e2="DDI-DrugBank.d568.s25.e4" id="DDI-DrugBank.d568.s25.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s25.e1" e2="DDI-DrugBank.d568.s25.e2" id="DDI-DrugBank.d568.s25.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e1" e2="DDI-DrugBank.d568.s25.e3" id="DDI-DrugBank.d568.s25.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e1" e2="DDI-DrugBank.d568.s25.e4" id="DDI-DrugBank.d568.s25.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e2" e2="DDI-DrugBank.d568.s25.e3" id="DDI-DrugBank.d568.s25.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e2" e2="DDI-DrugBank.d568.s25.e4" id="DDI-DrugBank.d568.s25.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s25.e3" e2="DDI-DrugBank.d568.s25.e4" id="DDI-DrugBank.d568.s25.p9"/>
+    <negationtags>Ketoconazole - Combined administration of racemic citalopram (40 mg) and ketoconazole (200 mg) decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly affect the pharmacokinetics of citalopram. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s26" text="Ritonavir - Combined administration of a single dose of ritonavir (600 mg), both a CYP3A4 substrate and a potent inhibitor of CYP3A4, and escitalopram (20 mg) did not affect the pharmacokinetics of either ritonavir or escitalopram.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d568.s26.e0" text="Ritonavir" type="drug"/>
+        <entity charOffset="56-64" id="DDI-DrugBank.d568.s26.e1" text="ritonavir" type="drug"/>
+        <entity charOffset="138-149" id="DDI-DrugBank.d568.s26.e2" text="escitalopram" type="drug"/>
+        <entity charOffset="205-213" id="DDI-DrugBank.d568.s26.e3" text="ritonavir" type="drug"/>
+        <entity charOffset="218-229" id="DDI-DrugBank.d568.s26.e4" text="escitalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e0" e2="DDI-DrugBank.d568.s26.e1" id="DDI-DrugBank.d568.s26.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e0" e2="DDI-DrugBank.d568.s26.e2" id="DDI-DrugBank.d568.s26.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e0" e2="DDI-DrugBank.d568.s26.e3" id="DDI-DrugBank.d568.s26.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e0" e2="DDI-DrugBank.d568.s26.e4" id="DDI-DrugBank.d568.s26.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e1" e2="DDI-DrugBank.d568.s26.e2" id="DDI-DrugBank.d568.s26.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e1" e2="DDI-DrugBank.d568.s26.e3" id="DDI-DrugBank.d568.s26.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e1" e2="DDI-DrugBank.d568.s26.e4" id="DDI-DrugBank.d568.s26.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e2" e2="DDI-DrugBank.d568.s26.e3" id="DDI-DrugBank.d568.s26.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e2" e2="DDI-DrugBank.d568.s26.e4" id="DDI-DrugBank.d568.s26.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s26.e3" e2="DDI-DrugBank.d568.s26.e4" id="DDI-DrugBank.d568.s26.p9"/>
+    <negationtags>Ritonavir - Combined administration of a single dose of ritonavir (600 mg), both a CYP3A4 substrate and a potent inhibitor of CYP3A4, and escitalopram (20 mg) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the pharmacokinetics of either ritonavir or escitalopram. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s27" text="CYP3A4 and -2C19 Inhibitors - In vitro studies indicated that CYP3A4 and -2C19 are the primary enzymes involved in the metabolism of escitalopram.">
+        <entity charOffset="133-144" id="DDI-DrugBank.d568.s27.e0" text="escitalopram" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s28" text="However, coadministration of escitalopram (20 mg) and ritonavir (600 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of escitalopram.">
+        <entity charOffset="29-40" id="DDI-DrugBank.d568.s28.e0" text="escitalopram" type="drug"/>
+        <entity charOffset="54-62" id="DDI-DrugBank.d568.s28.e1" text="ritonavir" type="drug"/>
+        <entity charOffset="157-168" id="DDI-DrugBank.d568.s28.e2" text="escitalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s28.e0" e2="DDI-DrugBank.d568.s28.e1" id="DDI-DrugBank.d568.s28.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s28.e0" e2="DDI-DrugBank.d568.s28.e2" id="DDI-DrugBank.d568.s28.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s28.e1" e2="DDI-DrugBank.d568.s28.e2" id="DDI-DrugBank.d568.s28.p2"/>
+    <negationtags>However, coadministration of escitalopram (20 mg) and ritonavir (600 mg), a potent inhibitor of CYP3A4, did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly affect the pharmacokinetics of escitalopram. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s29" text="Because escitalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease escitalopram clearance.">
+        <entity charOffset="8-19" id="DDI-DrugBank.d568.s29.e0" text="escitalopram" type="drug"/>
+        <entity charOffset="123-134" id="DDI-DrugBank.d568.s29.e1" text="escitalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s29.e0" e2="DDI-DrugBank.d568.s29.e1" id="DDI-DrugBank.d568.s29.p0"/>
+    <negationtags>Because escitalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; appreciably decrease escitalopram clearance. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s30" text="Drugs Metabolized by Cytochrome P4502D6 - In vitro studies did not reveal an inhibitory effect of escitalopram on CYP2D6.">
+        <entity charOffset="98-109" id="DDI-DrugBank.d568.s30.e0" text="escitalopram" type="drug"/>
+    <negationtags>Drugs Metabolized by Cytochrome P4502D6 - In vitro studies did &lt;scope&gt; &lt;cue&gt; not reveal &lt;/cue&gt; an inhibitory effect of escitalopram on CYP2D6. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s31" text="In addition, steady state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.">
+        <entity charOffset="44-53" id="DDI-DrugBank.d568.s31.e0" text="citalopram" type="drug"/>
+        <entity charOffset="181-190" id="DDI-DrugBank.d568.s31.e1" text="citalopram" type="drug"/>
+        <entity charOffset="232-243" id="DDI-DrugBank.d568.s31.e2" text="escitalopram" type="drug"/>
+        <entity charOffset="332-343" id="DDI-DrugBank.d568.s31.e3" text="escitalopram" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s31.e0" e2="DDI-DrugBank.d568.s31.e1" id="DDI-DrugBank.d568.s31.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s31.e0" e2="DDI-DrugBank.d568.s31.e2" id="DDI-DrugBank.d568.s31.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s31.e0" e2="DDI-DrugBank.d568.s31.e3" id="DDI-DrugBank.d568.s31.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s31.e1" e2="DDI-DrugBank.d568.s31.e2" id="DDI-DrugBank.d568.s31.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s31.e1" e2="DDI-DrugBank.d568.s31.e3" id="DDI-DrugBank.d568.s31.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s31.e2" e2="DDI-DrugBank.d568.s31.e3" id="DDI-DrugBank.d568.s31.p5"/>
+    <negationtags>In addition, steady state levels of racemic citalopram were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s32" text="However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., coadministration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmax and a 100% increase in AUC of desipramine.">
+        <entity charOffset="89-100" id="DDI-DrugBank.d568.s32.e0" text="escitalopram" type="drug"/>
+        <entity charOffset="129-140" id="DDI-DrugBank.d568.s32.e1" text="escitalopram" type="drug"/>
+        <entity charOffset="175-198" id="DDI-DrugBank.d568.s32.e2" text="tricyclic antidepressant" type="group"/>
+        <entity charOffset="200-210" id="DDI-DrugBank.d568.s32.e3" text="desipramine" type="drug"/>
+        <entity charOffset="325-335" id="DDI-DrugBank.d568.s32.e4" text="desipramine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e0" e2="DDI-DrugBank.d568.s32.e1" id="DDI-DrugBank.d568.s32.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e0" e2="DDI-DrugBank.d568.s32.e2" id="DDI-DrugBank.d568.s32.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e0" e2="DDI-DrugBank.d568.s32.e3" id="DDI-DrugBank.d568.s32.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e0" e2="DDI-DrugBank.d568.s32.e4" id="DDI-DrugBank.d568.s32.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e1" e2="DDI-DrugBank.d568.s32.e2" id="DDI-DrugBank.d568.s32.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s32.e1" e2="DDI-DrugBank.d568.s32.e3" id="DDI-DrugBank.d568.s32.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e1" e2="DDI-DrugBank.d568.s32.e4" id="DDI-DrugBank.d568.s32.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e2" e2="DDI-DrugBank.d568.s32.e3" id="DDI-DrugBank.d568.s32.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e2" e2="DDI-DrugBank.d568.s32.e4" id="DDI-DrugBank.d568.s32.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s32.e3" e2="DDI-DrugBank.d568.s32.e4" id="DDI-DrugBank.d568.s32.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s33" text="The clinical significance of this finding is unknown."/>
+    <sentence id="DDI-DrugBank.d568.s34" text="Nevertheless, caution is indicated in the coadministration of escitalopram and drugs metabolized by CYP2D6.">
+        <entity charOffset="62-73" id="DDI-DrugBank.d568.s34.e0" text="escitalopram" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s35" text="Metoprolol - Administration of 20 mg/day LEXAPRO for 21 days in healthy volunteers resulted in a 50% increase in Cmax and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d568.s35.e0" text="Metoprolol" type="drug"/>
+        <entity charOffset="41-47" id="DDI-DrugBank.d568.s35.e1" text="LEXAPRO" type="brand"/>
+        <entity charOffset="149-171" id="DDI-DrugBank.d568.s35.e2" text="beta-adrenergic blocker" type="group"/>
+        <entity charOffset="173-182" id="DDI-DrugBank.d568.s35.e3" text="metoprolol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s35.e0" e2="DDI-DrugBank.d568.s35.e1" id="DDI-DrugBank.d568.s35.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s35.e0" e2="DDI-DrugBank.d568.s35.e2" id="DDI-DrugBank.d568.s35.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s35.e0" e2="DDI-DrugBank.d568.s35.e3" id="DDI-DrugBank.d568.s35.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s35.e1" e2="DDI-DrugBank.d568.s35.e2" id="DDI-DrugBank.d568.s35.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s35.e1" e2="DDI-DrugBank.d568.s35.e3" id="DDI-DrugBank.d568.s35.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s35.e2" e2="DDI-DrugBank.d568.s35.e3" id="DDI-DrugBank.d568.s35.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s36" text="Increased metoprolol plasma levels have been associated with decreased cardioselectivity.">
+        <entity charOffset="10-19" id="DDI-DrugBank.d568.s36.e0" text="metoprolol" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d568.s37" text="Coadministration of LEXAPRO and metoprolol had no clinically significant effects on blood pressure or heart rate.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d568.s37.e0" text="LEXAPRO" type="brand"/>
+        <entity charOffset="32-41" id="DDI-DrugBank.d568.s37.e1" text="metoprolol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s37.e0" e2="DDI-DrugBank.d568.s37.e1" id="DDI-DrugBank.d568.s37.p0"/>
+    <negationtags>Coadministration of LEXAPRO and metoprolol had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically significant effects on blood pressure or heart rate. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s38" text="Electroconvulsive Therapy (ECT) - There are no clinical studies of the combined use of ECT and escitalopram.">
+        <entity charOffset="95-106" id="DDI-DrugBank.d568.s38.e0" text="escitalopram" type="drug"/>
+    <negationtags>Electroconvulsive Therapy (ECT) - There are &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinical studies of the combined use of ECT and escitalopram. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d568.s39" text="Concomitant Administration with Racemic Citalopram Citalopram - Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.">
+        <entity charOffset="40-49" id="DDI-DrugBank.d568.s39.e0" text="Citalopram" type="drug"/>
+        <entity charOffset="51-60" id="DDI-DrugBank.d568.s39.e1" text="Citalopram" type="drug"/>
+        <entity charOffset="70-81" id="DDI-DrugBank.d568.s39.e2" text="escitalopram" type="drug"/>
+        <entity charOffset="115-124" id="DDI-DrugBank.d568.s39.e3" text="citalopram" type="drug"/>
+        <entity charOffset="127-132" id="DDI-DrugBank.d568.s39.e4" text="Celexa" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e0" e2="DDI-DrugBank.d568.s39.e1" id="DDI-DrugBank.d568.s39.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e0" e2="DDI-DrugBank.d568.s39.e2" id="DDI-DrugBank.d568.s39.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e0" e2="DDI-DrugBank.d568.s39.e3" id="DDI-DrugBank.d568.s39.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e0" e2="DDI-DrugBank.d568.s39.e4" id="DDI-DrugBank.d568.s39.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e1" e2="DDI-DrugBank.d568.s39.e2" id="DDI-DrugBank.d568.s39.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e1" e2="DDI-DrugBank.d568.s39.e3" id="DDI-DrugBank.d568.s39.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e1" e2="DDI-DrugBank.d568.s39.e4" id="DDI-DrugBank.d568.s39.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s39.e2" e2="DDI-DrugBank.d568.s39.e3" id="DDI-DrugBank.d568.s39.p7" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d568.s39.e2" e2="DDI-DrugBank.d568.s39.e4" id="DDI-DrugBank.d568.s39.p8" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d568.s39.e3" e2="DDI-DrugBank.d568.s39.e4" id="DDI-DrugBank.d568.s39.p9"/>
+    <negationtags>Concomitant Administration with Racemic Citalopram Citalopram - Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be coadministered. &lt;/scope&gt;</negationtags></sentence>
+</document>

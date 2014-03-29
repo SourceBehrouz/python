@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d208">
+    <sentence id="DDI-DrugBank.d208.s0" text="Benzthiazide may interact with alcohol, blood thinners, decongestant drugs (allergy, cold, and sinus medicines), diabetic drugs, lithium, norepinephrine, NSAIDs like Aleve or Ibuprofen, and high blood pressure medications.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d208.s0.e0" text="Benzthiazide" type="drug"/>
+        <entity charOffset="31-37" id="DDI-DrugBank.d208.s0.e1" text="alcohol" type="drug"/>
+        <entity charOffset="40-52" id="DDI-DrugBank.d208.s0.e2" text="blood thinner" type="group"/>
+        <entity charOffset="56-73" id="DDI-DrugBank.d208.s0.e3" text="decongestant drugs" type="group"/>
+        <entity charOffset="129-135" id="DDI-DrugBank.d208.s0.e4" text="lithium" type="drug"/>
+        <entity charOffset="138-151" id="DDI-DrugBank.d208.s0.e5" text="norepinephrine" type="drug"/>
+        <entity charOffset="154-159" id="DDI-DrugBank.d208.s0.e6" text="NSAIDs" type="group"/>
+        <entity charOffset="166-170" id="DDI-DrugBank.d208.s0.e7" text="Aleve" type="brand"/>
+        <entity charOffset="175-183" id="DDI-DrugBank.d208.s0.e8" text="Ibuprofen" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e1" id="DDI-DrugBank.d208.s0.p0" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e2" id="DDI-DrugBank.d208.s0.p1" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e3" id="DDI-DrugBank.d208.s0.p2" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e4" id="DDI-DrugBank.d208.s0.p3" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e5" id="DDI-DrugBank.d208.s0.p4" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e6" id="DDI-DrugBank.d208.s0.p5" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e7" id="DDI-DrugBank.d208.s0.p6" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d208.s0.e0" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p7" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e1" e2="DDI-DrugBank.d208.s0.e2" id="DDI-DrugBank.d208.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e1" e2="DDI-DrugBank.d208.s0.e3" id="DDI-DrugBank.d208.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e1" e2="DDI-DrugBank.d208.s0.e4" id="DDI-DrugBank.d208.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e1" e2="DDI-DrugBank.d208.s0.e5" id="DDI-DrugBank.d208.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e1" e2="DDI-DrugBank.d208.s0.e6" id="DDI-DrugBank.d208.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e1" e2="DDI-DrugBank.d208.s0.e7" id="DDI-DrugBank.d208.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e1" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e2" e2="DDI-DrugBank.d208.s0.e3" id="DDI-DrugBank.d208.s0.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e2" e2="DDI-DrugBank.d208.s0.e4" id="DDI-DrugBank.d208.s0.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e2" e2="DDI-DrugBank.d208.s0.e5" id="DDI-DrugBank.d208.s0.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e2" e2="DDI-DrugBank.d208.s0.e6" id="DDI-DrugBank.d208.s0.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e2" e2="DDI-DrugBank.d208.s0.e7" id="DDI-DrugBank.d208.s0.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e2" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e3" e2="DDI-DrugBank.d208.s0.e4" id="DDI-DrugBank.d208.s0.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e3" e2="DDI-DrugBank.d208.s0.e5" id="DDI-DrugBank.d208.s0.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e3" e2="DDI-DrugBank.d208.s0.e6" id="DDI-DrugBank.d208.s0.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e3" e2="DDI-DrugBank.d208.s0.e7" id="DDI-DrugBank.d208.s0.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e3" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e4" e2="DDI-DrugBank.d208.s0.e5" id="DDI-DrugBank.d208.s0.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e4" e2="DDI-DrugBank.d208.s0.e6" id="DDI-DrugBank.d208.s0.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e4" e2="DDI-DrugBank.d208.s0.e7" id="DDI-DrugBank.d208.s0.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e4" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e5" e2="DDI-DrugBank.d208.s0.e6" id="DDI-DrugBank.d208.s0.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e5" e2="DDI-DrugBank.d208.s0.e7" id="DDI-DrugBank.d208.s0.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e5" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e6" e2="DDI-DrugBank.d208.s0.e7" id="DDI-DrugBank.d208.s0.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e6" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d208.s0.e7" e2="DDI-DrugBank.d208.s0.e8" id="DDI-DrugBank.d208.s0.p35"/>
+    </sentence>
+</document>

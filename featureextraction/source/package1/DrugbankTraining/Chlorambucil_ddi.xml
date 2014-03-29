@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d255">
+    <sentence id="DDI-DrugBank.d255.s0" text="There are no known drug/drug interactions with chlorambucil.">
+        <entity charOffset="47-58" id="DDI-DrugBank.d255.s0.e0" text="chlorambucil" type="drug"/>
+    <negationtags>There are &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; known drug/drug interactions with chlorambucil. &lt;/scope&gt;</negationtags></sentence>
+</document>

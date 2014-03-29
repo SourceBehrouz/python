@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d89">
+    <sentence id="DDI-DrugBank.d89.s0" text="Cytochrome P450 1A2 (CYP1A2) is known to be the major enzyme involved in the metabolism of caffeine.">
+        <entity charOffset="91-98" id="DDI-DrugBank.d89.s0.e0" text="caffeine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d89.s1" text="Therefore, caffeine has the potential to interact with drugs that are substrates for CYP1A2, inhibit CYP1A2, or induce CYP1A2.">
+        <entity charOffset="11-18" id="DDI-DrugBank.d89.s1.e0" text="caffeine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d89.s2" text="Few data exist on drug interactions with caffeine in preterm neonates.">
+        <entity charOffset="41-48" id="DDI-DrugBank.d89.s2.e0" text="caffeine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d89.s3" text="Based on adult data, lower doses of caffeine may be needed following coadministration of drugs which are reported to decrease caffeine elimination (e.g., cimetidine and ketoconazole) and higher caffeine doses may be needed following coadministration of drugs that increase caffeine elimination (e.g., phenobarbital and phenytoin).">
+        <entity charOffset="36-43" id="DDI-DrugBank.d89.s3.e0" text="caffeine" type="drug"/>
+        <entity charOffset="126-133" id="DDI-DrugBank.d89.s3.e1" text="caffeine" type="drug"/>
+        <entity charOffset="154-163" id="DDI-DrugBank.d89.s3.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="169-180" id="DDI-DrugBank.d89.s3.e3" text="ketoconazole" type="drug"/>
+        <entity charOffset="194-201" id="DDI-DrugBank.d89.s3.e4" text="caffeine" type="drug"/>
+        <entity charOffset="273-280" id="DDI-DrugBank.d89.s3.e5" text="caffeine" type="drug"/>
+        <entity charOffset="301-313" id="DDI-DrugBank.d89.s3.e6" text="phenobarbital" type="drug"/>
+        <entity charOffset="319-327" id="DDI-DrugBank.d89.s3.e7" text="phenytoin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e0" e2="DDI-DrugBank.d89.s3.e1" id="DDI-DrugBank.d89.s3.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d89.s3.e0" e2="DDI-DrugBank.d89.s3.e2" id="DDI-DrugBank.d89.s3.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d89.s3.e0" e2="DDI-DrugBank.d89.s3.e3" id="DDI-DrugBank.d89.s3.p2" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e0" e2="DDI-DrugBank.d89.s3.e4" id="DDI-DrugBank.d89.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e0" e2="DDI-DrugBank.d89.s3.e5" id="DDI-DrugBank.d89.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e0" e2="DDI-DrugBank.d89.s3.e6" id="DDI-DrugBank.d89.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e0" e2="DDI-DrugBank.d89.s3.e7" id="DDI-DrugBank.d89.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e1" e2="DDI-DrugBank.d89.s3.e2" id="DDI-DrugBank.d89.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e1" e2="DDI-DrugBank.d89.s3.e3" id="DDI-DrugBank.d89.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e1" e2="DDI-DrugBank.d89.s3.e4" id="DDI-DrugBank.d89.s3.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e1" e2="DDI-DrugBank.d89.s3.e5" id="DDI-DrugBank.d89.s3.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e1" e2="DDI-DrugBank.d89.s3.e6" id="DDI-DrugBank.d89.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e1" e2="DDI-DrugBank.d89.s3.e7" id="DDI-DrugBank.d89.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e2" e2="DDI-DrugBank.d89.s3.e3" id="DDI-DrugBank.d89.s3.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e2" e2="DDI-DrugBank.d89.s3.e4" id="DDI-DrugBank.d89.s3.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e2" e2="DDI-DrugBank.d89.s3.e5" id="DDI-DrugBank.d89.s3.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e2" e2="DDI-DrugBank.d89.s3.e6" id="DDI-DrugBank.d89.s3.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e2" e2="DDI-DrugBank.d89.s3.e7" id="DDI-DrugBank.d89.s3.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e3" e2="DDI-DrugBank.d89.s3.e4" id="DDI-DrugBank.d89.s3.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e3" e2="DDI-DrugBank.d89.s3.e5" id="DDI-DrugBank.d89.s3.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e3" e2="DDI-DrugBank.d89.s3.e6" id="DDI-DrugBank.d89.s3.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e3" e2="DDI-DrugBank.d89.s3.e7" id="DDI-DrugBank.d89.s3.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e4" e2="DDI-DrugBank.d89.s3.e5" id="DDI-DrugBank.d89.s3.p22"/>
+        <pair ddi="true" e1="DDI-DrugBank.d89.s3.e4" e2="DDI-DrugBank.d89.s3.e6" id="DDI-DrugBank.d89.s3.p23" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d89.s3.e4" e2="DDI-DrugBank.d89.s3.e7" id="DDI-DrugBank.d89.s3.p24" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e5" e2="DDI-DrugBank.d89.s3.e6" id="DDI-DrugBank.d89.s3.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e5" e2="DDI-DrugBank.d89.s3.e7" id="DDI-DrugBank.d89.s3.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s3.e6" e2="DDI-DrugBank.d89.s3.e7" id="DDI-DrugBank.d89.s3.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d89.s4" text="Caffeine administered concurrently with ketoprofen reduced the urine volume in 4 healthy volunteers.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d89.s4.e0" text="Caffeine" type="drug"/>
+        <entity charOffset="40-49" id="DDI-DrugBank.d89.s4.e1" text="ketoprofen" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d89.s4.e0" e2="DDI-DrugBank.d89.s4.e1" id="DDI-DrugBank.d89.s4.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d89.s5" text="The clinical significance of this interaction in preterm neonates is not known."><negationtags>The clinical significance of this interaction in preterm neonates is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d89.s6" text="Interconversion between caffeine and theophylline has been reported in preterm neonates.">
+        <entity charOffset="24-31" id="DDI-DrugBank.d89.s6.e0" text="caffeine" type="drug"/>
+        <entity charOffset="37-48" id="DDI-DrugBank.d89.s6.e1" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d89.s6.e0" e2="DDI-DrugBank.d89.s6.e1" id="DDI-DrugBank.d89.s6.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d89.s7" text="The concurrent use of these drugs is not recommended."><negationtags>The concurrent use of these drugs is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+</document>

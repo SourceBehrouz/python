@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d60">
+    <sentence id="DDI-DrugBank.d60.s0" text="Administration of 0.1-mg/kg (2 x ED95) NIMBEX at 10% or 95% recovery following an intubating dose of succinylcholine (1 mg/kg) produced  95% neuromuscular block.">
+        <entity charOffset="39-44" id="DDI-DrugBank.d60.s0.e0" text="NIMBEX" type="brand"/>
+        <entity charOffset="101-115" id="DDI-DrugBank.d60.s0.e1" text="succinylcholine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s0.e0" e2="DDI-DrugBank.d60.s0.e1" id="DDI-DrugBank.d60.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s1" text="The time to onset of maximum block following NIMBEX is approximately 2 minutes faster with prior administration of succinylcholine.">
+        <entity charOffset="45-50" id="DDI-DrugBank.d60.s1.e0" text="NIMBEX" type="brand"/>
+        <entity charOffset="115-129" id="DDI-DrugBank.d60.s1.e1" text="succinylcholine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s1.e0" e2="DDI-DrugBank.d60.s1.e1" id="DDI-DrugBank.d60.s1.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s2" text="Prior administration of succinylcholine had no effect on the duration of neuromuscular block following initial or maintenance bolus doses of NIMBEX.">
+        <entity charOffset="24-38" id="DDI-DrugBank.d60.s2.e0" text="succinylcholine" type="drug"/>
+        <entity charOffset="141-146" id="DDI-DrugBank.d60.s2.e1" text="NIMBEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s2.e0" e2="DDI-DrugBank.d60.s2.e1" id="DDI-DrugBank.d60.s2.p0"/>
+    <negationtags>Prior administration of succinylcholine had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the duration of neuromuscular block following initial or maintenance bolus doses of NIMBEX. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d60.s3" text="Infusion requirements of NIMBEX in patients administered succinylcholine prior to infusions of NIMBEX were comparable to or slightly greater than when succinylcholine was not administered.">
+        <entity charOffset="25-30" id="DDI-DrugBank.d60.s3.e0" text="NIMBEX" type="brand"/>
+        <entity charOffset="57-71" id="DDI-DrugBank.d60.s3.e1" text="succinylcholine" type="drug"/>
+        <entity charOffset="95-100" id="DDI-DrugBank.d60.s3.e2" text="NIMBEX" type="brand"/>
+        <entity charOffset="151-165" id="DDI-DrugBank.d60.s3.e3" text="succinylcholine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s3.e0" e2="DDI-DrugBank.d60.s3.e1" id="DDI-DrugBank.d60.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s3.e0" e2="DDI-DrugBank.d60.s3.e2" id="DDI-DrugBank.d60.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s3.e0" e2="DDI-DrugBank.d60.s3.e3" id="DDI-DrugBank.d60.s3.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s3.e1" e2="DDI-DrugBank.d60.s3.e2" id="DDI-DrugBank.d60.s3.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s3.e1" e2="DDI-DrugBank.d60.s3.e3" id="DDI-DrugBank.d60.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s3.e2" e2="DDI-DrugBank.d60.s3.e3" id="DDI-DrugBank.d60.s3.p5"/>
+    <negationtags>Infusion requirements of NIMBEX in patients administered succinylcholine prior to infusions of NIMBEX were comparable to or slightly greater than when succinylcholine was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; administered. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d60.s4" text="The use of NIMBEX before succinylcholine to attenuate some of the side effects of succinylcholine has not been studied.">
+        <entity charOffset="11-16" id="DDI-DrugBank.d60.s4.e0" text="NIMBEX" type="brand"/>
+        <entity charOffset="25-39" id="DDI-DrugBank.d60.s4.e1" text="succinylcholine" type="drug"/>
+        <entity charOffset="82-96" id="DDI-DrugBank.d60.s4.e2" text="succinylcholine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s4.e0" e2="DDI-DrugBank.d60.s4.e1" id="DDI-DrugBank.d60.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s4.e0" e2="DDI-DrugBank.d60.s4.e2" id="DDI-DrugBank.d60.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s4.e1" e2="DDI-DrugBank.d60.s4.e2" id="DDI-DrugBank.d60.s4.p2"/>
+    <negationtags>The use of NIMBEX before succinylcholine to attenuate some of the side effects of succinylcholine has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d60.s5" text="Although not studied systematically in clinical trials, no drug interactions were observed when vecuronium, pancuronium, or atracurium were administered following varying degrees of recovery from single doses or infusions of NIMBEX.">
+        <entity charOffset="96-105" id="DDI-DrugBank.d60.s5.e0" text="vecuronium" type="drug"/>
+        <entity charOffset="108-118" id="DDI-DrugBank.d60.s5.e1" text="pancuronium" type="drug"/>
+        <entity charOffset="124-133" id="DDI-DrugBank.d60.s5.e2" text="atracurium" type="drug"/>
+        <entity charOffset="225-230" id="DDI-DrugBank.d60.s5.e3" text="NIMBEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s5.e0" e2="DDI-DrugBank.d60.s5.e1" id="DDI-DrugBank.d60.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s5.e0" e2="DDI-DrugBank.d60.s5.e2" id="DDI-DrugBank.d60.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s5.e0" e2="DDI-DrugBank.d60.s5.e3" id="DDI-DrugBank.d60.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s5.e1" e2="DDI-DrugBank.d60.s5.e2" id="DDI-DrugBank.d60.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s5.e1" e2="DDI-DrugBank.d60.s5.e3" id="DDI-DrugBank.d60.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s5.e2" e2="DDI-DrugBank.d60.s5.e3" id="DDI-DrugBank.d60.s5.p5"/>
+    <negationtags>Although &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; studied systematically in clinical trials, no drug interactions were observed when vecuronium, pancuronium, or atracurium were administered following varying degrees of recovery from single doses or infusions of NIMBEX. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d60.s6" text="Isoflurane or enflurane administered with nitrous oxide/oxygen to achieve 1.25 MAC [Minimum Alveolar Concentration] may prolong the clinically effective duration of action of initial and maintenance doses of NIMBEX and decrease the required infusion rate of NIMBEX.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d60.s6.e0" text="Isoflurane" type="drug"/>
+        <entity charOffset="14-22" id="DDI-DrugBank.d60.s6.e1" text="enflurane" type="drug"/>
+        <entity charOffset="42-54" id="DDI-DrugBank.d60.s6.e2" text="nitrous oxide" type="drug"/>
+        <entity charOffset="56-61" id="DDI-DrugBank.d60.s6.e3" text="oxygen" type="drug"/>
+        <entity charOffset="208-213" id="DDI-DrugBank.d60.s6.e4" text="NIMBEX" type="brand"/>
+        <entity charOffset="258-263" id="DDI-DrugBank.d60.s6.e5" text="NIMBEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e0" e2="DDI-DrugBank.d60.s6.e1" id="DDI-DrugBank.d60.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e0" e2="DDI-DrugBank.d60.s6.e2" id="DDI-DrugBank.d60.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e0" e2="DDI-DrugBank.d60.s6.e3" id="DDI-DrugBank.d60.s6.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s6.e0" e2="DDI-DrugBank.d60.s6.e4" id="DDI-DrugBank.d60.s6.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s6.e0" e2="DDI-DrugBank.d60.s6.e5" id="DDI-DrugBank.d60.s6.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e1" e2="DDI-DrugBank.d60.s6.e2" id="DDI-DrugBank.d60.s6.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e1" e2="DDI-DrugBank.d60.s6.e3" id="DDI-DrugBank.d60.s6.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s6.e1" e2="DDI-DrugBank.d60.s6.e4" id="DDI-DrugBank.d60.s6.p7" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s6.e1" e2="DDI-DrugBank.d60.s6.e5" id="DDI-DrugBank.d60.s6.p8" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e2" e2="DDI-DrugBank.d60.s6.e3" id="DDI-DrugBank.d60.s6.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s6.e2" e2="DDI-DrugBank.d60.s6.e4" id="DDI-DrugBank.d60.s6.p10" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s6.e2" e2="DDI-DrugBank.d60.s6.e5" id="DDI-DrugBank.d60.s6.p11" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e3" e2="DDI-DrugBank.d60.s6.e4" id="DDI-DrugBank.d60.s6.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e3" e2="DDI-DrugBank.d60.s6.e5" id="DDI-DrugBank.d60.s6.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s6.e4" e2="DDI-DrugBank.d60.s6.e5" id="DDI-DrugBank.d60.s6.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s7" text="The magnitude of these effects may depend on the duration of administration of the volatile agents."/>
+    <sentence id="DDI-DrugBank.d60.s8" text="Fifteen to 30 minutes of exposure to 1.25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of NIMBEX and therefore, no adjustment to the initial dose should be necessary when NIMBEX is administered shortly after initiation of volatile agents.">
+        <entity charOffset="46-55" id="DDI-DrugBank.d60.s8.e0" text="isoflurane" type="drug"/>
+        <entity charOffset="60-68" id="DDI-DrugBank.d60.s8.e1" text="enflurane" type="drug"/>
+        <entity charOffset="136-141" id="DDI-DrugBank.d60.s8.e2" text="NIMBEX" type="brand"/>
+        <entity charOffset="217-222" id="DDI-DrugBank.d60.s8.e3" text="NIMBEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s8.e0" e2="DDI-DrugBank.d60.s8.e1" id="DDI-DrugBank.d60.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s8.e0" e2="DDI-DrugBank.d60.s8.e2" id="DDI-DrugBank.d60.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s8.e0" e2="DDI-DrugBank.d60.s8.e3" id="DDI-DrugBank.d60.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s8.e1" e2="DDI-DrugBank.d60.s8.e2" id="DDI-DrugBank.d60.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s8.e1" e2="DDI-DrugBank.d60.s8.e3" id="DDI-DrugBank.d60.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s8.e2" e2="DDI-DrugBank.d60.s8.e3" id="DDI-DrugBank.d60.s8.p5"/>
+    <negationtags>Fifteen to 30 minutes of exposure to 1.25 MAC isoflurane or enflurane had minimal effects on the duration of action of initial doses of NIMBEX and therefore, &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; adjustment to the initial dose should be necessary when NIMBEX is administered shortly after initiation of volatile agents. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d60.s9" text="In long surgical procedures during enflurane or isoflurane anesthesia, less frequent maintenance dosing, lower maintenance doses, or reduced infusion rates of NIMBEX may be necessary.">
+        <entity charOffset="35-43" id="DDI-DrugBank.d60.s9.e0" text="enflurane" type="drug"/>
+        <entity charOffset="48-57" id="DDI-DrugBank.d60.s9.e1" text="isoflurane" type="drug"/>
+        <entity charOffset="159-164" id="DDI-DrugBank.d60.s9.e2" text="NIMBEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s9.e0" e2="DDI-DrugBank.d60.s9.e1" id="DDI-DrugBank.d60.s9.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s9.e0" e2="DDI-DrugBank.d60.s9.e2" id="DDI-DrugBank.d60.s9.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s9.e1" e2="DDI-DrugBank.d60.s9.e2" id="DDI-DrugBank.d60.s9.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s10" text="The average infusion rate requirement may be decreased by as much as 30% to 40%."/>
+    <sentence id="DDI-DrugBank.d60.s11" text="In clinical studies propofol had no effect on the duration of action or dosing requirements for NIMBEX.">
+        <entity charOffset="20-27" id="DDI-DrugBank.d60.s11.e0" text="propofol" type="drug"/>
+        <entity charOffset="96-101" id="DDI-DrugBank.d60.s11.e1" text="NIMBEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s11.e0" e2="DDI-DrugBank.d60.s11.e1" id="DDI-DrugBank.d60.s11.p0"/>
+    <negationtags>In clinical studies propofol had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the duration of action or dosing requirements for NIMBEX. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d60.s12" text="Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as NIMBEX include certain antibiotics (e. g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistemethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.">
+        <entity charOffset="67-88" id="DDI-DrugBank.d60.s12.e0" text="nondepolarizing agents" type="group"/>
+        <entity charOffset="98-103" id="DDI-DrugBank.d60.s12.e1" text="NIMBEX" type="brand"/>
+        <entity charOffset="121-131" id="DDI-DrugBank.d60.s12.e2" text="antibiotics" type="group"/>
+        <entity charOffset="141-155" id="DDI-DrugBank.d60.s12.e3" text="aminoglycosides" type="group"/>
+        <entity charOffset="158-170" id="DDI-DrugBank.d60.s12.e4" text="tetracyclines" type="group"/>
+        <entity charOffset="173-182" id="DDI-DrugBank.d60.s12.e5" text="bacitracin" type="drug"/>
+        <entity charOffset="185-194" id="DDI-DrugBank.d60.s12.e6" text="polymyxins" type="group"/>
+        <entity charOffset="197-206" id="DDI-DrugBank.d60.s12.e7" text="lincomycin" type="drug"/>
+        <entity charOffset="209-219" id="DDI-DrugBank.d60.s12.e8" text="clindamycin" type="drug"/>
+        <entity charOffset="222-229" id="DDI-DrugBank.d60.s12.e9" text="colistin" type="drug"/>
+        <entity charOffset="236-256" id="DDI-DrugBank.d60.s12.e10" text="sodium colistemethate" type="drug"/>
+        <entity charOffset="260-268" id="DDI-DrugBank.d60.s12.e11" text="magnesium" type="group"/>
+        <entity charOffset="277-283" id="DDI-DrugBank.d60.s12.e12" text="lithium" type="drug"/>
+        <entity charOffset="292-302" id="DDI-DrugBank.d60.s12.e13" text="anesthetics" type="group"/>
+        <entity charOffset="305-316" id="DDI-DrugBank.d60.s12.e14" text="procainamide" type="drug"/>
+        <entity charOffset="323-331" id="DDI-DrugBank.d60.s12.e15" text="quinidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e1" id="DDI-DrugBank.d60.s12.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e2" id="DDI-DrugBank.d60.s12.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e3" id="DDI-DrugBank.d60.s12.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e4" id="DDI-DrugBank.d60.s12.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e5" id="DDI-DrugBank.d60.s12.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e6" id="DDI-DrugBank.d60.s12.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e7" id="DDI-DrugBank.d60.s12.p6" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p7" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p8" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p9" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p10" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p11" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p12" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p13" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e0" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p14" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e2" id="DDI-DrugBank.d60.s12.p15" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e3" id="DDI-DrugBank.d60.s12.p16" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e4" id="DDI-DrugBank.d60.s12.p17" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e5" id="DDI-DrugBank.d60.s12.p18" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e6" id="DDI-DrugBank.d60.s12.p19" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e7" id="DDI-DrugBank.d60.s12.p20" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p21" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p22" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p23" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p24" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p25" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p26" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p27" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s12.e1" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p28" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e3" id="DDI-DrugBank.d60.s12.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e4" id="DDI-DrugBank.d60.s12.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e5" id="DDI-DrugBank.d60.s12.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e6" id="DDI-DrugBank.d60.s12.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e7" id="DDI-DrugBank.d60.s12.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e2" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e4" id="DDI-DrugBank.d60.s12.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e5" id="DDI-DrugBank.d60.s12.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e6" id="DDI-DrugBank.d60.s12.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e7" id="DDI-DrugBank.d60.s12.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e3" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e5" id="DDI-DrugBank.d60.s12.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e6" id="DDI-DrugBank.d60.s12.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e7" id="DDI-DrugBank.d60.s12.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e4" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e6" id="DDI-DrugBank.d60.s12.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e7" id="DDI-DrugBank.d60.s12.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p68"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p69"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e5" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p74"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e7" id="DDI-DrugBank.d60.s12.p75"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p77"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p78"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p79"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p80"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p81"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p82"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e6" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p83"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e8" id="DDI-DrugBank.d60.s12.p84"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p85"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p86"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p87"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p88"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p89"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p90"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e7" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p91"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e8" e2="DDI-DrugBank.d60.s12.e9" id="DDI-DrugBank.d60.s12.p92"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e8" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p93"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e8" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p94"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e8" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p95"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e8" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p96"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e8" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p97"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e8" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p98"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e9" e2="DDI-DrugBank.d60.s12.e10" id="DDI-DrugBank.d60.s12.p99"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e9" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p100"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e9" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p101"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e9" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p102"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e9" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p103"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e9" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p104"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e10" e2="DDI-DrugBank.d60.s12.e11" id="DDI-DrugBank.d60.s12.p105"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e10" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p106"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e10" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p107"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e10" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p108"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e10" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p109"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e11" e2="DDI-DrugBank.d60.s12.e12" id="DDI-DrugBank.d60.s12.p110"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e11" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p111"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e11" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p112"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e11" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p113"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e12" e2="DDI-DrugBank.d60.s12.e13" id="DDI-DrugBank.d60.s12.p114"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e12" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p115"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e12" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p116"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e13" e2="DDI-DrugBank.d60.s12.e14" id="DDI-DrugBank.d60.s12.p117"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e13" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p118"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s12.e14" e2="DDI-DrugBank.d60.s12.e15" id="DDI-DrugBank.d60.s12.p119"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s13" text="Resistance to the neuromuscular blocking action of nondepolarizing neuromuscular blocking agents has been demonstrated in patients chronically administered phenytoin or carbamazepine.">
+        <entity charOffset="51-95" id="DDI-DrugBank.d60.s13.e0" text="nondepolarizing neuromuscular blocking agents" type="group"/>
+        <entity charOffset="156-164" id="DDI-DrugBank.d60.s13.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="169-181" id="DDI-DrugBank.d60.s13.e2" text="carbamazepine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s13.e0" e2="DDI-DrugBank.d60.s13.e1" id="DDI-DrugBank.d60.s13.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s13.e0" e2="DDI-DrugBank.d60.s13.e2" id="DDI-DrugBank.d60.s13.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s13.e1" e2="DDI-DrugBank.d60.s13.e2" id="DDI-DrugBank.d60.s13.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s14" text="While the effects of chronic phenytoin or carbamazepine therapy on the action of NIMBEX are unknown, slightly shorter durations of neuromuscular block may be anticipated and infusion rate requirements may be higher.">
+        <entity charOffset="29-37" id="DDI-DrugBank.d60.s14.e0" text="phenytoin" type="drug"/>
+        <entity charOffset="42-54" id="DDI-DrugBank.d60.s14.e1" text="carbamazepine" type="drug"/>
+        <entity charOffset="81-86" id="DDI-DrugBank.d60.s14.e2" text="NIMBEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d60.s14.e0" e2="DDI-DrugBank.d60.s14.e1" id="DDI-DrugBank.d60.s14.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s14.e0" e2="DDI-DrugBank.d60.s14.e2" id="DDI-DrugBank.d60.s14.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d60.s14.e1" e2="DDI-DrugBank.d60.s14.e2" id="DDI-DrugBank.d60.s14.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d60.s15" text="Drug/Laboratory Test Interactions None known."/>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d504">
+    <sentence id="DDI-DrugBank.d504.s0" text="There have been rare reports of significant respiratory depression, stupor and/or hypotension with the concomitant use of loxapine and lorazepam.">
+        <entity charOffset="122-129" id="DDI-DrugBank.d504.s0.e0" text="loxapine" type="drug"/>
+        <entity charOffset="135-143" id="DDI-DrugBank.d504.s0.e1" text="lorazepam" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d504.s0.e0" e2="DDI-DrugBank.d504.s0.e1" id="DDI-DrugBank.d504.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d504.s1" text="The risk of using loxapine in combination with CNS-active drugs has not been systematically evaluated.">
+        <entity charOffset="18-25" id="DDI-DrugBank.d504.s1.e0" text="loxapine" type="drug"/>
+    <negationtags>The risk of using loxapine in combination with CNS-active drugs has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been systematically evaluated. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d504.s2" text="Therefore, caution is advised if the concomitant administration of loxapine and CNS-active drugs is required.">
+        <entity charOffset="67-74" id="DDI-DrugBank.d504.s2.e0" text="loxapine" type="drug"/>
+    </sentence>
+</document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d493">
+    <sentence id="DDI-DrugBank.d493.s0" text="Methotrexate: HUMIRA has been studied in rheumatoid arthritis patients taking concomitant MTX.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d493.s0.e0" text="Methotrexate" type="drug"/>
+        <entity charOffset="14-19" id="DDI-DrugBank.d493.s0.e1" text="HUMIRA" type="brand"/>
+        <entity charOffset="90-92" id="DDI-DrugBank.d493.s0.e2" text="MTX" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s0.e0" e2="DDI-DrugBank.d493.s0.e1" id="DDI-DrugBank.d493.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s0.e0" e2="DDI-DrugBank.d493.s0.e2" id="DDI-DrugBank.d493.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s0.e1" e2="DDI-DrugBank.d493.s0.e2" id="DDI-DrugBank.d493.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d493.s1" text="The data do not suggest the need for dose adjustment of either HUMIRA or MTX.">
+        <entity charOffset="63-68" id="DDI-DrugBank.d493.s1.e0" text="HUMIRA" type="brand"/>
+        <entity charOffset="73-75" id="DDI-DrugBank.d493.s1.e1" text="MTX" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s1.e0" e2="DDI-DrugBank.d493.s1.e1" id="DDI-DrugBank.d493.s1.p0"/>
+    <negationtags>The data do &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; suggest the need for dose adjustment of either HUMIRA or MTX. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d493.s2" text="Anakinra: Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF-blocking agent has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d493.s2.e0" text="Anakinra" type="drug"/>
+        <entity charOffset="39-46" id="DDI-DrugBank.d493.s2.e1" text="anakinra" type="drug"/>
+        <entity charOffset="52-75" id="DDI-DrugBank.d493.s2.e2" text="interleukin-1 antagonist" type="group"/>
+        <entity charOffset="90-107" id="DDI-DrugBank.d493.s2.e3" text="TNF-blocking agent" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s2.e0" e2="DDI-DrugBank.d493.s2.e1" id="DDI-DrugBank.d493.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s2.e0" e2="DDI-DrugBank.d493.s2.e2" id="DDI-DrugBank.d493.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s2.e0" e2="DDI-DrugBank.d493.s2.e3" id="DDI-DrugBank.d493.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s2.e1" e2="DDI-DrugBank.d493.s2.e2" id="DDI-DrugBank.d493.s2.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d493.s2.e1" e2="DDI-DrugBank.d493.s2.e3" id="DDI-DrugBank.d493.s2.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d493.s2.e2" e2="DDI-DrugBank.d493.s2.e3" id="DDI-DrugBank.d493.s2.p5" type="effect"/>
+    <negationtags>Anakinra: Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF-blocking agent has been associated with an increased risk of serious infections, an increased risk of neutropenia and &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; additional benefit compared to these medicinal products alone. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d493.s3" text="The safety and efficacy of anakinra used in combination with HUMIRA has not been studied.">
+        <entity charOffset="27-34" id="DDI-DrugBank.d493.s3.e0" text="anakinra" type="drug"/>
+        <entity charOffset="61-66" id="DDI-DrugBank.d493.s3.e1" text="HUMIRA" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s3.e0" e2="DDI-DrugBank.d493.s3.e1" id="DDI-DrugBank.d493.s3.p0"/>
+    <negationtags>The safety and efficacy of anakinra used in combination with HUMIRA has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d493.s4" text="Therefore the, combination of anakinra with other TNF-blocking agents, including HUMIRA, may also result i n similar toxicities.">
+        <entity charOffset="30-37" id="DDI-DrugBank.d493.s4.e0" text="anakinra" type="drug"/>
+        <entity charOffset="50-68" id="DDI-DrugBank.d493.s4.e1" text="TNF-blocking agents" type="group"/>
+        <entity charOffset="81-86" id="DDI-DrugBank.d493.s4.e2" text="HUMIRA" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d493.s4.e0" e2="DDI-DrugBank.d493.s4.e1" id="DDI-DrugBank.d493.s4.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d493.s4.e0" e2="DDI-DrugBank.d493.s4.e2" id="DDI-DrugBank.d493.s4.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d493.s4.e1" e2="DDI-DrugBank.d493.s4.e2" id="DDI-DrugBank.d493.s4.p2"/>
+    </sentence>
+</document>

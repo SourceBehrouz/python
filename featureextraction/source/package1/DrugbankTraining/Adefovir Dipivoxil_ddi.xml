@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d244">
+    <sentence id="DDI-DrugBank.d244.s0" text="Before using this medication, tell your doctor or pharmacist of all prescription and nonprescription products you may use, especially of: aminoglycosides (e.g., gentamicin, amikacin), amphotericin B, cyclosporine, non-steroidal anti-inflammatory drugs (e.g., ibuprofen), tacrolimus, vancomycin.">
+        <entity charOffset="138-152" id="DDI-DrugBank.d244.s0.e0" text="aminoglycosides" type="group"/>
+        <entity charOffset="161-170" id="DDI-DrugBank.d244.s0.e1" text="gentamicin" type="drug"/>
+        <entity charOffset="173-180" id="DDI-DrugBank.d244.s0.e2" text="amikacin" type="drug"/>
+        <entity charOffset="184-197" id="DDI-DrugBank.d244.s0.e3" text="amphotericin B" type="drug"/>
+        <entity charOffset="200-211" id="DDI-DrugBank.d244.s0.e4" text="cyclosporine" type="drug"/>
+        <entity charOffset="214-244" id="DDI-DrugBank.d244.s0.e5" text="non-steroidal anti-inflammatory" type="group"/>
+        <entity charOffset="259-267" id="DDI-DrugBank.d244.s0.e6" text="ibuprofen" type="drug"/>
+        <entity charOffset="271-280" id="DDI-DrugBank.d244.s0.e7" text="tacrolimus" type="drug"/>
+        <entity charOffset="283-292" id="DDI-DrugBank.d244.s0.e8" text="vancomycin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e1" id="DDI-DrugBank.d244.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e2" id="DDI-DrugBank.d244.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e3" id="DDI-DrugBank.d244.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e4" id="DDI-DrugBank.d244.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e5" id="DDI-DrugBank.d244.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e6" id="DDI-DrugBank.d244.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e7" id="DDI-DrugBank.d244.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e0" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e1" e2="DDI-DrugBank.d244.s0.e2" id="DDI-DrugBank.d244.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e1" e2="DDI-DrugBank.d244.s0.e3" id="DDI-DrugBank.d244.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e1" e2="DDI-DrugBank.d244.s0.e4" id="DDI-DrugBank.d244.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e1" e2="DDI-DrugBank.d244.s0.e5" id="DDI-DrugBank.d244.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e1" e2="DDI-DrugBank.d244.s0.e6" id="DDI-DrugBank.d244.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e1" e2="DDI-DrugBank.d244.s0.e7" id="DDI-DrugBank.d244.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e1" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e2" e2="DDI-DrugBank.d244.s0.e3" id="DDI-DrugBank.d244.s0.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e2" e2="DDI-DrugBank.d244.s0.e4" id="DDI-DrugBank.d244.s0.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e2" e2="DDI-DrugBank.d244.s0.e5" id="DDI-DrugBank.d244.s0.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e2" e2="DDI-DrugBank.d244.s0.e6" id="DDI-DrugBank.d244.s0.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e2" e2="DDI-DrugBank.d244.s0.e7" id="DDI-DrugBank.d244.s0.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e2" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e3" e2="DDI-DrugBank.d244.s0.e4" id="DDI-DrugBank.d244.s0.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e3" e2="DDI-DrugBank.d244.s0.e5" id="DDI-DrugBank.d244.s0.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e3" e2="DDI-DrugBank.d244.s0.e6" id="DDI-DrugBank.d244.s0.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e3" e2="DDI-DrugBank.d244.s0.e7" id="DDI-DrugBank.d244.s0.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e3" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e4" e2="DDI-DrugBank.d244.s0.e5" id="DDI-DrugBank.d244.s0.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e4" e2="DDI-DrugBank.d244.s0.e6" id="DDI-DrugBank.d244.s0.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e4" e2="DDI-DrugBank.d244.s0.e7" id="DDI-DrugBank.d244.s0.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e4" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e5" e2="DDI-DrugBank.d244.s0.e6" id="DDI-DrugBank.d244.s0.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e5" e2="DDI-DrugBank.d244.s0.e7" id="DDI-DrugBank.d244.s0.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e5" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e6" e2="DDI-DrugBank.d244.s0.e7" id="DDI-DrugBank.d244.s0.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e6" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d244.s0.e7" e2="DDI-DrugBank.d244.s0.e8" id="DDI-DrugBank.d244.s0.p35"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d244.s1" text="Do not start or stop any medicine without doctor or pharmacist approval."><negationtags>Do &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; start or stop any medicine without doctor or pharmacist approval. &lt;/scope&gt;</negationtags></sentence>
+</document>

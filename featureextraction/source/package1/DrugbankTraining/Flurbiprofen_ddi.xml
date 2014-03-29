@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d529">
+    <sentence id="DDI-DrugBank.d529.s0" text="Antacids: Administration of flurbiprofen to volunteers under fasting conditions, or with antacid suspension yielded similar serum flurbiprofen time profiles in young subjects (n=12).">
+        <entity charOffset="0-7" id="DDI-DrugBank.d529.s0.e0" text="Antacids" type="group"/>
+        <entity charOffset="28-39" id="DDI-DrugBank.d529.s0.e1" text="flurbiprofen" type="drug"/>
+        <entity charOffset="89-95" id="DDI-DrugBank.d529.s0.e2" text="antacid" type="group"/>
+        <entity charOffset="130-141" id="DDI-DrugBank.d529.s0.e3" text="flurbiprofen" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s0.e0" e2="DDI-DrugBank.d529.s0.e1" id="DDI-DrugBank.d529.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s0.e0" e2="DDI-DrugBank.d529.s0.e2" id="DDI-DrugBank.d529.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s0.e0" e2="DDI-DrugBank.d529.s0.e3" id="DDI-DrugBank.d529.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s0.e1" e2="DDI-DrugBank.d529.s0.e2" id="DDI-DrugBank.d529.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s0.e1" e2="DDI-DrugBank.d529.s0.e3" id="DDI-DrugBank.d529.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s0.e2" e2="DDI-DrugBank.d529.s0.e3" id="DDI-DrugBank.d529.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s1" text="In geriatric subjects (n=7) there was a reduction in the rate but not the extent of flurbiprofen absorption.">
+        <entity charOffset="84-95" id="DDI-DrugBank.d529.s1.e0" text="flurbiprofen" type="drug"/>
+    <negationtags>In geriatric subjects (n=7) there was a reduction in the rate but &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; the extent of flurbiprofen absorption. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d529.s2" text="Anticoagulants: Flurbiprofen like other nonsteroidal anti-inflammatory drugs, has been shown to affect bleeding parameters in patients receiving anti-coagulants, and serious clinical bleeding has been reported.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d529.s2.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="16-27" id="DDI-DrugBank.d529.s2.e1" text="Flurbiprofen" type="drug"/>
+        <entity charOffset="40-75" id="DDI-DrugBank.d529.s2.e2" text="nonsteroidal anti-inflammatory drugs" type="group"/>
+        <entity charOffset="145-159" id="DDI-DrugBank.d529.s2.e3" text="anti-coagulants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s2.e0" e2="DDI-DrugBank.d529.s2.e1" id="DDI-DrugBank.d529.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s2.e0" e2="DDI-DrugBank.d529.s2.e2" id="DDI-DrugBank.d529.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s2.e0" e2="DDI-DrugBank.d529.s2.e3" id="DDI-DrugBank.d529.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s2.e1" e2="DDI-DrugBank.d529.s2.e2" id="DDI-DrugBank.d529.s2.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s2.e1" e2="DDI-DrugBank.d529.s2.e3" id="DDI-DrugBank.d529.s2.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s2.e2" e2="DDI-DrugBank.d529.s2.e3" id="DDI-DrugBank.d529.s2.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s3" text="The physician should be cautious when administering flurbiprofen to patients taking anticoagulants.">
+        <entity charOffset="52-63" id="DDI-DrugBank.d529.s3.e0" text="flurbiprofen" type="drug"/>
+        <entity charOffset="84-97" id="DDI-DrugBank.d529.s3.e1" text="anticoagulants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s3.e0" e2="DDI-DrugBank.d529.s3.e1" id="DDI-DrugBank.d529.s3.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s4" text="Aspirin: Concurrent administration of aspirin and flurbiprofen resulted in 50% lower serum flurbiprofen concentrations.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d529.s4.e0" text="Aspirin" type="brand"/>
+        <entity charOffset="38-44" id="DDI-DrugBank.d529.s4.e1" text="aspirin" type="brand"/>
+        <entity charOffset="50-61" id="DDI-DrugBank.d529.s4.e2" text="flurbiprofen" type="drug"/>
+        <entity charOffset="91-102" id="DDI-DrugBank.d529.s4.e3" text="flurbiprofen" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s4.e0" e2="DDI-DrugBank.d529.s4.e1" id="DDI-DrugBank.d529.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s4.e0" e2="DDI-DrugBank.d529.s4.e2" id="DDI-DrugBank.d529.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s4.e0" e2="DDI-DrugBank.d529.s4.e3" id="DDI-DrugBank.d529.s4.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s4.e1" e2="DDI-DrugBank.d529.s4.e2" id="DDI-DrugBank.d529.s4.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s4.e1" e2="DDI-DrugBank.d529.s4.e3" id="DDI-DrugBank.d529.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s4.e2" e2="DDI-DrugBank.d529.s4.e3" id="DDI-DrugBank.d529.s4.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s5" text="This effect of aspirin (which also lowers serum concentrations of other nonsteroidal anti-inflammatory drugs given with it) has been demonstrated in patients with rheumatoid arthritis (n= 15) as well as normal volunteers (n= 16).">
+        <entity charOffset="15-21" id="DDI-DrugBank.d529.s5.e0" text="aspirin" type="brand"/>
+        <entity charOffset="72-107" id="DDI-DrugBank.d529.s5.e1" text="nonsteroidal anti-inflammatory drugs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s5.e0" e2="DDI-DrugBank.d529.s5.e1" id="DDI-DrugBank.d529.s5.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s6" text="Concurrent use of flurbiprofen and aspirin is therefore not recommended.">
+        <entity charOffset="18-29" id="DDI-DrugBank.d529.s6.e0" text="flurbiprofen" type="drug"/>
+        <entity charOffset="35-41" id="DDI-DrugBank.d529.s6.e1" text="aspirin" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s6.e0" e2="DDI-DrugBank.d529.s6.e1" id="DDI-DrugBank.d529.s6.p0" type="advise"/>
+    <negationtags>Concurrent use of flurbiprofen and aspirin is therefore &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d529.s7" text="Beta-adrenergic Blocking Agents: The effect of flurbiprofen on blood pressure response to propranolol and atenolol was evaluated in men with mild uncomplicated hypertension (n = 10).">
+        <entity charOffset="0-30" id="DDI-DrugBank.d529.s7.e0" text="Beta-adrenergic Blocking Agents" type="group"/>
+        <entity charOffset="47-58" id="DDI-DrugBank.d529.s7.e1" text="flurbiprofen" type="drug"/>
+        <entity charOffset="90-100" id="DDI-DrugBank.d529.s7.e2" text="propranolol" type="drug"/>
+        <entity charOffset="106-113" id="DDI-DrugBank.d529.s7.e3" text="atenolol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s7.e0" e2="DDI-DrugBank.d529.s7.e1" id="DDI-DrugBank.d529.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s7.e0" e2="DDI-DrugBank.d529.s7.e2" id="DDI-DrugBank.d529.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s7.e0" e2="DDI-DrugBank.d529.s7.e3" id="DDI-DrugBank.d529.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s7.e1" e2="DDI-DrugBank.d529.s7.e2" id="DDI-DrugBank.d529.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s7.e1" e2="DDI-DrugBank.d529.s7.e3" id="DDI-DrugBank.d529.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s7.e2" e2="DDI-DrugBank.d529.s7.e3" id="DDI-DrugBank.d529.s7.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s8" text="Flurbiprofen pretreatment attenuated the hypotensive effect of a single dose of propranolol but not atenolol.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d529.s8.e0" text="Flurbiprofen" type="drug"/>
+        <entity charOffset="80-90" id="DDI-DrugBank.d529.s8.e1" text="propranolol" type="drug"/>
+        <entity charOffset="100-107" id="DDI-DrugBank.d529.s8.e2" text="atenolol" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s8.e0" e2="DDI-DrugBank.d529.s8.e1" id="DDI-DrugBank.d529.s8.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s8.e0" e2="DDI-DrugBank.d529.s8.e2" id="DDI-DrugBank.d529.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s8.e1" e2="DDI-DrugBank.d529.s8.e2" id="DDI-DrugBank.d529.s8.p2"/>
+    <negationtags>Flurbiprofen pretreatment attenuated the hypotensive effect of a single dose of propranolol but &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; atenolol. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d529.s9" text="Flurbiprofen did not appear to affect the beta-blocker-mediated reduction in heart rate.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d529.s9.e0" text="Flurbiprofen" type="drug"/>
+    <negationtags>Flurbiprofen did &lt;scope&gt; &lt;cue&gt; not appear &lt;/cue&gt; to affect the beta-blocker-mediated reduction in heart rate. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d529.s10" text="Flurbiprofen did not affect the pharmacokinetic profile of either drug, and the mechanism under lying the interference with propranolols hypotensive effect is unknown.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d529.s10.e0" text="Flurbiprofen" type="drug"/>
+        <entity charOffset="124-134" id="DDI-DrugBank.d529.s10.e1" text="propranolol" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s10.e0" e2="DDI-DrugBank.d529.s10.e1" id="DDI-DrugBank.d529.s10.p0" type="int"/>
+    <negationtags>Flurbiprofen did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the pharmacokinetic profile of either drug, and the mechanism under lying the interference with propranolols hypotensive effect is unknown. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d529.s11" text="Patients taking both flurbiprofen and a beta-blocker should be monitored to ensure that a satisfactory hypotensive effect is achieved.">
+        <entity charOffset="21-32" id="DDI-DrugBank.d529.s11.e0" text="flurbiprofen" type="drug"/>
+        <entity charOffset="40-51" id="DDI-DrugBank.d529.s11.e1" text="beta-blocker" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s11.e0" e2="DDI-DrugBank.d529.s11.e1" id="DDI-DrugBank.d529.s11.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s12" text="Cimetidine, Ranitidine: In normal volunteers (n=9), pretreatment with cimetidine or ranitidine did not affect flurbiprofen pharmacokinetics except that a small (13 %) but statistically significant increase in the area under the serum concentration curve of flurbiprofen resulted with cimetidine.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d529.s12.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="12-21" id="DDI-DrugBank.d529.s12.e1" text="Ranitidine" type="drug"/>
+        <entity charOffset="70-79" id="DDI-DrugBank.d529.s12.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="84-93" id="DDI-DrugBank.d529.s12.e3" text="ranitidine" type="drug"/>
+        <entity charOffset="110-121" id="DDI-DrugBank.d529.s12.e4" text="flurbiprofen" type="drug"/>
+        <entity charOffset="257-268" id="DDI-DrugBank.d529.s12.e5" text="flurbiprofen" type="drug"/>
+        <entity charOffset="284-293" id="DDI-DrugBank.d529.s12.e6" text="cimetidine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e0" e2="DDI-DrugBank.d529.s12.e1" id="DDI-DrugBank.d529.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e0" e2="DDI-DrugBank.d529.s12.e2" id="DDI-DrugBank.d529.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e0" e2="DDI-DrugBank.d529.s12.e3" id="DDI-DrugBank.d529.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e0" e2="DDI-DrugBank.d529.s12.e4" id="DDI-DrugBank.d529.s12.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e0" e2="DDI-DrugBank.d529.s12.e5" id="DDI-DrugBank.d529.s12.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e0" e2="DDI-DrugBank.d529.s12.e6" id="DDI-DrugBank.d529.s12.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e1" e2="DDI-DrugBank.d529.s12.e2" id="DDI-DrugBank.d529.s12.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e1" e2="DDI-DrugBank.d529.s12.e3" id="DDI-DrugBank.d529.s12.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e1" e2="DDI-DrugBank.d529.s12.e4" id="DDI-DrugBank.d529.s12.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e1" e2="DDI-DrugBank.d529.s12.e5" id="DDI-DrugBank.d529.s12.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e1" e2="DDI-DrugBank.d529.s12.e6" id="DDI-DrugBank.d529.s12.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e2" e2="DDI-DrugBank.d529.s12.e3" id="DDI-DrugBank.d529.s12.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e2" e2="DDI-DrugBank.d529.s12.e4" id="DDI-DrugBank.d529.s12.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e2" e2="DDI-DrugBank.d529.s12.e5" id="DDI-DrugBank.d529.s12.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e2" e2="DDI-DrugBank.d529.s12.e6" id="DDI-DrugBank.d529.s12.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e3" e2="DDI-DrugBank.d529.s12.e4" id="DDI-DrugBank.d529.s12.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e3" e2="DDI-DrugBank.d529.s12.e5" id="DDI-DrugBank.d529.s12.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e3" e2="DDI-DrugBank.d529.s12.e6" id="DDI-DrugBank.d529.s12.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e4" e2="DDI-DrugBank.d529.s12.e5" id="DDI-DrugBank.d529.s12.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s12.e4" e2="DDI-DrugBank.d529.s12.e6" id="DDI-DrugBank.d529.s12.p19"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s12.e5" e2="DDI-DrugBank.d529.s12.e6" id="DDI-DrugBank.d529.s12.p20" type="mechanism"/>
+    <negationtags>Cimetidine, Ranitidine: In normal volunteers (n=9), pretreatment with cimetidine or ranitidine did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect flurbiprofen pharmacokinetics &lt;/scope&gt; except that a small (13 %) but statistically significant increase in the area under the serum concentration curve of flurbiprofen resulted with cimetidine.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d529.s13" text="Digoxin: Studies of concomitant administration of flurbiprofen and digoxin to healthy men (n= 14) did not show a change in the steady state serum levels of either drug.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d529.s13.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="50-61" id="DDI-DrugBank.d529.s13.e1" text="flurbiprofen" type="drug"/>
+        <entity charOffset="67-73" id="DDI-DrugBank.d529.s13.e2" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s13.e0" e2="DDI-DrugBank.d529.s13.e1" id="DDI-DrugBank.d529.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s13.e0" e2="DDI-DrugBank.d529.s13.e2" id="DDI-DrugBank.d529.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s13.e1" e2="DDI-DrugBank.d529.s13.e2" id="DDI-DrugBank.d529.s13.p2"/>
+    <negationtags>Digoxin: Studies of concomitant administration of flurbiprofen and digoxin to healthy men (n= 14) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; show a change in the steady state serum levels of either drug. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d529.s14" text="Diuretics: Studies in normal volunteers have shown that flurbiprofen like other nonsteroidal anti-inflammatory drugs, can interfere with the effects of furosemide.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d529.s14.e0" text="Diuretics" type="group"/>
+        <entity charOffset="56-67" id="DDI-DrugBank.d529.s14.e1" text="flurbiprofen" type="drug"/>
+        <entity charOffset="80-115" id="DDI-DrugBank.d529.s14.e2" text="nonsteroidal anti-inflammatory drugs" type="group"/>
+        <entity charOffset="152-161" id="DDI-DrugBank.d529.s14.e3" text="furosemide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s14.e0" e2="DDI-DrugBank.d529.s14.e1" id="DDI-DrugBank.d529.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s14.e0" e2="DDI-DrugBank.d529.s14.e2" id="DDI-DrugBank.d529.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s14.e0" e2="DDI-DrugBank.d529.s14.e3" id="DDI-DrugBank.d529.s14.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s14.e1" e2="DDI-DrugBank.d529.s14.e2" id="DDI-DrugBank.d529.s14.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s14.e1" e2="DDI-DrugBank.d529.s14.e3" id="DDI-DrugBank.d529.s14.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s14.e2" e2="DDI-DrugBank.d529.s14.e3" id="DDI-DrugBank.d529.s14.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s15" text="Although results have varied from study to study, effects have been shown on furosemide-stimulated diuresis, natriuresis, and kaliuresis.">
+        <entity charOffset="77-86" id="DDI-DrugBank.d529.s15.e0" text="furosemide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s16" text="Other nonsteroidal anti-inflammatory drugs that inhibit prostaglandin synthesis have been shown to interfere with thiazide diuretics in some studies and with potassium-sparing diuretics.">
+        <entity charOffset="6-41" id="DDI-DrugBank.d529.s16.e0" text="nonsteroidal anti-inflammatory drugs" type="group"/>
+        <entity charOffset="114-131" id="DDI-DrugBank.d529.s16.e1" text="thiazide diuretics" type="group"/>
+        <entity charOffset="158-184" id="DDI-DrugBank.d529.s16.e2" text="potassium-sparing diuretics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s16.e0" e2="DDI-DrugBank.d529.s16.e1" id="DDI-DrugBank.d529.s16.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s16.e0" e2="DDI-DrugBank.d529.s16.e2" id="DDI-DrugBank.d529.s16.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s16.e1" e2="DDI-DrugBank.d529.s16.e2" id="DDI-DrugBank.d529.s16.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s17" text="Patients receiving flurbiprofen and furosemide or other diuretics should be observed closely to determine if the desired effect is obtained.">
+        <entity charOffset="19-30" id="DDI-DrugBank.d529.s17.e0" text="flurbiprofen" type="drug"/>
+        <entity charOffset="36-45" id="DDI-DrugBank.d529.s17.e1" text="furosemide" type="drug"/>
+        <entity charOffset="56-64" id="DDI-DrugBank.d529.s17.e2" text="diuretics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s17.e0" e2="DDI-DrugBank.d529.s17.e1" id="DDI-DrugBank.d529.s17.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s17.e0" e2="DDI-DrugBank.d529.s17.e2" id="DDI-DrugBank.d529.s17.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s17.e1" e2="DDI-DrugBank.d529.s17.e2" id="DDI-DrugBank.d529.s17.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s18" text="Oral Hypoglycemic Agents: In one study, flurbiprofen was given to adult diabetics who were already receiving glyburide (n=4), metformin (n=2) chlorpropamide with phenformin (n= 3) or glyburide with phenformin (n=6).">
+        <entity charOffset="5-23" id="DDI-DrugBank.d529.s18.e0" text="Hypoglycemic Agents" type="group"/>
+        <entity charOffset="40-51" id="DDI-DrugBank.d529.s18.e1" text="flurbiprofen" type="drug"/>
+        <entity charOffset="109-117" id="DDI-DrugBank.d529.s18.e2" text="glyburide" type="drug"/>
+        <entity charOffset="126-134" id="DDI-DrugBank.d529.s18.e3" text="metformin" type="drug"/>
+        <entity charOffset="142-155" id="DDI-DrugBank.d529.s18.e4" text="chlorpropamide" type="drug"/>
+        <entity charOffset="162-171" id="DDI-DrugBank.d529.s18.e5" text="phenformin" type="drug"/>
+        <entity charOffset="183-191" id="DDI-DrugBank.d529.s18.e6" text="glyburide" type="drug"/>
+        <entity charOffset="198-207" id="DDI-DrugBank.d529.s18.e7" text="phenformin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e0" e2="DDI-DrugBank.d529.s18.e1" id="DDI-DrugBank.d529.s18.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e0" e2="DDI-DrugBank.d529.s18.e2" id="DDI-DrugBank.d529.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e0" e2="DDI-DrugBank.d529.s18.e3" id="DDI-DrugBank.d529.s18.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e0" e2="DDI-DrugBank.d529.s18.e4" id="DDI-DrugBank.d529.s18.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e0" e2="DDI-DrugBank.d529.s18.e5" id="DDI-DrugBank.d529.s18.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e0" e2="DDI-DrugBank.d529.s18.e6" id="DDI-DrugBank.d529.s18.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e0" e2="DDI-DrugBank.d529.s18.e7" id="DDI-DrugBank.d529.s18.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e1" e2="DDI-DrugBank.d529.s18.e2" id="DDI-DrugBank.d529.s18.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e1" e2="DDI-DrugBank.d529.s18.e3" id="DDI-DrugBank.d529.s18.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e1" e2="DDI-DrugBank.d529.s18.e4" id="DDI-DrugBank.d529.s18.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e1" e2="DDI-DrugBank.d529.s18.e5" id="DDI-DrugBank.d529.s18.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e1" e2="DDI-DrugBank.d529.s18.e6" id="DDI-DrugBank.d529.s18.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e1" e2="DDI-DrugBank.d529.s18.e7" id="DDI-DrugBank.d529.s18.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e2" e2="DDI-DrugBank.d529.s18.e3" id="DDI-DrugBank.d529.s18.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e2" e2="DDI-DrugBank.d529.s18.e4" id="DDI-DrugBank.d529.s18.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e2" e2="DDI-DrugBank.d529.s18.e5" id="DDI-DrugBank.d529.s18.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e2" e2="DDI-DrugBank.d529.s18.e6" id="DDI-DrugBank.d529.s18.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e2" e2="DDI-DrugBank.d529.s18.e7" id="DDI-DrugBank.d529.s18.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e3" e2="DDI-DrugBank.d529.s18.e4" id="DDI-DrugBank.d529.s18.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e3" e2="DDI-DrugBank.d529.s18.e5" id="DDI-DrugBank.d529.s18.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e3" e2="DDI-DrugBank.d529.s18.e6" id="DDI-DrugBank.d529.s18.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e3" e2="DDI-DrugBank.d529.s18.e7" id="DDI-DrugBank.d529.s18.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e4" e2="DDI-DrugBank.d529.s18.e5" id="DDI-DrugBank.d529.s18.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e4" e2="DDI-DrugBank.d529.s18.e6" id="DDI-DrugBank.d529.s18.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e4" e2="DDI-DrugBank.d529.s18.e7" id="DDI-DrugBank.d529.s18.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e5" e2="DDI-DrugBank.d529.s18.e6" id="DDI-DrugBank.d529.s18.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e5" e2="DDI-DrugBank.d529.s18.e7" id="DDI-DrugBank.d529.s18.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d529.s18.e6" e2="DDI-DrugBank.d529.s18.e7" id="DDI-DrugBank.d529.s18.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d529.s19" text="Although there was a slight reduction in blood sugar concentrations during concomitant administration of flurbiprofen and hypoglycemic agents, there were no signs or symptoms of hypoglycemia.">
+        <entity charOffset="105-116" id="DDI-DrugBank.d529.s19.e0" text="flurbiprofen" type="drug"/>
+        <entity charOffset="122-140" id="DDI-DrugBank.d529.s19.e1" text="hypoglycemic agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d529.s19.e0" e2="DDI-DrugBank.d529.s19.e1" id="DDI-DrugBank.d529.s19.p0" type="effect"/>
+    <negationtags>Although there was a slight reduction in blood sugar concentrations during concomitant administration of flurbiprofen and hypoglycemic agents, there were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; signs or symptoms of hypoglycemia. &lt;/scope&gt;</negationtags></sentence>
+</document>

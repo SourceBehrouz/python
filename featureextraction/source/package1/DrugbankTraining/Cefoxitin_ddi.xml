@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d556">
+    <sentence id="DDI-DrugBank.d556.s0" text="Increased nephrotoxicity has been reported following concomitant administration of cephalosporins and aminoglycoside antibiotics.">
+        <entity charOffset="83-96" id="DDI-DrugBank.d556.s0.e0" text="cephalosporins" type="group"/>
+        <entity charOffset="102-127" id="DDI-DrugBank.d556.s0.e1" text="aminoglycoside antibiotics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d556.s0.e0" e2="DDI-DrugBank.d556.s0.e1" id="DDI-DrugBank.d556.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d556.s1" text="Drug/Laboratory Test Interactions As with cephalothin, high concentrations of cefoxitin ( 100 micrograms/mL) may interfere with measurement of serum and urine creatinine levels by the Jaff  reaction, and produce false increases of modest degree in the levels of creatinine reported.">
+        <entity charOffset="42-52" id="DDI-DrugBank.d556.s1.e0" text="cephalothin" type="drug"/>
+        <entity charOffset="78-86" id="DDI-DrugBank.d556.s1.e1" text="cefoxitin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d556.s1.e0" e2="DDI-DrugBank.d556.s1.e1" id="DDI-DrugBank.d556.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d556.s2" text="Serum samples from patients treated with cefoxitin should not be analyzed for creatinine if withdrawn within 2 hours of drug administration.">
+        <entity charOffset="41-49" id="DDI-DrugBank.d556.s2.e0" text="cefoxitin" type="drug"/>
+    <negationtags>Serum samples from patients treated with cefoxitin should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be analyzed for creatinine if withdrawn within 2 hours of drug administration. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d556.s3" text="High concentrations of cefoxitin in the urine may interfere with measurement of urinary 17-hydroxy-corticosteroids by the Porter-Silber reaction, and produce false increases of modest degree in the levels reported.">
+        <entity charOffset="23-31" id="DDI-DrugBank.d556.s3.e0" text="cefoxitin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d556.s4" text="A false-positive reaction for glucose in the urine may occur."/>
+    <sentence id="DDI-DrugBank.d556.s5" text="This has been observed with CLINITEST  reagent tablets"/>
+    <sentence id="DDI-DrugBank.d556.s6" text="."/>
+    <sentence id="DDI-DrugBank.d556.s7" text="Registered trademark of Ames Company, Division of Miles Laboratories, Inc."/>
+</document>

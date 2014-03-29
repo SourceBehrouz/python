@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d297">
+    <sentence id="DDI-DrugBank.d297.s0" text="Formal drug interaction studies have not been conducted with ORENCIA.">
+        <entity charOffset="61-67" id="DDI-DrugBank.d297.s0.e0" text="ORENCIA" type="brand"/>
+    <negationtags>Formal drug interaction studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been conducted with ORENCIA. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d297.s1" text="Population pharmacokinetic analyses revealed that MTX, NSAIDs, corticosteroids, and TNF blocking agents did not influence abatacept clearance.">
+        <entity charOffset="50-52" id="DDI-DrugBank.d297.s1.e0" text="MTX" type="drug"/>
+        <entity charOffset="55-60" id="DDI-DrugBank.d297.s1.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="63-77" id="DDI-DrugBank.d297.s1.e2" text="corticosteroids" type="group"/>
+        <entity charOffset="84-102" id="DDI-DrugBank.d297.s1.e3" text="TNF blocking agents" type="group"/>
+        <entity charOffset="122-130" id="DDI-DrugBank.d297.s1.e4" text="abatacept" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e0" e2="DDI-DrugBank.d297.s1.e1" id="DDI-DrugBank.d297.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e0" e2="DDI-DrugBank.d297.s1.e2" id="DDI-DrugBank.d297.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e0" e2="DDI-DrugBank.d297.s1.e3" id="DDI-DrugBank.d297.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e0" e2="DDI-DrugBank.d297.s1.e4" id="DDI-DrugBank.d297.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e1" e2="DDI-DrugBank.d297.s1.e2" id="DDI-DrugBank.d297.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e1" e2="DDI-DrugBank.d297.s1.e3" id="DDI-DrugBank.d297.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e1" e2="DDI-DrugBank.d297.s1.e4" id="DDI-DrugBank.d297.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e2" e2="DDI-DrugBank.d297.s1.e3" id="DDI-DrugBank.d297.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e2" e2="DDI-DrugBank.d297.s1.e4" id="DDI-DrugBank.d297.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s1.e3" e2="DDI-DrugBank.d297.s1.e4" id="DDI-DrugBank.d297.s1.p9"/>
+    <negationtags>Population pharmacokinetic analyses revealed that MTX, NSAIDs, corticosteroids, and TNF blocking agents did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; influence abatacept clearance. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d297.s2" text="The majority of patients in RA clinical studies received one or more of the following concomitant medications with ORENCIA: MTX, NSAIDs, corticosteroids, TNF blocking agents, azathioprine, chloroquine, gold, hydroxychloroquine, leflunomide, sulfasalazine, and anakinra.">
+        <entity charOffset="115-121" id="DDI-DrugBank.d297.s2.e0" text="ORENCIA" type="brand"/>
+        <entity charOffset="124-126" id="DDI-DrugBank.d297.s2.e1" text="MTX" type="drug"/>
+        <entity charOffset="129-134" id="DDI-DrugBank.d297.s2.e2" text="NSAIDs" type="group"/>
+        <entity charOffset="137-151" id="DDI-DrugBank.d297.s2.e3" text="corticosteroids" type="group"/>
+        <entity charOffset="154-172" id="DDI-DrugBank.d297.s2.e4" text="TNF blocking agents" type="group"/>
+        <entity charOffset="175-186" id="DDI-DrugBank.d297.s2.e5" text="azathioprine" type="drug"/>
+        <entity charOffset="189-199" id="DDI-DrugBank.d297.s2.e6" text="chloroquine" type="drug"/>
+        <entity charOffset="202-205" id="DDI-DrugBank.d297.s2.e7" text="gold" type="drug"/>
+        <entity charOffset="208-225" id="DDI-DrugBank.d297.s2.e8" text="hydroxychloroquine" type="drug"/>
+        <entity charOffset="228-238" id="DDI-DrugBank.d297.s2.e9" text="leflunomide" type="drug"/>
+        <entity charOffset="241-253" id="DDI-DrugBank.d297.s2.e10" text="sulfasalazine" type="drug"/>
+        <entity charOffset="260-267" id="DDI-DrugBank.d297.s2.e11" text="anakinra" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e1" id="DDI-DrugBank.d297.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e2" id="DDI-DrugBank.d297.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e3" id="DDI-DrugBank.d297.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e4" id="DDI-DrugBank.d297.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e5" id="DDI-DrugBank.d297.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e6" id="DDI-DrugBank.d297.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e7" id="DDI-DrugBank.d297.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e0" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e2" id="DDI-DrugBank.d297.s2.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e3" id="DDI-DrugBank.d297.s2.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e4" id="DDI-DrugBank.d297.s2.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e5" id="DDI-DrugBank.d297.s2.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e6" id="DDI-DrugBank.d297.s2.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e7" id="DDI-DrugBank.d297.s2.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e1" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e3" id="DDI-DrugBank.d297.s2.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e4" id="DDI-DrugBank.d297.s2.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e5" id="DDI-DrugBank.d297.s2.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e6" id="DDI-DrugBank.d297.s2.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e7" id="DDI-DrugBank.d297.s2.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e2" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e4" id="DDI-DrugBank.d297.s2.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e5" id="DDI-DrugBank.d297.s2.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e6" id="DDI-DrugBank.d297.s2.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e7" id="DDI-DrugBank.d297.s2.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e3" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e4" e2="DDI-DrugBank.d297.s2.e5" id="DDI-DrugBank.d297.s2.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e4" e2="DDI-DrugBank.d297.s2.e6" id="DDI-DrugBank.d297.s2.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e4" e2="DDI-DrugBank.d297.s2.e7" id="DDI-DrugBank.d297.s2.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e4" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e4" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e4" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e4" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e5" e2="DDI-DrugBank.d297.s2.e6" id="DDI-DrugBank.d297.s2.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e5" e2="DDI-DrugBank.d297.s2.e7" id="DDI-DrugBank.d297.s2.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e5" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e5" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e5" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e5" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e6" e2="DDI-DrugBank.d297.s2.e7" id="DDI-DrugBank.d297.s2.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e6" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e6" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e6" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e6" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e7" e2="DDI-DrugBank.d297.s2.e8" id="DDI-DrugBank.d297.s2.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e7" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e7" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e7" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e8" e2="DDI-DrugBank.d297.s2.e9" id="DDI-DrugBank.d297.s2.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e8" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e8" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e9" e2="DDI-DrugBank.d297.s2.e10" id="DDI-DrugBank.d297.s2.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e9" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s2.e10" e2="DDI-DrugBank.d297.s2.e11" id="DDI-DrugBank.d297.s2.p65"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d297.s3" text="Concurrent administration of a TNF antagonist with ORENCIA has been associated with an increased risk of serious infections and no significant additional efficacy over use of the TNF antagonists alone.">
+        <entity charOffset="31-44" id="DDI-DrugBank.d297.s3.e0" text="TNF antagonist" type="group"/>
+        <entity charOffset="51-57" id="DDI-DrugBank.d297.s3.e1" text="ORENCIA" type="brand"/>
+        <entity charOffset="179-193" id="DDI-DrugBank.d297.s3.e2" text="TNF antagonists" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d297.s3.e0" e2="DDI-DrugBank.d297.s3.e1" id="DDI-DrugBank.d297.s3.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s3.e0" e2="DDI-DrugBank.d297.s3.e2" id="DDI-DrugBank.d297.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d297.s3.e1" e2="DDI-DrugBank.d297.s3.e2" id="DDI-DrugBank.d297.s3.p2"/>
+    <negationtags>Concurrent administration of a TNF antagonist with ORENCIA has been associated with an increased risk of serious infections and &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; additional efficacy over use of the TNF antagonists alone. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d297.s4" text="Concurrent therapy with ORENCIA and TNF antagonists is not recommended.">
+        <entity charOffset="24-30" id="DDI-DrugBank.d297.s4.e0" text="ORENCIA" type="brand"/>
+        <entity charOffset="36-50" id="DDI-DrugBank.d297.s4.e1" text="TNF antagonists" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d297.s4.e0" e2="DDI-DrugBank.d297.s4.e1" id="DDI-DrugBank.d297.s4.p0" type="advise"/>
+    <negationtags>Concurrent therapy with ORENCIA and TNF antagonists is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d297.s5" text="There is insufficient experience to assess the safety and efficacy of ORENCIA administered concurrently with anakinra, and therefore such use is not recommended.">
+        <entity charOffset="70-76" id="DDI-DrugBank.d297.s5.e0" text="ORENCIA" type="brand"/>
+        <entity charOffset="109-116" id="DDI-DrugBank.d297.s5.e1" text="anakinra" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d297.s5.e0" e2="DDI-DrugBank.d297.s5.e1" id="DDI-DrugBank.d297.s5.p0" type="advise"/>
+    <negationtags>There is insufficient experience to assess the safety and efficacy of ORENCIA administered concurrently with anakinra, and therefore such use is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+</document>

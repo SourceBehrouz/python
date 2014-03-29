@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d314">
+    <sentence id="DDI-DrugBank.d314.s0" text="Aminoglutethimide: Aminoglutethimide may diminish adrenal suppression by corticosteroids.">
+        <entity charOffset="0-16" id="DDI-DrugBank.d314.s0.e0" text="Aminoglutethimide" type="drug"/>
+        <entity charOffset="19-35" id="DDI-DrugBank.d314.s0.e1" text="Aminoglutethimide" type="drug"/>
+        <entity charOffset="73-87" id="DDI-DrugBank.d314.s0.e2" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s0.e0" e2="DDI-DrugBank.d314.s0.e1" id="DDI-DrugBank.d314.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s0.e0" e2="DDI-DrugBank.d314.s0.e2" id="DDI-DrugBank.d314.s0.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s0.e1" e2="DDI-DrugBank.d314.s0.e2" id="DDI-DrugBank.d314.s0.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s1" text="Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (e.g., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d314.s1.e0" text="Amphotericin B" type="drug"/>
+        <entity charOffset="62-76" id="DDI-DrugBank.d314.s1.e1" text="corticosteroids" type="group"/>
+        <entity charOffset="148-161" id="DDI-DrugBank.d314.s1.e2" text="amphotericin B" type="drug"/>
+        <entity charOffset="164-172" id="DDI-DrugBank.d314.s1.e3" text="diuretics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s1.e0" e2="DDI-DrugBank.d314.s1.e1" id="DDI-DrugBank.d314.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s1.e0" e2="DDI-DrugBank.d314.s1.e2" id="DDI-DrugBank.d314.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s1.e0" e2="DDI-DrugBank.d314.s1.e3" id="DDI-DrugBank.d314.s1.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s1.e1" e2="DDI-DrugBank.d314.s1.e2" id="DDI-DrugBank.d314.s1.p3" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s1.e1" e2="DDI-DrugBank.d314.s1.e3" id="DDI-DrugBank.d314.s1.p4" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s1.e2" e2="DDI-DrugBank.d314.s1.e3" id="DDI-DrugBank.d314.s1.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s2" text="In addition, there have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.">
+        <entity charOffset="72-85" id="DDI-DrugBank.d314.s2.e0" text="amphotericin B" type="drug"/>
+        <entity charOffset="91-104" id="DDI-DrugBank.d314.s2.e1" text="hydrocortisone" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s2.e0" e2="DDI-DrugBank.d314.s2.e1" id="DDI-DrugBank.d314.s2.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s3" text="Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d314.s3.e0" text="Antibiotics" type="group"/>
+        <entity charOffset="13-33" id="DDI-DrugBank.d314.s3.e1" text="Macrolide antibiotics" type="group"/>
+        <entity charOffset="89-102" id="DDI-DrugBank.d314.s3.e2" text="corticosteroid" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s3.e0" e2="DDI-DrugBank.d314.s3.e1" id="DDI-DrugBank.d314.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s3.e0" e2="DDI-DrugBank.d314.s3.e2" id="DDI-DrugBank.d314.s3.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s3.e1" e2="DDI-DrugBank.d314.s3.e2" id="DDI-DrugBank.d314.s3.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s4" text="Anticholinesterases: Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis.">
+        <entity charOffset="0-18" id="DDI-DrugBank.d314.s4.e0" text="Anticholinesterases" type="group"/>
+        <entity charOffset="40-64" id="DDI-DrugBank.d314.s4.e1" text="anticholinesterase agents" type="group"/>
+        <entity charOffset="70-84" id="DDI-DrugBank.d314.s4.e2" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s4.e0" e2="DDI-DrugBank.d314.s4.e1" id="DDI-DrugBank.d314.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s4.e0" e2="DDI-DrugBank.d314.s4.e2" id="DDI-DrugBank.d314.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s4.e1" e2="DDI-DrugBank.d314.s4.e2" id="DDI-DrugBank.d314.s4.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s5" text="If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.">
+        <entity charOffset="13-37" id="DDI-DrugBank.d314.s5.e0" text="anticholinesterase agents" type="group"/>
+        <entity charOffset="95-108" id="DDI-DrugBank.d314.s5.e1" text="corticosteroid" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s5.e0" e2="DDI-DrugBank.d314.s5.e1" id="DDI-DrugBank.d314.s5.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s6" text="Anticoagulants, oral: Co-administration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d314.s6.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="43-57" id="DDI-DrugBank.d314.s6.e1" text="corticosteroids" type="group"/>
+        <entity charOffset="63-70" id="DDI-DrugBank.d314.s6.e2" text="warfarin" type="drug"/>
+        <entity charOffset="117-124" id="DDI-DrugBank.d314.s6.e3" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s6.e0" e2="DDI-DrugBank.d314.s6.e1" id="DDI-DrugBank.d314.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s6.e0" e2="DDI-DrugBank.d314.s6.e2" id="DDI-DrugBank.d314.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s6.e0" e2="DDI-DrugBank.d314.s6.e3" id="DDI-DrugBank.d314.s6.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s6.e1" e2="DDI-DrugBank.d314.s6.e2" id="DDI-DrugBank.d314.s6.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s6.e1" e2="DDI-DrugBank.d314.s6.e3" id="DDI-DrugBank.d314.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s6.e2" e2="DDI-DrugBank.d314.s6.e3" id="DDI-DrugBank.d314.s6.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s7" text="Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect."/>
+    <sentence id="DDI-DrugBank.d314.s8" text="Antidiabetics: Because corticosteroids may increase blood glucose concentrations, dosage adjustments of antidiabetic agents may be required.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d314.s8.e0" text="Antidiabetics" type="group"/>
+        <entity charOffset="23-37" id="DDI-DrugBank.d314.s8.e1" text="corticosteroids" type="group"/>
+        <entity charOffset="104-122" id="DDI-DrugBank.d314.s8.e2" text="antidiabetic agents" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s8.e0" e2="DDI-DrugBank.d314.s8.e1" id="DDI-DrugBank.d314.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s8.e0" e2="DDI-DrugBank.d314.s8.e2" id="DDI-DrugBank.d314.s8.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s8.e1" e2="DDI-DrugBank.d314.s8.e2" id="DDI-DrugBank.d314.s8.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s9" text="Antitubercular drugs: Serum concentrations of isoniazid may be decreased.">
+        <entity charOffset="46-54" id="DDI-DrugBank.d314.s9.e0" text="isoniazid" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s10" text="Cholestyramine: Cholestyramine may increase the clearance of corticosteroids.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d314.s10.e0" text="Cholestyramine" type="drug"/>
+        <entity charOffset="16-29" id="DDI-DrugBank.d314.s10.e1" text="Cholestyramine" type="drug"/>
+        <entity charOffset="61-75" id="DDI-DrugBank.d314.s10.e2" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s10.e0" e2="DDI-DrugBank.d314.s10.e1" id="DDI-DrugBank.d314.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s10.e0" e2="DDI-DrugBank.d314.s10.e2" id="DDI-DrugBank.d314.s10.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s10.e1" e2="DDI-DrugBank.d314.s10.e2" id="DDI-DrugBank.d314.s10.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s11" text="Cyclosporine: Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d314.s11.e0" text="Cyclosporine" type="drug"/>
+        <entity charOffset="41-52" id="DDI-DrugBank.d314.s11.e1" text="cyclosporine" type="drug"/>
+        <entity charOffset="58-72" id="DDI-DrugBank.d314.s11.e2" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s11.e0" e2="DDI-DrugBank.d314.s11.e1" id="DDI-DrugBank.d314.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s11.e0" e2="DDI-DrugBank.d314.s11.e2" id="DDI-DrugBank.d314.s11.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s11.e1" e2="DDI-DrugBank.d314.s11.e2" id="DDI-DrugBank.d314.s11.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s12" text="Convulsions have been reported with this concurrent use."/>
+    <sentence id="DDI-DrugBank.d314.s13" text="Dexamethasone suppression test (DST): False-negative results in the dexamethasone suppression test (DST) in patients being treated with indomethacin have been reported.">
+        <entity charOffset="136-147" id="DDI-DrugBank.d314.s13.e0" text="indomethacin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s14" text="Thus, results of the DST should be interpreted with caution in these patients."/>
+    <sentence id="DDI-DrugBank.d314.s15" text="Digitalis glycosides: Patients on digitalis glycosides may be at increased risk of arrhythmias due to hypokalemia.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d314.s15.e0" text="Digitalis glycosides" type="group"/>
+        <entity charOffset="34-53" id="DDI-DrugBank.d314.s15.e1" text="digitalis glycosides" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s15.e0" e2="DDI-DrugBank.d314.s15.e1" id="DDI-DrugBank.d314.s15.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s16" text="Ephedrine: Ephedrine may enhance the metabolic clearance of corticosteroids, resulting in decreased blood levels and lessened physiologic activity, thus requiring an increase in corticosteroid dosage.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d314.s16.e0" text="Ephedrine" type="drug"/>
+        <entity charOffset="11-19" id="DDI-DrugBank.d314.s16.e1" text="Ephedrine" type="drug"/>
+        <entity charOffset="60-74" id="DDI-DrugBank.d314.s16.e2" text="corticosteroids" type="group"/>
+        <entity charOffset="178-191" id="DDI-DrugBank.d314.s16.e3" text="corticosteroid" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s16.e0" e2="DDI-DrugBank.d314.s16.e1" id="DDI-DrugBank.d314.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s16.e0" e2="DDI-DrugBank.d314.s16.e2" id="DDI-DrugBank.d314.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s16.e0" e2="DDI-DrugBank.d314.s16.e3" id="DDI-DrugBank.d314.s16.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s16.e1" e2="DDI-DrugBank.d314.s16.e2" id="DDI-DrugBank.d314.s16.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s16.e1" e2="DDI-DrugBank.d314.s16.e3" id="DDI-DrugBank.d314.s16.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s16.e2" e2="DDI-DrugBank.d314.s16.e3" id="DDI-DrugBank.d314.s16.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s17" text="Estrogens, including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d314.s17.e0" text="Estrogens" type="group"/>
+        <entity charOffset="26-39" id="DDI-DrugBank.d314.s17.e1" text="contraceptives" type="group"/>
+        <entity charOffset="42-50" id="DDI-DrugBank.d314.s17.e2" text="Estrogens" type="group"/>
+        <entity charOffset="99-113" id="DDI-DrugBank.d314.s17.e3" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s17.e0" e2="DDI-DrugBank.d314.s17.e1" id="DDI-DrugBank.d314.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s17.e0" e2="DDI-DrugBank.d314.s17.e2" id="DDI-DrugBank.d314.s17.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s17.e0" e2="DDI-DrugBank.d314.s17.e3" id="DDI-DrugBank.d314.s17.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s17.e1" e2="DDI-DrugBank.d314.s17.e2" id="DDI-DrugBank.d314.s17.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s17.e1" e2="DDI-DrugBank.d314.s17.e3" id="DDI-DrugBank.d314.s17.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s17.e2" e2="DDI-DrugBank.d314.s17.e3" id="DDI-DrugBank.d314.s17.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s18" text="Hepatic Enzyme Inducers, Inhibitors and Substrates: Drugs which induce cytochrome P450 3A4 (CYP 3A4) enzyme activity (e.g., barbiturates, phenytoin, carbamazepine, rifampin) may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.">
+        <entity charOffset="124-135" id="DDI-DrugBank.d314.s18.e0" text="barbiturates" type="group"/>
+        <entity charOffset="138-146" id="DDI-DrugBank.d314.s18.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="149-161" id="DDI-DrugBank.d314.s18.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="164-171" id="DDI-DrugBank.d314.s18.e3" text="rifampin" type="drug"/>
+        <entity charOffset="204-218" id="DDI-DrugBank.d314.s18.e4" text="corticosteroids" type="group"/>
+        <entity charOffset="255-268" id="DDI-DrugBank.d314.s18.e5" text="corticosteroid" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e0" e2="DDI-DrugBank.d314.s18.e1" id="DDI-DrugBank.d314.s18.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e0" e2="DDI-DrugBank.d314.s18.e2" id="DDI-DrugBank.d314.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e0" e2="DDI-DrugBank.d314.s18.e3" id="DDI-DrugBank.d314.s18.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s18.e0" e2="DDI-DrugBank.d314.s18.e4" id="DDI-DrugBank.d314.s18.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e0" e2="DDI-DrugBank.d314.s18.e5" id="DDI-DrugBank.d314.s18.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e1" e2="DDI-DrugBank.d314.s18.e2" id="DDI-DrugBank.d314.s18.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e1" e2="DDI-DrugBank.d314.s18.e3" id="DDI-DrugBank.d314.s18.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s18.e1" e2="DDI-DrugBank.d314.s18.e4" id="DDI-DrugBank.d314.s18.p7" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e1" e2="DDI-DrugBank.d314.s18.e5" id="DDI-DrugBank.d314.s18.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e2" e2="DDI-DrugBank.d314.s18.e3" id="DDI-DrugBank.d314.s18.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s18.e2" e2="DDI-DrugBank.d314.s18.e4" id="DDI-DrugBank.d314.s18.p10" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e2" e2="DDI-DrugBank.d314.s18.e5" id="DDI-DrugBank.d314.s18.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s18.e3" e2="DDI-DrugBank.d314.s18.e4" id="DDI-DrugBank.d314.s18.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e3" e2="DDI-DrugBank.d314.s18.e5" id="DDI-DrugBank.d314.s18.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s18.e4" e2="DDI-DrugBank.d314.s18.e5" id="DDI-DrugBank.d314.s18.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s19" text="Drugs which inhibit CYP 3A4 (e.g., ketoconazole, macrolide antibiotics such as erythromycin) have the potential to result in increased plasma concentrations of corticosteroids.">
+        <entity charOffset="35-46" id="DDI-DrugBank.d314.s19.e0" text="ketoconazole" type="drug"/>
+        <entity charOffset="49-69" id="DDI-DrugBank.d314.s19.e1" text="macrolide antibiotics" type="group"/>
+        <entity charOffset="79-90" id="DDI-DrugBank.d314.s19.e2" text="erythromycin" type="drug"/>
+        <entity charOffset="160-174" id="DDI-DrugBank.d314.s19.e3" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s19.e0" e2="DDI-DrugBank.d314.s19.e1" id="DDI-DrugBank.d314.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s19.e0" e2="DDI-DrugBank.d314.s19.e2" id="DDI-DrugBank.d314.s19.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s19.e0" e2="DDI-DrugBank.d314.s19.e3" id="DDI-DrugBank.d314.s19.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s19.e1" e2="DDI-DrugBank.d314.s19.e2" id="DDI-DrugBank.d314.s19.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s19.e1" e2="DDI-DrugBank.d314.s19.e3" id="DDI-DrugBank.d314.s19.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s19.e2" e2="DDI-DrugBank.d314.s19.e3" id="DDI-DrugBank.d314.s19.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s20" text="Dexamethasone is a moderate inducer of CYP 3A4.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d314.s20.e0" text="Dexamethasone" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s21" text="Co-administration with other drugs that are metabolized by CYP 3A4 (e.g., indinavir, erythromycin) may increase their clearance, resulting in decreased plasma concentration.">
+        <entity charOffset="74-82" id="DDI-DrugBank.d314.s21.e0" text="indinavir" type="drug"/>
+        <entity charOffset="85-96" id="DDI-DrugBank.d314.s21.e1" text="erythromycin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s21.e0" e2="DDI-DrugBank.d314.s21.e1" id="DDI-DrugBank.d314.s21.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s22" text="Ketoconazole: Ketoconazole has been reported to decrease the metabolism of certain corticosteroids by up to 60%, leading to increased risk of corticosteroid side effects.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d314.s22.e0" text="Ketoconazole" type="drug"/>
+        <entity charOffset="14-25" id="DDI-DrugBank.d314.s22.e1" text="Ketoconazole" type="drug"/>
+        <entity charOffset="83-97" id="DDI-DrugBank.d314.s22.e2" text="corticosteroids" type="group"/>
+        <entity charOffset="142-155" id="DDI-DrugBank.d314.s22.e3" text="corticosteroid" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s22.e0" e2="DDI-DrugBank.d314.s22.e1" id="DDI-DrugBank.d314.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s22.e0" e2="DDI-DrugBank.d314.s22.e2" id="DDI-DrugBank.d314.s22.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s22.e0" e2="DDI-DrugBank.d314.s22.e3" id="DDI-DrugBank.d314.s22.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s22.e1" e2="DDI-DrugBank.d314.s22.e2" id="DDI-DrugBank.d314.s22.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s22.e1" e2="DDI-DrugBank.d314.s22.e3" id="DDI-DrugBank.d314.s22.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s22.e2" e2="DDI-DrugBank.d314.s22.e3" id="DDI-DrugBank.d314.s22.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s23" text="In addition, ketoconazole alone can inhibit adrenal corticosteroid synthesis and may cause adrenal insufficiency during corticosteroid withdrawal.">
+        <entity charOffset="13-24" id="DDI-DrugBank.d314.s23.e0" text="ketoconazole" type="drug"/>
+        <entity charOffset="52-65" id="DDI-DrugBank.d314.s23.e1" text="corticosteroid" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s23.e0" e2="DDI-DrugBank.d314.s23.e1" id="DDI-DrugBank.d314.s23.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s24" text="Nonsteroidal anti-inflammatory agents (NSAIDS): Concomitant use of aspirin (or other nonsteroidal antiinflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.">
+        <entity charOffset="0-36" id="DDI-DrugBank.d314.s24.e0" text="Nonsteroidal anti-inflammatory agents" type="group"/>
+        <entity charOffset="39-44" id="DDI-DrugBank.d314.s24.e1" text="NSAIDS" type="group"/>
+        <entity charOffset="67-73" id="DDI-DrugBank.d314.s24.e2" text="aspirin" type="brand"/>
+        <entity charOffset="85-120" id="DDI-DrugBank.d314.s24.e3" text="nonsteroidal antiinflammatory agents" type="group"/>
+        <entity charOffset="127-141" id="DDI-DrugBank.d314.s24.e4" text="corticosteroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e0" e2="DDI-DrugBank.d314.s24.e1" id="DDI-DrugBank.d314.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e0" e2="DDI-DrugBank.d314.s24.e2" id="DDI-DrugBank.d314.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e0" e2="DDI-DrugBank.d314.s24.e3" id="DDI-DrugBank.d314.s24.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e0" e2="DDI-DrugBank.d314.s24.e4" id="DDI-DrugBank.d314.s24.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e1" e2="DDI-DrugBank.d314.s24.e2" id="DDI-DrugBank.d314.s24.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e1" e2="DDI-DrugBank.d314.s24.e3" id="DDI-DrugBank.d314.s24.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e1" e2="DDI-DrugBank.d314.s24.e4" id="DDI-DrugBank.d314.s24.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s24.e2" e2="DDI-DrugBank.d314.s24.e3" id="DDI-DrugBank.d314.s24.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s24.e2" e2="DDI-DrugBank.d314.s24.e4" id="DDI-DrugBank.d314.s24.p8" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s24.e3" e2="DDI-DrugBank.d314.s24.e4" id="DDI-DrugBank.d314.s24.p9" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s25" text="Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d314.s25.e0" text="Aspirin" type="brand"/>
+        <entity charOffset="54-68" id="DDI-DrugBank.d314.s25.e1" text="corticosteroids" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s25.e0" e2="DDI-DrugBank.d314.s25.e1" id="DDI-DrugBank.d314.s25.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s26" text="The clearance of salicylates may be increased with concurrent use of corticosteroids.">
+        <entity charOffset="17-27" id="DDI-DrugBank.d314.s26.e0" text="salicylates" type="group"/>
+        <entity charOffset="69-83" id="DDI-DrugBank.d314.s26.e1" text="corticosteroids" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s26.e0" e2="DDI-DrugBank.d314.s26.e1" id="DDI-DrugBank.d314.s26.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s27" text="Phenytoin: In post-marketing experience, there have been reports of both increases and decreases in phenytoin levels with dexamethasone co-administration, leading to alterations in seizure control.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d314.s27.e0" text="Phenytoin" type="drug"/>
+        <entity charOffset="100-108" id="DDI-DrugBank.d314.s27.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="122-134" id="DDI-DrugBank.d314.s27.e2" text="dexamethasone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s27.e0" e2="DDI-DrugBank.d314.s27.e1" id="DDI-DrugBank.d314.s27.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s27.e0" e2="DDI-DrugBank.d314.s27.e2" id="DDI-DrugBank.d314.s27.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s27.e1" e2="DDI-DrugBank.d314.s27.e2" id="DDI-DrugBank.d314.s27.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s28" text="Skin tests: Corticosteroids may suppress reactions to skin tests.">
+        <entity charOffset="12-26" id="DDI-DrugBank.d314.s28.e0" text="Corticosteroids" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s29" text="Thalidomide: Co-administration with thalidomide should be employed cautiously, as toxic epidermal necrolysis has been reported with concomitant use.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d314.s29.e0" text="Thalidomide" type="drug"/>
+        <entity charOffset="36-46" id="DDI-DrugBank.d314.s29.e1" text="thalidomide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s29.e0" e2="DDI-DrugBank.d314.s29.e1" id="DDI-DrugBank.d314.s29.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s30" text="Vaccines: Patients on corticosteroid therapy may exhibit a diminished response to toxoids and live or inactivated vaccines due to inhibition of antibody response.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d314.s30.e0" text="Vaccines" type="group"/>
+        <entity charOffset="22-35" id="DDI-DrugBank.d314.s30.e1" text="corticosteroid" type="group"/>
+        <entity charOffset="94-97;114-121" id="DDI-DrugBank.d314.s30.e2" text="live vaccines" type="group"/>
+        <entity charOffset="102-121" id="DDI-DrugBank.d314.s30.e3" text="inactivated vaccines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s30.e0" e2="DDI-DrugBank.d314.s30.e1" id="DDI-DrugBank.d314.s30.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s30.e0" e2="DDI-DrugBank.d314.s30.e2" id="DDI-DrugBank.d314.s30.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s30.e0" e2="DDI-DrugBank.d314.s30.e3" id="DDI-DrugBank.d314.s30.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s30.e1" e2="DDI-DrugBank.d314.s30.e2" id="DDI-DrugBank.d314.s30.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s30.e1" e2="DDI-DrugBank.d314.s30.e3" id="DDI-DrugBank.d314.s30.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d314.s30.e2" e2="DDI-DrugBank.d314.s30.e3" id="DDI-DrugBank.d314.s30.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s31" text="Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d314.s31.e0" text="Corticosteroids" type="group"/>
+        <entity charOffset="83-106" id="DDI-DrugBank.d314.s31.e1" text="live attenuated vaccines" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s31.e0" e2="DDI-DrugBank.d314.s31.e1" id="DDI-DrugBank.d314.s31.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d314.s32" text="Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible.">
+        <entity charOffset="26-33" id="DDI-DrugBank.d314.s32.e0" text="vaccines" type="group"/>
+        <entity charOffset="71-84" id="DDI-DrugBank.d314.s32.e1" text="corticosteroid" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d314.s32.e0" e2="DDI-DrugBank.d314.s32.e1" id="DDI-DrugBank.d314.s32.p0" type="advise"/>
+    </sentence>
+</document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d453">
+    <sentence id="DDI-DrugBank.d453.s0" text="Cytosine arabinoside, a cytostatic agent, has been reported to inactivate the antifungal activity of flucytosine by competitive inhibition.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d453.s0.e0" text="Cytosine arabinoside" type="drug"/>
+        <entity charOffset="24-39" id="DDI-DrugBank.d453.s0.e1" text="cytostatic agent" type="group"/>
+        <entity charOffset="101-111" id="DDI-DrugBank.d453.s0.e2" text="flucytosine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d453.s0.e0" e2="DDI-DrugBank.d453.s0.e1" id="DDI-DrugBank.d453.s0.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d453.s0.e0" e2="DDI-DrugBank.d453.s0.e2" id="DDI-DrugBank.d453.s0.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d453.s0.e1" e2="DDI-DrugBank.d453.s0.e2" id="DDI-DrugBank.d453.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d453.s1" text="Drugs which impair glomerular filtration may prolong the biological half-life of flucytosine.">
+        <entity charOffset="81-91" id="DDI-DrugBank.d453.s1.e0" text="flucytosine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d453.s2" text="Drug/Laboratory Test Interactions: Measurement of serum creatinine levels should be determined by the Jaffe reaction, since Ancobon does not interfere with the determination of creatinine values by this method.">
+        <entity charOffset="124-130" id="DDI-DrugBank.d453.s2.e0" text="Ancobon" type="brand"/>
+    <negationtags>Drug/Laboratory Test Interactions: Measurement of serum creatinine levels should be determined by the Jaffe reaction, since Ancobon does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; interfere with the determination of creatinine values by this method. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d453.s3" text="Most automated equipment for measurement of creatinine makes use of the Jaffe reaction."/>
+</document>

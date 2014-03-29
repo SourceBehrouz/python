@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d358">
+    <sentence id="DDI-DrugBank.d358.s0" text="Since PLETAL is extensively metabolized by cytochrome P-450 isoenzymes, caution should be exercised when PLETAL is coadministered with inhibitors of C.P.A. such as ketoconazole and erythromycin or inhibitors of CYP2C19 such as omeprazole.">
+        <entity charOffset="6-11" id="DDI-DrugBank.d358.s0.e0" text="PLETAL" type="brand"/>
+        <entity charOffset="105-110" id="DDI-DrugBank.d358.s0.e1" text="PLETAL" type="brand"/>
+        <entity charOffset="164-175" id="DDI-DrugBank.d358.s0.e2" text="ketoconazole" type="drug"/>
+        <entity charOffset="181-192" id="DDI-DrugBank.d358.s0.e3" text="erythromycin" type="drug"/>
+        <entity charOffset="227-236" id="DDI-DrugBank.d358.s0.e4" text="omeprazole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s0.e0" e2="DDI-DrugBank.d358.s0.e1" id="DDI-DrugBank.d358.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s0.e0" e2="DDI-DrugBank.d358.s0.e2" id="DDI-DrugBank.d358.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s0.e0" e2="DDI-DrugBank.d358.s0.e3" id="DDI-DrugBank.d358.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s0.e0" e2="DDI-DrugBank.d358.s0.e4" id="DDI-DrugBank.d358.s0.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d358.s0.e1" e2="DDI-DrugBank.d358.s0.e2" id="DDI-DrugBank.d358.s0.p4" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d358.s0.e1" e2="DDI-DrugBank.d358.s0.e3" id="DDI-DrugBank.d358.s0.p5" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d358.s0.e1" e2="DDI-DrugBank.d358.s0.e4" id="DDI-DrugBank.d358.s0.p6" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s0.e2" e2="DDI-DrugBank.d358.s0.e3" id="DDI-DrugBank.d358.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s0.e2" e2="DDI-DrugBank.d358.s0.e4" id="DDI-DrugBank.d358.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s0.e3" e2="DDI-DrugBank.d358.s0.e4" id="DDI-DrugBank.d358.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d358.s1" text="Pharmacokinetic studies have demonstrated that omeprazole and erythromycin significantly increased the systemic exposure of cilostazol and/or its major metabolites.">
+        <entity charOffset="47-56" id="DDI-DrugBank.d358.s1.e0" text="omeprazole" type="drug"/>
+        <entity charOffset="62-73" id="DDI-DrugBank.d358.s1.e1" text="erythromycin" type="drug"/>
+        <entity charOffset="124-133" id="DDI-DrugBank.d358.s1.e2" text="cilostazol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s1.e0" e2="DDI-DrugBank.d358.s1.e1" id="DDI-DrugBank.d358.s1.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d358.s1.e0" e2="DDI-DrugBank.d358.s1.e2" id="DDI-DrugBank.d358.s1.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d358.s1.e1" e2="DDI-DrugBank.d358.s1.e2" id="DDI-DrugBank.d358.s1.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d358.s2" text="Population pharmacokinetic studies showed higher concentrations of cilostazol among patients concurrently treated with diltiazem, an inhibitor of C.P.A..">
+        <entity charOffset="67-76" id="DDI-DrugBank.d358.s2.e0" text="cilostazol" type="drug"/>
+        <entity charOffset="119-127" id="DDI-DrugBank.d358.s2.e1" text="diltiazem" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d358.s2.e0" e2="DDI-DrugBank.d358.s2.e1" id="DDI-DrugBank.d358.s2.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d358.s3" text="Pletal does not, however, appear to cause increased blood levels of drugs metabolized by CYP3A4, as it had no effect on lovastatin, a drug with metabolism very sensitive to C.P.A. inhibition.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d358.s3.e0" text="Pletal" type="brand"/>
+        <entity charOffset="120-129" id="DDI-DrugBank.d358.s3.e1" text="lovastatin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d358.s3.e0" e2="DDI-DrugBank.d358.s3.e1" id="DDI-DrugBank.d358.s3.p0"/>
+    <negationtags>Pletal does &lt;scope&gt; &lt;cue&gt; not, &lt;/cue&gt; &lt;/scope&gt; however, appear to cause increased blood levels of drugs metabolized by CYP3A4, as it had no effect on lovastatin, a drug with metabolism very sensitive to C.P.A. inhibition.</negationtags></sentence>
+</document>

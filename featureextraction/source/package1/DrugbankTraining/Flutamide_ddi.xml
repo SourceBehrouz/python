@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d442">
+    <sentence id="DDI-DrugBank.d442.s0" text="Increases in prothrombin time have been noted in patients receiving long- term warfarin therapy after flutamide was initiated.">
+        <entity charOffset="79-86" id="DDI-DrugBank.d442.s0.e0" text="warfarin" type="drug"/>
+        <entity charOffset="102-110" id="DDI-DrugBank.d442.s0.e1" text="flutamide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d442.s0.e0" e2="DDI-DrugBank.d442.s0.e1" id="DDI-DrugBank.d442.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d442.s1" text="Therefore, close monitoring of prothrombin time is recommended and adjustment of the anticoagulant dose may be necessary when EULEXIN Capsules are administered concomitantly with warfarin.">
+        <entity charOffset="85-97" id="DDI-DrugBank.d442.s1.e0" text="anticoagulant" type="group"/>
+        <entity charOffset="126-132" id="DDI-DrugBank.d442.s1.e1" text="EULEXIN" type="brand"/>
+        <entity charOffset="179-186" id="DDI-DrugBank.d442.s1.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d442.s1.e0" e2="DDI-DrugBank.d442.s1.e1" id="DDI-DrugBank.d442.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d442.s1.e0" e2="DDI-DrugBank.d442.s1.e2" id="DDI-DrugBank.d442.s1.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d442.s1.e1" e2="DDI-DrugBank.d442.s1.e2" id="DDI-DrugBank.d442.s1.p2" type="advise"/>
+    </sentence>
+</document>

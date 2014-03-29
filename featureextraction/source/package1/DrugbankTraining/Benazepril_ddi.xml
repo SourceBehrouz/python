@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d561">
+    <sentence id="DDI-DrugBank.d561.s0" text="Diuretics: Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with Lotensin.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d561.s0.e0" text="Diuretics" type="group"/>
+        <entity charOffset="23-31" id="DDI-DrugBank.d561.s0.e1" text="diuretics" type="group"/>
+        <entity charOffset="203-210" id="DDI-DrugBank.d561.s0.e2" text="Lotensin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s0.e0" e2="DDI-DrugBank.d561.s0.e1" id="DDI-DrugBank.d561.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s0.e0" e2="DDI-DrugBank.d561.s0.e2" id="DDI-DrugBank.d561.s0.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d561.s0.e1" e2="DDI-DrugBank.d561.s0.e2" id="DDI-DrugBank.d561.s0.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s1" text="The possibility of hypotensive effects with Lotensin can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with Lotensin.">
+        <entity charOffset="44-51" id="DDI-DrugBank.d561.s1.e0" text="Lotensin" type="brand"/>
+        <entity charOffset="98-105" id="DDI-DrugBank.d561.s1.e1" text="diuretic" type="group"/>
+        <entity charOffset="175-182" id="DDI-DrugBank.d561.s1.e2" text="Lotensin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s1.e0" e2="DDI-DrugBank.d561.s1.e1" id="DDI-DrugBank.d561.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s1.e0" e2="DDI-DrugBank.d561.s1.e2" id="DDI-DrugBank.d561.s1.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d561.s1.e1" e2="DDI-DrugBank.d561.s1.e2" id="DDI-DrugBank.d561.s1.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s2" text="If this is not possible, the starting dose should be reduced."><negationtags>If this is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; possible, the starting dose should be reduced. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d561.s3" text="Potassium Supplements and Potassium-Sparing Diuretics Lotensin can attenuate potassium loss caused by thiazide diuretics.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d561.s3.e0" text="Potassium" type="drug"/>
+        <entity charOffset="26-52" id="DDI-DrugBank.d561.s3.e1" text="Potassium-Sparing Diuretics" type="group"/>
+        <entity charOffset="102-119" id="DDI-DrugBank.d561.s3.e2" text="thiazide diuretics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s3.e0" e2="DDI-DrugBank.d561.s3.e1" id="DDI-DrugBank.d561.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s3.e0" e2="DDI-DrugBank.d561.s3.e2" id="DDI-DrugBank.d561.s3.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d561.s3.e1" e2="DDI-DrugBank.d561.s3.e2" id="DDI-DrugBank.d561.s3.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s4" text="Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others) or potassium supplements can increase the risk of hyperkalemia.">
+        <entity charOffset="0-26" id="DDI-DrugBank.d561.s4.e0" text="Potassium-sparing diuretics" type="group"/>
+        <entity charOffset="29-42" id="DDI-DrugBank.d561.s4.e1" text="spironolactone" type="drug"/>
+        <entity charOffset="45-53" id="DDI-DrugBank.d561.s4.e2" text="amiloride" type="drug"/>
+        <entity charOffset="56-66" id="DDI-DrugBank.d561.s4.e3" text="triamterene" type="drug"/>
+        <entity charOffset="84-92" id="DDI-DrugBank.d561.s4.e4" text="potassium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e0" e2="DDI-DrugBank.d561.s4.e1" id="DDI-DrugBank.d561.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e0" e2="DDI-DrugBank.d561.s4.e2" id="DDI-DrugBank.d561.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e0" e2="DDI-DrugBank.d561.s4.e3" id="DDI-DrugBank.d561.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e0" e2="DDI-DrugBank.d561.s4.e4" id="DDI-DrugBank.d561.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e1" e2="DDI-DrugBank.d561.s4.e2" id="DDI-DrugBank.d561.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e1" e2="DDI-DrugBank.d561.s4.e3" id="DDI-DrugBank.d561.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e1" e2="DDI-DrugBank.d561.s4.e4" id="DDI-DrugBank.d561.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e2" e2="DDI-DrugBank.d561.s4.e3" id="DDI-DrugBank.d561.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e2" e2="DDI-DrugBank.d561.s4.e4" id="DDI-DrugBank.d561.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s4.e3" e2="DDI-DrugBank.d561.s4.e4" id="DDI-DrugBank.d561.s4.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s5" text="Therefore, if concomitant use of such agents is indicated, they should be given with caution, and the patient's serum potassium should be monitored frequently."/>
+    <sentence id="DDI-DrugBank.d561.s6" text="Oral Anticoagulants Interaction studies with warfarin and acenocoumarol failed to identify any clinically important effects on the serum concentrations or clinical effects of these anticoagulants.">
+        <entity charOffset="5-18" id="DDI-DrugBank.d561.s6.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="45-52" id="DDI-DrugBank.d561.s6.e1" text="warfarin" type="drug"/>
+        <entity charOffset="58-70" id="DDI-DrugBank.d561.s6.e2" text="acenocoumarol" type="drug"/>
+        <entity charOffset="181-194" id="DDI-DrugBank.d561.s6.e3" text="anticoagulants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s6.e0" e2="DDI-DrugBank.d561.s6.e1" id="DDI-DrugBank.d561.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s6.e0" e2="DDI-DrugBank.d561.s6.e2" id="DDI-DrugBank.d561.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s6.e0" e2="DDI-DrugBank.d561.s6.e3" id="DDI-DrugBank.d561.s6.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s6.e1" e2="DDI-DrugBank.d561.s6.e2" id="DDI-DrugBank.d561.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s6.e1" e2="DDI-DrugBank.d561.s6.e3" id="DDI-DrugBank.d561.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s6.e2" e2="DDI-DrugBank.d561.s6.e3" id="DDI-DrugBank.d561.s6.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s7" text="Lithium: Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d561.s7.e0" text="Lithium" type="drug"/>
+        <entity charOffset="25-31" id="DDI-DrugBank.d561.s7.e1" text="lithium" type="drug"/>
+        <entity charOffset="56-62" id="DDI-DrugBank.d561.s7.e2" text="lithium" type="drug"/>
+        <entity charOffset="114-127" id="DDI-DrugBank.d561.s7.e3" text="ACE inhibitors" type="group"/>
+        <entity charOffset="149-155" id="DDI-DrugBank.d561.s7.e4" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e0" e2="DDI-DrugBank.d561.s7.e1" id="DDI-DrugBank.d561.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e0" e2="DDI-DrugBank.d561.s7.e2" id="DDI-DrugBank.d561.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e0" e2="DDI-DrugBank.d561.s7.e3" id="DDI-DrugBank.d561.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e0" e2="DDI-DrugBank.d561.s7.e4" id="DDI-DrugBank.d561.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e1" e2="DDI-DrugBank.d561.s7.e2" id="DDI-DrugBank.d561.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e1" e2="DDI-DrugBank.d561.s7.e3" id="DDI-DrugBank.d561.s7.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e1" e2="DDI-DrugBank.d561.s7.e4" id="DDI-DrugBank.d561.s7.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e2" e2="DDI-DrugBank.d561.s7.e3" id="DDI-DrugBank.d561.s7.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s7.e2" e2="DDI-DrugBank.d561.s7.e4" id="DDI-DrugBank.d561.s7.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d561.s7.e3" e2="DDI-DrugBank.d561.s7.e4" id="DDI-DrugBank.d561.s7.p9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s8" text="These drugs should be coadministered with caution, and frequent monitoring of serum lithium levels is recommended.">
+        <entity charOffset="84-90" id="DDI-DrugBank.d561.s8.e0" text="lithium" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s9" text="If a diuretic is also used, the risk of lithium toxicity may be increased.">
+        <entity charOffset="5-12" id="DDI-DrugBank.d561.s9.e0" text="diuretic" type="group"/>
+        <entity charOffset="40-46" id="DDI-DrugBank.d561.s9.e1" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d561.s9.e0" e2="DDI-DrugBank.d561.s9.e1" id="DDI-DrugBank.d561.s9.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s10" text="Other No clinically important pharmacokinetic interactions occurred when Lotensin was administered concomitantly with hydrochlorothiazide, chlorthalidone, furosemide, digoxin, propranolol, atenolol, naproxen, or cimetidine.">
+        <entity charOffset="73-80" id="DDI-DrugBank.d561.s10.e0" text="Lotensin" type="brand"/>
+        <entity charOffset="118-136" id="DDI-DrugBank.d561.s10.e1" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="139-152" id="DDI-DrugBank.d561.s10.e2" text="chlorthalidone" type="drug"/>
+        <entity charOffset="155-164" id="DDI-DrugBank.d561.s10.e3" text="furosemide" type="drug"/>
+        <entity charOffset="167-173" id="DDI-DrugBank.d561.s10.e4" text="digoxin" type="drug"/>
+        <entity charOffset="176-186" id="DDI-DrugBank.d561.s10.e5" text="propranolol" type="drug"/>
+        <entity charOffset="189-196" id="DDI-DrugBank.d561.s10.e6" text="atenolol" type="drug"/>
+        <entity charOffset="199-206" id="DDI-DrugBank.d561.s10.e7" text="naproxen" type="drug"/>
+        <entity charOffset="212-221" id="DDI-DrugBank.d561.s10.e8" text="cimetidine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e1" id="DDI-DrugBank.d561.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e2" id="DDI-DrugBank.d561.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e3" id="DDI-DrugBank.d561.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e4" id="DDI-DrugBank.d561.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e5" id="DDI-DrugBank.d561.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e6" id="DDI-DrugBank.d561.s10.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e7" id="DDI-DrugBank.d561.s10.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e0" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e1" e2="DDI-DrugBank.d561.s10.e2" id="DDI-DrugBank.d561.s10.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e1" e2="DDI-DrugBank.d561.s10.e3" id="DDI-DrugBank.d561.s10.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e1" e2="DDI-DrugBank.d561.s10.e4" id="DDI-DrugBank.d561.s10.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e1" e2="DDI-DrugBank.d561.s10.e5" id="DDI-DrugBank.d561.s10.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e1" e2="DDI-DrugBank.d561.s10.e6" id="DDI-DrugBank.d561.s10.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e1" e2="DDI-DrugBank.d561.s10.e7" id="DDI-DrugBank.d561.s10.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e1" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e2" e2="DDI-DrugBank.d561.s10.e3" id="DDI-DrugBank.d561.s10.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e2" e2="DDI-DrugBank.d561.s10.e4" id="DDI-DrugBank.d561.s10.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e2" e2="DDI-DrugBank.d561.s10.e5" id="DDI-DrugBank.d561.s10.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e2" e2="DDI-DrugBank.d561.s10.e6" id="DDI-DrugBank.d561.s10.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e2" e2="DDI-DrugBank.d561.s10.e7" id="DDI-DrugBank.d561.s10.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e2" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e3" e2="DDI-DrugBank.d561.s10.e4" id="DDI-DrugBank.d561.s10.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e3" e2="DDI-DrugBank.d561.s10.e5" id="DDI-DrugBank.d561.s10.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e3" e2="DDI-DrugBank.d561.s10.e6" id="DDI-DrugBank.d561.s10.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e3" e2="DDI-DrugBank.d561.s10.e7" id="DDI-DrugBank.d561.s10.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e3" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e4" e2="DDI-DrugBank.d561.s10.e5" id="DDI-DrugBank.d561.s10.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e4" e2="DDI-DrugBank.d561.s10.e6" id="DDI-DrugBank.d561.s10.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e4" e2="DDI-DrugBank.d561.s10.e7" id="DDI-DrugBank.d561.s10.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e4" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e5" e2="DDI-DrugBank.d561.s10.e6" id="DDI-DrugBank.d561.s10.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e5" e2="DDI-DrugBank.d561.s10.e7" id="DDI-DrugBank.d561.s10.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e5" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e6" e2="DDI-DrugBank.d561.s10.e7" id="DDI-DrugBank.d561.s10.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e6" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s10.e7" e2="DDI-DrugBank.d561.s10.e8" id="DDI-DrugBank.d561.s10.p35"/>
+    <negationtags>Other &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; clinically important pharmacokinetic interactions occurred when Lotensin was administered concomitantly with hydrochlorothiazide, chlorthalidone, furosemide, digoxin, propranolol, atenolol, naproxen, or cimetidine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d561.s11" text="Lotensin has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, without evidence of clinically important adverse interactions.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d561.s11.e0" text="Lotensin" type="brand"/>
+        <entity charOffset="42-72" id="DDI-DrugBank.d561.s11.e1" text="beta-adrenergic-blocking agents" type="group"/>
+        <entity charOffset="75-105" id="DDI-DrugBank.d561.s11.e2" text="calcium-channel-blocking agents" type="group"/>
+        <entity charOffset="108-116" id="DDI-DrugBank.d561.s11.e3" text="diuretics" type="group"/>
+        <entity charOffset="119-125" id="DDI-DrugBank.d561.s11.e4" text="digoxin" type="drug"/>
+        <entity charOffset="132-142" id="DDI-DrugBank.d561.s11.e5" text="hydralazine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e0" e2="DDI-DrugBank.d561.s11.e1" id="DDI-DrugBank.d561.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e0" e2="DDI-DrugBank.d561.s11.e2" id="DDI-DrugBank.d561.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e0" e2="DDI-DrugBank.d561.s11.e3" id="DDI-DrugBank.d561.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e0" e2="DDI-DrugBank.d561.s11.e4" id="DDI-DrugBank.d561.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e0" e2="DDI-DrugBank.d561.s11.e5" id="DDI-DrugBank.d561.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e1" e2="DDI-DrugBank.d561.s11.e2" id="DDI-DrugBank.d561.s11.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e1" e2="DDI-DrugBank.d561.s11.e3" id="DDI-DrugBank.d561.s11.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e1" e2="DDI-DrugBank.d561.s11.e4" id="DDI-DrugBank.d561.s11.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e1" e2="DDI-DrugBank.d561.s11.e5" id="DDI-DrugBank.d561.s11.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e2" e2="DDI-DrugBank.d561.s11.e3" id="DDI-DrugBank.d561.s11.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e2" e2="DDI-DrugBank.d561.s11.e4" id="DDI-DrugBank.d561.s11.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e2" e2="DDI-DrugBank.d561.s11.e5" id="DDI-DrugBank.d561.s11.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e3" e2="DDI-DrugBank.d561.s11.e4" id="DDI-DrugBank.d561.s11.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e3" e2="DDI-DrugBank.d561.s11.e5" id="DDI-DrugBank.d561.s11.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s11.e4" e2="DDI-DrugBank.d561.s11.e5" id="DDI-DrugBank.d561.s11.p14"/>
+    <negationtags>Lotensin has been used concomitantly with beta-adrenergic-blocking agents, calcium-channel-blocking agents, diuretics, digoxin, and hydralazine, &lt;scope&gt; &lt;cue&gt; without evidence &lt;/cue&gt; of clinically important adverse interactions. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d561.s12" text="Benazepril, like other ACE inhibitors, has had less than additive effects with beta-adrenergic blockers, presumably because both drugs lower blood pressure by inhibiting parts of the renin-angiotensin system">
+        <entity charOffset="0-9" id="DDI-DrugBank.d561.s12.e0" text="Benazepril" type="drug"/>
+        <entity charOffset="23-36" id="DDI-DrugBank.d561.s12.e1" text="ACE inhibitors" type="group"/>
+        <entity charOffset="79-102" id="DDI-DrugBank.d561.s12.e2" text="beta-adrenergic blockers" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d561.s12.e0" e2="DDI-DrugBank.d561.s12.e1" id="DDI-DrugBank.d561.s12.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d561.s12.e0" e2="DDI-DrugBank.d561.s12.e2" id="DDI-DrugBank.d561.s12.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d561.s12.e1" e2="DDI-DrugBank.d561.s12.e2" id="DDI-DrugBank.d561.s12.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d561.s13" text="."/>
+    <sentence id="DDI-DrugBank.d561.s14" text=""/>
+</document>

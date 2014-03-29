@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d105">
+    <sentence id="DDI-DrugBank.d105.s0" text="Anticoagulants including coumarin derivatives, indandione derivatives, and platelet aggregation inhibitors such as nonsteroidal anti-inflammatory drugs (NSAIDs), and aspirin may increase the risk of bleeding when administered concomitantly with ardeparin.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d105.s0.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="75-105" id="DDI-DrugBank.d105.s0.e1" text="platelet aggregation inhibitors" type="group"/>
+        <entity charOffset="115-150" id="DDI-DrugBank.d105.s0.e2" text="nonsteroidal anti-inflammatory drugs" type="group"/>
+        <entity charOffset="153-158" id="DDI-DrugBank.d105.s0.e3" text="NSAIDs" type="group"/>
+        <entity charOffset="166-172" id="DDI-DrugBank.d105.s0.e4" text="aspirin" type="brand"/>
+        <entity charOffset="245-253" id="DDI-DrugBank.d105.s0.e5" text="ardeparin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e0" e2="DDI-DrugBank.d105.s0.e1" id="DDI-DrugBank.d105.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e0" e2="DDI-DrugBank.d105.s0.e2" id="DDI-DrugBank.d105.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e0" e2="DDI-DrugBank.d105.s0.e3" id="DDI-DrugBank.d105.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e0" e2="DDI-DrugBank.d105.s0.e4" id="DDI-DrugBank.d105.s0.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d105.s0.e0" e2="DDI-DrugBank.d105.s0.e5" id="DDI-DrugBank.d105.s0.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e1" e2="DDI-DrugBank.d105.s0.e2" id="DDI-DrugBank.d105.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e1" e2="DDI-DrugBank.d105.s0.e3" id="DDI-DrugBank.d105.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e1" e2="DDI-DrugBank.d105.s0.e4" id="DDI-DrugBank.d105.s0.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d105.s0.e1" e2="DDI-DrugBank.d105.s0.e5" id="DDI-DrugBank.d105.s0.p8" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e2" e2="DDI-DrugBank.d105.s0.e3" id="DDI-DrugBank.d105.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e2" e2="DDI-DrugBank.d105.s0.e4" id="DDI-DrugBank.d105.s0.p10"/>
+        <pair ddi="true" e1="DDI-DrugBank.d105.s0.e2" e2="DDI-DrugBank.d105.s0.e5" id="DDI-DrugBank.d105.s0.p11" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d105.s0.e3" e2="DDI-DrugBank.d105.s0.e4" id="DDI-DrugBank.d105.s0.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d105.s0.e3" e2="DDI-DrugBank.d105.s0.e5" id="DDI-DrugBank.d105.s0.p13" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d105.s0.e4" e2="DDI-DrugBank.d105.s0.e5" id="DDI-DrugBank.d105.s0.p14" type="effect"/>
+    </sentence>
+</document>

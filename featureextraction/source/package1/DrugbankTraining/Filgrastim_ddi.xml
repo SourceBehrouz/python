@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d1">
+    <sentence id="DDI-DrugBank.d1.s0" text="Drug interactions between NEUPOGEN  and other drugs have not been fully evaluated.">
+        <entity charOffset="26-33" id="DDI-DrugBank.d1.s0.e0" text="NEUPOGEN" type="brand"/>
+    <negationtags>DDI-DrugBank.d1.s0</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d1.s1" text="Drugs which may potentiate the release of neutrophils, such as lithium, should be used with caution.">
+        <entity charOffset="63-69" id="DDI-DrugBank.d1.s1.e0" text="lithium" type="drug"/>
+    </sentence>
+</document>

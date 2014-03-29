@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d534">
+    <sentence id="DDI-DrugBank.d534.s0" text="No formal drug interaction studies of Aranesp  have been performed.">
+        <entity charOffset="38-44" id="DDI-DrugBank.d534.s0.e0" text="Aranesp" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; formal drug interaction studies of Aranesp have been performed. &lt;/scope&gt;</negationtags></sentence>
+</document>

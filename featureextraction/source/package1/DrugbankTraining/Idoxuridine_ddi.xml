@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d91">
+    <sentence id="DDI-DrugBank.d91.s0" text="Other medicines - Although certain medicines should not be used together at all, in other cases two different medicines may be used together even if an interaction might occur."><negationtags>Other medicines - Although certain medicines should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used together at all, in other cases two different medicines may be used together even if an interaction might occur. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d91.s1" text="In these cases, your doctor may want to change the dose, or other precautions may be necessary."/>
+    <sentence id="DDI-DrugBank.d91.s2" text="When you are using idoxuridine, it is especially important that your health care professional know if you are using the following: Eye product containing boric acid.">
+        <entity charOffset="19-29" id="DDI-DrugBank.d91.s2.e0" text="idoxuridine" type="drug"/>
+        <entity charOffset="154-163" id="DDI-DrugBank.d91.s2.e1" text="boric acid" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d91.s2.e0" e2="DDI-DrugBank.d91.s2.e1" id="DDI-DrugBank.d91.s2.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d91.s3" text="Boric acid may interact with the idoxuridine preparation causing a gritty substance to form or may interact with the preservative in the idoxuridine preparation causing a toxic effect in the eye.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d91.s3.e0" text="Boric acid" type="drug"/>
+        <entity charOffset="33-43" id="DDI-DrugBank.d91.s3.e1" text="idoxuridine" type="drug"/>
+        <entity charOffset="137-147" id="DDI-DrugBank.d91.s3.e2" text="idoxuridine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d91.s3.e0" e2="DDI-DrugBank.d91.s3.e1" id="DDI-DrugBank.d91.s3.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d91.s3.e0" e2="DDI-DrugBank.d91.s3.e2" id="DDI-DrugBank.d91.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d91.s3.e1" e2="DDI-DrugBank.d91.s3.e2" id="DDI-DrugBank.d91.s3.p2"/>
+    </sentence>
+</document>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d520">
+    <sentence id="DDI-DrugBank.d520.s0" text="The renal effects of nephrotoxic compounds may be potentiated by Carboplatin.">
+        <entity charOffset="65-75" id="DDI-DrugBank.d520.s0.e0" text="Carboplatin" type="drug"/>
+    </sentence>
+</document>

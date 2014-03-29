@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d277">
+    <sentence id="DDI-DrugBank.d277.s0" text="In evaluating the potential for interactions among co-administered antiepilepsy drugs (AEDs), whether or not an AED induces or does not induce metabolic enzymes is an important consideration.">
+        <entity charOffset="87-90" id="DDI-DrugBank.d277.s0.e0" text="AEDs" type="group"/>
+        <entity charOffset="112-114" id="DDI-DrugBank.d277.s0.e1" text="AED" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s0.e0" e2="DDI-DrugBank.d277.s0.e1" id="DDI-DrugBank.d277.s0.p0"/>
+    <negationtags>In evaluating the potential for interactions among co-administered antiepilepsy drugs (AEDs), whether or &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; an AED induces or does not induce metabolic enzymes is an important consideration. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s1" text="Phenytoin, phenobarbital and carbamazepine are ge nerally classified as enzyme inducers;">
+        <entity charOffset="0-8" id="DDI-DrugBank.d277.s1.e0" text="Phenytoin" type="drug"/>
+        <entity charOffset="11-23" id="DDI-DrugBank.d277.s1.e1" text="phenobarbital" type="drug"/>
+        <entity charOffset="29-41" id="DDI-DrugBank.d277.s1.e2" text="carbamazepine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s1.e0" e2="DDI-DrugBank.d277.s1.e1" id="DDI-DrugBank.d277.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s1.e0" e2="DDI-DrugBank.d277.s1.e2" id="DDI-DrugBank.d277.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s1.e1" e2="DDI-DrugBank.d277.s1.e2" id="DDI-DrugBank.d277.s1.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d277.s2" text="valproate and gabapentin are not.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d277.s2.e0" text="valproate" type="drug"/>
+        <entity charOffset="14-23" id="DDI-DrugBank.d277.s2.e1" text="gabapentin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s2.e0" e2="DDI-DrugBank.d277.s2.e1" id="DDI-DrugBank.d277.s2.p0"/>
+    <negationtags>valproate and gabapentin are &lt;scope&gt; &lt;cue&gt; not. &lt;/cue&gt; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s3" text="GABITRIL is considered to be a non-enzyme inducing AED.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d277.s3.e0" text="GABITRIL" type="brand"/>
+        <entity charOffset="51-53" id="DDI-DrugBank.d277.s3.e1" text="AED" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s3.e0" e2="DDI-DrugBank.d277.s3.e1" id="DDI-DrugBank.d277.s3.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d277.s4" text="The drug interaction data described in this section were obtained from studies involving either healthy subjects or patients with epilepsy."/>
+    <sentence id="DDI-DrugBank.d277.s5" text="Effects of GABITRIL on other Antiepilepsy Drugs (AEDs) : Phenytoin: Tiagabine had no effect on the steady-state plasma concentrations of phenytoin in patients with epilepsy.">
+        <entity charOffset="11-18" id="DDI-DrugBank.d277.s5.e0" text="GABITRIL" type="brand"/>
+        <entity charOffset="49-52" id="DDI-DrugBank.d277.s5.e1" text="AEDs" type="group"/>
+        <entity charOffset="57-65" id="DDI-DrugBank.d277.s5.e2" text="Phenytoin" type="drug"/>
+        <entity charOffset="68-76" id="DDI-DrugBank.d277.s5.e3" text="Tiagabine" type="drug"/>
+        <entity charOffset="137-145" id="DDI-DrugBank.d277.s5.e4" text="phenytoin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e0" e2="DDI-DrugBank.d277.s5.e1" id="DDI-DrugBank.d277.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e0" e2="DDI-DrugBank.d277.s5.e2" id="DDI-DrugBank.d277.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e0" e2="DDI-DrugBank.d277.s5.e3" id="DDI-DrugBank.d277.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e0" e2="DDI-DrugBank.d277.s5.e4" id="DDI-DrugBank.d277.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e1" e2="DDI-DrugBank.d277.s5.e2" id="DDI-DrugBank.d277.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e1" e2="DDI-DrugBank.d277.s5.e3" id="DDI-DrugBank.d277.s5.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e1" e2="DDI-DrugBank.d277.s5.e4" id="DDI-DrugBank.d277.s5.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e2" e2="DDI-DrugBank.d277.s5.e3" id="DDI-DrugBank.d277.s5.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e2" e2="DDI-DrugBank.d277.s5.e4" id="DDI-DrugBank.d277.s5.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s5.e3" e2="DDI-DrugBank.d277.s5.e4" id="DDI-DrugBank.d277.s5.p9"/>
+    <negationtags>Effects of GABITRIL on other Antiepilepsy Drugs (AEDs) : Phenytoin: Tiagabine &lt;scope&gt; &lt;cue&gt; had &lt;/cue&gt; no effect on the steady-state plasma concentrations of phenytoin in patients with &lt;/scope&gt; epilepsy.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s6" text="Carbamazepine: Tiagabine had no effect on the steady-state plasma concentrations of carbamazepine or its epoxide metabolite in patients with epilepsy.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d277.s6.e0" text="Carbamazepine" type="drug"/>
+        <entity charOffset="15-23" id="DDI-DrugBank.d277.s6.e1" text="Tiagabine" type="drug"/>
+        <entity charOffset="84-96" id="DDI-DrugBank.d277.s6.e2" text="carbamazepine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s6.e0" e2="DDI-DrugBank.d277.s6.e1" id="DDI-DrugBank.d277.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s6.e0" e2="DDI-DrugBank.d277.s6.e2" id="DDI-DrugBank.d277.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s6.e1" e2="DDI-DrugBank.d277.s6.e2" id="DDI-DrugBank.d277.s6.p2"/>
+    <negationtags>Carbamazepine: Tiagabine had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the steady-state plasma concentrations of carbamazepine or its epoxide metabolite in patients with epilepsy. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s7" text="Valproate: Tiagabine causes a slight decrease (about 10%) in steady-state valproate concentrations.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d277.s7.e0" text="Valproate" type="drug"/>
+        <entity charOffset="11-19" id="DDI-DrugBank.d277.s7.e1" text="Tiagabine" type="drug"/>
+        <entity charOffset="74-82" id="DDI-DrugBank.d277.s7.e2" text="valproate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s7.e0" e2="DDI-DrugBank.d277.s7.e1" id="DDI-DrugBank.d277.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s7.e0" e2="DDI-DrugBank.d277.s7.e2" id="DDI-DrugBank.d277.s7.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s7.e1" e2="DDI-DrugBank.d277.s7.e2" id="DDI-DrugBank.d277.s7.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d277.s8" text="Phenobarbital or Primidone : No formal pharmacokinetic studies have been performed examining the addition of tiagabine to regimens containing phenobarbital or primidone.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d277.s8.e0" text="Phenobarbital" type="drug"/>
+        <entity charOffset="17-25" id="DDI-DrugBank.d277.s8.e1" text="Primidone" type="drug"/>
+        <entity charOffset="109-117" id="DDI-DrugBank.d277.s8.e2" text="tiagabine" type="drug"/>
+        <entity charOffset="142-154" id="DDI-DrugBank.d277.s8.e3" text="phenobarbital" type="drug"/>
+        <entity charOffset="159-167" id="DDI-DrugBank.d277.s8.e4" text="primidone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e0" e2="DDI-DrugBank.d277.s8.e1" id="DDI-DrugBank.d277.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e0" e2="DDI-DrugBank.d277.s8.e2" id="DDI-DrugBank.d277.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e0" e2="DDI-DrugBank.d277.s8.e3" id="DDI-DrugBank.d277.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e0" e2="DDI-DrugBank.d277.s8.e4" id="DDI-DrugBank.d277.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e1" e2="DDI-DrugBank.d277.s8.e2" id="DDI-DrugBank.d277.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e1" e2="DDI-DrugBank.d277.s8.e3" id="DDI-DrugBank.d277.s8.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e1" e2="DDI-DrugBank.d277.s8.e4" id="DDI-DrugBank.d277.s8.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e2" e2="DDI-DrugBank.d277.s8.e3" id="DDI-DrugBank.d277.s8.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e2" e2="DDI-DrugBank.d277.s8.e4" id="DDI-DrugBank.d277.s8.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s8.e3" e2="DDI-DrugBank.d277.s8.e4" id="DDI-DrugBank.d277.s8.p9"/>
+    <negationtags>Phenobarbital or Primidone &lt;scope&gt; &lt;cue&gt; : &lt;/cue&gt; No formal pharmacokinetic studies have been performed examining the addition of tiagabine to regimens containing phenobarbital or &lt;/scope&gt; primidone.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s9" text="The addition of tiagabine in a limited number of patients in three well-controlled studies caused no systematic changes in phenobarbital or primidone concentrations when compared to placebo.">
+        <entity charOffset="16-24" id="DDI-DrugBank.d277.s9.e0" text="tiagabine" type="drug"/>
+        <entity charOffset="123-135" id="DDI-DrugBank.d277.s9.e1" text="phenobarbital" type="drug"/>
+        <entity charOffset="140-148" id="DDI-DrugBank.d277.s9.e2" text="primidone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s9.e0" e2="DDI-DrugBank.d277.s9.e1" id="DDI-DrugBank.d277.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s9.e0" e2="DDI-DrugBank.d277.s9.e2" id="DDI-DrugBank.d277.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s9.e1" e2="DDI-DrugBank.d277.s9.e2" id="DDI-DrugBank.d277.s9.p2"/>
+    <negationtags>The addition of tiagabine in a limited number of patients in three well-controlled studies caused &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; systematic changes in phenobarbital or primidone concentrations when compared to placebo. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s10" text="Effects of other Antiepilepsy Drugs (AEDs) on GABITRIL : Carbamazepine: Population pharmacokinetic analyses indicate that tiagabine clearance is 60% greater in patients taking carbamazepine with or without other enzyme- inducing AEDs.">
+        <entity charOffset="37-40" id="DDI-DrugBank.d277.s10.e0" text="AEDs" type="group"/>
+        <entity charOffset="46-53" id="DDI-DrugBank.d277.s10.e1" text="GABITRIL" type="brand"/>
+        <entity charOffset="57-69" id="DDI-DrugBank.d277.s10.e2" text="Carbamazepine" type="drug"/>
+        <entity charOffset="122-130" id="DDI-DrugBank.d277.s10.e3" text="tiagabine" type="drug"/>
+        <entity charOffset="176-188" id="DDI-DrugBank.d277.s10.e4" text="carbamazepine" type="drug"/>
+        <entity charOffset="229-232" id="DDI-DrugBank.d277.s10.e5" text="AEDs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e0" e2="DDI-DrugBank.d277.s10.e1" id="DDI-DrugBank.d277.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e0" e2="DDI-DrugBank.d277.s10.e2" id="DDI-DrugBank.d277.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e0" e2="DDI-DrugBank.d277.s10.e3" id="DDI-DrugBank.d277.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e0" e2="DDI-DrugBank.d277.s10.e4" id="DDI-DrugBank.d277.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e0" e2="DDI-DrugBank.d277.s10.e5" id="DDI-DrugBank.d277.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e1" e2="DDI-DrugBank.d277.s10.e2" id="DDI-DrugBank.d277.s10.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e1" e2="DDI-DrugBank.d277.s10.e3" id="DDI-DrugBank.d277.s10.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e1" e2="DDI-DrugBank.d277.s10.e4" id="DDI-DrugBank.d277.s10.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e1" e2="DDI-DrugBank.d277.s10.e5" id="DDI-DrugBank.d277.s10.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e2" e2="DDI-DrugBank.d277.s10.e3" id="DDI-DrugBank.d277.s10.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e2" e2="DDI-DrugBank.d277.s10.e4" id="DDI-DrugBank.d277.s10.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e2" e2="DDI-DrugBank.d277.s10.e5" id="DDI-DrugBank.d277.s10.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s10.e3" e2="DDI-DrugBank.d277.s10.e4" id="DDI-DrugBank.d277.s10.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e3" e2="DDI-DrugBank.d277.s10.e5" id="DDI-DrugBank.d277.s10.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s10.e4" e2="DDI-DrugBank.d277.s10.e5" id="DDI-DrugBank.d277.s10.p14"/>
+    <negationtags>Effects of other Antiepilepsy Drugs (AEDs) on GABITRIL : Carbamazepine: Population pharmacokinetic analyses indicate that tiagabine clearance is 60% greater in patients taking carbamazepine with &lt;scope&gt; &lt;cue&gt; or &lt;/cue&gt; without other enzyme- inducing &lt;/scope&gt; AEDs.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s11" text="Phenytoin: Population pharmacokinetic analyses indicate that tiagabine clearance is 60% greater in patients taking phenytoin with or without other enzyme- inducing AEDs.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d277.s11.e0" text="Phenytoin" type="drug"/>
+        <entity charOffset="61-69" id="DDI-DrugBank.d277.s11.e1" text="tiagabine" type="drug"/>
+        <entity charOffset="115-123" id="DDI-DrugBank.d277.s11.e2" text="phenytoin" type="drug"/>
+        <entity charOffset="164-167" id="DDI-DrugBank.d277.s11.e3" text="AEDs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s11.e0" e2="DDI-DrugBank.d277.s11.e1" id="DDI-DrugBank.d277.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s11.e0" e2="DDI-DrugBank.d277.s11.e2" id="DDI-DrugBank.d277.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s11.e0" e2="DDI-DrugBank.d277.s11.e3" id="DDI-DrugBank.d277.s11.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s11.e1" e2="DDI-DrugBank.d277.s11.e2" id="DDI-DrugBank.d277.s11.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s11.e1" e2="DDI-DrugBank.d277.s11.e3" id="DDI-DrugBank.d277.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s11.e2" e2="DDI-DrugBank.d277.s11.e3" id="DDI-DrugBank.d277.s11.p5"/>
+    <negationtags>Phenytoin: Population pharmacokinetic analyses indicate that tiagabine clearance is 60% greater in patients taking phenytoin with or &lt;scope&gt; &lt;cue&gt; without &lt;/cue&gt; other enzyme- inducing AEDs. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s12" text="Phenobarbital (Primidone): Population pharmacokinetic analyses indicate that tiagabine clearance is 60% greater in patients taking phenobarbital (primidone) with or without other enzyme-inducing AEDs.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d277.s12.e0" text="Phenobarbital" type="drug"/>
+        <entity charOffset="15-23" id="DDI-DrugBank.d277.s12.e1" text="Primidone" type="drug"/>
+        <entity charOffset="77-85" id="DDI-DrugBank.d277.s12.e2" text="tiagabine" type="drug"/>
+        <entity charOffset="131-143" id="DDI-DrugBank.d277.s12.e3" text="phenobarbital" type="drug"/>
+        <entity charOffset="146-154" id="DDI-DrugBank.d277.s12.e4" text="primidone" type="drug"/>
+        <entity charOffset="195-198" id="DDI-DrugBank.d277.s12.e5" text="AEDs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e0" e2="DDI-DrugBank.d277.s12.e1" id="DDI-DrugBank.d277.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e0" e2="DDI-DrugBank.d277.s12.e2" id="DDI-DrugBank.d277.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e0" e2="DDI-DrugBank.d277.s12.e3" id="DDI-DrugBank.d277.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e0" e2="DDI-DrugBank.d277.s12.e4" id="DDI-DrugBank.d277.s12.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e0" e2="DDI-DrugBank.d277.s12.e5" id="DDI-DrugBank.d277.s12.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e1" e2="DDI-DrugBank.d277.s12.e2" id="DDI-DrugBank.d277.s12.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e1" e2="DDI-DrugBank.d277.s12.e3" id="DDI-DrugBank.d277.s12.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e1" e2="DDI-DrugBank.d277.s12.e4" id="DDI-DrugBank.d277.s12.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e1" e2="DDI-DrugBank.d277.s12.e5" id="DDI-DrugBank.d277.s12.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s12.e2" e2="DDI-DrugBank.d277.s12.e3" id="DDI-DrugBank.d277.s12.p9" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s12.e2" e2="DDI-DrugBank.d277.s12.e4" id="DDI-DrugBank.d277.s12.p10" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e2" e2="DDI-DrugBank.d277.s12.e5" id="DDI-DrugBank.d277.s12.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e3" e2="DDI-DrugBank.d277.s12.e4" id="DDI-DrugBank.d277.s12.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e3" e2="DDI-DrugBank.d277.s12.e5" id="DDI-DrugBank.d277.s12.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s12.e4" e2="DDI-DrugBank.d277.s12.e5" id="DDI-DrugBank.d277.s12.p14"/>
+    <negationtags>Phenobarbital (Primidone): Population pharmacokinetic analyses indicate that tiagabine clearance is 60% greater in patients taking phenobarbital (primidone) with or &lt;scope&gt; &lt;cue&gt; without &lt;/cue&gt; other enzyme-inducing AEDs. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s13" text="Valproate: The addition of tiagabine to patients taking valproate chronically had no effect on tiagabine pharmacokinetics, but valproate significantly decreased tiagabine binding in vitro from 96.3 to 94.8%, which resulted in an increase of approximately 40% in the free tiagabine concentration.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d277.s13.e0" text="Valproate" type="drug"/>
+        <entity charOffset="27-35" id="DDI-DrugBank.d277.s13.e1" text="tiagabine" type="drug"/>
+        <entity charOffset="56-64" id="DDI-DrugBank.d277.s13.e2" text="valproate" type="drug"/>
+        <entity charOffset="95-103" id="DDI-DrugBank.d277.s13.e3" text="tiagabine" type="drug"/>
+        <entity charOffset="127-135" id="DDI-DrugBank.d277.s13.e4" text="valproate" type="drug"/>
+        <entity charOffset="161-169" id="DDI-DrugBank.d277.s13.e5" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e0" e2="DDI-DrugBank.d277.s13.e1" id="DDI-DrugBank.d277.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e0" e2="DDI-DrugBank.d277.s13.e2" id="DDI-DrugBank.d277.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e0" e2="DDI-DrugBank.d277.s13.e3" id="DDI-DrugBank.d277.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e0" e2="DDI-DrugBank.d277.s13.e4" id="DDI-DrugBank.d277.s13.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e0" e2="DDI-DrugBank.d277.s13.e5" id="DDI-DrugBank.d277.s13.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e1" e2="DDI-DrugBank.d277.s13.e2" id="DDI-DrugBank.d277.s13.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e1" e2="DDI-DrugBank.d277.s13.e3" id="DDI-DrugBank.d277.s13.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e1" e2="DDI-DrugBank.d277.s13.e4" id="DDI-DrugBank.d277.s13.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e1" e2="DDI-DrugBank.d277.s13.e5" id="DDI-DrugBank.d277.s13.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e2" e2="DDI-DrugBank.d277.s13.e3" id="DDI-DrugBank.d277.s13.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e2" e2="DDI-DrugBank.d277.s13.e4" id="DDI-DrugBank.d277.s13.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e2" e2="DDI-DrugBank.d277.s13.e5" id="DDI-DrugBank.d277.s13.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e3" e2="DDI-DrugBank.d277.s13.e4" id="DDI-DrugBank.d277.s13.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s13.e3" e2="DDI-DrugBank.d277.s13.e5" id="DDI-DrugBank.d277.s13.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s13.e4" e2="DDI-DrugBank.d277.s13.e5" id="DDI-DrugBank.d277.s13.p14" type="mechanism"/>
+    <negationtags>Valproate: The addition of tiagabine to patients taking valproate chronically had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on tiagabine pharmacokinetics, &lt;/scope&gt; but valproate significantly decreased tiagabine binding in vitro from 96.3 to 94.8%, which resulted in an increase of approximately 40% in the free tiagabine concentration.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s14" text="The clinical relevance of this in vitro finding is unknown."/>
+    <sentence id="DDI-DrugBank.d277.s15" text="Interaction of GABITRIL with Other Drugs : Cimetidine : Co-administration of cimetidine (800 mg/day) to patients taking tiagabine chronically had no effect on tiagabine pharmacokinetics.">
+        <entity charOffset="15-22" id="DDI-DrugBank.d277.s15.e0" text="GABITRIL" type="brand"/>
+        <entity charOffset="43-52" id="DDI-DrugBank.d277.s15.e1" text="Cimetidine" type="drug"/>
+        <entity charOffset="77-86" id="DDI-DrugBank.d277.s15.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="120-128" id="DDI-DrugBank.d277.s15.e3" text="tiagabine" type="drug"/>
+        <entity charOffset="159-167" id="DDI-DrugBank.d277.s15.e4" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e0" e2="DDI-DrugBank.d277.s15.e1" id="DDI-DrugBank.d277.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e0" e2="DDI-DrugBank.d277.s15.e2" id="DDI-DrugBank.d277.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e0" e2="DDI-DrugBank.d277.s15.e3" id="DDI-DrugBank.d277.s15.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e0" e2="DDI-DrugBank.d277.s15.e4" id="DDI-DrugBank.d277.s15.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e1" e2="DDI-DrugBank.d277.s15.e2" id="DDI-DrugBank.d277.s15.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e1" e2="DDI-DrugBank.d277.s15.e3" id="DDI-DrugBank.d277.s15.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e1" e2="DDI-DrugBank.d277.s15.e4" id="DDI-DrugBank.d277.s15.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e2" e2="DDI-DrugBank.d277.s15.e3" id="DDI-DrugBank.d277.s15.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e2" e2="DDI-DrugBank.d277.s15.e4" id="DDI-DrugBank.d277.s15.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s15.e3" e2="DDI-DrugBank.d277.s15.e4" id="DDI-DrugBank.d277.s15.p9"/>
+    <negationtags>Interaction of GABITRIL with Other Drugs : Cimetidine : Co-administration of cimetidine (800 mg/day) to patients taking tiagabine &lt;scope&gt; &lt;cue&gt; chronically &lt;/cue&gt; had no effect on &lt;/scope&gt; tiagabine pharmacokinetics.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s16" text="Theophylline: A single 10 mg dose of tiagabine did not affect the pharmacokinetics of theophylline at steady state.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d277.s16.e0" text="Theophylline" type="drug"/>
+        <entity charOffset="37-45" id="DDI-DrugBank.d277.s16.e1" text="tiagabine" type="drug"/>
+        <entity charOffset="86-97" id="DDI-DrugBank.d277.s16.e2" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s16.e0" e2="DDI-DrugBank.d277.s16.e1" id="DDI-DrugBank.d277.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s16.e0" e2="DDI-DrugBank.d277.s16.e2" id="DDI-DrugBank.d277.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s16.e1" e2="DDI-DrugBank.d277.s16.e2" id="DDI-DrugBank.d277.s16.p2"/>
+    <negationtags>Theophylline: A single 10 mg dose of tiagabine did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the pharmacokinetics of theophylline at steady state. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s17" text="Warfarin: No significant differences were observed in the steady-state pharmacokinetics of R-warfarin or S-warfarin with the addition of tiagabine given as a single dose.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d277.s17.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="91-100" id="DDI-DrugBank.d277.s17.e1" text="R-warfarin" type="drug"/>
+        <entity charOffset="105-114" id="DDI-DrugBank.d277.s17.e2" text="S-warfarin" type="drug"/>
+        <entity charOffset="137-145" id="DDI-DrugBank.d277.s17.e3" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s17.e0" e2="DDI-DrugBank.d277.s17.e1" id="DDI-DrugBank.d277.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s17.e0" e2="DDI-DrugBank.d277.s17.e2" id="DDI-DrugBank.d277.s17.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s17.e0" e2="DDI-DrugBank.d277.s17.e3" id="DDI-DrugBank.d277.s17.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s17.e1" e2="DDI-DrugBank.d277.s17.e2" id="DDI-DrugBank.d277.s17.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s17.e1" e2="DDI-DrugBank.d277.s17.e3" id="DDI-DrugBank.d277.s17.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s17.e2" e2="DDI-DrugBank.d277.s17.e3" id="DDI-DrugBank.d277.s17.p5"/>
+    <negationtags>Warfarin: &lt;scope&gt; &lt;cue&gt; No significant &lt;/cue&gt; differences were observed in the steady-state pharmacokinetics of R-warfarin or S-warfarin with the addition of tiagabine given as a single dose. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s18" text="Prothrombin times were not affected by tiagabine.">
+        <entity charOffset="39-47" id="DDI-DrugBank.d277.s18.e0" text="tiagabine" type="drug"/>
+    <negationtags>Prothrombin times were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected by tiagabine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s19" text="Digoxin: Concomitant administration of tiagabine did not affect the steady-state pharmacokinetics of digoxin or the mean daily trough serum level of digoxin.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d277.s19.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="39-47" id="DDI-DrugBank.d277.s19.e1" text="tiagabine" type="drug"/>
+        <entity charOffset="101-107" id="DDI-DrugBank.d277.s19.e2" text="digoxin" type="drug"/>
+        <entity charOffset="149-155" id="DDI-DrugBank.d277.s19.e3" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s19.e0" e2="DDI-DrugBank.d277.s19.e1" id="DDI-DrugBank.d277.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s19.e0" e2="DDI-DrugBank.d277.s19.e2" id="DDI-DrugBank.d277.s19.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s19.e0" e2="DDI-DrugBank.d277.s19.e3" id="DDI-DrugBank.d277.s19.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s19.e1" e2="DDI-DrugBank.d277.s19.e2" id="DDI-DrugBank.d277.s19.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s19.e1" e2="DDI-DrugBank.d277.s19.e3" id="DDI-DrugBank.d277.s19.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s19.e2" e2="DDI-DrugBank.d277.s19.e3" id="DDI-DrugBank.d277.s19.p5"/>
+    <negationtags>Digoxin: Concomitant administration of tiagabine did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the steady-state pharmacokinetics of digoxin or the mean daily trough serum level of digoxin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s20" text="Ethanol or Triazolam: No significant differences were observed in the pharmacokinetics of triazolam (0.125 mg) and tiagabine (10 mg) when given together as a single dose.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d277.s20.e0" text="Ethanol" type="drug"/>
+        <entity charOffset="11-19" id="DDI-DrugBank.d277.s20.e1" text="Triazolam" type="drug"/>
+        <entity charOffset="90-98" id="DDI-DrugBank.d277.s20.e2" text="triazolam" type="drug"/>
+        <entity charOffset="115-123" id="DDI-DrugBank.d277.s20.e3" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s20.e0" e2="DDI-DrugBank.d277.s20.e1" id="DDI-DrugBank.d277.s20.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s20.e0" e2="DDI-DrugBank.d277.s20.e2" id="DDI-DrugBank.d277.s20.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s20.e0" e2="DDI-DrugBank.d277.s20.e3" id="DDI-DrugBank.d277.s20.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s20.e1" e2="DDI-DrugBank.d277.s20.e2" id="DDI-DrugBank.d277.s20.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s20.e1" e2="DDI-DrugBank.d277.s20.e3" id="DDI-DrugBank.d277.s20.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s20.e2" e2="DDI-DrugBank.d277.s20.e3" id="DDI-DrugBank.d277.s20.p5"/>
+    <negationtags>Ethanol or Triazolam: &lt;scope&gt; &lt;cue&gt; No significant &lt;/cue&gt; differences were observed in the pharmacokinetics of triazolam (0.125 mg) and tiagabine (10 mg) when given together as a single dose. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s21" text="The pharmacokinetics of ethanol were not affected by multiple-dose administration of tiagabine.">
+        <entity charOffset="24-30" id="DDI-DrugBank.d277.s21.e0" text="ethanol" type="drug"/>
+        <entity charOffset="85-93" id="DDI-DrugBank.d277.s21.e1" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s21.e0" e2="DDI-DrugBank.d277.s21.e1" id="DDI-DrugBank.d277.s21.p0"/>
+    <negationtags>The pharmacokinetics of ethanol were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected by multiple-dose administration of tiagabine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s22" text="Tiagabine has shown no clinically important potentiation of the pharmacodynamic effects of triazo lam or alcohol.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d277.s22.e0" text="Tiagabine" type="drug"/>
+        <entity charOffset="105-111" id="DDI-DrugBank.d277.s22.e1" text="alcohol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s22.e0" e2="DDI-DrugBank.d277.s22.e1" id="DDI-DrugBank.d277.s22.p0"/>
+    <negationtags>Tiagabine has shown &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically important potentiation of the pharmacodynamic effects of triazo lam or alcohol. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s23" text="Because of the possible additive effects of drugs that may depress the nervous system, ethanol or triazolam should be used cautiously in combination with tiagabine.">
+        <entity charOffset="87-93" id="DDI-DrugBank.d277.s23.e0" text="ethanol" type="drug"/>
+        <entity charOffset="98-106" id="DDI-DrugBank.d277.s23.e1" text="triazolam" type="drug"/>
+        <entity charOffset="154-162" id="DDI-DrugBank.d277.s23.e2" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s23.e0" e2="DDI-DrugBank.d277.s23.e1" id="DDI-DrugBank.d277.s23.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s23.e0" e2="DDI-DrugBank.d277.s23.e2" id="DDI-DrugBank.d277.s23.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d277.s23.e1" e2="DDI-DrugBank.d277.s23.e2" id="DDI-DrugBank.d277.s23.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d277.s24" text="Oral Contraceptives: Multiple dose administration of tiagabine (8 mg/day monotherapy) did not alter the pharmacokinetics of oral contraceptives in healthy women of childbearing age.">
+        <entity charOffset="5-18" id="DDI-DrugBank.d277.s24.e0" text="Contraceptives" type="group"/>
+        <entity charOffset="53-61" id="DDI-DrugBank.d277.s24.e1" text="tiagabine" type="drug"/>
+        <entity charOffset="129-142" id="DDI-DrugBank.d277.s24.e2" text="contraceptives" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s24.e0" e2="DDI-DrugBank.d277.s24.e1" id="DDI-DrugBank.d277.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s24.e0" e2="DDI-DrugBank.d277.s24.e2" id="DDI-DrugBank.d277.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s24.e1" e2="DDI-DrugBank.d277.s24.e2" id="DDI-DrugBank.d277.s24.p2"/>
+    <negationtags>Oral Contraceptives: Multiple dose administration of tiagabine (8 mg/day monotherapy) did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; alter the pharmacokinetics of oral contraceptives in healthy women of childbearing age. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s25" text="Antipyrine : Antipyrine pharmacokinetics were not significantly different before and after tiagabine multiple-dose regimens.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d277.s25.e0" text="Antipyrine" type="drug"/>
+        <entity charOffset="13-22" id="DDI-DrugBank.d277.s25.e1" text="Antipyrine" type="drug"/>
+        <entity charOffset="91-99" id="DDI-DrugBank.d277.s25.e2" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s25.e0" e2="DDI-DrugBank.d277.s25.e1" id="DDI-DrugBank.d277.s25.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s25.e0" e2="DDI-DrugBank.d277.s25.e2" id="DDI-DrugBank.d277.s25.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s25.e1" e2="DDI-DrugBank.d277.s25.e2" id="DDI-DrugBank.d277.s25.p2"/>
+    <negationtags>Antipyrine : Antipyrine pharmacokinetics &lt;scope&gt; &lt;cue&gt; were &lt;/cue&gt; not significantly different before and after tiagabine multiple-dose &lt;/scope&gt; regimens.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d277.s26" text="This indicates that tiagabine does not cause induction or inhibition of the hepatic microsomal enzyme systems responsible for the metabolism of antipyrine.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d277.s26.e0" text="tiagabine" type="drug"/>
+        <entity charOffset="144-153" id="DDI-DrugBank.d277.s26.e1" text="antipyrine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s26.e0" e2="DDI-DrugBank.d277.s26.e1" id="DDI-DrugBank.d277.s26.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d277.s27" text="Interaction of GABITRIL with Highly Protein Bound Drugs: In vitro data showed that tiagabine is 96% bound to human plasma protein and therefore has the potential to interact with other highly protein bound compounds.">
+        <entity charOffset="15-22" id="DDI-DrugBank.d277.s27.e0" text="GABITRIL" type="brand"/>
+        <entity charOffset="83-91" id="DDI-DrugBank.d277.s27.e1" text="tiagabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d277.s27.e0" e2="DDI-DrugBank.d277.s27.e1" id="DDI-DrugBank.d277.s27.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d277.s28" text="Such an interaction can potentially lead to higher free fractions of either tiagabine or the competing drug.">
+        <entity charOffset="76-84" id="DDI-DrugBank.d277.s28.e0" text="tiagabine" type="drug"/>
+    </sentence>
+</document>

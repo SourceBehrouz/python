@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d460">
+    <sentence id="DDI-DrugBank.d460.s0" text="In vitro drug metabolism studies indicate that Starlix is predominantly metabolized by the cytochrome P450 isozyme CYP2C9 (70%) and to a lesser extent CYP3A4 (30%).">
+        <entity charOffset="47-53" id="DDI-DrugBank.d460.s0.e0" text="Starlix" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d460.s1" text="Starlix is a potential inhibitor of the CYP2C9 isoenzyme in vivo as indicated by its ability to inhibit the in vitro metabolism of tolbutamide.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d460.s1.e0" text="Starlix" type="brand"/>
+        <entity charOffset="131-141" id="DDI-DrugBank.d460.s1.e1" text="tolbutamide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s1.e0" e2="DDI-DrugBank.d460.s1.e1" id="DDI-DrugBank.d460.s1.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d460.s2" text="Inhibition of CYP3A4 metabolic reactions was not detected in in vitro experiments."><negationtags>Inhibition of CYP3A4 metabolic reactions was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; detected in in vitro experiments. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s3" text="Glyburide: In a randomized, multiple-dose crossover study, patients with Type 2 diabetes were administered 120 mg Starlix three times a day before meals for 1 day in combination with glyburide 10 mg daily.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d460.s3.e0" text="Glyburide" type="drug"/>
+        <entity charOffset="114-120" id="DDI-DrugBank.d460.s3.e1" text="Starlix" type="brand"/>
+        <entity charOffset="183-191" id="DDI-DrugBank.d460.s3.e2" text="glyburide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s3.e0" e2="DDI-DrugBank.d460.s3.e1" id="DDI-DrugBank.d460.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s3.e0" e2="DDI-DrugBank.d460.s3.e2" id="DDI-DrugBank.d460.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s3.e1" e2="DDI-DrugBank.d460.s3.e2" id="DDI-DrugBank.d460.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d460.s4" text="There were no clinically relevant alterations in the pharmacokinetics of either agent."><negationtags>There were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically relevant alterations in the pharmacokinetics of either agent. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s5" text="Metformin: When Starlix 120 mg three times daily before meals was administered in combination with metformin 500 mg three times daily to patients with Type 2 diabetes, there were no clinically relevant changes in the pharmacokinetics of either agent.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d460.s5.e0" text="Metformin" type="drug"/>
+        <entity charOffset="16-22" id="DDI-DrugBank.d460.s5.e1" text="Starlix" type="brand"/>
+        <entity charOffset="99-107" id="DDI-DrugBank.d460.s5.e2" text="metformin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s5.e0" e2="DDI-DrugBank.d460.s5.e1" id="DDI-DrugBank.d460.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s5.e0" e2="DDI-DrugBank.d460.s5.e2" id="DDI-DrugBank.d460.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s5.e1" e2="DDI-DrugBank.d460.s5.e2" id="DDI-DrugBank.d460.s5.p2"/>
+    <negationtags>Metformin: When Starlix 120 mg three times daily before meals was administered in combination with metformin 500 mg three times daily to patients with Type 2 diabetes, there were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically relevant changes in the pharmacokinetics of either agent. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s6" text="Digoxin: When Starlix 120 mg before meals was administered in combination with a single 1-mg dose of digoxin to healthy volunteers, there were no clinically relevant changes in the pharmacokinetics of either agent.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d460.s6.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="14-20" id="DDI-DrugBank.d460.s6.e1" text="Starlix" type="brand"/>
+        <entity charOffset="101-107" id="DDI-DrugBank.d460.s6.e2" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s6.e0" e2="DDI-DrugBank.d460.s6.e1" id="DDI-DrugBank.d460.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s6.e0" e2="DDI-DrugBank.d460.s6.e2" id="DDI-DrugBank.d460.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s6.e1" e2="DDI-DrugBank.d460.s6.e2" id="DDI-DrugBank.d460.s6.p2"/>
+    <negationtags>Digoxin: When Starlix 120 mg before meals was administered in combination with a single 1-mg dose of digoxin to healthy volunteers, there were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically relevant changes in the pharmacokinetics of either agent. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s7" text="Warfarin: When healthy subjects were administered Starlix 120 mg three times daily before meals for four days in combination with a single dose of warfarin 30 mg on day 2, there were no alterations in the pharmacokinetics of either agent.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d460.s7.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="50-56" id="DDI-DrugBank.d460.s7.e1" text="Starlix" type="brand"/>
+        <entity charOffset="147-154" id="DDI-DrugBank.d460.s7.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s7.e0" e2="DDI-DrugBank.d460.s7.e1" id="DDI-DrugBank.d460.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s7.e0" e2="DDI-DrugBank.d460.s7.e2" id="DDI-DrugBank.d460.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s7.e1" e2="DDI-DrugBank.d460.s7.e2" id="DDI-DrugBank.d460.s7.p2"/>
+    <negationtags>Warfarin: When healthy subjects were administered Starlix 120 mg three times daily before meals for four days in combination with a single dose of warfarin 30 mg on day 2, there were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; alterations in the pharmacokinetics of either agent. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s8" text="Prothrombin time was not affected."><negationtags>Prothrombin time was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s9" text="Diclofenac: Administration of morning and lunch doses of Starlix 120 mg in combination with a single 75-mg dose of diclofenac in healthy volunteers resulted in no significant changes to the pharmacokinetics of either agent.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d460.s9.e0" text="Diclofenac" type="drug"/>
+        <entity charOffset="57-63" id="DDI-DrugBank.d460.s9.e1" text="Starlix" type="brand"/>
+        <entity charOffset="115-124" id="DDI-DrugBank.d460.s9.e2" text="diclofenac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s9.e0" e2="DDI-DrugBank.d460.s9.e1" id="DDI-DrugBank.d460.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s9.e0" e2="DDI-DrugBank.d460.s9.e2" id="DDI-DrugBank.d460.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s9.e1" e2="DDI-DrugBank.d460.s9.e2" id="DDI-DrugBank.d460.s9.p2"/>
+    <negationtags>Diclofenac: Administration of morning and lunch doses of Starlix 120 mg in combination with a single 75-mg dose of diclofenac in healthy volunteers resulted in &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; changes to the pharmacokinetics of either agent. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s10" text="Nateglinide is highly bound to plasma proteins (98%), mainly albumin.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d460.s10.e0" text="Nateglinide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d460.s11" text="In vitro displacement studies with highly protein-bound drugs such as furosemide, propranolol, captopril, nicardipine, pravastatin, glyburide, warfarin, phenytoin, acetylsalicylic acid, tolbutamide, and metformin showed no influence on the extent of nateglinide protein binding.">
+        <entity charOffset="70-79" id="DDI-DrugBank.d460.s11.e0" text="furosemide" type="drug"/>
+        <entity charOffset="82-92" id="DDI-DrugBank.d460.s11.e1" text="propranolol" type="drug"/>
+        <entity charOffset="95-103" id="DDI-DrugBank.d460.s11.e2" text="captopril" type="drug"/>
+        <entity charOffset="106-116" id="DDI-DrugBank.d460.s11.e3" text="nicardipine" type="drug"/>
+        <entity charOffset="119-129" id="DDI-DrugBank.d460.s11.e4" text="pravastatin" type="drug"/>
+        <entity charOffset="132-140" id="DDI-DrugBank.d460.s11.e5" text="glyburide" type="drug"/>
+        <entity charOffset="143-150" id="DDI-DrugBank.d460.s11.e6" text="warfarin" type="drug"/>
+        <entity charOffset="153-161" id="DDI-DrugBank.d460.s11.e7" text="phenytoin" type="drug"/>
+        <entity charOffset="164-183" id="DDI-DrugBank.d460.s11.e8" text="acetylsalicylic acid" type="drug"/>
+        <entity charOffset="186-196" id="DDI-DrugBank.d460.s11.e9" text="tolbutamide" type="drug"/>
+        <entity charOffset="203-211" id="DDI-DrugBank.d460.s11.e10" text="metformin" type="drug"/>
+        <entity charOffset="250-260" id="DDI-DrugBank.d460.s11.e11" text="nateglinide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e1" id="DDI-DrugBank.d460.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e2" id="DDI-DrugBank.d460.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e3" id="DDI-DrugBank.d460.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e4" id="DDI-DrugBank.d460.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e5" id="DDI-DrugBank.d460.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e6" id="DDI-DrugBank.d460.s11.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e7" id="DDI-DrugBank.d460.s11.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e0" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e2" id="DDI-DrugBank.d460.s11.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e3" id="DDI-DrugBank.d460.s11.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e4" id="DDI-DrugBank.d460.s11.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e5" id="DDI-DrugBank.d460.s11.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e6" id="DDI-DrugBank.d460.s11.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e7" id="DDI-DrugBank.d460.s11.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e1" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e3" id="DDI-DrugBank.d460.s11.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e4" id="DDI-DrugBank.d460.s11.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e5" id="DDI-DrugBank.d460.s11.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e6" id="DDI-DrugBank.d460.s11.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e7" id="DDI-DrugBank.d460.s11.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e2" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e4" id="DDI-DrugBank.d460.s11.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e5" id="DDI-DrugBank.d460.s11.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e6" id="DDI-DrugBank.d460.s11.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e7" id="DDI-DrugBank.d460.s11.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e3" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e4" e2="DDI-DrugBank.d460.s11.e5" id="DDI-DrugBank.d460.s11.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e4" e2="DDI-DrugBank.d460.s11.e6" id="DDI-DrugBank.d460.s11.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e4" e2="DDI-DrugBank.d460.s11.e7" id="DDI-DrugBank.d460.s11.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e4" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e4" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e4" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e4" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e5" e2="DDI-DrugBank.d460.s11.e6" id="DDI-DrugBank.d460.s11.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e5" e2="DDI-DrugBank.d460.s11.e7" id="DDI-DrugBank.d460.s11.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e5" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e5" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e5" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e5" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e6" e2="DDI-DrugBank.d460.s11.e7" id="DDI-DrugBank.d460.s11.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e6" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e6" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e6" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e6" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e7" e2="DDI-DrugBank.d460.s11.e8" id="DDI-DrugBank.d460.s11.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e7" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e7" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e7" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e8" e2="DDI-DrugBank.d460.s11.e9" id="DDI-DrugBank.d460.s11.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e8" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e8" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e9" e2="DDI-DrugBank.d460.s11.e10" id="DDI-DrugBank.d460.s11.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e9" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s11.e10" e2="DDI-DrugBank.d460.s11.e11" id="DDI-DrugBank.d460.s11.p65"/>
+    <negationtags>In vitro displacement studies with highly protein-bound drugs such as furosemide, propranolol, captopril, nicardipine, pravastatin, glyburide, warfarin, phenytoin, acetylsalicylic acid, tolbutamide, and metformin showed &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; influence on the extent of nateglinide protein binding. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s12" text="Similarly, nateglinide had no influence on the serum protein binding of propranolol, glyburide, nicardipine, warfarin, phenytoin, acetylsalicylic acid, and tolbutamide in vitro .">
+        <entity charOffset="11-21" id="DDI-DrugBank.d460.s12.e0" text="nateglinide" type="drug"/>
+        <entity charOffset="72-82" id="DDI-DrugBank.d460.s12.e1" text="propranolol" type="drug"/>
+        <entity charOffset="85-93" id="DDI-DrugBank.d460.s12.e2" text="glyburide" type="drug"/>
+        <entity charOffset="96-106" id="DDI-DrugBank.d460.s12.e3" text="nicardipine" type="drug"/>
+        <entity charOffset="109-116" id="DDI-DrugBank.d460.s12.e4" text="warfarin" type="drug"/>
+        <entity charOffset="119-127" id="DDI-DrugBank.d460.s12.e5" text="phenytoin" type="drug"/>
+        <entity charOffset="130-149" id="DDI-DrugBank.d460.s12.e6" text="acetylsalicylic acid" type="drug"/>
+        <entity charOffset="156-166" id="DDI-DrugBank.d460.s12.e7" text="tolbutamide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e0" e2="DDI-DrugBank.d460.s12.e1" id="DDI-DrugBank.d460.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e0" e2="DDI-DrugBank.d460.s12.e2" id="DDI-DrugBank.d460.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e0" e2="DDI-DrugBank.d460.s12.e3" id="DDI-DrugBank.d460.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e0" e2="DDI-DrugBank.d460.s12.e4" id="DDI-DrugBank.d460.s12.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e0" e2="DDI-DrugBank.d460.s12.e5" id="DDI-DrugBank.d460.s12.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e0" e2="DDI-DrugBank.d460.s12.e6" id="DDI-DrugBank.d460.s12.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e0" e2="DDI-DrugBank.d460.s12.e7" id="DDI-DrugBank.d460.s12.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e1" e2="DDI-DrugBank.d460.s12.e2" id="DDI-DrugBank.d460.s12.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e1" e2="DDI-DrugBank.d460.s12.e3" id="DDI-DrugBank.d460.s12.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e1" e2="DDI-DrugBank.d460.s12.e4" id="DDI-DrugBank.d460.s12.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e1" e2="DDI-DrugBank.d460.s12.e5" id="DDI-DrugBank.d460.s12.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e1" e2="DDI-DrugBank.d460.s12.e6" id="DDI-DrugBank.d460.s12.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e1" e2="DDI-DrugBank.d460.s12.e7" id="DDI-DrugBank.d460.s12.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e2" e2="DDI-DrugBank.d460.s12.e3" id="DDI-DrugBank.d460.s12.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e2" e2="DDI-DrugBank.d460.s12.e4" id="DDI-DrugBank.d460.s12.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e2" e2="DDI-DrugBank.d460.s12.e5" id="DDI-DrugBank.d460.s12.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e2" e2="DDI-DrugBank.d460.s12.e6" id="DDI-DrugBank.d460.s12.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e2" e2="DDI-DrugBank.d460.s12.e7" id="DDI-DrugBank.d460.s12.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e3" e2="DDI-DrugBank.d460.s12.e4" id="DDI-DrugBank.d460.s12.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e3" e2="DDI-DrugBank.d460.s12.e5" id="DDI-DrugBank.d460.s12.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e3" e2="DDI-DrugBank.d460.s12.e6" id="DDI-DrugBank.d460.s12.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e3" e2="DDI-DrugBank.d460.s12.e7" id="DDI-DrugBank.d460.s12.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e4" e2="DDI-DrugBank.d460.s12.e5" id="DDI-DrugBank.d460.s12.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e4" e2="DDI-DrugBank.d460.s12.e6" id="DDI-DrugBank.d460.s12.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e4" e2="DDI-DrugBank.d460.s12.e7" id="DDI-DrugBank.d460.s12.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e5" e2="DDI-DrugBank.d460.s12.e6" id="DDI-DrugBank.d460.s12.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e5" e2="DDI-DrugBank.d460.s12.e7" id="DDI-DrugBank.d460.s12.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s12.e6" e2="DDI-DrugBank.d460.s12.e7" id="DDI-DrugBank.d460.s12.p27"/>
+    <negationtags>Similarly, nateglinide had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; influence on the serum protein binding of propranolol, glyburide, nicardipine, warfarin, phenytoin, acetylsalicylic acid, and tolbutamide in vitro &lt;/scope&gt; .</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d460.s13" text="However, prudent evaluation of individual cases is warranted in the clinical setting."/>
+    <sentence id="DDI-DrugBank.d460.s14" text="Certain drugs, including nonsteroidal anti-inflammatory agents (NSAIDs), salicylates, monoamine oxidase inhibitors, and non-selective beta-adrenergic-blocking agents may potentiate the hypoglycemic action of Starlix and other oral antidiabetic drugs.">
+        <entity charOffset="25-61" id="DDI-DrugBank.d460.s14.e0" text="nonsteroidal anti-inflammatory agents" type="group"/>
+        <entity charOffset="64-69" id="DDI-DrugBank.d460.s14.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="73-83" id="DDI-DrugBank.d460.s14.e2" text="salicylates" type="group"/>
+        <entity charOffset="86-113" id="DDI-DrugBank.d460.s14.e3" text="monoamine oxidase inhibitors" type="group"/>
+        <entity charOffset="120-164" id="DDI-DrugBank.d460.s14.e4" text="non-selective beta-adrenergic-blocking agents" type="group"/>
+        <entity charOffset="208-214" id="DDI-DrugBank.d460.s14.e5" text="Starlix" type="brand"/>
+        <entity charOffset="231-248" id="DDI-DrugBank.d460.s14.e6" text="antidiabetic drugs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e0" e2="DDI-DrugBank.d460.s14.e1" id="DDI-DrugBank.d460.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e0" e2="DDI-DrugBank.d460.s14.e2" id="DDI-DrugBank.d460.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e0" e2="DDI-DrugBank.d460.s14.e3" id="DDI-DrugBank.d460.s14.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e0" e2="DDI-DrugBank.d460.s14.e4" id="DDI-DrugBank.d460.s14.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e0" e2="DDI-DrugBank.d460.s14.e5" id="DDI-DrugBank.d460.s14.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e0" e2="DDI-DrugBank.d460.s14.e6" id="DDI-DrugBank.d460.s14.p5" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e1" e2="DDI-DrugBank.d460.s14.e2" id="DDI-DrugBank.d460.s14.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e1" e2="DDI-DrugBank.d460.s14.e3" id="DDI-DrugBank.d460.s14.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e1" e2="DDI-DrugBank.d460.s14.e4" id="DDI-DrugBank.d460.s14.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e1" e2="DDI-DrugBank.d460.s14.e5" id="DDI-DrugBank.d460.s14.p9" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e1" e2="DDI-DrugBank.d460.s14.e6" id="DDI-DrugBank.d460.s14.p10" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e2" e2="DDI-DrugBank.d460.s14.e3" id="DDI-DrugBank.d460.s14.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e2" e2="DDI-DrugBank.d460.s14.e4" id="DDI-DrugBank.d460.s14.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e2" e2="DDI-DrugBank.d460.s14.e5" id="DDI-DrugBank.d460.s14.p13" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e2" e2="DDI-DrugBank.d460.s14.e6" id="DDI-DrugBank.d460.s14.p14" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e3" e2="DDI-DrugBank.d460.s14.e4" id="DDI-DrugBank.d460.s14.p15"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e3" e2="DDI-DrugBank.d460.s14.e5" id="DDI-DrugBank.d460.s14.p16" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e3" e2="DDI-DrugBank.d460.s14.e6" id="DDI-DrugBank.d460.s14.p17" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e4" e2="DDI-DrugBank.d460.s14.e5" id="DDI-DrugBank.d460.s14.p18" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s14.e4" e2="DDI-DrugBank.d460.s14.e6" id="DDI-DrugBank.d460.s14.p19" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s14.e5" e2="DDI-DrugBank.d460.s14.e6" id="DDI-DrugBank.d460.s14.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d460.s15" text="Certain drugs including thiazides, corticosteroids, thyroid products, and sympathomimetics may reduce the hypoglycemic action of Starlix and other oral antidiabetic drugs.">
+        <entity charOffset="24-32" id="DDI-DrugBank.d460.s15.e0" text="thiazides" type="group"/>
+        <entity charOffset="35-49" id="DDI-DrugBank.d460.s15.e1" text="corticosteroids" type="group"/>
+        <entity charOffset="52-67" id="DDI-DrugBank.d460.s15.e2" text="thyroid products" type="group"/>
+        <entity charOffset="74-89" id="DDI-DrugBank.d460.s15.e3" text="sympathomimetics" type="group"/>
+        <entity charOffset="129-135" id="DDI-DrugBank.d460.s15.e4" text="Starlix" type="brand"/>
+        <entity charOffset="152-169" id="DDI-DrugBank.d460.s15.e5" text="antidiabetic drugs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s15.e0" e2="DDI-DrugBank.d460.s15.e1" id="DDI-DrugBank.d460.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s15.e0" e2="DDI-DrugBank.d460.s15.e2" id="DDI-DrugBank.d460.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s15.e0" e2="DDI-DrugBank.d460.s15.e3" id="DDI-DrugBank.d460.s15.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e0" e2="DDI-DrugBank.d460.s15.e4" id="DDI-DrugBank.d460.s15.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e0" e2="DDI-DrugBank.d460.s15.e5" id="DDI-DrugBank.d460.s15.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s15.e1" e2="DDI-DrugBank.d460.s15.e2" id="DDI-DrugBank.d460.s15.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s15.e1" e2="DDI-DrugBank.d460.s15.e3" id="DDI-DrugBank.d460.s15.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e1" e2="DDI-DrugBank.d460.s15.e4" id="DDI-DrugBank.d460.s15.p7" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e1" e2="DDI-DrugBank.d460.s15.e5" id="DDI-DrugBank.d460.s15.p8" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s15.e2" e2="DDI-DrugBank.d460.s15.e3" id="DDI-DrugBank.d460.s15.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e2" e2="DDI-DrugBank.d460.s15.e4" id="DDI-DrugBank.d460.s15.p10" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e2" e2="DDI-DrugBank.d460.s15.e5" id="DDI-DrugBank.d460.s15.p11" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e3" e2="DDI-DrugBank.d460.s15.e4" id="DDI-DrugBank.d460.s15.p12" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d460.s15.e3" e2="DDI-DrugBank.d460.s15.e5" id="DDI-DrugBank.d460.s15.p13" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d460.s15.e4" e2="DDI-DrugBank.d460.s15.e5" id="DDI-DrugBank.d460.s15.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d460.s16" text="When these drugs are administered to or withdrawn from patients receiving Starlix, the patient should be observed closely for changes in glycemic control.">
+        <entity charOffset="74-80" id="DDI-DrugBank.d460.s16.e0" text="Starlix" type="brand"/>
+    </sentence>
+</document>

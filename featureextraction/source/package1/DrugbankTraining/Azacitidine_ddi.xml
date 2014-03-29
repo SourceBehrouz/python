@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d147">
+    <sentence id="DDI-DrugBank.d147.s0" text="No formal assessments of drug-drug interactions between Vidaza and other agents have been conducted">
+        <entity charOffset="56-61" id="DDI-DrugBank.d147.s0.e0" text="Vidaza" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; formal assessments of drug-drug interactions between Vidaza and other agents have been conducted &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d147.s1" text="."/>
+    <sentence id="DDI-DrugBank.d147.s2" text=""/>
+</document>

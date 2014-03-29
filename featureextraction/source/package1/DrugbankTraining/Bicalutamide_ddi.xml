@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d266">
+    <sentence id="DDI-DrugBank.d266.s0" text="In vitro studies have shown CASODEX can displace coumarin anticoagulants, such as warfarin, from their protein-binding sites.">
+        <entity charOffset="28-34" id="DDI-DrugBank.d266.s0.e0" text="CASODEX" type="brand"/>
+        <entity charOffset="49-70" id="DDI-DrugBank.d266.s0.e1" text="coumarin anticoagulant" type="group"/>
+        <entity charOffset="82-89" id="DDI-DrugBank.d266.s0.e2" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d266.s0.e0" e2="DDI-DrugBank.d266.s0.e1" id="DDI-DrugBank.d266.s0.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d266.s0.e0" e2="DDI-DrugBank.d266.s0.e2" id="DDI-DrugBank.d266.s0.p1" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d266.s0.e1" e2="DDI-DrugBank.d266.s0.e2" id="DDI-DrugBank.d266.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d266.s1" text="It is recommended that if CASODEX is started in patients already receiving coumarin anticoagulants, prothrombin times should be closely monitored and adjustment of the anticoagulant dose may be necessary.">
+        <entity charOffset="26-32" id="DDI-DrugBank.d266.s1.e0" text="CASODEX" type="brand"/>
+        <entity charOffset="75-97" id="DDI-DrugBank.d266.s1.e1" text="coumarin anticoagulants" type="group"/>
+        <entity charOffset="168-180" id="DDI-DrugBank.d266.s1.e2" text="anticoagulant" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d266.s1.e0" e2="DDI-DrugBank.d266.s1.e1" id="DDI-DrugBank.d266.s1.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d266.s1.e0" e2="DDI-DrugBank.d266.s1.e2" id="DDI-DrugBank.d266.s1.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d266.s1.e1" e2="DDI-DrugBank.d266.s1.e2" id="DDI-DrugBank.d266.s1.p2"/>
+    </sentence>
+</document>

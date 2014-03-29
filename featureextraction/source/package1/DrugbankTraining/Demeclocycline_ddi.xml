@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d409">
+    <sentence id="DDI-DrugBank.d409.s0" text="Because the tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.">
+        <entity charOffset="12-24" id="DDI-DrugBank.d409.s0.e0" text="tetracyclines" type="group"/>
+        <entity charOffset="102-114" id="DDI-DrugBank.d409.s0.e1" text="anticoagulant" type="group"/>
+        <entity charOffset="165-177" id="DDI-DrugBank.d409.s0.e2" text="anticoagulant" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d409.s0.e0" e2="DDI-DrugBank.d409.s0.e1" id="DDI-DrugBank.d409.s0.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d409.s0.e0" e2="DDI-DrugBank.d409.s0.e2" id="DDI-DrugBank.d409.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d409.s0.e1" e2="DDI-DrugBank.d409.s0.e2" id="DDI-DrugBank.d409.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d409.s1" text="Since bacteriostatic drugs, such as the tetracycline class of antibiotics, may interfere with the bactericidal action of penicillins, it is not advisable to administer these drugs concomitantly.">
+        <entity charOffset="40-57" id="DDI-DrugBank.d409.s1.e0" text="tetracycline class" type="group"/>
+        <entity charOffset="62-72" id="DDI-DrugBank.d409.s1.e1" text="antibiotics" type="group"/>
+        <entity charOffset="121-131" id="DDI-DrugBank.d409.s1.e2" text="penicillins" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d409.s1.e0" e2="DDI-DrugBank.d409.s1.e1" id="DDI-DrugBank.d409.s1.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d409.s1.e0" e2="DDI-DrugBank.d409.s1.e2" id="DDI-DrugBank.d409.s1.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d409.s1.e1" e2="DDI-DrugBank.d409.s1.e2" id="DDI-DrugBank.d409.s1.p2"/>
+    <negationtags>Since bacteriostatic drugs, such as the tetracycline class of antibiotics, may interfere with the bactericidal action of penicillins, it is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; advisable to administer these drugs concomitantly. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d409.s2" text="Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.">
+        <entity charOffset="18-30" id="DDI-DrugBank.d409.s2.e0" text="tetracyclines" type="group"/>
+        <entity charOffset="42-55" id="DDI-DrugBank.d409.s2.e1" text="contraceptives" type="group"/>
+        <entity charOffset="73-86" id="DDI-DrugBank.d409.s2.e2" text="contraceptives" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d409.s2.e0" e2="DDI-DrugBank.d409.s2.e1" id="DDI-DrugBank.d409.s2.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d409.s2.e0" e2="DDI-DrugBank.d409.s2.e2" id="DDI-DrugBank.d409.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d409.s2.e1" e2="DDI-DrugBank.d409.s2.e2" id="DDI-DrugBank.d409.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d409.s3" text="Breakthrough bleeding has been reported"/>
+</document>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d267">
+    <sentence id="DDI-DrugBank.d267.s0" text="Prior administration of succinylcholine has no clinically important effect on the neuromuscular blocking action of NUROMAX.">
+        <entity charOffset="24-38" id="DDI-DrugBank.d267.s0.e0" text="succinylcholine" type="drug"/>
+        <entity charOffset="115-121" id="DDI-DrugBank.d267.s0.e1" text="NUROMAX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s0.e0" e2="DDI-DrugBank.d267.s0.e1" id="DDI-DrugBank.d267.s0.p0"/>
+    <negationtags>Prior administration of succinylcholine has &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically important effect on the neuromuscular blocking action of NUROMAX. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d267.s1" text="The use of NUROMAX before succinylcholine to attenuate some of the side effects of succinylcholine has not been studied.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d267.s1.e0" text="NUROMAX" type="brand"/>
+        <entity charOffset="26-40" id="DDI-DrugBank.d267.s1.e1" text="succinylcholine" type="drug"/>
+        <entity charOffset="83-97" id="DDI-DrugBank.d267.s1.e2" text="succinylcholine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s1.e0" e2="DDI-DrugBank.d267.s1.e1" id="DDI-DrugBank.d267.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s1.e0" e2="DDI-DrugBank.d267.s1.e2" id="DDI-DrugBank.d267.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s1.e1" e2="DDI-DrugBank.d267.s1.e2" id="DDI-DrugBank.d267.s1.p2"/>
+    <negationtags>The use of NUROMAX before succinylcholine to attenuate some of the side effects of succinylcholine has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d267.s2" text="There are no clinical data on concomitant use of NUROMAX and other nondepolarizing neuromuscular blocking agents.">
+        <entity charOffset="49-55" id="DDI-DrugBank.d267.s2.e0" text="NUROMAX" type="brand"/>
+        <entity charOffset="83-111" id="DDI-DrugBank.d267.s2.e1" text="neuromuscular blocking agents" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s2.e0" e2="DDI-DrugBank.d267.s2.e1" id="DDI-DrugBank.d267.s2.p0"/>
+    <negationtags>There are &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinical data on concomitant use of NUROMAX and other nondepolarizing neuromuscular blocking agents. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d267.s3" text="Isoflurane, enflurane, and halothane decrease the ED50 of NUROMAX by 30% to 45%.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d267.s3.e0" text="Isoflurane" type="drug"/>
+        <entity charOffset="12-20" id="DDI-DrugBank.d267.s3.e1" text="enflurane" type="drug"/>
+        <entity charOffset="27-35" id="DDI-DrugBank.d267.s3.e2" text="halothane" type="drug"/>
+        <entity charOffset="58-64" id="DDI-DrugBank.d267.s3.e3" text="NUROMAX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s3.e0" e2="DDI-DrugBank.d267.s3.e1" id="DDI-DrugBank.d267.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s3.e0" e2="DDI-DrugBank.d267.s3.e2" id="DDI-DrugBank.d267.s3.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s3.e0" e2="DDI-DrugBank.d267.s3.e3" id="DDI-DrugBank.d267.s3.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s3.e1" e2="DDI-DrugBank.d267.s3.e2" id="DDI-DrugBank.d267.s3.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s3.e1" e2="DDI-DrugBank.d267.s3.e3" id="DDI-DrugBank.d267.s3.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s3.e2" e2="DDI-DrugBank.d267.s3.e3" id="DDI-DrugBank.d267.s3.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s4" text="These agents may also prolong the clinically effective duration of action by up to 25%."/>
+    <sentence id="DDI-DrugBank.d267.s5" text="Other drugs which may enhance the neuromuscular blocking action of nondepolarizing agents such as NUROMAX include certain antibiotics (e. g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine.">
+        <entity charOffset="98-104" id="DDI-DrugBank.d267.s5.e0" text="NUROMAX" type="brand"/>
+        <entity charOffset="122-132" id="DDI-DrugBank.d267.s5.e1" text="antibiotics" type="group"/>
+        <entity charOffset="142-156" id="DDI-DrugBank.d267.s5.e2" text="aminoglycosides" type="group"/>
+        <entity charOffset="159-171" id="DDI-DrugBank.d267.s5.e3" text="tetracyclines" type="group"/>
+        <entity charOffset="174-183" id="DDI-DrugBank.d267.s5.e4" text="bacitracin" type="group"/>
+        <entity charOffset="186-195" id="DDI-DrugBank.d267.s5.e5" text="polymyxins" type="group"/>
+        <entity charOffset="198-207" id="DDI-DrugBank.d267.s5.e6" text="lincomycin" type="drug"/>
+        <entity charOffset="210-220" id="DDI-DrugBank.d267.s5.e7" text="clindamycin" type="drug"/>
+        <entity charOffset="223-230" id="DDI-DrugBank.d267.s5.e8" text="colistin" type="drug"/>
+        <entity charOffset="237-257" id="DDI-DrugBank.d267.s5.e9" text="sodium colistimethate" type="drug"/>
+        <entity charOffset="261-269" id="DDI-DrugBank.d267.s5.e10" text="magnesium" type="drug"/>
+        <entity charOffset="278-284" id="DDI-DrugBank.d267.s5.e11" text="lithium" type="drug"/>
+        <entity charOffset="293-303" id="DDI-DrugBank.d267.s5.e12" text="anesthetics" type="group"/>
+        <entity charOffset="306-317" id="DDI-DrugBank.d267.s5.e13" text="procainamide" type="drug"/>
+        <entity charOffset="324-332" id="DDI-DrugBank.d267.s5.e14" text="quinidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e1" id="DDI-DrugBank.d267.s5.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e2" id="DDI-DrugBank.d267.s5.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e3" id="DDI-DrugBank.d267.s5.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e4" id="DDI-DrugBank.d267.s5.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e5" id="DDI-DrugBank.d267.s5.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e6" id="DDI-DrugBank.d267.s5.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e7" id="DDI-DrugBank.d267.s5.p6" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p7" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p8" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p9" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p10" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p11" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p12" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s5.e0" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p13" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e2" id="DDI-DrugBank.d267.s5.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e3" id="DDI-DrugBank.d267.s5.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e4" id="DDI-DrugBank.d267.s5.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e5" id="DDI-DrugBank.d267.s5.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e6" id="DDI-DrugBank.d267.s5.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e7" id="DDI-DrugBank.d267.s5.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e1" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e3" id="DDI-DrugBank.d267.s5.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e4" id="DDI-DrugBank.d267.s5.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e5" id="DDI-DrugBank.d267.s5.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e6" id="DDI-DrugBank.d267.s5.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e7" id="DDI-DrugBank.d267.s5.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e2" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e4" id="DDI-DrugBank.d267.s5.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e5" id="DDI-DrugBank.d267.s5.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e6" id="DDI-DrugBank.d267.s5.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e7" id="DDI-DrugBank.d267.s5.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e3" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e5" id="DDI-DrugBank.d267.s5.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e6" id="DDI-DrugBank.d267.s5.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e7" id="DDI-DrugBank.d267.s5.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e4" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e6" id="DDI-DrugBank.d267.s5.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e7" id="DDI-DrugBank.d267.s5.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e5" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p68"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e7" id="DDI-DrugBank.d267.s5.p69"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p74"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p75"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e6" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e7" e2="DDI-DrugBank.d267.s5.e8" id="DDI-DrugBank.d267.s5.p77"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e7" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p78"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e7" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p79"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e7" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p80"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e7" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p81"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e7" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p82"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e7" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p83"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e8" e2="DDI-DrugBank.d267.s5.e9" id="DDI-DrugBank.d267.s5.p84"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e8" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p85"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e8" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p86"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e8" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p87"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e8" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p88"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e8" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p89"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e9" e2="DDI-DrugBank.d267.s5.e10" id="DDI-DrugBank.d267.s5.p90"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e9" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p91"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e9" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p92"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e9" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p93"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e9" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p94"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e10" e2="DDI-DrugBank.d267.s5.e11" id="DDI-DrugBank.d267.s5.p95"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e10" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p96"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e10" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p97"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e10" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p98"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e11" e2="DDI-DrugBank.d267.s5.e12" id="DDI-DrugBank.d267.s5.p99"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e11" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p100"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e11" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p101"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e12" e2="DDI-DrugBank.d267.s5.e13" id="DDI-DrugBank.d267.s5.p102"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e12" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p103"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s5.e13" e2="DDI-DrugBank.d267.s5.e14" id="DDI-DrugBank.d267.s5.p104"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d267.s6" text="As with some other nondepolarizing neuromuscular blocking agents, the time of onset of neuromuscular block induced by NUROMAX is lengthened and the duration of block is shortened in patients receiving phenytoin or carbamazepine.">
+        <entity charOffset="19-63" id="DDI-DrugBank.d267.s6.e0" text="nondepolarizing neuromuscular blocking agents" type="group"/>
+        <entity charOffset="118-124" id="DDI-DrugBank.d267.s6.e1" text="NUROMAX" type="brand"/>
+        <entity charOffset="201-209" id="DDI-DrugBank.d267.s6.e2" text="phenytoin" type="drug"/>
+        <entity charOffset="214-226" id="DDI-DrugBank.d267.s6.e3" text="carbamazepine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s6.e0" e2="DDI-DrugBank.d267.s6.e1" id="DDI-DrugBank.d267.s6.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s6.e0" e2="DDI-DrugBank.d267.s6.e2" id="DDI-DrugBank.d267.s6.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s6.e0" e2="DDI-DrugBank.d267.s6.e3" id="DDI-DrugBank.d267.s6.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s6.e1" e2="DDI-DrugBank.d267.s6.e2" id="DDI-DrugBank.d267.s6.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d267.s6.e1" e2="DDI-DrugBank.d267.s6.e3" id="DDI-DrugBank.d267.s6.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d267.s6.e2" e2="DDI-DrugBank.d267.s6.e3" id="DDI-DrugBank.d267.s6.p5"/>
+    </sentence>
+</document>

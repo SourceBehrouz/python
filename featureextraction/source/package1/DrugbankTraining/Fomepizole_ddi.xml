@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d228">
+    <sentence id="DDI-DrugBank.d228.s0" text="Oral doses of Antizol (10-20 mg/kg), via alcohol dehydrogenase inhibition, significantly reduced the rate of elimination of ethanol (by approximately 40%) given to healthy volunteers in moderate doses.">
+        <entity charOffset="14-20" id="DDI-DrugBank.d228.s0.e0" text="Antizol" type="brand"/>
+        <entity charOffset="124-130" id="DDI-DrugBank.d228.s0.e1" text="ethanol" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d228.s0.e0" e2="DDI-DrugBank.d228.s0.e1" id="DDI-DrugBank.d228.s0.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d228.s1" text="Similarly, ethanol decreased the rate of elimination of Antizol (by approximately 50%) by the same mechanism.">
+        <entity charOffset="11-17" id="DDI-DrugBank.d228.s1.e0" text="ethanol" type="drug"/>
+        <entity charOffset="56-62" id="DDI-DrugBank.d228.s1.e1" text="Antizol" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d228.s1.e0" e2="DDI-DrugBank.d228.s1.e1" id="DDI-DrugBank.d228.s1.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d228.s2" text="Reciprocal interactions may occur with concomitant use of Antizol and drugs that increase or inhibit the cytochrome P450 system (e.g., phenytoin, carbamazepine, cimetidine, ketoconazole), though this has not been studied">
+        <entity charOffset="58-64" id="DDI-DrugBank.d228.s2.e0" text="Antizol" type="brand"/>
+        <entity charOffset="135-143" id="DDI-DrugBank.d228.s2.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="146-158" id="DDI-DrugBank.d228.s2.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="161-170" id="DDI-DrugBank.d228.s2.e3" text="cimetidine" type="drug"/>
+        <entity charOffset="173-184" id="DDI-DrugBank.d228.s2.e4" text="ketoconazole" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d228.s2.e0" e2="DDI-DrugBank.d228.s2.e1" id="DDI-DrugBank.d228.s2.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d228.s2.e0" e2="DDI-DrugBank.d228.s2.e2" id="DDI-DrugBank.d228.s2.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d228.s2.e0" e2="DDI-DrugBank.d228.s2.e3" id="DDI-DrugBank.d228.s2.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d228.s2.e0" e2="DDI-DrugBank.d228.s2.e4" id="DDI-DrugBank.d228.s2.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d228.s2.e1" e2="DDI-DrugBank.d228.s2.e2" id="DDI-DrugBank.d228.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d228.s2.e1" e2="DDI-DrugBank.d228.s2.e3" id="DDI-DrugBank.d228.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d228.s2.e1" e2="DDI-DrugBank.d228.s2.e4" id="DDI-DrugBank.d228.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d228.s2.e2" e2="DDI-DrugBank.d228.s2.e3" id="DDI-DrugBank.d228.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d228.s2.e2" e2="DDI-DrugBank.d228.s2.e4" id="DDI-DrugBank.d228.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d228.s2.e3" e2="DDI-DrugBank.d228.s2.e4" id="DDI-DrugBank.d228.s2.p9"/>
+    <negationtags>Reciprocal interactions may occur with concomitant use of Antizol and drugs that increase or inhibit the cytochrome P450 system (e.g., phenytoin, carbamazepine, cimetidine, ketoconazole), though this has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d228.s3" text="."/>
+    <sentence id="DDI-DrugBank.d228.s4" text=""><negationtags>DDI-DrugBank.d15.s0</negationtags></sentence>
+</document>

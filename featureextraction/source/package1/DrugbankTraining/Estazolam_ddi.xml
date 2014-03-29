@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d338">
+    <sentence id="DDI-DrugBank.d338.s0" text="If ProSom is given concomitantly with other drugs acting on the central nervous system, careful consideration should be given to the pharmacology of all agents.">
+        <entity charOffset="3-8" id="DDI-DrugBank.d338.s0.e0" text="ProSom" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s1" text="The action of the benzodiazepines may be potentiated by anticonvulsants, antihistamines, alcohol, barbiturates, monoamine oxidase inhibitors, narcotics, phenothiazines, psychotropic medications, or other drugs that produce CNS depression.">
+        <entity charOffset="18-32" id="DDI-DrugBank.d338.s1.e0" text="benzodiazepines" type="group"/>
+        <entity charOffset="56-70" id="DDI-DrugBank.d338.s1.e1" text="anticonvulsants" type="group"/>
+        <entity charOffset="73-86" id="DDI-DrugBank.d338.s1.e2" text="antihistamines" type="group"/>
+        <entity charOffset="89-95" id="DDI-DrugBank.d338.s1.e3" text="alcohol" type="drug"/>
+        <entity charOffset="98-109" id="DDI-DrugBank.d338.s1.e4" text="barbiturates" type="group"/>
+        <entity charOffset="112-139" id="DDI-DrugBank.d338.s1.e5" text="monoamine oxidase inhibitors" type="group"/>
+        <entity charOffset="142-150" id="DDI-DrugBank.d338.s1.e6" text="narcotics" type="group"/>
+        <entity charOffset="153-166" id="DDI-DrugBank.d338.s1.e7" text="phenothiazines" type="group"/>
+        <entity charOffset="169-192" id="DDI-DrugBank.d338.s1.e8" text="psychotropic medications" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e1" id="DDI-DrugBank.d338.s1.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e2" id="DDI-DrugBank.d338.s1.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e3" id="DDI-DrugBank.d338.s1.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e4" id="DDI-DrugBank.d338.s1.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e5" id="DDI-DrugBank.d338.s1.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e6" id="DDI-DrugBank.d338.s1.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e7" id="DDI-DrugBank.d338.s1.p6" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s1.e0" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p7" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e1" e2="DDI-DrugBank.d338.s1.e2" id="DDI-DrugBank.d338.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e1" e2="DDI-DrugBank.d338.s1.e3" id="DDI-DrugBank.d338.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e1" e2="DDI-DrugBank.d338.s1.e4" id="DDI-DrugBank.d338.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e1" e2="DDI-DrugBank.d338.s1.e5" id="DDI-DrugBank.d338.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e1" e2="DDI-DrugBank.d338.s1.e6" id="DDI-DrugBank.d338.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e1" e2="DDI-DrugBank.d338.s1.e7" id="DDI-DrugBank.d338.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e1" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e2" e2="DDI-DrugBank.d338.s1.e3" id="DDI-DrugBank.d338.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e2" e2="DDI-DrugBank.d338.s1.e4" id="DDI-DrugBank.d338.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e2" e2="DDI-DrugBank.d338.s1.e5" id="DDI-DrugBank.d338.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e2" e2="DDI-DrugBank.d338.s1.e6" id="DDI-DrugBank.d338.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e2" e2="DDI-DrugBank.d338.s1.e7" id="DDI-DrugBank.d338.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e2" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e3" e2="DDI-DrugBank.d338.s1.e4" id="DDI-DrugBank.d338.s1.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e3" e2="DDI-DrugBank.d338.s1.e5" id="DDI-DrugBank.d338.s1.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e3" e2="DDI-DrugBank.d338.s1.e6" id="DDI-DrugBank.d338.s1.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e3" e2="DDI-DrugBank.d338.s1.e7" id="DDI-DrugBank.d338.s1.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e3" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e4" e2="DDI-DrugBank.d338.s1.e5" id="DDI-DrugBank.d338.s1.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e4" e2="DDI-DrugBank.d338.s1.e6" id="DDI-DrugBank.d338.s1.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e4" e2="DDI-DrugBank.d338.s1.e7" id="DDI-DrugBank.d338.s1.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e4" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e5" e2="DDI-DrugBank.d338.s1.e6" id="DDI-DrugBank.d338.s1.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e5" e2="DDI-DrugBank.d338.s1.e7" id="DDI-DrugBank.d338.s1.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e5" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e6" e2="DDI-DrugBank.d338.s1.e7" id="DDI-DrugBank.d338.s1.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e6" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s1.e7" e2="DDI-DrugBank.d338.s1.e8" id="DDI-DrugBank.d338.s1.p35"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s2" text="Smokers have an increased clearance of benzodiazepines as compared to nonsmokers;">
+        <entity charOffset="39-53" id="DDI-DrugBank.d338.s2.e0" text="benzodiazepines" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s3" text="this was seen in studies with estazolam.">
+        <entity charOffset="30-38" id="DDI-DrugBank.d338.s3.e0" text="estazolam" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s4" text="While no in vivo drug-drug interaction studies were conducted between estazolam and inducers of CYP3A, compounds that are potent CYP3A inducers (such as carbamazepine, phenytoin, rifampin, and barbiturates) would be expected to decrease estazolam concentrations.">
+        <entity charOffset="70-78" id="DDI-DrugBank.d338.s4.e0" text="estazolam" type="drug"/>
+        <entity charOffset="153-165" id="DDI-DrugBank.d338.s4.e1" text="carbamazepine" type="drug"/>
+        <entity charOffset="168-176" id="DDI-DrugBank.d338.s4.e2" text="phenytoin" type="drug"/>
+        <entity charOffset="179-186" id="DDI-DrugBank.d338.s4.e3" text="rifampin" type="drug"/>
+        <entity charOffset="193-204" id="DDI-DrugBank.d338.s4.e4" text="barbiturates" type="group"/>
+        <entity charOffset="237-245" id="DDI-DrugBank.d338.s4.e5" text="estazolam" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s4.e0" e2="DDI-DrugBank.d338.s4.e1" id="DDI-DrugBank.d338.s4.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s4.e0" e2="DDI-DrugBank.d338.s4.e2" id="DDI-DrugBank.d338.s4.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s4.e0" e2="DDI-DrugBank.d338.s4.e3" id="DDI-DrugBank.d338.s4.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s4.e0" e2="DDI-DrugBank.d338.s4.e4" id="DDI-DrugBank.d338.s4.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s4.e0" e2="DDI-DrugBank.d338.s4.e5" id="DDI-DrugBank.d338.s4.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e1" e2="DDI-DrugBank.d338.s4.e2" id="DDI-DrugBank.d338.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e1" e2="DDI-DrugBank.d338.s4.e3" id="DDI-DrugBank.d338.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e1" e2="DDI-DrugBank.d338.s4.e4" id="DDI-DrugBank.d338.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e1" e2="DDI-DrugBank.d338.s4.e5" id="DDI-DrugBank.d338.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e2" e2="DDI-DrugBank.d338.s4.e3" id="DDI-DrugBank.d338.s4.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e2" e2="DDI-DrugBank.d338.s4.e4" id="DDI-DrugBank.d338.s4.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e2" e2="DDI-DrugBank.d338.s4.e5" id="DDI-DrugBank.d338.s4.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e3" e2="DDI-DrugBank.d338.s4.e4" id="DDI-DrugBank.d338.s4.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e3" e2="DDI-DrugBank.d338.s4.e5" id="DDI-DrugBank.d338.s4.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s4.e4" e2="DDI-DrugBank.d338.s4.e5" id="DDI-DrugBank.d338.s4.p14"/>
+    <negationtags>While &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; in vivo drug-drug interaction studies were conducted between estazolam and inducers of CYP3A, compounds that are potent CYP3A inducers (such as carbamazepine, phenytoin, rifampin, and barbiturates) would be expected to decrease estazolam concentrations. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d338.s5" text="Estazolam: Interaction with Drugs that Inhibit Metabolism via Cytochrome P450 3A (CYP3A): The metabolism of estazolam to the major circulating metabolite 4-hydroxy-estazolam and the metabolism of other triazolobenzodiazepines is catalyzed by CYP3A.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d338.s5.e0" text="Estazolam" type="drug"/>
+        <entity charOffset="108-116" id="DDI-DrugBank.d338.s5.e1" text="estazolam" type="drug"/>
+        <entity charOffset="154-172" id="DDI-DrugBank.d338.s5.e2" text="4-hydroxy-estazolam" type="drug_n"/>
+        <entity charOffset="202-224" id="DDI-DrugBank.d338.s5.e3" text="triazolobenzodiazepines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s5.e0" e2="DDI-DrugBank.d338.s5.e1" id="DDI-DrugBank.d338.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s5.e0" e2="DDI-DrugBank.d338.s5.e2" id="DDI-DrugBank.d338.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s5.e0" e2="DDI-DrugBank.d338.s5.e3" id="DDI-DrugBank.d338.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s5.e1" e2="DDI-DrugBank.d338.s5.e2" id="DDI-DrugBank.d338.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s5.e1" e2="DDI-DrugBank.d338.s5.e3" id="DDI-DrugBank.d338.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s5.e2" e2="DDI-DrugBank.d338.s5.e3" id="DDI-DrugBank.d338.s5.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s6" text="Consequently, estazolam should be avoided in patients receiving ketoconazole and itraconazole, which are very potent inhibitors of CYP3A.">
+        <entity charOffset="14-22" id="DDI-DrugBank.d338.s6.e0" text="estazolam" type="drug"/>
+        <entity charOffset="64-75" id="DDI-DrugBank.d338.s6.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="81-92" id="DDI-DrugBank.d338.s6.e2" text="itraconazole" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s6.e0" e2="DDI-DrugBank.d338.s6.e1" id="DDI-DrugBank.d338.s6.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s6.e0" e2="DDI-DrugBank.d338.s6.e2" id="DDI-DrugBank.d338.s6.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s6.e1" e2="DDI-DrugBank.d338.s6.e2" id="DDI-DrugBank.d338.s6.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s7" text="With drugs inhibiting CYP3A to a lesser, but still significant degree, estazolam should be used only with caution and consideration of appropriate dosage reduction.">
+        <entity charOffset="71-79" id="DDI-DrugBank.d338.s7.e0" text="estazolam" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s8" text="The following are examples of drugs known to inhibit the metabolism of other related benzodiazepines, presumably through inhibition of CYP3A: nefazodone, fluvoxamine, cimetidine, diltiazem, isoniazide, and some macrolide antibiotics.">
+        <entity charOffset="85-99" id="DDI-DrugBank.d338.s8.e0" text="benzodiazepines" type="group"/>
+        <entity charOffset="142-151" id="DDI-DrugBank.d338.s8.e1" text="nefazodone" type="drug"/>
+        <entity charOffset="154-164" id="DDI-DrugBank.d338.s8.e2" text="fluvoxamine" type="drug"/>
+        <entity charOffset="167-176" id="DDI-DrugBank.d338.s8.e3" text="cimetidine" type="drug"/>
+        <entity charOffset="179-187" id="DDI-DrugBank.d338.s8.e4" text="diltiazem" type="drug"/>
+        <entity charOffset="190-199" id="DDI-DrugBank.d338.s8.e5" text="isoniazide" type="drug"/>
+        <entity charOffset="211-231" id="DDI-DrugBank.d338.s8.e6" text="macrolide antibiotics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s8.e0" e2="DDI-DrugBank.d338.s8.e1" id="DDI-DrugBank.d338.s8.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s8.e0" e2="DDI-DrugBank.d338.s8.e2" id="DDI-DrugBank.d338.s8.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s8.e0" e2="DDI-DrugBank.d338.s8.e3" id="DDI-DrugBank.d338.s8.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s8.e0" e2="DDI-DrugBank.d338.s8.e4" id="DDI-DrugBank.d338.s8.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s8.e0" e2="DDI-DrugBank.d338.s8.e5" id="DDI-DrugBank.d338.s8.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d338.s8.e0" e2="DDI-DrugBank.d338.s8.e6" id="DDI-DrugBank.d338.s8.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e1" e2="DDI-DrugBank.d338.s8.e2" id="DDI-DrugBank.d338.s8.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e1" e2="DDI-DrugBank.d338.s8.e3" id="DDI-DrugBank.d338.s8.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e1" e2="DDI-DrugBank.d338.s8.e4" id="DDI-DrugBank.d338.s8.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e1" e2="DDI-DrugBank.d338.s8.e5" id="DDI-DrugBank.d338.s8.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e1" e2="DDI-DrugBank.d338.s8.e6" id="DDI-DrugBank.d338.s8.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e2" e2="DDI-DrugBank.d338.s8.e3" id="DDI-DrugBank.d338.s8.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e2" e2="DDI-DrugBank.d338.s8.e4" id="DDI-DrugBank.d338.s8.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e2" e2="DDI-DrugBank.d338.s8.e5" id="DDI-DrugBank.d338.s8.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e2" e2="DDI-DrugBank.d338.s8.e6" id="DDI-DrugBank.d338.s8.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e3" e2="DDI-DrugBank.d338.s8.e4" id="DDI-DrugBank.d338.s8.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e3" e2="DDI-DrugBank.d338.s8.e5" id="DDI-DrugBank.d338.s8.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e3" e2="DDI-DrugBank.d338.s8.e6" id="DDI-DrugBank.d338.s8.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e4" e2="DDI-DrugBank.d338.s8.e5" id="DDI-DrugBank.d338.s8.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e4" e2="DDI-DrugBank.d338.s8.e6" id="DDI-DrugBank.d338.s8.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s8.e5" e2="DDI-DrugBank.d338.s8.e6" id="DDI-DrugBank.d338.s8.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s9" text="Drug Interaction with Fluoxetine: A multiple-dose study was conducted to assess the effect of fluoxetine 20 mg BID on the pharmacokinetics of estazolam 2 mg QHS after seven days.">
+        <entity charOffset="22-31" id="DDI-DrugBank.d338.s9.e0" text="Fluoxetine" type="drug"/>
+        <entity charOffset="94-103" id="DDI-DrugBank.d338.s9.e1" text="fluoxetine" type="drug"/>
+        <entity charOffset="142-150" id="DDI-DrugBank.d338.s9.e2" text="estazolam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s9.e0" e2="DDI-DrugBank.d338.s9.e1" id="DDI-DrugBank.d338.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s9.e0" e2="DDI-DrugBank.d338.s9.e2" id="DDI-DrugBank.d338.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s9.e1" e2="DDI-DrugBank.d338.s9.e2" id="DDI-DrugBank.d338.s9.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d338.s10" text="The pharmacokinetics of estazolam (Cmax and AUC) were not affected during multiple-dose fluoxetine, suggesting no clinically significant pharmacokinetic interaction.">
+        <entity charOffset="24-32" id="DDI-DrugBank.d338.s10.e0" text="estazolam" type="drug"/>
+        <entity charOffset="88-97" id="DDI-DrugBank.d338.s10.e1" text="fluoxetine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s10.e0" e2="DDI-DrugBank.d338.s10.e1" id="DDI-DrugBank.d338.s10.p0"/>
+    <negationtags>The pharmacokinetics of estazolam (Cmax and AUC) were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected during multiple-dose fluoxetine, suggesting no clinically significant pharmacokinetic interaction. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d338.s11" text="Estazolam: Interaction with Other Drugs that are Metabolized by Cytochrome P450 (CYP): At clinically relevant concentrations, in vitro studies indicate that estazolam (0.6 M) was not inhibitory towards the major cytochrome P450 isoforms CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d338.s11.e0" text="Estazolam" type="drug"/>
+        <entity charOffset="157-165" id="DDI-DrugBank.d338.s11.e1" text="estazolam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d338.s11.e0" e2="DDI-DrugBank.d338.s11.e1" id="DDI-DrugBank.d338.s11.p0"/>
+    <negationtags>Estazolam: Interaction with Other Drugs that are Metabolized by Cytochrome P450 (CYP): At clinically relevant concentrations, in vitro studies indicate that estazolam (0.6 M) was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; inhibitory towards the major cytochrome P450 isoforms CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d338.s12" text="Therefore, based on these in vitro data, estazolam is very unlikely to inhibit the biotransformation of other drugs metabolized by these CYP isoforms">
+        <entity charOffset="41-49" id="DDI-DrugBank.d338.s12.e0" text="estazolam" type="drug"/>
+    <negationtags>&lt;scope&gt; Therefore, based on these in vitro data, estazolam is very &lt;cue&gt; unlikely &lt;/cue&gt; &lt;/scope&gt; to inhibit the biotransformation of other drugs metabolized by these CYP isoforms</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d338.s13" text="."/>
+    <sentence id="DDI-DrugBank.d338.s14" text=""/>
+</document>

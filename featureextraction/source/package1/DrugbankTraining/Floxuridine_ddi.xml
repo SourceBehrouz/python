@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d361">
+    <sentence id="DDI-DrugBank.d361.s0" text="Combination Therapy: Any form of therapy which adds to the stress of the patient, interferes with nutrition or depresses bone marrow function will increase the toxicity of Floxuridine.">
+        <entity charOffset="172-182" id="DDI-DrugBank.d361.s0.e0" text="Floxuridine" type="drug"/>
+    </sentence>
+</document>

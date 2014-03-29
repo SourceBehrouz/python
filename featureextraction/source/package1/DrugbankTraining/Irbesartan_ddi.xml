@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d27">
+    <sentence id="DDI-DrugBank.d27.s0" text="No significant drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine.">
+        <entity charOffset="119-137" id="DDI-DrugBank.d27.s0.e0" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="140-146" id="DDI-DrugBank.d27.s0.e1" text="digoxin" type="drug"/>
+        <entity charOffset="149-156" id="DDI-DrugBank.d27.s0.e2" text="warfarin" type="drug"/>
+        <entity charOffset="163-172" id="DDI-DrugBank.d27.s0.e3" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s0.e0" e2="DDI-DrugBank.d27.s0.e1" id="DDI-DrugBank.d27.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s0.e0" e2="DDI-DrugBank.d27.s0.e2" id="DDI-DrugBank.d27.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s0.e0" e2="DDI-DrugBank.d27.s0.e3" id="DDI-DrugBank.d27.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s0.e1" e2="DDI-DrugBank.d27.s0.e2" id="DDI-DrugBank.d27.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s0.e1" e2="DDI-DrugBank.d27.s0.e3" id="DDI-DrugBank.d27.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s0.e2" e2="DDI-DrugBank.d27.s0.e3" id="DDI-DrugBank.d27.s0.p5"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No significant &lt;/cue&gt; drug-drug pharmacokinetic (or pharmacodynamic) interactions have been found in interaction studies with hydrochlorothiazide, digoxin, warfarin, and nifedipine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d27.s1" text="In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP 2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.">
+        <entity charOffset="153-164" id="DDI-DrugBank.d27.s1.e0" text="sulphenazole" type="drug"/>
+        <entity charOffset="167-177" id="DDI-DrugBank.d27.s1.e1" text="tolbutamide" type="drug"/>
+        <entity charOffset="183-192" id="DDI-DrugBank.d27.s1.e2" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s1.e0" e2="DDI-DrugBank.d27.s1.e1" id="DDI-DrugBank.d27.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s1.e0" e2="DDI-DrugBank.d27.s1.e2" id="DDI-DrugBank.d27.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s1.e1" e2="DDI-DrugBank.d27.s1.e2" id="DDI-DrugBank.d27.s1.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d27.s2" text="However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.">
+        <entity charOffset="61-70" id="DDI-DrugBank.d27.s2.e0" text="irbesartan" type="drug"/>
+        <entity charOffset="99-106" id="DDI-DrugBank.d27.s2.e1" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s2.e0" e2="DDI-DrugBank.d27.s2.e1" id="DDI-DrugBank.d27.s2.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d27.s3" text="Based on in vitro data, no interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isozymes 1A1, 1A2,2A6,2B6,2D6,2E1,or 3A4."><negationtags>Based on in vitro data, &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; interaction would be expected with drugs whose metabolism is dependent upon cytochrome P450 isozymes 1A1, 1A2,2A6,2B6,2D6,2E1,or 3A4. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d27.s4" text="In separate studies of patients receiving maintenance doses of warfarin, hydrochlorothiazide, or digoxin, irbesartan administration for 7 days had no effect on the pharmacodynamics of warfarin (prothrombin time) or pharmacokinetics of digoxin.">
+        <entity charOffset="63-70" id="DDI-DrugBank.d27.s4.e0" text="warfarin" type="drug"/>
+        <entity charOffset="73-91" id="DDI-DrugBank.d27.s4.e1" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="97-103" id="DDI-DrugBank.d27.s4.e2" text="digoxin" type="drug"/>
+        <entity charOffset="106-115" id="DDI-DrugBank.d27.s4.e3" text="irbesartan" type="drug"/>
+        <entity charOffset="184-191" id="DDI-DrugBank.d27.s4.e4" text="warfarin" type="drug"/>
+        <entity charOffset="235-241" id="DDI-DrugBank.d27.s4.e5" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e0" e2="DDI-DrugBank.d27.s4.e1" id="DDI-DrugBank.d27.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e0" e2="DDI-DrugBank.d27.s4.e2" id="DDI-DrugBank.d27.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e0" e2="DDI-DrugBank.d27.s4.e3" id="DDI-DrugBank.d27.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e0" e2="DDI-DrugBank.d27.s4.e4" id="DDI-DrugBank.d27.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e0" e2="DDI-DrugBank.d27.s4.e5" id="DDI-DrugBank.d27.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e1" e2="DDI-DrugBank.d27.s4.e2" id="DDI-DrugBank.d27.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e1" e2="DDI-DrugBank.d27.s4.e3" id="DDI-DrugBank.d27.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e1" e2="DDI-DrugBank.d27.s4.e4" id="DDI-DrugBank.d27.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e1" e2="DDI-DrugBank.d27.s4.e5" id="DDI-DrugBank.d27.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e2" e2="DDI-DrugBank.d27.s4.e3" id="DDI-DrugBank.d27.s4.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e2" e2="DDI-DrugBank.d27.s4.e4" id="DDI-DrugBank.d27.s4.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e2" e2="DDI-DrugBank.d27.s4.e5" id="DDI-DrugBank.d27.s4.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e3" e2="DDI-DrugBank.d27.s4.e4" id="DDI-DrugBank.d27.s4.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e3" e2="DDI-DrugBank.d27.s4.e5" id="DDI-DrugBank.d27.s4.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s4.e4" e2="DDI-DrugBank.d27.s4.e5" id="DDI-DrugBank.d27.s4.p14"/>
+    <negationtags>In separate studies of patients receiving maintenance doses of warfarin, hydrochlorothiazide, or digoxin, irbesartan administration for 7 days had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the pharmacodynamics of warfarin (prothrombin time) or pharmacokinetics of digoxin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d27.s5" text="The pharmacokinetics of irbesartan were not affected by coadministration of nifedipine or hydrochlorothiazide">
+        <entity charOffset="24-33" id="DDI-DrugBank.d27.s5.e0" text="irbesartan" type="drug"/>
+        <entity charOffset="76-85" id="DDI-DrugBank.d27.s5.e1" text="nifedipine" type="drug"/>
+        <entity charOffset="90-108" id="DDI-DrugBank.d27.s5.e2" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s5.e0" e2="DDI-DrugBank.d27.s5.e1" id="DDI-DrugBank.d27.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s5.e0" e2="DDI-DrugBank.d27.s5.e2" id="DDI-DrugBank.d27.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d27.s5.e1" e2="DDI-DrugBank.d27.s5.e2" id="DDI-DrugBank.d27.s5.p2"/>
+    <negationtags>The pharmacokinetics of irbesartan were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected by coadministration of nifedipine or hydrochlorothiazide &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d27.s6" text="."/>
+    <sentence id="DDI-DrugBank.d27.s7" text=""/>
+</document>

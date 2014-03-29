@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d265">
+    <sentence id="DDI-DrugBank.d265.s0" text="Chlorthalidone may add to or potentiate the action of other antihypertensive drugs.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d265.s0.e0" text="Chlorthalidone" type="drug"/>
+        <entity charOffset="60-81" id="DDI-DrugBank.d265.s0.e1" text="antihypertensive drugs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d265.s0.e0" e2="DDI-DrugBank.d265.s0.e1" id="DDI-DrugBank.d265.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s1" text="Potentiation occurs with ganglionic peripheral adrenergic blocking drugs.">
+        <entity charOffset="25-71" id="DDI-DrugBank.d265.s1.e0" text="ganglionic peripheral adrenergic blocking drugs" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s2" text="Medication such as digitalis may also influence serum electrolytes.">
+        <entity charOffset="19-27" id="DDI-DrugBank.d265.s2.e0" text="digitalis" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s3" text="Warning signs, irrespective of cause, are: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting."/>
+    <sentence id="DDI-DrugBank.d265.s4" text="Insulin requirements in diabetic patients may be increased, decreased, or unchanged.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d265.s4.e0" text="Insulin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s5" text="Higher dosage of oral hypoglycemic agents may be required.">
+        <entity charOffset="22-40" id="DDI-DrugBank.d265.s5.e0" text="hypoglycemic agents" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s6" text="Latent diabetes mellitus may become manifest during chlorthalidone administration.">
+        <entity charOffset="52-65" id="DDI-DrugBank.d265.s6.e0" text="chlorthalidone" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s7" text="Chlorthalidone and related drugs may increase the responsiveness to tubocurarine.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d265.s7.e0" text="Chlorthalidone" type="drug"/>
+        <entity charOffset="68-79" id="DDI-DrugBank.d265.s7.e1" text="tubocurarine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d265.s7.e0" e2="DDI-DrugBank.d265.s7.e1" id="DDI-DrugBank.d265.s7.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s8" text="Chlorthalidone and related drugs may decrease arterial responsiveness to norepinephrine.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d265.s8.e0" text="Chlorthalidone" type="drug"/>
+        <entity charOffset="73-86" id="DDI-DrugBank.d265.s8.e1" text="norepinephrine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d265.s8.e0" e2="DDI-DrugBank.d265.s8.e1" id="DDI-DrugBank.d265.s8.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d265.s9" text="This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use."><negationtags>This diminution is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; sufficient to preclude effectiveness of the pressor agent for therapeutic use. &lt;/scope&gt;</negationtags></sentence>
+</document>

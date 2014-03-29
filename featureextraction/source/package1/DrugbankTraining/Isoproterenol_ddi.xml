@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d55">
+    <sentence id="DDI-DrugBank.d55.s0" text="Isoproterenol hydrochloride injection and epinephrine should not be administered simultaneously because both drugs are direct cardiac stimulants and their combined effects may induce serious arrhythmias.">
+        <entity charOffset="0-26" id="DDI-DrugBank.d55.s0.e0" text="Isoproterenol hydrochloride" type="drug"/>
+        <entity charOffset="42-52" id="DDI-DrugBank.d55.s0.e1" text="epinephrine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d55.s0.e0" e2="DDI-DrugBank.d55.s0.e1" id="DDI-DrugBank.d55.s0.p0" type="advise"/>
+    <negationtags>Isoproterenol hydrochloride injection and epinephrine should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be administered simultaneously because both drugs are direct cardiac stimulants and their combined effects may induce serious arrhythmias. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d55.s1" text="The drugs may, however, be administered alternately provided a proper interval has elapsed between doses."/>
+    <sentence id="DDI-DrugBank.d55.s2" text="ISUPREL should be used with caution, if at all, when potent inhalational anesthetics such as halothane are employed because of potential to sensitize the myocardium to effects of sympathomimetic amines.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d55.s2.e0" text="ISUPREL" type="brand"/>
+        <entity charOffset="73-83" id="DDI-DrugBank.d55.s2.e1" text="anesthetics" type="group"/>
+        <entity charOffset="93-101" id="DDI-DrugBank.d55.s2.e2" text="halothane" type="drug"/>
+        <entity charOffset="179-200" id="DDI-DrugBank.d55.s2.e3" text="sympathomimetic amines" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d55.s2.e0" e2="DDI-DrugBank.d55.s2.e1" id="DDI-DrugBank.d55.s2.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d55.s2.e0" e2="DDI-DrugBank.d55.s2.e2" id="DDI-DrugBank.d55.s2.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d55.s2.e0" e2="DDI-DrugBank.d55.s2.e3" id="DDI-DrugBank.d55.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d55.s2.e1" e2="DDI-DrugBank.d55.s2.e2" id="DDI-DrugBank.d55.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d55.s2.e1" e2="DDI-DrugBank.d55.s2.e3" id="DDI-DrugBank.d55.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d55.s2.e2" e2="DDI-DrugBank.d55.s2.e3" id="DDI-DrugBank.d55.s2.p5"/>
+    </sentence>
+</document>

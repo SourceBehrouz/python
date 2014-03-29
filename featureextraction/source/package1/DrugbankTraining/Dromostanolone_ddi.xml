@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d129">
+    <sentence id="DDI-DrugBank.d129.s0" text="Androgens may increase sensitivity to oral anticoagulahts.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d129.s0.e0" text="Androgens" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d129.s1" text="Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia.">
+        <entity charOffset="14-26" id="DDI-DrugBank.d129.s1.e0" text="anticoagulant" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d129.s2" text="Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone.">
+        <entity charOffset="29-43" id="DDI-DrugBank.d129.s2.e0" text="oxyphenbutazone" type="drug"/>
+        <entity charOffset="49-57" id="DDI-DrugBank.d129.s2.e1" text="androgens" type="group"/>
+        <entity charOffset="98-112" id="DDI-DrugBank.d129.s2.e2" text="oxyphenbutazone" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d129.s2.e0" e2="DDI-DrugBank.d129.s2.e1" id="DDI-DrugBank.d129.s2.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d129.s2.e0" e2="DDI-DrugBank.d129.s2.e2" id="DDI-DrugBank.d129.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d129.s2.e1" e2="DDI-DrugBank.d129.s2.e2" id="DDI-DrugBank.d129.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d129.s3" text="In diabetic patients, the metabolic effects of androgens may decrease blood glucose and therefore, insulin requirements.">
+        <entity charOffset="47-55" id="DDI-DrugBank.d129.s3.e0" text="androgens" type="group"/>
+        <entity charOffset="99-105" id="DDI-DrugBank.d129.s3.e1" text="insulin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d129.s3.e0" e2="DDI-DrugBank.d129.s3.e1" id="DDI-DrugBank.d129.s3.p0" type="effect"/>
+    </sentence>
+</document>

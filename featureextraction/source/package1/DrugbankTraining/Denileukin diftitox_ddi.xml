@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d182">
+    <sentence id="DDI-DrugBank.d182.s0" text="No clinical drug interaction studies have been conducted."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; clinical drug interaction studies have been conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d182.s1" text="However, in a single in vivo rodent study denileukin diftitox had no effect on P450 levels.">
+        <entity charOffset="42-60" id="DDI-DrugBank.d182.s1.e0" text="denileukin diftitox" type="drug"/>
+    <negationtags>However, in a single in vivo rodent study denileukin diftitox had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on P450 levels. &lt;/scope&gt;</negationtags></sentence>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d378">
+    <sentence id="DDI-DrugBank.d378.s0" text="Renal function should be monitored carefully if high doses of aminoglycosides are to be administered with MAXIPIME because of the increased potential of nephrotoxicity and ototoxicity of aminoglycoside antibiotics.">
+        <entity charOffset="62-76" id="DDI-DrugBank.d378.s0.e0" text="aminoglycosides" type="group"/>
+        <entity charOffset="106-113" id="DDI-DrugBank.d378.s0.e1" text="MAXIPIME" type="brand"/>
+        <entity charOffset="187-212" id="DDI-DrugBank.d378.s0.e2" text="aminoglycoside antibiotics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d378.s0.e0" e2="DDI-DrugBank.d378.s0.e1" id="DDI-DrugBank.d378.s0.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d378.s0.e0" e2="DDI-DrugBank.d378.s0.e2" id="DDI-DrugBank.d378.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d378.s0.e1" e2="DDI-DrugBank.d378.s0.e2" id="DDI-DrugBank.d378.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d378.s1" text="Nephrotoxicity has been reported following concomitant administration of other cephalosporins with potent diuretics such as furosemide.">
+        <entity charOffset="79-92" id="DDI-DrugBank.d378.s1.e0" text="cephalosporins" type="group"/>
+        <entity charOffset="106-114" id="DDI-DrugBank.d378.s1.e1" text="diuretics" type="group"/>
+        <entity charOffset="124-133" id="DDI-DrugBank.d378.s1.e2" text="furosemide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d378.s1.e0" e2="DDI-DrugBank.d378.s1.e1" id="DDI-DrugBank.d378.s1.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d378.s1.e0" e2="DDI-DrugBank.d378.s1.e2" id="DDI-DrugBank.d378.s1.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d378.s1.e1" e2="DDI-DrugBank.d378.s1.e2" id="DDI-DrugBank.d378.s1.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d378.s2" text="Drug/Laboratory Test Interactions The administration of cefepime may result in a false-positive reaction for glucose in the urine when using Clinitest  tablets.">
+        <entity charOffset="56-63" id="DDI-DrugBank.d378.s2.e0" text="cefepime" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d378.s3" text="It is recommended that glucose tests based on enzymatic glucose oxidase reactions (such as Clinistix  or Tes-Tape  ) be used."/>
+</document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d327">
+    <sentence id="DDI-DrugBank.d327.s0" text="There have been isolated reports of patients experiencing increases in their prothrombin times when etidronate was added to warfarin therapy.">
+        <entity charOffset="100-109" id="DDI-DrugBank.d327.s0.e0" text="etidronate" type="drug"/>
+        <entity charOffset="124-131" id="DDI-DrugBank.d327.s0.e1" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d327.s0.e0" e2="DDI-DrugBank.d327.s0.e1" id="DDI-DrugBank.d327.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d327.s1" text="The majority of these reports concerned variable elevations in prothrombin times without clinically significant sequelae."><negationtags>The majority of these reports concerned variable elevations in prothrombin times &lt;scope&gt; &lt;cue&gt; without &lt;/cue&gt; clinically significant sequelae. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d327.s2" text="Although the relevance of these reports and any mechanism of coagulation alterations is unclear, patients on warfarin should have their prothrombin time monitored.">
+        <entity charOffset="109-116" id="DDI-DrugBank.d327.s2.e0" text="warfarin" type="drug"/>
+    </sentence>
+</document>

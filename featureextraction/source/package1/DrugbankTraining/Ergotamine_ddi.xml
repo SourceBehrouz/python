@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d59">
+    <sentence id="DDI-DrugBank.d59.s0" text="The effects of ERGOMAR may be potentiated by triacetyloleandomycin which inhibits the metabolism of ergotamine.">
+        <entity charOffset="15-21" id="DDI-DrugBank.d59.s0.e0" text="ERGOMAR" type="brand"/>
+        <entity charOffset="45-65" id="DDI-DrugBank.d59.s0.e1" text="triacetyloleandomycin" type="drug"/>
+        <entity charOffset="100-109" id="DDI-DrugBank.d59.s0.e2" text="ergotamine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d59.s0.e0" e2="DDI-DrugBank.d59.s0.e1" id="DDI-DrugBank.d59.s0.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d59.s0.e0" e2="DDI-DrugBank.d59.s0.e2" id="DDI-DrugBank.d59.s0.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d59.s0.e1" e2="DDI-DrugBank.d59.s0.e2" id="DDI-DrugBank.d59.s0.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d59.s1" text="The pressor effects of ERGOMAR and other vasoconstrictor drugs can combine to cause dangerous hypertension.">
+        <entity charOffset="23-29" id="DDI-DrugBank.d59.s1.e0" text="ERGOMAR" type="brand"/>
+        <entity charOffset="41-61" id="DDI-DrugBank.d59.s1.e1" text="vasoconstrictor drugs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d59.s1.e0" e2="DDI-DrugBank.d59.s1.e1" id="DDI-DrugBank.d59.s1.p0" type="effect"/>
+    </sentence>
+</document>

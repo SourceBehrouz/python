@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d38">
+    <sentence id="DDI-DrugBank.d38.s0" text="ZINECARD does not influence the pharmacokinetics of doxorubicin.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d38.s0.e0" text="ZINECARD" type="brand"/>
+        <entity charOffset="52-62" id="DDI-DrugBank.d38.s0.e1" text="doxorubicin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d38.s0.e0" e2="DDI-DrugBank.d38.s0.e1" id="DDI-DrugBank.d38.s0.p0"/>
+    <negationtags>ZINECARD does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; influence the pharmacokinetics of doxorubicin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d38.s1" text="Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term carcinogenicity studies have been carried out with dexrazoxane in animals.">
+        <entity charOffset="117-127" id="DDI-DrugBank.d38.s1.e0" text="dexrazoxane" type="drug"/>
+    <negationtags>Carcinogenesis, Mutagenesis, Impairment of Fertility &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; long-term carcinogenicity studies have been carried out with dexrazoxane in animals. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d38.s2" text="Dexrazoxane was not mutagenic in the Ames test but was found to be clastogenic to human lymphocytes in vitro and to mouse bone marrow erythrocytes in vivo (micronucleus test).">
+        <entity charOffset="0-10" id="DDI-DrugBank.d38.s2.e0" text="Dexrazoxane" type="drug"/>
+    <negationtags>Dexrazoxane was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; mutagenic in the Ames test &lt;/scope&gt; but was found to be clastogenic to human lymphocytes in vitro and to mouse bone marrow erythrocytes in vivo (micronucleus test).</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d38.s3" text="The possible adverse effects of ZINECARD on the fertility of humans and experimental animals, male or female, have not been adequately studied.">
+        <entity charOffset="32-39" id="DDI-DrugBank.d38.s3.e0" text="ZINECARD" type="brand"/>
+    <negationtags>The possible adverse effects of ZINECARD on the fertility of humans and experimental animals, male or female, have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been adequately studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d38.s4" text="Testicular atrophy was seen with dexrazoxane administration at doses as low as 30 mg/kg weekly for 6 weeks in rats (1/3 the human dose on a mg/m 2 basis) and as low as 20 mg/kg weekly for 13 weeks in dogs (approximately equal to the human dose on a mg/m 2 basis).">
+        <entity charOffset="33-43" id="DDI-DrugBank.d38.s4.e0" text="dexrazoxane" type="drug"/>
+    </sentence>
+</document>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d137">
+    <sentence id="DDI-DrugBank.d137.s0" text="Nitrates: The concomitant use of Bepridil with long- and short-acting nitrates has been safely tolerated in patients with stable angina pectoris.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d137.s0.e0" text="Nitrates" type="group"/>
+        <entity charOffset="33-40" id="DDI-DrugBank.d137.s0.e1" text="Bepridil" type="drug"/>
+        <entity charOffset="70-77" id="DDI-DrugBank.d137.s0.e2" text="nitrates" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s0.e0" e2="DDI-DrugBank.d137.s0.e1" id="DDI-DrugBank.d137.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s0.e0" e2="DDI-DrugBank.d137.s0.e2" id="DDI-DrugBank.d137.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s0.e1" e2="DDI-DrugBank.d137.s0.e2" id="DDI-DrugBank.d137.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d137.s1" text="Sublingual nitroglycerin may be taken if necessary for the control of acute angina attacks during Bepridil therapy.">
+        <entity charOffset="11-23" id="DDI-DrugBank.d137.s1.e0" text="nitroglycerin" type="drug"/>
+        <entity charOffset="98-105" id="DDI-DrugBank.d137.s1.e1" text="Bepridil" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s1.e0" e2="DDI-DrugBank.d137.s1.e1" id="DDI-DrugBank.d137.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d137.s2" text="Beta-blocking Agents: The concomitant use of Bepridil and beta-blocking agents has been well tolerated in patients with stable angina.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d137.s2.e0" text="Beta-blocking Agents" type="group"/>
+        <entity charOffset="45-52" id="DDI-DrugBank.d137.s2.e1" text="Bepridil" type="drug"/>
+        <entity charOffset="58-77" id="DDI-DrugBank.d137.s2.e2" text="beta-blocking agents" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s2.e0" e2="DDI-DrugBank.d137.s2.e1" id="DDI-DrugBank.d137.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s2.e0" e2="DDI-DrugBank.d137.s2.e2" id="DDI-DrugBank.d137.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s2.e1" e2="DDI-DrugBank.d137.s2.e2" id="DDI-DrugBank.d137.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d137.s3" text="Available data are not sufficient, however, to predict the effects of concomitant medication on patients with impaired ventricular function or cardiac conduction abnormalities."><negationtags>Available data are &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; sufficient, &lt;/scope&gt; however, to predict the effects of concomitant medication on patients with impaired ventricular function or cardiac conduction abnormalities.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d137.s4" text="Digoxin: In controlled studies in healthy volunteers, bepridil hydrochloride either had no effect (one study) or was associated with modest increases, about 30% (two studies) in steady-state serum digoxin concentrations.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d137.s4.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="54-75" id="DDI-DrugBank.d137.s4.e1" text="bepridil hydrochloride" type="drug"/>
+        <entity charOffset="197-203" id="DDI-DrugBank.d137.s4.e2" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s4.e0" e2="DDI-DrugBank.d137.s4.e1" id="DDI-DrugBank.d137.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s4.e0" e2="DDI-DrugBank.d137.s4.e2" id="DDI-DrugBank.d137.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d137.s4.e1" e2="DDI-DrugBank.d137.s4.e2" id="DDI-DrugBank.d137.s4.p2" type="mechanism"/>
+    <negationtags>Digoxin: In controlled studies in healthy volunteers, bepridil hydrochloride either had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect (one study) or was associated with modest increases, about 30% (two studies) in steady-state serum digoxin concentrations. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d137.s5" text="Limited clinical data in angina patients receiving concomitant bepridil hydrochloride and digoxin therapy indicate no discernible changes in serum digoxin levels.">
+        <entity charOffset="63-84" id="DDI-DrugBank.d137.s5.e0" text="bepridil hydrochloride" type="drug"/>
+        <entity charOffset="90-96" id="DDI-DrugBank.d137.s5.e1" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s5.e0" e2="DDI-DrugBank.d137.s5.e1" id="DDI-DrugBank.d137.s5.p0"/>
+    <negationtags>Limited clinical data in angina patients receiving concomitant bepridil hydrochloride and digoxin therapy indicate &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; discernible changes in serum digoxin levels. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d137.s6" text="Available data are neither sufficient to rule out possible increases in serum digoxin with concomitant treatment in some patients, nor other possible interactions, particularly in patients with cardiac conduction abnormalities (Also see WARNINGS Congestive Heart Failure).">
+        <entity charOffset="78-84" id="DDI-DrugBank.d137.s6.e0" text="digoxin" type="drug"/>
+    <negationtags>Available data are neither &lt;scope&gt; &lt;cue&gt; sufficient to rule out &lt;/cue&gt; possible increases in serum digoxin with concomitant treatment in some patients, nor other possible interactions, particularly in patients with cardiac conduction abnormalities (Also see WARNINGS Congestive Heart Failure). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d137.s7" text="Oral Hypoglycemics: Bepridil has been safely used in diabetic patients without significantly lowering their blood glucose levels or altering their need for insulin or oral hypoglycemic agents.">
+        <entity charOffset="5-17" id="DDI-DrugBank.d137.s7.e0" text="Hypoglycemics" type="group"/>
+        <entity charOffset="20-27" id="DDI-DrugBank.d137.s7.e1" text="Bepridil" type="drug"/>
+        <entity charOffset="156-162" id="DDI-DrugBank.d137.s7.e2" text="insulin" type="drug"/>
+        <entity charOffset="172-190" id="DDI-DrugBank.d137.s7.e3" text="hypoglycemic agents" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s7.e0" e2="DDI-DrugBank.d137.s7.e1" id="DDI-DrugBank.d137.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s7.e0" e2="DDI-DrugBank.d137.s7.e2" id="DDI-DrugBank.d137.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s7.e0" e2="DDI-DrugBank.d137.s7.e3" id="DDI-DrugBank.d137.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s7.e1" e2="DDI-DrugBank.d137.s7.e2" id="DDI-DrugBank.d137.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s7.e1" e2="DDI-DrugBank.d137.s7.e3" id="DDI-DrugBank.d137.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s7.e2" e2="DDI-DrugBank.d137.s7.e3" id="DDI-DrugBank.d137.s7.p5"/>
+    <negationtags>Oral Hypoglycemics: Bepridil has been safely used in diabetic patients &lt;scope&gt; &lt;cue&gt; without &lt;/cue&gt; significantly lowering their blood glucose levels or altering their need for insulin or oral hypoglycemic agents. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d137.s8" text="General Interactions: Certain drugs could increase the likelihood of potentially serious adverse effects with bepridil hydrochloride.">
+        <entity charOffset="110-131" id="DDI-DrugBank.d137.s8.e0" text="bepridil hydrochloride" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d137.s9" text="In general, these are drugs that have one or more pharmacologic activities similar to bepridil hydrochloride, including anti-arrhythmic agents such as quinidine and procainamide, cardiac glycosides and tricyclic anti-depressants.">
+        <entity charOffset="86-107" id="DDI-DrugBank.d137.s9.e0" text="bepridil hydrochloride" type="drug"/>
+        <entity charOffset="120-141" id="DDI-DrugBank.d137.s9.e1" text="anti-arrhythmic agents" type="group"/>
+        <entity charOffset="151-159" id="DDI-DrugBank.d137.s9.e2" text="quinidine" type="drug"/>
+        <entity charOffset="165-176" id="DDI-DrugBank.d137.s9.e3" text="procainamide" type="drug"/>
+        <entity charOffset="179-196" id="DDI-DrugBank.d137.s9.e4" text="cardiac glycosides" type="group"/>
+        <entity charOffset="202-227" id="DDI-DrugBank.d137.s9.e5" text="tricyclic anti-depressants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e0" e2="DDI-DrugBank.d137.s9.e1" id="DDI-DrugBank.d137.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e0" e2="DDI-DrugBank.d137.s9.e2" id="DDI-DrugBank.d137.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e0" e2="DDI-DrugBank.d137.s9.e3" id="DDI-DrugBank.d137.s9.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e0" e2="DDI-DrugBank.d137.s9.e4" id="DDI-DrugBank.d137.s9.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e0" e2="DDI-DrugBank.d137.s9.e5" id="DDI-DrugBank.d137.s9.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e1" e2="DDI-DrugBank.d137.s9.e2" id="DDI-DrugBank.d137.s9.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e1" e2="DDI-DrugBank.d137.s9.e3" id="DDI-DrugBank.d137.s9.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e1" e2="DDI-DrugBank.d137.s9.e4" id="DDI-DrugBank.d137.s9.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e1" e2="DDI-DrugBank.d137.s9.e5" id="DDI-DrugBank.d137.s9.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e2" e2="DDI-DrugBank.d137.s9.e3" id="DDI-DrugBank.d137.s9.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e2" e2="DDI-DrugBank.d137.s9.e4" id="DDI-DrugBank.d137.s9.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e2" e2="DDI-DrugBank.d137.s9.e5" id="DDI-DrugBank.d137.s9.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e3" e2="DDI-DrugBank.d137.s9.e4" id="DDI-DrugBank.d137.s9.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e3" e2="DDI-DrugBank.d137.s9.e5" id="DDI-DrugBank.d137.s9.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s9.e4" e2="DDI-DrugBank.d137.s9.e5" id="DDI-DrugBank.d137.s9.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d137.s10" text="Anti-arrhythmics and tricyclic anti-depressants could exaggerate the prolongation of the QT interval observed with bepridil hydrochloride.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d137.s10.e0" text="Anti-arrhythmics" type="group"/>
+        <entity charOffset="21-46" id="DDI-DrugBank.d137.s10.e1" text="tricyclic anti-depressants" type="group"/>
+        <entity charOffset="115-136" id="DDI-DrugBank.d137.s10.e2" text="bepridil hydrochloride" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d137.s10.e0" e2="DDI-DrugBank.d137.s10.e1" id="DDI-DrugBank.d137.s10.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d137.s10.e0" e2="DDI-DrugBank.d137.s10.e2" id="DDI-DrugBank.d137.s10.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d137.s10.e1" e2="DDI-DrugBank.d137.s10.e2" id="DDI-DrugBank.d137.s10.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d137.s11" text="Cardiac glycosides could exaggerate the depression of AV nodal conduction observed with bepridil hydrochloride.">
+        <entity charOffset="0-17" id="DDI-DrugBank.d137.s11.e0" text="Cardiac glycosides" type="group"/>
+        <entity charOffset="88-109" id="DDI-DrugBank.d137.s11.e1" text="bepridil hydrochloride" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d137.s11.e0" e2="DDI-DrugBank.d137.s11.e1" id="DDI-DrugBank.d137.s11.p0" type="effect"/>
+    </sentence>
+</document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d174">
+    <sentence id="DDI-DrugBank.d174.s0" text="In vitro studies have shown that, because of its affinity for protein, 6MNA may displace other protein-bound drugs from their binding site.">
+        <entity charOffset="71-74" id="DDI-DrugBank.d174.s0.e0" text="6MNA" type="drug_n"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d174.s1" text="Caution should be exercised when administering nabumetone with warfarin since interactions have been seen with other NSAIDs.">
+        <entity charOffset="47-56" id="DDI-DrugBank.d174.s1.e0" text="nabumetone" type="drug"/>
+        <entity charOffset="63-70" id="DDI-DrugBank.d174.s1.e1" text="warfarin" type="drug"/>
+        <entity charOffset="117-122" id="DDI-DrugBank.d174.s1.e2" text="NSAIDs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d174.s1.e0" e2="DDI-DrugBank.d174.s1.e1" id="DDI-DrugBank.d174.s1.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d174.s1.e0" e2="DDI-DrugBank.d174.s1.e2" id="DDI-DrugBank.d174.s1.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d174.s1.e1" e2="DDI-DrugBank.d174.s1.e2" id="DDI-DrugBank.d174.s1.p2" type="int"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d174.s2" text="Concomitant administration of an aluminum-containing antacid had no significant effect in the bioavailability of 6MNA.">
+        <entity charOffset="33-40" id="DDI-DrugBank.d174.s2.e0" text="aluminum" type="drug"/>
+        <entity charOffset="53-59" id="DDI-DrugBank.d174.s2.e1" text="antacid" type="group"/>
+        <entity charOffset="113-116" id="DDI-DrugBank.d174.s2.e2" text="6MNA" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d174.s2.e0" e2="DDI-DrugBank.d174.s2.e1" id="DDI-DrugBank.d174.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d174.s2.e0" e2="DDI-DrugBank.d174.s2.e2" id="DDI-DrugBank.d174.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d174.s2.e1" e2="DDI-DrugBank.d174.s2.e2" id="DDI-DrugBank.d174.s2.p2"/>
+    <negationtags>Concomitant administration of an aluminum-containing antacid had &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effect in the bioavailability of 6MNA. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d174.s3" text="When administered with food or milk, there is more rapid absorption;"/>
+    <sentence id="DDI-DrugBank.d174.s4" text="however, the total amount of 6MNA in the plasma is unchanged .">
+        <entity charOffset="29-32" id="DDI-DrugBank.d174.s4.e0" text="6MNA" type="drug_n"/>
+    </sentence>
+</document>

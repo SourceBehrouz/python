@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d485">
+    <sentence id="DDI-DrugBank.d485.s0" text="Ethinyl estradiol: Substrate of CYP3A4 (major), 3A5-7 (minor);">
+        <entity charOffset="0-16" id="DDI-DrugBank.d485.s0.e0" text="Ethinyl estradiol" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s1" text="Inhibits CYP1A2 (weak), 2B6 (weak), 2C19 (weak), 3A4 (weak)."/>
+    <sentence id="DDI-DrugBank.d485.s2" text="Acetaminophen: May increase plasma concentration of synthetic estrogens, possibly by inhibiting conjugation.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d485.s2.e0" text="Acetaminophen" type="drug"/>
+        <entity charOffset="52-70" id="DDI-DrugBank.d485.s2.e1" text="synthetic estrogens" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s2.e0" e2="DDI-DrugBank.d485.s2.e1" id="DDI-DrugBank.d485.s2.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s3" text="Combination hormonal contraceptives may also decrease the plasma concentration of acetaminophen.">
+        <entity charOffset="12-34" id="DDI-DrugBank.d485.s3.e0" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="82-94" id="DDI-DrugBank.d485.s3.e1" text="acetaminophen" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s3.e0" e2="DDI-DrugBank.d485.s3.e1" id="DDI-DrugBank.d485.s3.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s4" text="Acitretin: Interferes with the contraceptive effect of microdosed progestin-containing minipill preparations.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d485.s4.e0" text="Acitretin" type="drug"/>
+        <entity charOffset="66-74" id="DDI-DrugBank.d485.s4.e1" text="progestin" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s4.e0" e2="DDI-DrugBank.d485.s4.e1" id="DDI-DrugBank.d485.s4.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s5" text="The effect on other progestational contraceptives (eg, implants, injectables) is unknown.">
+        <entity charOffset="20-48" id="DDI-DrugBank.d485.s5.e0" text="progestational contraceptives" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s6" text="Aminoglutethimide: May increase CYP metabolism of progestins leading to possible decrease in contraceptive effectiveness.">
+        <entity charOffset="0-16" id="DDI-DrugBank.d485.s6.e0" text="Aminoglutethimide" type="drug"/>
+        <entity charOffset="50-59" id="DDI-DrugBank.d485.s6.e1" text="progestins" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s6.e0" e2="DDI-DrugBank.d485.s6.e1" id="DDI-DrugBank.d485.s6.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s7" text="Use of a nonhormonal contraceptive product is recommended.">
+        <entity charOffset="9-41" id="DDI-DrugBank.d485.s7.e0" text="nonhormonal contraceptive product" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s8" text="Antibiotics (ampicillin, tetracycline): Pregnancy has been reported following concomitant use, however, pharmacokinetic studies have not shown consistent effects with these antibiotics on plasma concentrations of synthetic steroids.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d485.s8.e0" text="Antibiotics" type="group"/>
+        <entity charOffset="13-22" id="DDI-DrugBank.d485.s8.e1" text="ampicillin" type="drug"/>
+        <entity charOffset="25-36" id="DDI-DrugBank.d485.s8.e2" text="tetracycline" type="drug"/>
+        <entity charOffset="173-183" id="DDI-DrugBank.d485.s8.e3" text="antibiotics" type="group"/>
+        <entity charOffset="213-230" id="DDI-DrugBank.d485.s8.e4" text="synthetic steroids" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e0" e2="DDI-DrugBank.d485.s8.e1" id="DDI-DrugBank.d485.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e0" e2="DDI-DrugBank.d485.s8.e2" id="DDI-DrugBank.d485.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e0" e2="DDI-DrugBank.d485.s8.e3" id="DDI-DrugBank.d485.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e0" e2="DDI-DrugBank.d485.s8.e4" id="DDI-DrugBank.d485.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e1" e2="DDI-DrugBank.d485.s8.e2" id="DDI-DrugBank.d485.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e1" e2="DDI-DrugBank.d485.s8.e3" id="DDI-DrugBank.d485.s8.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e1" e2="DDI-DrugBank.d485.s8.e4" id="DDI-DrugBank.d485.s8.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e2" e2="DDI-DrugBank.d485.s8.e3" id="DDI-DrugBank.d485.s8.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e2" e2="DDI-DrugBank.d485.s8.e4" id="DDI-DrugBank.d485.s8.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s8.e3" e2="DDI-DrugBank.d485.s8.e4" id="DDI-DrugBank.d485.s8.p9"/>
+    <negationtags>Antibiotics (ampicillin, tetracycline): Pregnancy has been reported following concomitant use, however, pharmacokinetic studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; shown consistent effects with these antibiotics on plasma concentrations of synthetic steroids. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d485.s9" text="Use of a nonhormonal contraceptive product is recommended.">
+        <entity charOffset="9-41" id="DDI-DrugBank.d485.s9.e0" text="nonhormonal contraceptive product" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s10" text="Anticoagulants: Combination hormonal contraceptives may increase or decrease the effects of coumarin derivatives.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d485.s10.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="28-50" id="DDI-DrugBank.d485.s10.e1" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="92-111" id="DDI-DrugBank.d485.s10.e2" text="coumarin derivatives" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s10.e0" e2="DDI-DrugBank.d485.s10.e1" id="DDI-DrugBank.d485.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s10.e0" e2="DDI-DrugBank.d485.s10.e2" id="DDI-DrugBank.d485.s10.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s10.e1" e2="DDI-DrugBank.d485.s10.e2" id="DDI-DrugBank.d485.s10.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s11" text="Combination hormonal contraceptives may also increase risk of thromboembolic disorders.">
+        <entity charOffset="12-34" id="DDI-DrugBank.d485.s11.e0" text="hormonal contraceptives" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s12" text="Anticonvulsants (carbamazepine, felbamate, phenobarbital, phenytoin, topiramate): Increase the metabolism of ethinyl estradiol and/or some progestins, leading to possible decrease in contraceptive effectiveness.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d485.s12.e0" text="Anticonvulsants" type="group"/>
+        <entity charOffset="17-29" id="DDI-DrugBank.d485.s12.e1" text="carbamazepine" type="drug"/>
+        <entity charOffset="32-40" id="DDI-DrugBank.d485.s12.e2" text="felbamate" type="drug"/>
+        <entity charOffset="43-55" id="DDI-DrugBank.d485.s12.e3" text="phenobarbital" type="drug"/>
+        <entity charOffset="58-66" id="DDI-DrugBank.d485.s12.e4" text="phenytoin" type="drug"/>
+        <entity charOffset="69-78" id="DDI-DrugBank.d485.s12.e5" text="topiramate" type="drug"/>
+        <entity charOffset="109-125" id="DDI-DrugBank.d485.s12.e6" text="ethinyl estradiol" type="drug"/>
+        <entity charOffset="139-148" id="DDI-DrugBank.d485.s12.e7" text="progestins" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e0" e2="DDI-DrugBank.d485.s12.e1" id="DDI-DrugBank.d485.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e0" e2="DDI-DrugBank.d485.s12.e2" id="DDI-DrugBank.d485.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e0" e2="DDI-DrugBank.d485.s12.e3" id="DDI-DrugBank.d485.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e0" e2="DDI-DrugBank.d485.s12.e4" id="DDI-DrugBank.d485.s12.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e0" e2="DDI-DrugBank.d485.s12.e5" id="DDI-DrugBank.d485.s12.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e0" e2="DDI-DrugBank.d485.s12.e6" id="DDI-DrugBank.d485.s12.p5" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e0" e2="DDI-DrugBank.d485.s12.e7" id="DDI-DrugBank.d485.s12.p6" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e1" e2="DDI-DrugBank.d485.s12.e2" id="DDI-DrugBank.d485.s12.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e1" e2="DDI-DrugBank.d485.s12.e3" id="DDI-DrugBank.d485.s12.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e1" e2="DDI-DrugBank.d485.s12.e4" id="DDI-DrugBank.d485.s12.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e1" e2="DDI-DrugBank.d485.s12.e5" id="DDI-DrugBank.d485.s12.p10"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e1" e2="DDI-DrugBank.d485.s12.e6" id="DDI-DrugBank.d485.s12.p11" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e1" e2="DDI-DrugBank.d485.s12.e7" id="DDI-DrugBank.d485.s12.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e2" e2="DDI-DrugBank.d485.s12.e3" id="DDI-DrugBank.d485.s12.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e2" e2="DDI-DrugBank.d485.s12.e4" id="DDI-DrugBank.d485.s12.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e2" e2="DDI-DrugBank.d485.s12.e5" id="DDI-DrugBank.d485.s12.p15"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e2" e2="DDI-DrugBank.d485.s12.e6" id="DDI-DrugBank.d485.s12.p16" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e2" e2="DDI-DrugBank.d485.s12.e7" id="DDI-DrugBank.d485.s12.p17" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e3" e2="DDI-DrugBank.d485.s12.e4" id="DDI-DrugBank.d485.s12.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e3" e2="DDI-DrugBank.d485.s12.e5" id="DDI-DrugBank.d485.s12.p19"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e3" e2="DDI-DrugBank.d485.s12.e6" id="DDI-DrugBank.d485.s12.p20" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e3" e2="DDI-DrugBank.d485.s12.e7" id="DDI-DrugBank.d485.s12.p21" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e4" e2="DDI-DrugBank.d485.s12.e5" id="DDI-DrugBank.d485.s12.p22"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e4" e2="DDI-DrugBank.d485.s12.e6" id="DDI-DrugBank.d485.s12.p23" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e4" e2="DDI-DrugBank.d485.s12.e7" id="DDI-DrugBank.d485.s12.p24" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e5" e2="DDI-DrugBank.d485.s12.e6" id="DDI-DrugBank.d485.s12.p25" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s12.e5" e2="DDI-DrugBank.d485.s12.e7" id="DDI-DrugBank.d485.s12.p26" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s12.e6" e2="DDI-DrugBank.d485.s12.e7" id="DDI-DrugBank.d485.s12.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s13" text="Use of a nonhormonal contraceptive product is recommended.">
+        <entity charOffset="9-41" id="DDI-DrugBank.d485.s13.e0" text="nonhormonal contraceptive product" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s14" text="Ascorbic acid: Doses of ascorbic acid (vitamin C) 1 g/day have been reported to increase plasma concentration of synthetic estrogens by ~47%, possibly by inhibiting conjugation;">
+        <entity charOffset="0-12" id="DDI-DrugBank.d485.s14.e0" text="Ascorbic acid" type="drug"/>
+        <entity charOffset="24-36" id="DDI-DrugBank.d485.s14.e1" text="ascorbic acid" type="drug"/>
+        <entity charOffset="39-47" id="DDI-DrugBank.d485.s14.e2" text="vitamin C" type="drug"/>
+        <entity charOffset="113-131" id="DDI-DrugBank.d485.s14.e3" text="synthetic estrogens" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s14.e0" e2="DDI-DrugBank.d485.s14.e1" id="DDI-DrugBank.d485.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s14.e0" e2="DDI-DrugBank.d485.s14.e2" id="DDI-DrugBank.d485.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s14.e0" e2="DDI-DrugBank.d485.s14.e3" id="DDI-DrugBank.d485.s14.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s14.e1" e2="DDI-DrugBank.d485.s14.e2" id="DDI-DrugBank.d485.s14.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s14.e1" e2="DDI-DrugBank.d485.s14.e3" id="DDI-DrugBank.d485.s14.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s14.e2" e2="DDI-DrugBank.d485.s14.e3" id="DDI-DrugBank.d485.s14.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s15" text="clinical implications are unclear."/>
+    <sentence id="DDI-DrugBank.d485.s16" text="Atorvastatin: Atorvastatin increases the AUC for norethindrone and ethinyl estradiol.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d485.s16.e0" text="Atorvastatin" type="drug"/>
+        <entity charOffset="14-25" id="DDI-DrugBank.d485.s16.e1" text="Atorvastatin" type="drug"/>
+        <entity charOffset="49-61" id="DDI-DrugBank.d485.s16.e2" text="norethindrone" type="drug"/>
+        <entity charOffset="67-83" id="DDI-DrugBank.d485.s16.e3" text="ethinyl estradiol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s16.e0" e2="DDI-DrugBank.d485.s16.e1" id="DDI-DrugBank.d485.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s16.e0" e2="DDI-DrugBank.d485.s16.e2" id="DDI-DrugBank.d485.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s16.e0" e2="DDI-DrugBank.d485.s16.e3" id="DDI-DrugBank.d485.s16.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s16.e1" e2="DDI-DrugBank.d485.s16.e2" id="DDI-DrugBank.d485.s16.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s16.e1" e2="DDI-DrugBank.d485.s16.e3" id="DDI-DrugBank.d485.s16.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s16.e2" e2="DDI-DrugBank.d485.s16.e3" id="DDI-DrugBank.d485.s16.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s17" text="Benzodiazepines: Combination hormonal contraceptives may decrease the clearance of some benzodiazepines (alprazolam, chlordiazepoxide, diazepam) and increase the clearance of others (lorazepam, oxazepam, temazepam).">
+        <entity charOffset="0-14" id="DDI-DrugBank.d485.s17.e0" text="Benzodiazepines" type="group"/>
+        <entity charOffset="29-51" id="DDI-DrugBank.d485.s17.e1" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="88-102" id="DDI-DrugBank.d485.s17.e2" text="benzodiazepines" type="group"/>
+        <entity charOffset="105-114" id="DDI-DrugBank.d485.s17.e3" text="alprazolam" type="drug"/>
+        <entity charOffset="117-132" id="DDI-DrugBank.d485.s17.e4" text="chlordiazepoxide" type="drug"/>
+        <entity charOffset="135-142" id="DDI-DrugBank.d485.s17.e5" text="diazepam" type="drug"/>
+        <entity charOffset="183-191" id="DDI-DrugBank.d485.s17.e6" text="lorazepam" type="drug"/>
+        <entity charOffset="194-201" id="DDI-DrugBank.d485.s17.e7" text="oxazepam" type="drug"/>
+        <entity charOffset="204-212" id="DDI-DrugBank.d485.s17.e8" text="temazepam" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e1" id="DDI-DrugBank.d485.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e2" id="DDI-DrugBank.d485.s17.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e3" id="DDI-DrugBank.d485.s17.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e4" id="DDI-DrugBank.d485.s17.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e5" id="DDI-DrugBank.d485.s17.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e6" id="DDI-DrugBank.d485.s17.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e7" id="DDI-DrugBank.d485.s17.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e0" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s17.e1" e2="DDI-DrugBank.d485.s17.e2" id="DDI-DrugBank.d485.s17.p8" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s17.e1" e2="DDI-DrugBank.d485.s17.e3" id="DDI-DrugBank.d485.s17.p9" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s17.e1" e2="DDI-DrugBank.d485.s17.e4" id="DDI-DrugBank.d485.s17.p10" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s17.e1" e2="DDI-DrugBank.d485.s17.e5" id="DDI-DrugBank.d485.s17.p11" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s17.e1" e2="DDI-DrugBank.d485.s17.e6" id="DDI-DrugBank.d485.s17.p12" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s17.e1" e2="DDI-DrugBank.d485.s17.e7" id="DDI-DrugBank.d485.s17.p13" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s17.e1" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p14" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e2" e2="DDI-DrugBank.d485.s17.e3" id="DDI-DrugBank.d485.s17.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e2" e2="DDI-DrugBank.d485.s17.e4" id="DDI-DrugBank.d485.s17.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e2" e2="DDI-DrugBank.d485.s17.e5" id="DDI-DrugBank.d485.s17.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e2" e2="DDI-DrugBank.d485.s17.e6" id="DDI-DrugBank.d485.s17.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e2" e2="DDI-DrugBank.d485.s17.e7" id="DDI-DrugBank.d485.s17.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e2" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e3" e2="DDI-DrugBank.d485.s17.e4" id="DDI-DrugBank.d485.s17.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e3" e2="DDI-DrugBank.d485.s17.e5" id="DDI-DrugBank.d485.s17.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e3" e2="DDI-DrugBank.d485.s17.e6" id="DDI-DrugBank.d485.s17.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e3" e2="DDI-DrugBank.d485.s17.e7" id="DDI-DrugBank.d485.s17.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e3" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e4" e2="DDI-DrugBank.d485.s17.e5" id="DDI-DrugBank.d485.s17.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e4" e2="DDI-DrugBank.d485.s17.e6" id="DDI-DrugBank.d485.s17.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e4" e2="DDI-DrugBank.d485.s17.e7" id="DDI-DrugBank.d485.s17.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e4" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e5" e2="DDI-DrugBank.d485.s17.e6" id="DDI-DrugBank.d485.s17.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e5" e2="DDI-DrugBank.d485.s17.e7" id="DDI-DrugBank.d485.s17.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e5" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e6" e2="DDI-DrugBank.d485.s17.e7" id="DDI-DrugBank.d485.s17.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e6" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s17.e7" e2="DDI-DrugBank.d485.s17.e8" id="DDI-DrugBank.d485.s17.p35"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s18" text="Clofibric acid: Combination hormonal contraceptives may increase the clearance of clofibric acid.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d485.s18.e0" text="Clofibric acid" type="drug_n"/>
+        <entity charOffset="28-50" id="DDI-DrugBank.d485.s18.e1" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="82-95" id="DDI-DrugBank.d485.s18.e2" text="clofibric acid" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s18.e0" e2="DDI-DrugBank.d485.s18.e1" id="DDI-DrugBank.d485.s18.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s18.e0" e2="DDI-DrugBank.d485.s18.e2" id="DDI-DrugBank.d485.s18.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s18.e1" e2="DDI-DrugBank.d485.s18.e2" id="DDI-DrugBank.d485.s18.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s19" text="Cyclosporine: Combination hormonal contraceptives may inhibit the metabolism of cyclosporine, leading to increased plasma concentrations;">
+        <entity charOffset="0-11" id="DDI-DrugBank.d485.s19.e0" text="Cyclosporine" type="drug"/>
+        <entity charOffset="26-48" id="DDI-DrugBank.d485.s19.e1" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="80-91" id="DDI-DrugBank.d485.s19.e2" text="cyclosporine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s19.e0" e2="DDI-DrugBank.d485.s19.e1" id="DDI-DrugBank.d485.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s19.e0" e2="DDI-DrugBank.d485.s19.e2" id="DDI-DrugBank.d485.s19.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s19.e1" e2="DDI-DrugBank.d485.s19.e2" id="DDI-DrugBank.d485.s19.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s20" text="monitor cyclosporine levels.">
+        <entity charOffset="8-19" id="DDI-DrugBank.d485.s20.e0" text="cyclosporine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s21" text="CYP3A4 inducers: CYP3A4 inducers may decrease the levels/effects of ethinyl estradiol.">
+        <entity charOffset="68-84" id="DDI-DrugBank.d485.s21.e0" text="ethinyl estradiol" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s22" text="Example inducers include aminoglutethimide, carbamazepine, nafcillin, nevirapine, phenobarbital, phenytoin, and rifamycins.">
+        <entity charOffset="25-41" id="DDI-DrugBank.d485.s22.e0" text="aminoglutethimide" type="drug"/>
+        <entity charOffset="44-56" id="DDI-DrugBank.d485.s22.e1" text="carbamazepine" type="drug"/>
+        <entity charOffset="59-67" id="DDI-DrugBank.d485.s22.e2" text="nafcillin" type="drug"/>
+        <entity charOffset="70-79" id="DDI-DrugBank.d485.s22.e3" text="nevirapine" type="drug"/>
+        <entity charOffset="82-94" id="DDI-DrugBank.d485.s22.e4" text="phenobarbital" type="drug"/>
+        <entity charOffset="97-105" id="DDI-DrugBank.d485.s22.e5" text="phenytoin" type="drug"/>
+        <entity charOffset="112-121" id="DDI-DrugBank.d485.s22.e6" text="rifamycins" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e0" e2="DDI-DrugBank.d485.s22.e1" id="DDI-DrugBank.d485.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e0" e2="DDI-DrugBank.d485.s22.e2" id="DDI-DrugBank.d485.s22.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e0" e2="DDI-DrugBank.d485.s22.e3" id="DDI-DrugBank.d485.s22.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e0" e2="DDI-DrugBank.d485.s22.e4" id="DDI-DrugBank.d485.s22.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e0" e2="DDI-DrugBank.d485.s22.e5" id="DDI-DrugBank.d485.s22.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e0" e2="DDI-DrugBank.d485.s22.e6" id="DDI-DrugBank.d485.s22.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e1" e2="DDI-DrugBank.d485.s22.e2" id="DDI-DrugBank.d485.s22.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e1" e2="DDI-DrugBank.d485.s22.e3" id="DDI-DrugBank.d485.s22.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e1" e2="DDI-DrugBank.d485.s22.e4" id="DDI-DrugBank.d485.s22.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e1" e2="DDI-DrugBank.d485.s22.e5" id="DDI-DrugBank.d485.s22.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e1" e2="DDI-DrugBank.d485.s22.e6" id="DDI-DrugBank.d485.s22.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e2" e2="DDI-DrugBank.d485.s22.e3" id="DDI-DrugBank.d485.s22.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e2" e2="DDI-DrugBank.d485.s22.e4" id="DDI-DrugBank.d485.s22.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e2" e2="DDI-DrugBank.d485.s22.e5" id="DDI-DrugBank.d485.s22.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e2" e2="DDI-DrugBank.d485.s22.e6" id="DDI-DrugBank.d485.s22.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e3" e2="DDI-DrugBank.d485.s22.e4" id="DDI-DrugBank.d485.s22.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e3" e2="DDI-DrugBank.d485.s22.e5" id="DDI-DrugBank.d485.s22.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e3" e2="DDI-DrugBank.d485.s22.e6" id="DDI-DrugBank.d485.s22.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e4" e2="DDI-DrugBank.d485.s22.e5" id="DDI-DrugBank.d485.s22.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e4" e2="DDI-DrugBank.d485.s22.e6" id="DDI-DrugBank.d485.s22.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s22.e5" e2="DDI-DrugBank.d485.s22.e6" id="DDI-DrugBank.d485.s22.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s23" text="Griseofulvin: Griseofulvin may induce the metabolism of combination hormonal contraceptives causing menstrual changes;">
+        <entity charOffset="0-11" id="DDI-DrugBank.d485.s23.e0" text="Griseofulvin" type="drug"/>
+        <entity charOffset="14-25" id="DDI-DrugBank.d485.s23.e1" text="Griseofulvin" type="drug"/>
+        <entity charOffset="56-90" id="DDI-DrugBank.d485.s23.e2" text="combination hormonal contraceptives" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s23.e0" e2="DDI-DrugBank.d485.s23.e1" id="DDI-DrugBank.d485.s23.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s23.e0" e2="DDI-DrugBank.d485.s23.e2" id="DDI-DrugBank.d485.s23.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s23.e1" e2="DDI-DrugBank.d485.s23.e2" id="DDI-DrugBank.d485.s23.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s24" text="pregnancies have been reported."/>
+    <sentence id="DDI-DrugBank.d485.s25" text="Use of barrier form of contraception is suggested while on griseofulvin therapy.">
+        <entity charOffset="59-70" id="DDI-DrugBank.d485.s25.e0" text="griseofulvin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s26" text="Morphine: Combination hormonal contraceptives may increase the clearance of morphine.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d485.s26.e0" text="Morphine" type="drug"/>
+        <entity charOffset="22-44" id="DDI-DrugBank.d485.s26.e1" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="76-83" id="DDI-DrugBank.d485.s26.e2" text="morphine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s26.e0" e2="DDI-DrugBank.d485.s26.e1" id="DDI-DrugBank.d485.s26.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s26.e0" e2="DDI-DrugBank.d485.s26.e2" id="DDI-DrugBank.d485.s26.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s26.e1" e2="DDI-DrugBank.d485.s26.e2" id="DDI-DrugBank.d485.s26.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s27" text="Non-nucleoside reverse transcriptase inhibitors (NNRTIs): Nevirapine may decrease plasma levels of combination hormonal contraceptives;">
+        <entity charOffset="0-46" id="DDI-DrugBank.d485.s27.e0" text="Non-nucleoside reverse transcriptase inhibitors" type="group"/>
+        <entity charOffset="49-54" id="DDI-DrugBank.d485.s27.e1" text="NNRTIs" type="group"/>
+        <entity charOffset="58-67" id="DDI-DrugBank.d485.s27.e2" text="Nevirapine" type="drug"/>
+        <entity charOffset="99-133" id="DDI-DrugBank.d485.s27.e3" text="combination hormonal contraceptives" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s27.e0" e2="DDI-DrugBank.d485.s27.e1" id="DDI-DrugBank.d485.s27.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s27.e0" e2="DDI-DrugBank.d485.s27.e2" id="DDI-DrugBank.d485.s27.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s27.e0" e2="DDI-DrugBank.d485.s27.e3" id="DDI-DrugBank.d485.s27.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s27.e1" e2="DDI-DrugBank.d485.s27.e2" id="DDI-DrugBank.d485.s27.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s27.e1" e2="DDI-DrugBank.d485.s27.e3" id="DDI-DrugBank.d485.s27.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s27.e2" e2="DDI-DrugBank.d485.s27.e3" id="DDI-DrugBank.d485.s27.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s28" text="use of a nonhormonal contraceptive product is recommended.">
+        <entity charOffset="9-41" id="DDI-DrugBank.d485.s28.e0" text="nonhormonal contraceptive product" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s29" text="No data for delavirdine;">
+        <entity charOffset="12-22" id="DDI-DrugBank.d485.s29.e0" text="delavirdine" type="drug"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; data for delavirdine; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d485.s30" text="incomplete data for efavirenz.">
+        <entity charOffset="20-28" id="DDI-DrugBank.d485.s30.e0" text="efavirenz" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s31" text="Prednisolone: Ethinyl estradiol may inhibit the metabolism of prednisolone, leading to increased plasma concentrations.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d485.s31.e0" text="Prednisolone" type="drug"/>
+        <entity charOffset="14-30" id="DDI-DrugBank.d485.s31.e1" text="Ethinyl estradiol" type="drug"/>
+        <entity charOffset="62-73" id="DDI-DrugBank.d485.s31.e2" text="prednisolone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s31.e0" e2="DDI-DrugBank.d485.s31.e1" id="DDI-DrugBank.d485.s31.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s31.e0" e2="DDI-DrugBank.d485.s31.e2" id="DDI-DrugBank.d485.s31.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s31.e1" e2="DDI-DrugBank.d485.s31.e2" id="DDI-DrugBank.d485.s31.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s32" text="Protease inhibitors: Amprenavir, lopinavir, nelfinavir, and ritonavir have been shown to decrease plasma levels of combination hormonal contraceptives;">
+        <entity charOffset="0-18" id="DDI-DrugBank.d485.s32.e0" text="Protease inhibitors" type="group"/>
+        <entity charOffset="21-30" id="DDI-DrugBank.d485.s32.e1" text="Amprenavir" type="drug"/>
+        <entity charOffset="33-41" id="DDI-DrugBank.d485.s32.e2" text="lopinavir" type="drug"/>
+        <entity charOffset="44-53" id="DDI-DrugBank.d485.s32.e3" text="nelfinavir" type="drug"/>
+        <entity charOffset="60-68" id="DDI-DrugBank.d485.s32.e4" text="ritonavir" type="drug"/>
+        <entity charOffset="115-149" id="DDI-DrugBank.d485.s32.e5" text="combination hormonal contraceptives" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e0" e2="DDI-DrugBank.d485.s32.e1" id="DDI-DrugBank.d485.s32.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e0" e2="DDI-DrugBank.d485.s32.e2" id="DDI-DrugBank.d485.s32.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e0" e2="DDI-DrugBank.d485.s32.e3" id="DDI-DrugBank.d485.s32.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e0" e2="DDI-DrugBank.d485.s32.e4" id="DDI-DrugBank.d485.s32.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e0" e2="DDI-DrugBank.d485.s32.e5" id="DDI-DrugBank.d485.s32.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e1" e2="DDI-DrugBank.d485.s32.e2" id="DDI-DrugBank.d485.s32.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e1" e2="DDI-DrugBank.d485.s32.e3" id="DDI-DrugBank.d485.s32.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e1" e2="DDI-DrugBank.d485.s32.e4" id="DDI-DrugBank.d485.s32.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s32.e1" e2="DDI-DrugBank.d485.s32.e5" id="DDI-DrugBank.d485.s32.p8" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e2" e2="DDI-DrugBank.d485.s32.e3" id="DDI-DrugBank.d485.s32.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e2" e2="DDI-DrugBank.d485.s32.e4" id="DDI-DrugBank.d485.s32.p10"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s32.e2" e2="DDI-DrugBank.d485.s32.e5" id="DDI-DrugBank.d485.s32.p11" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s32.e3" e2="DDI-DrugBank.d485.s32.e4" id="DDI-DrugBank.d485.s32.p12"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s32.e3" e2="DDI-DrugBank.d485.s32.e5" id="DDI-DrugBank.d485.s32.p13" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s32.e4" e2="DDI-DrugBank.d485.s32.e5" id="DDI-DrugBank.d485.s32.p14" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s33" text="use of a nonhormonal contraceptive product is recommended.">
+        <entity charOffset="9-41" id="DDI-DrugBank.d485.s33.e0" text="nonhormonal contraceptive product" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s34" text="Indinavir has been shown to increase plasma levels of combination hormonal contraceptives.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d485.s34.e0" text="Indinavir" type="drug"/>
+        <entity charOffset="54-88" id="DDI-DrugBank.d485.s34.e1" text="combination hormonal contraceptives" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s34.e0" e2="DDI-DrugBank.d485.s34.e1" id="DDI-DrugBank.d485.s34.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s35" text="No data for saquinavir.">
+        <entity charOffset="12-21" id="DDI-DrugBank.d485.s35.e0" text="saquinavir" type="drug"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; data for saquinavir. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d485.s36" text="Rifampin: Rifampin increases the metabolism of ethinyl estradiol and some progestins (norethindrone) resulting in decreased contraceptive effectiveness and increased menstrual irregularities.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d485.s36.e0" text="Rifampin" type="drug"/>
+        <entity charOffset="10-17" id="DDI-DrugBank.d485.s36.e1" text="Rifampin" type="drug"/>
+        <entity charOffset="47-63" id="DDI-DrugBank.d485.s36.e2" text="ethinyl estradiol" type="drug"/>
+        <entity charOffset="74-83" id="DDI-DrugBank.d485.s36.e3" text="progestins" type="group"/>
+        <entity charOffset="86-98" id="DDI-DrugBank.d485.s36.e4" text="norethindrone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s36.e0" e2="DDI-DrugBank.d485.s36.e1" id="DDI-DrugBank.d485.s36.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s36.e0" e2="DDI-DrugBank.d485.s36.e2" id="DDI-DrugBank.d485.s36.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s36.e0" e2="DDI-DrugBank.d485.s36.e3" id="DDI-DrugBank.d485.s36.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s36.e0" e2="DDI-DrugBank.d485.s36.e4" id="DDI-DrugBank.d485.s36.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s36.e1" e2="DDI-DrugBank.d485.s36.e2" id="DDI-DrugBank.d485.s36.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s36.e1" e2="DDI-DrugBank.d485.s36.e3" id="DDI-DrugBank.d485.s36.p5" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s36.e1" e2="DDI-DrugBank.d485.s36.e4" id="DDI-DrugBank.d485.s36.p6" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s36.e2" e2="DDI-DrugBank.d485.s36.e3" id="DDI-DrugBank.d485.s36.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s36.e2" e2="DDI-DrugBank.d485.s36.e4" id="DDI-DrugBank.d485.s36.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s36.e3" e2="DDI-DrugBank.d485.s36.e4" id="DDI-DrugBank.d485.s36.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s37" text="Use of a nonhormonal contraceptive product is recommended.">
+        <entity charOffset="9-41" id="DDI-DrugBank.d485.s37.e0" text="nonhormonal contraceptive product" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s38" text="Salicylic acid: Combination hormonal contraceptives may increase the clearance of salicylic acid.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d485.s38.e0" text="Salicylic acid" type="drug"/>
+        <entity charOffset="28-50" id="DDI-DrugBank.d485.s38.e1" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="82-95" id="DDI-DrugBank.d485.s38.e2" text="salicylic acid" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s38.e0" e2="DDI-DrugBank.d485.s38.e1" id="DDI-DrugBank.d485.s38.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s38.e0" e2="DDI-DrugBank.d485.s38.e2" id="DDI-DrugBank.d485.s38.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s38.e1" e2="DDI-DrugBank.d485.s38.e2" id="DDI-DrugBank.d485.s38.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s39" text="Selegiline: Combination hormonal contraceptives may increase the serum concentration of selegiline.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d485.s39.e0" text="Selegiline" type="drug"/>
+        <entity charOffset="12-46" id="DDI-DrugBank.d485.s39.e1" text="Combination hormonal contraceptives" type="group"/>
+        <entity charOffset="88-97" id="DDI-DrugBank.d485.s39.e2" text="selegiline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s39.e0" e2="DDI-DrugBank.d485.s39.e1" id="DDI-DrugBank.d485.s39.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s39.e0" e2="DDI-DrugBank.d485.s39.e2" id="DDI-DrugBank.d485.s39.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s39.e1" e2="DDI-DrugBank.d485.s39.e2" id="DDI-DrugBank.d485.s39.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s40" text="Theophylline: Ethinyl estradiol may inhibit the metabolism of theophylline, leading to increased plasma concentrations.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d485.s40.e0" text="Theophylline" type="drug"/>
+        <entity charOffset="14-30" id="DDI-DrugBank.d485.s40.e1" text="Ethinyl estradiol" type="drug"/>
+        <entity charOffset="62-73" id="DDI-DrugBank.d485.s40.e2" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s40.e0" e2="DDI-DrugBank.d485.s40.e1" id="DDI-DrugBank.d485.s40.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s40.e0" e2="DDI-DrugBank.d485.s40.e2" id="DDI-DrugBank.d485.s40.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s40.e1" e2="DDI-DrugBank.d485.s40.e2" id="DDI-DrugBank.d485.s40.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s41" text="Tricyclic antidepressants (amitriptyline, imipramine, nortriptyline): Metabolism may be inhibited by combination hormonal contraceptives, increasing plasma levels of antidepressant;">
+        <entity charOffset="0-24" id="DDI-DrugBank.d485.s41.e0" text="Tricyclic antidepressants" type="group"/>
+        <entity charOffset="27-39" id="DDI-DrugBank.d485.s41.e1" text="amitriptyline" type="drug"/>
+        <entity charOffset="42-51" id="DDI-DrugBank.d485.s41.e2" text="imipramine" type="drug"/>
+        <entity charOffset="54-66" id="DDI-DrugBank.d485.s41.e3" text="nortriptyline" type="drug"/>
+        <entity charOffset="101-135" id="DDI-DrugBank.d485.s41.e4" text="combination hormonal contraceptives" type="group"/>
+        <entity charOffset="166-179" id="DDI-DrugBank.d485.s41.e5" text="antidepressant" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e0" e2="DDI-DrugBank.d485.s41.e1" id="DDI-DrugBank.d485.s41.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e0" e2="DDI-DrugBank.d485.s41.e2" id="DDI-DrugBank.d485.s41.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e0" e2="DDI-DrugBank.d485.s41.e3" id="DDI-DrugBank.d485.s41.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s41.e0" e2="DDI-DrugBank.d485.s41.e4" id="DDI-DrugBank.d485.s41.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e0" e2="DDI-DrugBank.d485.s41.e5" id="DDI-DrugBank.d485.s41.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e1" e2="DDI-DrugBank.d485.s41.e2" id="DDI-DrugBank.d485.s41.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e1" e2="DDI-DrugBank.d485.s41.e3" id="DDI-DrugBank.d485.s41.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s41.e1" e2="DDI-DrugBank.d485.s41.e4" id="DDI-DrugBank.d485.s41.p7" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e1" e2="DDI-DrugBank.d485.s41.e5" id="DDI-DrugBank.d485.s41.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e2" e2="DDI-DrugBank.d485.s41.e3" id="DDI-DrugBank.d485.s41.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s41.e2" e2="DDI-DrugBank.d485.s41.e4" id="DDI-DrugBank.d485.s41.p10" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e2" e2="DDI-DrugBank.d485.s41.e5" id="DDI-DrugBank.d485.s41.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s41.e3" e2="DDI-DrugBank.d485.s41.e4" id="DDI-DrugBank.d485.s41.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e3" e2="DDI-DrugBank.d485.s41.e5" id="DDI-DrugBank.d485.s41.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s41.e4" e2="DDI-DrugBank.d485.s41.e5" id="DDI-DrugBank.d485.s41.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s42" text="use caution."/>
+    <sentence id="DDI-DrugBank.d485.s43" text="ETHANOL / NUTRITION / HERB INTERACTIONS: Food: CNS effects of caffeine may be enhanced if combination hormonal contraceptives are used concurrently with caffeine.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d485.s43.e0" text="ETHANOL" type="drug"/>
+        <entity charOffset="62-69" id="DDI-DrugBank.d485.s43.e1" text="caffeine" type="drug"/>
+        <entity charOffset="90-124" id="DDI-DrugBank.d485.s43.e2" text="combination hormonal contraceptives" type="group"/>
+        <entity charOffset="153-160" id="DDI-DrugBank.d485.s43.e3" text="caffeine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s43.e0" e2="DDI-DrugBank.d485.s43.e1" id="DDI-DrugBank.d485.s43.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s43.e0" e2="DDI-DrugBank.d485.s43.e2" id="DDI-DrugBank.d485.s43.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s43.e0" e2="DDI-DrugBank.d485.s43.e3" id="DDI-DrugBank.d485.s43.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s43.e1" e2="DDI-DrugBank.d485.s43.e2" id="DDI-DrugBank.d485.s43.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s43.e1" e2="DDI-DrugBank.d485.s43.e3" id="DDI-DrugBank.d485.s43.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d485.s43.e2" e2="DDI-DrugBank.d485.s43.e3" id="DDI-DrugBank.d485.s43.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s44" text="Grapefruit juice increases ethinyl estradiol concentrations and would be expected to increase progesterone serum levels as well;">
+        <entity charOffset="27-43" id="DDI-DrugBank.d485.s44.e0" text="ethinyl estradiol" type="drug"/>
+        <entity charOffset="94-105" id="DDI-DrugBank.d485.s44.e1" text="progesterone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d485.s44.e0" e2="DDI-DrugBank.d485.s44.e1" id="DDI-DrugBank.d485.s44.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s45" text="clinical implications are unclear."/>
+    <sentence id="DDI-DrugBank.d485.s46" text="Herb/Nutraceutical: St Johns wort may decrease the effectiveness of combination hormonal contraceptives by inducing hepatic enzymes.">
+        <entity charOffset="68-102" id="DDI-DrugBank.d485.s46.e0" text="combination hormonal contraceptives" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d485.s47" text="Avoid dong quai and black cohosh (have estrogen activity)."/>
+    <sentence id="DDI-DrugBank.d485.s48" text="Avoid saw palmetto, red clover, ginseng."/>
+</document>

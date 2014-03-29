@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d35">
+    <sentence id="DDI-DrugBank.d35.s0" text="Interactions may occur between EPA supplements and aspirin and other non-steroidal anti-inflammatory drugs and herbs such as garlic (Allium sativum) and ginkgo (Ginkgo biloba).">
+        <entity charOffset="31-33" id="DDI-DrugBank.d35.s0.e0" text="EPA" type="drug"/>
+        <entity charOffset="51-57" id="DDI-DrugBank.d35.s0.e1" text="aspirin" type="brand"/>
+        <entity charOffset="69-105" id="DDI-DrugBank.d35.s0.e2" text="non-steroidal anti-inflammatory drugs" type="group"/>
+        <entity charOffset="153-158" id="DDI-DrugBank.d35.s0.e3" text="ginkgo" type="drug"/>
+        <entity charOffset="161-173" id="DDI-DrugBank.d35.s0.e4" text="Ginkgo biloba" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d35.s0.e0" e2="DDI-DrugBank.d35.s0.e1" id="DDI-DrugBank.d35.s0.p0" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d35.s0.e0" e2="DDI-DrugBank.d35.s0.e2" id="DDI-DrugBank.d35.s0.p1" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d35.s0.e0" e2="DDI-DrugBank.d35.s0.e3" id="DDI-DrugBank.d35.s0.p2" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d35.s0.e0" e2="DDI-DrugBank.d35.s0.e4" id="DDI-DrugBank.d35.s0.p3" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d35.s0.e1" e2="DDI-DrugBank.d35.s0.e2" id="DDI-DrugBank.d35.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d35.s0.e1" e2="DDI-DrugBank.d35.s0.e3" id="DDI-DrugBank.d35.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d35.s0.e1" e2="DDI-DrugBank.d35.s0.e4" id="DDI-DrugBank.d35.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d35.s0.e2" e2="DDI-DrugBank.d35.s0.e3" id="DDI-DrugBank.d35.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d35.s0.e2" e2="DDI-DrugBank.d35.s0.e4" id="DDI-DrugBank.d35.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d35.s0.e3" e2="DDI-DrugBank.d35.s0.e4" id="DDI-DrugBank.d35.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d35.s1" text="Such interactions might be manifested by increased susceptibility to bruising, nosebleeds, hemoptysis, hematemesis, hematuria and blood in the stool."/>
+    <sentence id="DDI-DrugBank.d35.s2" text="Most who take EPA supplements and the above drugs or herbs do not suffer from these problems and if they occur, they are rare.">
+        <entity charOffset="14-16" id="DDI-DrugBank.d35.s2.e0" text="EPA" type="drug"/>
+    <negationtags>Most who take EPA supplements and the above drugs or herbs do &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; suffer from these problems and if they occur, they are rare. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d35.s3" text="If they do occur, the EPA dose should be lowered or discontinued.">
+        <entity charOffset="22-24" id="DDI-DrugBank.d35.s3.e0" text="EPA" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d35.s4" text="Conflicting results have been reported regarding the effects of EPA supplements on glycemic control in non-diabetics with glucose intolerance, and those with type 2 diabetes.">
+        <entity charOffset="64-66" id="DDI-DrugBank.d35.s4.e0" text="EPA" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d35.s5" text="Some early studies indicated that EPA supplements might have detrimental effects in those groups.">
+        <entity charOffset="34-36" id="DDI-DrugBank.d35.s5.e0" text="EPA" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d35.s6" text="Recent, better designed studies have not reported these adverse effects."><negationtags>Recent, better designed studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; reported these adverse effects. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d35.s7" text="There is no evidence that EPA supplements have detrimental effects on glucose tolerance, insulin secretion or insulin resistance in non-diabetic subjects.">
+        <entity charOffset="26-28" id="DDI-DrugBank.d35.s7.e0" text="EPA" type="drug"/>
+    <negationtags>There is &lt;scope&gt; &lt;cue&gt; no evidence &lt;/cue&gt; that EPA supplements have detrimental effects on glucose tolerance, insulin secretion or insulin resistance in non-diabetic subjects. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d35.s8" text="Diabetics should discuss the use of these supplements with their physicians and note if the supplements affect their glycemic control."/>
+    <sentence id="DDI-DrugBank.d35.s9" text="Diabetics who take EPA supplements should be monitored by their physicians.">
+        <entity charOffset="19-21" id="DDI-DrugBank.d35.s9.e0" text="EPA" type="drug"/>
+    </sentence>
+</document>

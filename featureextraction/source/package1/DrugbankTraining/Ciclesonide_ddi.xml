@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d362">
+    <sentence id="DDI-DrugBank.d362.s0" text="Based on in vitro studies in human liver microsomes, des-ciclesonide appears to have no inhibitory or induction potential on the metabolism of other drugs metabolized by CYP 450 enzymes.">
+        <entity charOffset="53-67" id="DDI-DrugBank.d362.s0.e0" text="des-ciclesonide" type="drug"/>
+    <negationtags>Based on in vitro studies in human liver microsomes, des-ciclesonide appears to have &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; inhibitory or induction potential on the metabolism of other drugs metabolized by CYP 450 enzymes. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d362.s1" text="The inhibitory potential of ciclesonide on CYP450 isoenzymes has not been studied.">
+        <entity charOffset="28-38" id="DDI-DrugBank.d362.s1.e0" text="ciclesonide" type="drug"/>
+    <negationtags>The inhibitory potential of ciclesonide on CYP450 isoenzymes has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d362.s2" text="In vitro studies demonstrated that the plasma protein binding of des-ciclesonide was not affected by warfarin or salicylic acid, indicating no potential for protein binding-based drug interactions.">
+        <entity charOffset="65-79" id="DDI-DrugBank.d362.s2.e0" text="des-ciclesonide" type="drug"/>
+        <entity charOffset="101-108" id="DDI-DrugBank.d362.s2.e1" text="warfarin" type="drug"/>
+        <entity charOffset="113-126" id="DDI-DrugBank.d362.s2.e2" text="salicylic acid" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s2.e0" e2="DDI-DrugBank.d362.s2.e1" id="DDI-DrugBank.d362.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s2.e0" e2="DDI-DrugBank.d362.s2.e2" id="DDI-DrugBank.d362.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s2.e1" e2="DDI-DrugBank.d362.s2.e2" id="DDI-DrugBank.d362.s2.p2"/>
+    <negationtags>In vitro studies demonstrated that the plasma protein binding of des-ciclesonide was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected by warfarin or salicylic acid, indicating no potential for protein binding-based drug interactions. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d362.s3" text="In a drug interaction study, co-administration of orally inhaled ciclesonide and oral erythromycin, an inhibitor of cytochrome P450 3A4, had no effect on the pharmacokinetics of either des-ciclesonide or erythromycin.">
+        <entity charOffset="65-75" id="DDI-DrugBank.d362.s3.e0" text="ciclesonide" type="drug"/>
+        <entity charOffset="86-97" id="DDI-DrugBank.d362.s3.e1" text="erythromycin" type="drug"/>
+        <entity charOffset="185-199" id="DDI-DrugBank.d362.s3.e2" text="des-ciclesonide" type="drug"/>
+        <entity charOffset="204-215" id="DDI-DrugBank.d362.s3.e3" text="erythromycin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s3.e0" e2="DDI-DrugBank.d362.s3.e1" id="DDI-DrugBank.d362.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s3.e0" e2="DDI-DrugBank.d362.s3.e2" id="DDI-DrugBank.d362.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s3.e0" e2="DDI-DrugBank.d362.s3.e3" id="DDI-DrugBank.d362.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s3.e1" e2="DDI-DrugBank.d362.s3.e2" id="DDI-DrugBank.d362.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s3.e1" e2="DDI-DrugBank.d362.s3.e3" id="DDI-DrugBank.d362.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s3.e2" e2="DDI-DrugBank.d362.s3.e3" id="DDI-DrugBank.d362.s3.p5"/>
+    <negationtags>In a drug interaction study, co-administration of orally inhaled ciclesonide and oral erythromycin, an inhibitor of cytochrome P450 3A4, had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on the pharmacokinetics of either des-ciclesonide or erythromycin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d362.s4" text="In another drug interaction study, co-administration of orally inhaled ciclesonide and oral ketoconazole, a potent inhibitor of cytochrome P450 3A4, increased the exposure (AUC) of des-ciclesonide by approximately 3.6-fold at steady state, while levels of ciclesonide remained unchanged.">
+        <entity charOffset="71-81" id="DDI-DrugBank.d362.s4.e0" text="ciclesonide" type="drug"/>
+        <entity charOffset="92-103" id="DDI-DrugBank.d362.s4.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="181-195" id="DDI-DrugBank.d362.s4.e2" text="des-ciclesonide" type="drug"/>
+        <entity charOffset="256-266" id="DDI-DrugBank.d362.s4.e3" text="ciclesonide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d362.s4.e0" e2="DDI-DrugBank.d362.s4.e1" id="DDI-DrugBank.d362.s4.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s4.e0" e2="DDI-DrugBank.d362.s4.e2" id="DDI-DrugBank.d362.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s4.e0" e2="DDI-DrugBank.d362.s4.e3" id="DDI-DrugBank.d362.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s4.e1" e2="DDI-DrugBank.d362.s4.e2" id="DDI-DrugBank.d362.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s4.e1" e2="DDI-DrugBank.d362.s4.e3" id="DDI-DrugBank.d362.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d362.s4.e2" e2="DDI-DrugBank.d362.s4.e3" id="DDI-DrugBank.d362.s4.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d362.s5" text="Therefore, ketoconazole should be administered with caution with intranasal ciclesonide.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d362.s5.e0" text="ketoconazole" type="drug"/>
+        <entity charOffset="76-86" id="DDI-DrugBank.d362.s5.e1" text="ciclesonide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d362.s5.e0" e2="DDI-DrugBank.d362.s5.e1" id="DDI-DrugBank.d362.s5.p0" type="advise"/>
+    </sentence>
+</document>

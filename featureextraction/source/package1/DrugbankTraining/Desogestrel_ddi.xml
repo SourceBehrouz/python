@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d285">
+    <sentence id="DDI-DrugBank.d285.s0" text="Reduced efficacy and increased incidence of breakthrough bleeding and menstrual irregularities have been associated with concomitant use of rifampin.">
+        <entity charOffset="140-147" id="DDI-DrugBank.d285.s0.e0" text="rifampin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d285.s1" text="A similar association, though less marked, has been suggested with barbiturates, phenyl-butazone, phenytoin sodium, carbamazepine and possibly with griseofulvin, ampicillin, and tetracyclines (72)">
+        <entity charOffset="67-78" id="DDI-DrugBank.d285.s1.e0" text="barbiturates" type="group"/>
+        <entity charOffset="98-113" id="DDI-DrugBank.d285.s1.e1" text="phenytoin sodium" type="drug"/>
+        <entity charOffset="116-128" id="DDI-DrugBank.d285.s1.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="148-159" id="DDI-DrugBank.d285.s1.e3" text="griseofulvin" type="drug"/>
+        <entity charOffset="162-171" id="DDI-DrugBank.d285.s1.e4" text="ampicillin" type="drug"/>
+        <entity charOffset="178-190" id="DDI-DrugBank.d285.s1.e5" text="tetracyclines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e0" e2="DDI-DrugBank.d285.s1.e1" id="DDI-DrugBank.d285.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e0" e2="DDI-DrugBank.d285.s1.e2" id="DDI-DrugBank.d285.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e0" e2="DDI-DrugBank.d285.s1.e3" id="DDI-DrugBank.d285.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e0" e2="DDI-DrugBank.d285.s1.e4" id="DDI-DrugBank.d285.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e0" e2="DDI-DrugBank.d285.s1.e5" id="DDI-DrugBank.d285.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e1" e2="DDI-DrugBank.d285.s1.e2" id="DDI-DrugBank.d285.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e1" e2="DDI-DrugBank.d285.s1.e3" id="DDI-DrugBank.d285.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e1" e2="DDI-DrugBank.d285.s1.e4" id="DDI-DrugBank.d285.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e1" e2="DDI-DrugBank.d285.s1.e5" id="DDI-DrugBank.d285.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e2" e2="DDI-DrugBank.d285.s1.e3" id="DDI-DrugBank.d285.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e2" e2="DDI-DrugBank.d285.s1.e4" id="DDI-DrugBank.d285.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e2" e2="DDI-DrugBank.d285.s1.e5" id="DDI-DrugBank.d285.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e3" e2="DDI-DrugBank.d285.s1.e4" id="DDI-DrugBank.d285.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e3" e2="DDI-DrugBank.d285.s1.e5" id="DDI-DrugBank.d285.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d285.s1.e4" e2="DDI-DrugBank.d285.s1.e5" id="DDI-DrugBank.d285.s1.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d285.s2" text="."/>
+    <sentence id="DDI-DrugBank.d285.s3" text=""><negationtags>DDI-DrugBank.d285.s4</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d285.s4" text=""><negationtags>DDI-DrugBank.d285.s4</negationtags></sentence>
+</document>

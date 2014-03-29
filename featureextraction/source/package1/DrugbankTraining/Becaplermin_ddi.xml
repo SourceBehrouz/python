@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d385">
+    <sentence id="DDI-DrugBank.d385.s0" text="It is not known if REGRANEX Gel interacts with other topical medications applied to the ulcer site.">
+        <entity charOffset="19-26" id="DDI-DrugBank.d385.s0.e0" text="REGRANEX" type="brand"/>
+    <negationtags>It is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known if REGRANEX Gel interacts with other topical medications applied to the ulcer site. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d385.s1" text="The use of REGRANEX Gel with other topical drugs has not been studied.">
+        <entity charOffset="11-18" id="DDI-DrugBank.d385.s1.e0" text="REGRANEX" type="brand"/>
+    <negationtags>The use of REGRANEX Gel with other topical drugs has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+</document>

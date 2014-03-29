@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d496">
+    <sentence id="DDI-DrugBank.d496.s0" text="No evidence of interaction of PROCRIT with other drugs was observed in the course of clinical trials.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d496.s0.e0" text="PROCRIT" type="brand"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No evidence &lt;/cue&gt; of interaction of PROCRIT with other drugs was observed in the course of clinical trials. &lt;/scope&gt;</negationtags></sentence>
+</document>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d20">
+    <sentence id="DDI-DrugBank.d20.s0" text="Inhibitors of CYP3A4-Eplerenone metabolism is predominantly mediated via CYP3A4.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d20.s0.e0" text="Eplerenone" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s1" text="A pharmacokinetic study evaluating the administration of a single dose of INSPRA 100 mg with ketoconazole 200 mg BID, a potent inhibitor of the CYP3A4 pathway, showed a 1.7-fold increase in Cmax of eplerenone and a 5.4-fold increase in AUC of eplerenone.">
+        <entity charOffset="74-79" id="DDI-DrugBank.d20.s1.e0" text="INSPRA" type="brand"/>
+        <entity charOffset="93-104" id="DDI-DrugBank.d20.s1.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="198-207" id="DDI-DrugBank.d20.s1.e2" text="eplerenone" type="drug"/>
+        <entity charOffset="243-252" id="DDI-DrugBank.d20.s1.e3" text="eplerenone" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s1.e0" e2="DDI-DrugBank.d20.s1.e1" id="DDI-DrugBank.d20.s1.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s1.e0" e2="DDI-DrugBank.d20.s1.e2" id="DDI-DrugBank.d20.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s1.e0" e2="DDI-DrugBank.d20.s1.e3" id="DDI-DrugBank.d20.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s1.e1" e2="DDI-DrugBank.d20.s1.e2" id="DDI-DrugBank.d20.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s1.e1" e2="DDI-DrugBank.d20.s1.e3" id="DDI-DrugBank.d20.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s1.e2" e2="DDI-DrugBank.d20.s1.e3" id="DDI-DrugBank.d20.s1.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s2" text="INSPRA should not be used with drugs described as strong inhibitors of CYP3A4 in their labeling.">
+        <entity charOffset="0-5" id="DDI-DrugBank.d20.s2.e0" text="INSPRA" type="brand"/>
+    <negationtags>INSPRA should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used with drugs described as strong inhibitors of CYP3A4 in their labeling. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d20.s3" text="Administration of eplerenone with other CYP3A4 inhibitors (e.g., erythromycin 500 mg BID, verapamil 240 mg QD, saquinavir 1200 mg TID, fluconazole 200 mg QD) resulted in increases in Cmax of eplerenone ranging from 1.4- to 1.6- fold and AUC from 2.0- to 2.9- fold.">
+        <entity charOffset="18-27" id="DDI-DrugBank.d20.s3.e0" text="eplerenone" type="drug"/>
+        <entity charOffset="65-76" id="DDI-DrugBank.d20.s3.e1" text="erythromycin" type="drug"/>
+        <entity charOffset="90-98" id="DDI-DrugBank.d20.s3.e2" text="verapamil" type="drug"/>
+        <entity charOffset="111-120" id="DDI-DrugBank.d20.s3.e3" text="saquinavir" type="drug"/>
+        <entity charOffset="135-145" id="DDI-DrugBank.d20.s3.e4" text="fluconazole" type="drug"/>
+        <entity charOffset="191-200" id="DDI-DrugBank.d20.s3.e5" text="eplerenone" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s3.e0" e2="DDI-DrugBank.d20.s3.e1" id="DDI-DrugBank.d20.s3.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s3.e0" e2="DDI-DrugBank.d20.s3.e2" id="DDI-DrugBank.d20.s3.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s3.e0" e2="DDI-DrugBank.d20.s3.e3" id="DDI-DrugBank.d20.s3.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s3.e0" e2="DDI-DrugBank.d20.s3.e4" id="DDI-DrugBank.d20.s3.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e0" e2="DDI-DrugBank.d20.s3.e5" id="DDI-DrugBank.d20.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e1" e2="DDI-DrugBank.d20.s3.e2" id="DDI-DrugBank.d20.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e1" e2="DDI-DrugBank.d20.s3.e3" id="DDI-DrugBank.d20.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e1" e2="DDI-DrugBank.d20.s3.e4" id="DDI-DrugBank.d20.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e1" e2="DDI-DrugBank.d20.s3.e5" id="DDI-DrugBank.d20.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e2" e2="DDI-DrugBank.d20.s3.e3" id="DDI-DrugBank.d20.s3.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e2" e2="DDI-DrugBank.d20.s3.e4" id="DDI-DrugBank.d20.s3.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e2" e2="DDI-DrugBank.d20.s3.e5" id="DDI-DrugBank.d20.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e3" e2="DDI-DrugBank.d20.s3.e4" id="DDI-DrugBank.d20.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e3" e2="DDI-DrugBank.d20.s3.e5" id="DDI-DrugBank.d20.s3.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s3.e4" e2="DDI-DrugBank.d20.s3.e5" id="DDI-DrugBank.d20.s3.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s4" text="ACE Inhibitors and Angiotensin II Receptor Antagonists (Congestive Heart Failure Post-Myocardial Infarction)- In EPHESUS, 3020 (91%) patients receiving INSPRA 25 to 50 mg also received ACE inhibitors or angiotensin II receptor antagonists (ACEI/ARB).">
+        <entity charOffset="0-13" id="DDI-DrugBank.d20.s4.e0" text="ACE Inhibitors" type="group"/>
+        <entity charOffset="19-53" id="DDI-DrugBank.d20.s4.e1" text="Angiotensin II Receptor Antagonists" type="group"/>
+        <entity charOffset="152-157" id="DDI-DrugBank.d20.s4.e2" text="INSPRA" type="brand"/>
+        <entity charOffset="185-198" id="DDI-DrugBank.d20.s4.e3" text="ACE inhibitors" type="group"/>
+        <entity charOffset="203-237" id="DDI-DrugBank.d20.s4.e4" text="angiotensin II receptor antagonists" type="group"/>
+        <entity charOffset="240-243" id="DDI-DrugBank.d20.s4.e5" text="ACEI" type="group"/>
+        <entity charOffset="245-247" id="DDI-DrugBank.d20.s4.e6" text="ARB" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e0" e2="DDI-DrugBank.d20.s4.e1" id="DDI-DrugBank.d20.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e0" e2="DDI-DrugBank.d20.s4.e2" id="DDI-DrugBank.d20.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e0" e2="DDI-DrugBank.d20.s4.e3" id="DDI-DrugBank.d20.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e0" e2="DDI-DrugBank.d20.s4.e4" id="DDI-DrugBank.d20.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e0" e2="DDI-DrugBank.d20.s4.e5" id="DDI-DrugBank.d20.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e0" e2="DDI-DrugBank.d20.s4.e6" id="DDI-DrugBank.d20.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e1" e2="DDI-DrugBank.d20.s4.e2" id="DDI-DrugBank.d20.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e1" e2="DDI-DrugBank.d20.s4.e3" id="DDI-DrugBank.d20.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e1" e2="DDI-DrugBank.d20.s4.e4" id="DDI-DrugBank.d20.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e1" e2="DDI-DrugBank.d20.s4.e5" id="DDI-DrugBank.d20.s4.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e1" e2="DDI-DrugBank.d20.s4.e6" id="DDI-DrugBank.d20.s4.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e2" e2="DDI-DrugBank.d20.s4.e3" id="DDI-DrugBank.d20.s4.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e2" e2="DDI-DrugBank.d20.s4.e4" id="DDI-DrugBank.d20.s4.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e2" e2="DDI-DrugBank.d20.s4.e5" id="DDI-DrugBank.d20.s4.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e2" e2="DDI-DrugBank.d20.s4.e6" id="DDI-DrugBank.d20.s4.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e3" e2="DDI-DrugBank.d20.s4.e4" id="DDI-DrugBank.d20.s4.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e3" e2="DDI-DrugBank.d20.s4.e5" id="DDI-DrugBank.d20.s4.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e3" e2="DDI-DrugBank.d20.s4.e6" id="DDI-DrugBank.d20.s4.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e4" e2="DDI-DrugBank.d20.s4.e5" id="DDI-DrugBank.d20.s4.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e4" e2="DDI-DrugBank.d20.s4.e6" id="DDI-DrugBank.d20.s4.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s4.e5" e2="DDI-DrugBank.d20.s4.e6" id="DDI-DrugBank.d20.s4.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s5" text="Rates of patients with maximum potassium levels  5.5 mEq/L were similar regardless of the use of ACEI/ARB.">
+        <entity charOffset="97-100" id="DDI-DrugBank.d20.s5.e0" text="ACEI" type="group"/>
+        <entity charOffset="102-104" id="DDI-DrugBank.d20.s5.e1" text="ARB" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s5.e0" e2="DDI-DrugBank.d20.s5.e1" id="DDI-DrugBank.d20.s5.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s6" text="ACE Inhibitors and Angiotensin II Receptor Antagonists (Hypertension)- In clinical studies of patients with hypertension, the addition of INSPRA 50 to 100 mg to ACE inhibitors and angiotensin II receptor antagonists increased mean serum potassium slightly (about 0.09-0.13 mEq/L).">
+        <entity charOffset="0-13" id="DDI-DrugBank.d20.s6.e0" text="ACE Inhibitors" type="group"/>
+        <entity charOffset="19-53" id="DDI-DrugBank.d20.s6.e1" text="Angiotensin II Receptor Antagonists" type="group"/>
+        <entity charOffset="138-143" id="DDI-DrugBank.d20.s6.e2" text="INSPRA" type="brand"/>
+        <entity charOffset="161-174" id="DDI-DrugBank.d20.s6.e3" text="ACE inhibitors" type="group"/>
+        <entity charOffset="180-214" id="DDI-DrugBank.d20.s6.e4" text="angiotensin II receptor antagonists" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e0" e2="DDI-DrugBank.d20.s6.e1" id="DDI-DrugBank.d20.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e0" e2="DDI-DrugBank.d20.s6.e2" id="DDI-DrugBank.d20.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e0" e2="DDI-DrugBank.d20.s6.e3" id="DDI-DrugBank.d20.s6.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e0" e2="DDI-DrugBank.d20.s6.e4" id="DDI-DrugBank.d20.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e1" e2="DDI-DrugBank.d20.s6.e2" id="DDI-DrugBank.d20.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e1" e2="DDI-DrugBank.d20.s6.e3" id="DDI-DrugBank.d20.s6.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e1" e2="DDI-DrugBank.d20.s6.e4" id="DDI-DrugBank.d20.s6.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s6.e2" e2="DDI-DrugBank.d20.s6.e3" id="DDI-DrugBank.d20.s6.p7" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s6.e2" e2="DDI-DrugBank.d20.s6.e4" id="DDI-DrugBank.d20.s6.p8" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s6.e3" e2="DDI-DrugBank.d20.s6.e4" id="DDI-DrugBank.d20.s6.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s7" text="In a study in diabetics with microalbuminuria INSPRA 200 mg combined with the ACE inhibitor enalapril 10 mg increased the frequency of hyperkalemia (serum potassium  5.5 mEq/L) from 17% on enalapril alone to 38%.">
+        <entity charOffset="46-51" id="DDI-DrugBank.d20.s7.e0" text="INSPRA" type="brand"/>
+        <entity charOffset="78-90" id="DDI-DrugBank.d20.s7.e1" text="ACE inhibitor" type="group"/>
+        <entity charOffset="92-100" id="DDI-DrugBank.d20.s7.e2" text="enalapril" type="drug"/>
+        <entity charOffset="189-197" id="DDI-DrugBank.d20.s7.e3" text="enalapril" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s7.e0" e2="DDI-DrugBank.d20.s7.e1" id="DDI-DrugBank.d20.s7.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s7.e0" e2="DDI-DrugBank.d20.s7.e2" id="DDI-DrugBank.d20.s7.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s7.e0" e2="DDI-DrugBank.d20.s7.e3" id="DDI-DrugBank.d20.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s7.e1" e2="DDI-DrugBank.d20.s7.e2" id="DDI-DrugBank.d20.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s7.e1" e2="DDI-DrugBank.d20.s7.e3" id="DDI-DrugBank.d20.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s7.e2" e2="DDI-DrugBank.d20.s7.e3" id="DDI-DrugBank.d20.s7.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s8" text="Lithium-A drug interaction study of eplerenone with lithium has not been conducted.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d20.s8.e0" text="Lithium" type="drug"/>
+        <entity charOffset="36-45" id="DDI-DrugBank.d20.s8.e1" text="eplerenone" type="drug"/>
+        <entity charOffset="52-58" id="DDI-DrugBank.d20.s8.e2" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s8.e0" e2="DDI-DrugBank.d20.s8.e1" id="DDI-DrugBank.d20.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s8.e0" e2="DDI-DrugBank.d20.s8.e2" id="DDI-DrugBank.d20.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s8.e1" e2="DDI-DrugBank.d20.s8.e2" id="DDI-DrugBank.d20.s8.p2"/>
+    <negationtags>Lithium-A drug interaction study of eplerenone with lithium has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d20.s9" text="Serum lithium levels should be monitored frequently if INSPRA is administered concomitantly with lithium.">
+        <entity charOffset="6-12" id="DDI-DrugBank.d20.s9.e0" text="lithium" type="drug"/>
+        <entity charOffset="55-60" id="DDI-DrugBank.d20.s9.e1" text="INSPRA" type="brand"/>
+        <entity charOffset="97-103" id="DDI-DrugBank.d20.s9.e2" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s9.e0" e2="DDI-DrugBank.d20.s9.e1" id="DDI-DrugBank.d20.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s9.e0" e2="DDI-DrugBank.d20.s9.e2" id="DDI-DrugBank.d20.s9.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s9.e1" e2="DDI-DrugBank.d20.s9.e2" id="DDI-DrugBank.d20.s9.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s10" text="Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)-A drug interaction study of eplerenone with an NSAID has not been conducted.">
+        <entity charOffset="0-35" id="DDI-DrugBank.d20.s10.e0" text="Nonsteroidal Anti-Inflammatory Drugs" type="group"/>
+        <entity charOffset="38-43" id="DDI-DrugBank.d20.s10.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="74-83" id="DDI-DrugBank.d20.s10.e2" text="eplerenone" type="drug"/>
+        <entity charOffset="93-97" id="DDI-DrugBank.d20.s10.e3" text="NSAID" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s10.e0" e2="DDI-DrugBank.d20.s10.e1" id="DDI-DrugBank.d20.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s10.e0" e2="DDI-DrugBank.d20.s10.e2" id="DDI-DrugBank.d20.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s10.e0" e2="DDI-DrugBank.d20.s10.e3" id="DDI-DrugBank.d20.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s10.e1" e2="DDI-DrugBank.d20.s10.e2" id="DDI-DrugBank.d20.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s10.e1" e2="DDI-DrugBank.d20.s10.e3" id="DDI-DrugBank.d20.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d20.s10.e2" e2="DDI-DrugBank.d20.s10.e3" id="DDI-DrugBank.d20.s10.p5"/>
+    <negationtags>Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)-A drug interaction study of eplerenone with an NSAID has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d20.s11" text="The administration of other potassium-sparing antihypertensives with NSAIDs has been shown to reduce the antihypertensive effect in some patients and result in severe hyperkalemia in patients with impaired renal function.">
+        <entity charOffset="28-62" id="DDI-DrugBank.d20.s11.e0" text="potassium-sparing antihypertensives" type="group"/>
+        <entity charOffset="69-74" id="DDI-DrugBank.d20.s11.e1" text="NSAIDs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s11.e0" e2="DDI-DrugBank.d20.s11.e1" id="DDI-DrugBank.d20.s11.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d20.s12" text="Therefore, when INSPRA and NSAIDs are used concomitantly, patients should be observed to determine whether the desired effect on blood pressure is obtained.">
+        <entity charOffset="16-21" id="DDI-DrugBank.d20.s12.e0" text="INSPRA" type="brand"/>
+        <entity charOffset="27-32" id="DDI-DrugBank.d20.s12.e1" text="NSAIDs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d20.s12.e0" e2="DDI-DrugBank.d20.s12.e1" id="DDI-DrugBank.d20.s12.p0" type="advise"/>
+    </sentence>
+</document>

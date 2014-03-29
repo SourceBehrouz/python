@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d118">
+    <sentence id="DDI-DrugBank.d118.s0" text="In vitro studies have shown that precipitation occurs when eye drops containing thimerosal are mixed with latanoprost.">
+        <entity charOffset="80-89" id="DDI-DrugBank.d118.s0.e0" text="thimerosal" type="drug_n"/>
+        <entity charOffset="106-116" id="DDI-DrugBank.d118.s0.e1" text="latanoprost" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d118.s0.e0" e2="DDI-DrugBank.d118.s0.e1" id="DDI-DrugBank.d118.s0.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d118.s1" text="If such drugs are used they should be administered with an interval of at least 5 minutes between applications."/>
+</document>

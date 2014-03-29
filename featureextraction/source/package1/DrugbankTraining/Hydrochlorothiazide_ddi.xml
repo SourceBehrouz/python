@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d162">
+    <sentence id="DDI-DrugBank.d162.s0" text="When given concurrently the following drugs may interact with thiazide diuretics.">
+        <entity charOffset="62-79" id="DDI-DrugBank.d162.s0.e0" text="thiazide diuretics" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s1" text="Alcohol, barbiturates, or narcotics: potentiation of orthostatic hypotension may occur.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d162.s1.e0" text="Alcohol" type="drug"/>
+        <entity charOffset="9-20" id="DDI-DrugBank.d162.s1.e1" text="barbiturates" type="group"/>
+        <entity charOffset="26-34" id="DDI-DrugBank.d162.s1.e2" text="narcotics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s1.e0" e2="DDI-DrugBank.d162.s1.e1" id="DDI-DrugBank.d162.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s1.e0" e2="DDI-DrugBank.d162.s1.e2" id="DDI-DrugBank.d162.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s1.e1" e2="DDI-DrugBank.d162.s1.e2" id="DDI-DrugBank.d162.s1.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s2" text="Antidiabetic drugs: (oral agents and insulin) - dosage adjustment of the antidiabetic drug may be required.">
+        <entity charOffset="0-17" id="DDI-DrugBank.d162.s2.e0" text="Antidiabetic drugs" type="group"/>
+        <entity charOffset="37-43" id="DDI-DrugBank.d162.s2.e1" text="insulin" type="drug"/>
+        <entity charOffset="73-89" id="DDI-DrugBank.d162.s2.e2" text="antidiabetic drug" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s2.e0" e2="DDI-DrugBank.d162.s2.e1" id="DDI-DrugBank.d162.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s2.e0" e2="DDI-DrugBank.d162.s2.e2" id="DDI-DrugBank.d162.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s2.e1" e2="DDI-DrugBank.d162.s2.e2" id="DDI-DrugBank.d162.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s3" text="Other antihypertensive drugs: additive effect or potentiation.">
+        <entity charOffset="6-27" id="DDI-DrugBank.d162.s3.e0" text="antihypertensive drugs" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s4" text="Cholestyramine and colestipol resins: Absorption of hydrochlorothiazide is impaired in the presence of anionic exchange resins.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d162.s4.e0" text="Cholestyramine" type="drug"/>
+        <entity charOffset="19-28" id="DDI-DrugBank.d162.s4.e1" text="colestipol" type="drug"/>
+        <entity charOffset="30-35" id="DDI-DrugBank.d162.s4.e2" text="resins" type="group"/>
+        <entity charOffset="52-70" id="DDI-DrugBank.d162.s4.e3" text="hydrochlorothiazide" type="drug"/>
+        <entity charOffset="103-125" id="DDI-DrugBank.d162.s4.e4" text="anionic exchange resins" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e0" e2="DDI-DrugBank.d162.s4.e1" id="DDI-DrugBank.d162.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e0" e2="DDI-DrugBank.d162.s4.e2" id="DDI-DrugBank.d162.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e0" e2="DDI-DrugBank.d162.s4.e3" id="DDI-DrugBank.d162.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e0" e2="DDI-DrugBank.d162.s4.e4" id="DDI-DrugBank.d162.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e1" e2="DDI-DrugBank.d162.s4.e2" id="DDI-DrugBank.d162.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e1" e2="DDI-DrugBank.d162.s4.e3" id="DDI-DrugBank.d162.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e1" e2="DDI-DrugBank.d162.s4.e4" id="DDI-DrugBank.d162.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e2" e2="DDI-DrugBank.d162.s4.e3" id="DDI-DrugBank.d162.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s4.e2" e2="DDI-DrugBank.d162.s4.e4" id="DDI-DrugBank.d162.s4.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s4.e3" e2="DDI-DrugBank.d162.s4.e4" id="DDI-DrugBank.d162.s4.p9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s5" text="Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.">
+        <entity charOffset="23-36" id="DDI-DrugBank.d162.s5.e0" text="cholestyramine" type="drug"/>
+        <entity charOffset="41-50" id="DDI-DrugBank.d162.s5.e1" text="colestipol" type="drug"/>
+        <entity charOffset="52-57" id="DDI-DrugBank.d162.s5.e2" text="resins" type="group"/>
+        <entity charOffset="68-86" id="DDI-DrugBank.d162.s5.e3" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s5.e0" e2="DDI-DrugBank.d162.s5.e1" id="DDI-DrugBank.d162.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s5.e0" e2="DDI-DrugBank.d162.s5.e2" id="DDI-DrugBank.d162.s5.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s5.e0" e2="DDI-DrugBank.d162.s5.e3" id="DDI-DrugBank.d162.s5.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s5.e1" e2="DDI-DrugBank.d162.s5.e2" id="DDI-DrugBank.d162.s5.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s5.e1" e2="DDI-DrugBank.d162.s5.e3" id="DDI-DrugBank.d162.s5.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s5.e2" e2="DDI-DrugBank.d162.s5.e3" id="DDI-DrugBank.d162.s5.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s6" text="Corticosteroids, ACTH: intensified electrolyte depletion, particularly hypokalemia.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d162.s6.e0" text="Corticosteroids" type="group"/>
+        <entity charOffset="17-20" id="DDI-DrugBank.d162.s6.e1" text="ACTH" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s6.e0" e2="DDI-DrugBank.d162.s6.e1" id="DDI-DrugBank.d162.s6.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s7" text="Pressor amines (e.g., norepinephrine): possible decreased response to pressor amines but not sufficient to preclude their use.">
+        <entity charOffset="22-35" id="DDI-DrugBank.d162.s7.e0" text="norepinephrine" type="drug"/>
+    <negationtags>Pressor amines (e.g., norepinephrine): possible decreased response to pressor amines but &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; sufficient to preclude their use. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d162.s8" text="Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): possible increased responsiveness to the muscle relaxant.">
+        <entity charOffset="0-24" id="DDI-DrugBank.d162.s8.e0" text="Skeletal muscle relaxants" type="group"/>
+        <entity charOffset="50-61" id="DDI-DrugBank.d162.s8.e1" text="tubocurarine" type="drug"/>
+        <entity charOffset="106-120" id="DDI-DrugBank.d162.s8.e2" text="muscle relaxant" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s8.e0" e2="DDI-DrugBank.d162.s8.e1" id="DDI-DrugBank.d162.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s8.e0" e2="DDI-DrugBank.d162.s8.e2" id="DDI-DrugBank.d162.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s8.e1" e2="DDI-DrugBank.d162.s8.e2" id="DDI-DrugBank.d162.s8.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s9" text="Lithium: generally should not be given with diuretics.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d162.s9.e0" text="Lithium" type="drug"/>
+        <entity charOffset="44-52" id="DDI-DrugBank.d162.s9.e1" text="diuretics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s9.e0" e2="DDI-DrugBank.d162.s9.e1" id="DDI-DrugBank.d162.s9.p0" type="advise"/>
+    <negationtags>Lithium: generally should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be given with diuretics. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d162.s10" text="Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d162.s10.e0" text="Diuretic agents" type="group"/>
+        <entity charOffset="46-52" id="DDI-DrugBank.d162.s10.e1" text="lithium" type="drug"/>
+        <entity charOffset="77-83" id="DDI-DrugBank.d162.s10.e2" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s10.e0" e2="DDI-DrugBank.d162.s10.e1" id="DDI-DrugBank.d162.s10.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s10.e0" e2="DDI-DrugBank.d162.s10.e2" id="DDI-DrugBank.d162.s10.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s10.e1" e2="DDI-DrugBank.d162.s10.e2" id="DDI-DrugBank.d162.s10.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s11" text="Refer to the package insert for lithium preparations before use of such preparations with Hydrochlorothiazide.">
+        <entity charOffset="32-38" id="DDI-DrugBank.d162.s11.e0" text="lithium" type="drug"/>
+        <entity charOffset="90-108" id="DDI-DrugBank.d162.s11.e1" text="Hydrochlorothiazide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s11.e0" e2="DDI-DrugBank.d162.s11.e1" id="DDI-DrugBank.d162.s11.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s12" text="Non-steroidal Anti-inflammatory Drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.">
+        <entity charOffset="0-36" id="DDI-DrugBank.d162.s12.e0" text="Non-steroidal Anti-inflammatory Drugs" type="group"/>
+        <entity charOffset="81-117" id="DDI-DrugBank.d162.s12.e1" text="non-steroidal anti-inflammatory agent" type="group"/>
+        <entity charOffset="189-192;226-234" id="DDI-DrugBank.d162.s12.e2" text="loop diuretics" type="group"/>
+        <entity charOffset="195-211;226-234" id="DDI-DrugBank.d162.s12.e3" text="potassium-sparing diuretics" type="group"/>
+        <entity charOffset="217-234" id="DDI-DrugBank.d162.s12.e4" text="thiazide diuretics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s12.e0" e2="DDI-DrugBank.d162.s12.e1" id="DDI-DrugBank.d162.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s12.e0" e2="DDI-DrugBank.d162.s12.e2" id="DDI-DrugBank.d162.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s12.e0" e2="DDI-DrugBank.d162.s12.e3" id="DDI-DrugBank.d162.s12.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s12.e0" e2="DDI-DrugBank.d162.s12.e4" id="DDI-DrugBank.d162.s12.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s12.e1" e2="DDI-DrugBank.d162.s12.e2" id="DDI-DrugBank.d162.s12.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s12.e1" e2="DDI-DrugBank.d162.s12.e3" id="DDI-DrugBank.d162.s12.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s12.e1" e2="DDI-DrugBank.d162.s12.e4" id="DDI-DrugBank.d162.s12.p6" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s12.e2" e2="DDI-DrugBank.d162.s12.e3" id="DDI-DrugBank.d162.s12.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s12.e2" e2="DDI-DrugBank.d162.s12.e4" id="DDI-DrugBank.d162.s12.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s12.e3" e2="DDI-DrugBank.d162.s12.e4" id="DDI-DrugBank.d162.s12.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d162.s13" text="Therefore, when Hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.">
+        <entity charOffset="16-34" id="DDI-DrugBank.d162.s13.e0" text="Hydrochlorothiazide" type="drug"/>
+        <entity charOffset="40-77" id="DDI-DrugBank.d162.s13.e1" text="non-steroidal anti-inflammatory agents" type="group"/>
+        <entity charOffset="184-191" id="DDI-DrugBank.d162.s13.e2" text="diuretic" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d162.s13.e0" e2="DDI-DrugBank.d162.s13.e1" id="DDI-DrugBank.d162.s13.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s13.e0" e2="DDI-DrugBank.d162.s13.e2" id="DDI-DrugBank.d162.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d162.s13.e1" e2="DDI-DrugBank.d162.s13.e2" id="DDI-DrugBank.d162.s13.p2"/>
+    </sentence>
+</document>

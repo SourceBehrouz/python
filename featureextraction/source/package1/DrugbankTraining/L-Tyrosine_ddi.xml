@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d111">
+    <sentence id="DDI-DrugBank.d111.s0" text="Non-selective MAO inhibitors including tranylcypromine sulfate, phenelzine sulfate, and pargyline HC1: Concomitant use of L-tyrosine and non-selective MAO inhibitors may cause hypertension.">
+        <entity charOffset="0-27" id="DDI-DrugBank.d111.s0.e0" text="Non-selective MAO inhibitors" type="group"/>
+        <entity charOffset="39-61" id="DDI-DrugBank.d111.s0.e1" text="tranylcypromine sulfate" type="drug"/>
+        <entity charOffset="64-81" id="DDI-DrugBank.d111.s0.e2" text="phenelzine sulfate" type="drug"/>
+        <entity charOffset="88-96" id="DDI-DrugBank.d111.s0.e3" text="pargyline" type="drug"/>
+        <entity charOffset="122-131" id="DDI-DrugBank.d111.s0.e4" text="L-tyrosine" type="drug"/>
+        <entity charOffset="151-164" id="DDI-DrugBank.d111.s0.e5" text="MAO inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e0" e2="DDI-DrugBank.d111.s0.e1" id="DDI-DrugBank.d111.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e0" e2="DDI-DrugBank.d111.s0.e2" id="DDI-DrugBank.d111.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e0" e2="DDI-DrugBank.d111.s0.e3" id="DDI-DrugBank.d111.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e0" e2="DDI-DrugBank.d111.s0.e4" id="DDI-DrugBank.d111.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e0" e2="DDI-DrugBank.d111.s0.e5" id="DDI-DrugBank.d111.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e1" e2="DDI-DrugBank.d111.s0.e2" id="DDI-DrugBank.d111.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e1" e2="DDI-DrugBank.d111.s0.e3" id="DDI-DrugBank.d111.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e1" e2="DDI-DrugBank.d111.s0.e4" id="DDI-DrugBank.d111.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e1" e2="DDI-DrugBank.d111.s0.e5" id="DDI-DrugBank.d111.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e2" e2="DDI-DrugBank.d111.s0.e3" id="DDI-DrugBank.d111.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e2" e2="DDI-DrugBank.d111.s0.e4" id="DDI-DrugBank.d111.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e2" e2="DDI-DrugBank.d111.s0.e5" id="DDI-DrugBank.d111.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e3" e2="DDI-DrugBank.d111.s0.e4" id="DDI-DrugBank.d111.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d111.s0.e3" e2="DDI-DrugBank.d111.s0.e5" id="DDI-DrugBank.d111.s0.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d111.s0.e4" e2="DDI-DrugBank.d111.s0.e5" id="DDI-DrugBank.d111.s0.p14" type="effect"/>
+    </sentence>
+</document>

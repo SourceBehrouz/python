@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d185">
+    <sentence id="DDI-DrugBank.d185.s0" text="A drug-drug interaction study evaluated the effect of the use of ACZONE Gel, 5%, in combination with double strength (160 mg/800 mg) trimethoprim/sulfamethoxazole (TMP/SMX).">
+        <entity charOffset="65-70" id="DDI-DrugBank.d185.s0.e0" text="ACZONE" type="brand"/>
+        <entity charOffset="133-144" id="DDI-DrugBank.d185.s0.e1" text="trimethoprim" type="drug"/>
+        <entity charOffset="146-161" id="DDI-DrugBank.d185.s0.e2" text="sulfamethoxazole" type="drug"/>
+        <entity charOffset="164-166" id="DDI-DrugBank.d185.s0.e3" text="TMP" type="drug"/>
+        <entity charOffset="168-170" id="DDI-DrugBank.d185.s0.e4" text="SMX" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e0" e2="DDI-DrugBank.d185.s0.e1" id="DDI-DrugBank.d185.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e0" e2="DDI-DrugBank.d185.s0.e2" id="DDI-DrugBank.d185.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e0" e2="DDI-DrugBank.d185.s0.e3" id="DDI-DrugBank.d185.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e0" e2="DDI-DrugBank.d185.s0.e4" id="DDI-DrugBank.d185.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e1" e2="DDI-DrugBank.d185.s0.e2" id="DDI-DrugBank.d185.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e1" e2="DDI-DrugBank.d185.s0.e3" id="DDI-DrugBank.d185.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e1" e2="DDI-DrugBank.d185.s0.e4" id="DDI-DrugBank.d185.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e2" e2="DDI-DrugBank.d185.s0.e3" id="DDI-DrugBank.d185.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e2" e2="DDI-DrugBank.d185.s0.e4" id="DDI-DrugBank.d185.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s0.e3" e2="DDI-DrugBank.d185.s0.e4" id="DDI-DrugBank.d185.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s1" text="During co-administration, systemic levels of TMP and SMX were essentially unchanged.">
+        <entity charOffset="45-47" id="DDI-DrugBank.d185.s1.e0" text="TMP" type="drug"/>
+        <entity charOffset="53-55" id="DDI-DrugBank.d185.s1.e1" text="SMX" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s1.e0" e2="DDI-DrugBank.d185.s1.e1" id="DDI-DrugBank.d185.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s2" text="Notably, systemic exposure (AUC0-12) of dapsone hydroxylamine (DHA) was more than doubled in the presence of TMP/SMX.">
+        <entity charOffset="40-60" id="DDI-DrugBank.d185.s2.e0" text="dapsone hydroxylamine" type="drug_n"/>
+        <entity charOffset="63-65" id="DDI-DrugBank.d185.s2.e1" text="DHA" type="drug_n"/>
+        <entity charOffset="109-111" id="DDI-DrugBank.d185.s2.e2" text="TMP" type="drug"/>
+        <entity charOffset="113-115" id="DDI-DrugBank.d185.s2.e3" text="SMX" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s2.e0" e2="DDI-DrugBank.d185.s2.e1" id="DDI-DrugBank.d185.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s2.e0" e2="DDI-DrugBank.d185.s2.e2" id="DDI-DrugBank.d185.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s2.e0" e2="DDI-DrugBank.d185.s2.e3" id="DDI-DrugBank.d185.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s2.e1" e2="DDI-DrugBank.d185.s2.e2" id="DDI-DrugBank.d185.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s2.e1" e2="DDI-DrugBank.d185.s2.e3" id="DDI-DrugBank.d185.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s2.e2" e2="DDI-DrugBank.d185.s2.e3" id="DDI-DrugBank.d185.s2.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s3" text="Exposure from the proposed topical dose is about 1% of that from the 100 mg oral dose, even when co-administered with TMP/SMX.">
+        <entity charOffset="118-120" id="DDI-DrugBank.d185.s3.e0" text="TMP" type="drug"/>
+        <entity charOffset="122-124" id="DDI-DrugBank.d185.s3.e1" text="SMX" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s3.e0" e2="DDI-DrugBank.d185.s3.e1" id="DDI-DrugBank.d185.s3.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s4" text="Certain concomitant medications (such as rifampin, anticonvulsants, St.">
+        <entity charOffset="41-48" id="DDI-DrugBank.d185.s4.e0" text="rifampin" type="drug"/>
+        <entity charOffset="51-65" id="DDI-DrugBank.d185.s4.e1" text="anticonvulsants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s4.e0" e2="DDI-DrugBank.d185.s4.e1" id="DDI-DrugBank.d185.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s5" text="John s wort) may increase the formation of dapsone hydroxylamine, a metabolite of dapsone associated with hemolysis.">
+        <entity charOffset="43-63" id="DDI-DrugBank.d185.s5.e0" text="dapsone hydroxylamine" type="drug_n"/>
+        <entity charOffset="82-88" id="DDI-DrugBank.d185.s5.e1" text="dapsone" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s5.e0" e2="DDI-DrugBank.d185.s5.e1" id="DDI-DrugBank.d185.s5.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s6" text="With oral dapsone treatment, folic acid antagonists such as pyrimethamine have been noted to possibly increase the likelihood of hematologic reactions">
+        <entity charOffset="10-16" id="DDI-DrugBank.d185.s6.e0" text="dapsone" type="drug"/>
+        <entity charOffset="29-50" id="DDI-DrugBank.d185.s6.e1" text="folic acid antagonists" type="group"/>
+        <entity charOffset="60-72" id="DDI-DrugBank.d185.s6.e2" text="pyrimethamine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d185.s6.e0" e2="DDI-DrugBank.d185.s6.e1" id="DDI-DrugBank.d185.s6.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d185.s6.e0" e2="DDI-DrugBank.d185.s6.e2" id="DDI-DrugBank.d185.s6.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d185.s6.e1" e2="DDI-DrugBank.d185.s6.e2" id="DDI-DrugBank.d185.s6.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d185.s7" text="."/>
+    <sentence id="DDI-DrugBank.d185.s8" text=""><negationtags>DDI-DrugBank.d337.s0</negationtags></sentence>
+</document>

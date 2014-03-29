@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d133">
+    <sentence id="DDI-DrugBank.d133.s0" text="Co-administration of BOTOX and aminoglycosides or other agents interfering with neuromuscular transmission (e.g., curare-like compounds) should only be performed with caution as the effect of the toxin may be potentiated.">
+        <entity charOffset="21-25" id="DDI-DrugBank.d133.s0.e0" text="BOTOX" type="brand"/>
+        <entity charOffset="31-45" id="DDI-DrugBank.d133.s0.e1" text="aminoglycosides" type="group"/>
+        <entity charOffset="114-134" id="DDI-DrugBank.d133.s0.e2" text="curare-like compounds" type="group"/>
+        <entity charOffset="196-200" id="DDI-DrugBank.d133.s0.e3" text="toxin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d133.s0.e0" e2="DDI-DrugBank.d133.s0.e1" id="DDI-DrugBank.d133.s0.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d133.s0.e0" e2="DDI-DrugBank.d133.s0.e2" id="DDI-DrugBank.d133.s0.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d133.s0.e0" e2="DDI-DrugBank.d133.s0.e3" id="DDI-DrugBank.d133.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d133.s0.e1" e2="DDI-DrugBank.d133.s0.e2" id="DDI-DrugBank.d133.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d133.s0.e1" e2="DDI-DrugBank.d133.s0.e3" id="DDI-DrugBank.d133.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d133.s0.e2" e2="DDI-DrugBank.d133.s0.e3" id="DDI-DrugBank.d133.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d133.s1" text="The effect of administering different botulinum neurotoxin serotypes at the same time or within several months of each other is unknown.">
+        <entity charOffset="38-57" id="DDI-DrugBank.d133.s1.e0" text="botulinum neurotoxin" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d133.s2" text="Excessive neuromuscular weakness may be exacerbated by administration of another botulinum toxin prior to the resolution of the effects of a previously administered botulinum toxin.">
+        <entity charOffset="81-95" id="DDI-DrugBank.d133.s2.e0" text="botulinum toxin" type="group"/>
+        <entity charOffset="165-179" id="DDI-DrugBank.d133.s2.e1" text="botulinum toxin" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d133.s2.e0" e2="DDI-DrugBank.d133.s2.e1" id="DDI-DrugBank.d133.s2.p0" type="effect"/>
+    </sentence>
+</document>

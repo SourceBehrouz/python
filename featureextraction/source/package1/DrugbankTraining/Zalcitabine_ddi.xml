@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d263">
+    <sentence id="DDI-DrugBank.d263.s0" text="Zidovudine: There is no significant pharmacokinetic interaction between ZDV and zalcitabine which has been confirmed clinically.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d263.s0.e0" text="Zidovudine" type="drug"/>
+        <entity charOffset="72-74" id="DDI-DrugBank.d263.s0.e1" text="ZDV" type="drug"/>
+        <entity charOffset="80-90" id="DDI-DrugBank.d263.s0.e2" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s0.e0" e2="DDI-DrugBank.d263.s0.e1" id="DDI-DrugBank.d263.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s0.e0" e2="DDI-DrugBank.d263.s0.e2" id="DDI-DrugBank.d263.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s0.e1" e2="DDI-DrugBank.d263.s0.e2" id="DDI-DrugBank.d263.s0.p2"/>
+    <negationtags>Zidovudine: There is &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; pharmacokinetic interaction between ZDV and zalcitabine which has been confirmed clinically. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d263.s1" text="Zalcitabine also has no significant effect on the intracellular phosphorylation of ZDV, as shown in vitro in peripheral blood mononuclear cells or in two other cell lines (U937 and Molt-4).">
+        <entity charOffset="0-10" id="DDI-DrugBank.d263.s1.e0" text="Zalcitabine" type="drug"/>
+        <entity charOffset="83-85" id="DDI-DrugBank.d263.s1.e1" text="ZDV" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s1.e0" e2="DDI-DrugBank.d263.s1.e1" id="DDI-DrugBank.d263.s1.p0" type="effect"/>
+    <negationtags>Zalcitabine also has &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effect on the intracellular phosphorylation of ZDV, as shown in vitro in peripheral blood mononuclear cells or in two other cell lines (U937 and Molt-4). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d263.s2" text="In the same study it was shown that didanosine and stavudine had no significant effect on the intracellular phosphorylation of zalcitabine in peripheral blood mononuclear cells.">
+        <entity charOffset="36-45" id="DDI-DrugBank.d263.s2.e0" text="didanosine" type="drug"/>
+        <entity charOffset="51-59" id="DDI-DrugBank.d263.s2.e1" text="stavudine" type="drug"/>
+        <entity charOffset="127-137" id="DDI-DrugBank.d263.s2.e2" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s2.e0" e2="DDI-DrugBank.d263.s2.e1" id="DDI-DrugBank.d263.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s2.e0" e2="DDI-DrugBank.d263.s2.e2" id="DDI-DrugBank.d263.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s2.e1" e2="DDI-DrugBank.d263.s2.e2" id="DDI-DrugBank.d263.s2.p2"/>
+    <negationtags>In the same study it was shown that didanosine and stavudine had &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effect on the intracellular phosphorylation of zalcitabine in peripheral blood mononuclear cells. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d263.s3" text="Lamivudine: In vitro studies in peripheral blood mononuclear cells, U937 and Molt-4 cells revealed that lamivudine significantly inhibited zalcitabine phosphorylation in a dose dependent manner.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d263.s3.e0" text="Lamivudine" type="drug"/>
+        <entity charOffset="104-113" id="DDI-DrugBank.d263.s3.e1" text="lamivudine" type="drug"/>
+        <entity charOffset="139-149" id="DDI-DrugBank.d263.s3.e2" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s3.e0" e2="DDI-DrugBank.d263.s3.e1" id="DDI-DrugBank.d263.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s3.e0" e2="DDI-DrugBank.d263.s3.e2" id="DDI-DrugBank.d263.s3.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s3.e1" e2="DDI-DrugBank.d263.s3.e2" id="DDI-DrugBank.d263.s3.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s4" text="Effects were already seen with doses corresponding to relevant plasma levels in humans, and the intracellular phosphorylation of zalcitabine to its three metabolites (including the active zalcitabine triphosphate metabolite) was significantly inhibited.">
+        <entity charOffset="129-139" id="DDI-DrugBank.d263.s4.e0" text="zalcitabine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s5" text="Zalcitabine inhibited lamivudine phosphorylation at high concentration ratios (10 and 100);">
+        <entity charOffset="0-10" id="DDI-DrugBank.d263.s5.e0" text="Zalcitabine" type="drug"/>
+        <entity charOffset="22-31" id="DDI-DrugBank.d263.s5.e1" text="lamivudine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s5.e0" e2="DDI-DrugBank.d263.s5.e1" id="DDI-DrugBank.d263.s5.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s6" text="however, it is considered to be unlikely that this decrease of phosphorylated lamivudine concentration is of clinical significance, as lamivudine is a more efficient substrate for deoxycytidine kinase than zalcitabine.">
+        <entity charOffset="78-87" id="DDI-DrugBank.d263.s6.e0" text="lamivudine" type="drug"/>
+        <entity charOffset="135-144" id="DDI-DrugBank.d263.s6.e1" text="lamivudine" type="drug"/>
+        <entity charOffset="206-216" id="DDI-DrugBank.d263.s6.e2" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s6.e0" e2="DDI-DrugBank.d263.s6.e1" id="DDI-DrugBank.d263.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s6.e0" e2="DDI-DrugBank.d263.s6.e2" id="DDI-DrugBank.d263.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s6.e1" e2="DDI-DrugBank.d263.s6.e2" id="DDI-DrugBank.d263.s6.p2"/>
+    <negationtags>&lt;scope&gt; however, it is considered to be &lt;cue&gt; unlikely &lt;/cue&gt; &lt;/scope&gt; that this decrease of phosphorylated lamivudine concentration is of clinical significance, as lamivudine is a more efficient substrate for deoxycytidine kinase than zalcitabine.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d263.s7" text="These in vitro studies suggest that concomitant administration of zalcitabine and lamivudine in humans may result in sub-therapeutic concentrations of active phosphorylated zalcitabine, which may lead to a decreased antiretroviral effect of zalcitabine.">
+        <entity charOffset="66-76" id="DDI-DrugBank.d263.s7.e0" text="zalcitabine" type="drug"/>
+        <entity charOffset="82-91" id="DDI-DrugBank.d263.s7.e1" text="lamivudine" type="drug"/>
+        <entity charOffset="173-183" id="DDI-DrugBank.d263.s7.e2" text="zalcitabine" type="drug"/>
+        <entity charOffset="216-229" id="DDI-DrugBank.d263.s7.e3" text="antiretroviral" type="group"/>
+        <entity charOffset="241-251" id="DDI-DrugBank.d263.s7.e4" text="zalcitabine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s7.e0" e2="DDI-DrugBank.d263.s7.e1" id="DDI-DrugBank.d263.s7.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e0" e2="DDI-DrugBank.d263.s7.e2" id="DDI-DrugBank.d263.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e0" e2="DDI-DrugBank.d263.s7.e3" id="DDI-DrugBank.d263.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e0" e2="DDI-DrugBank.d263.s7.e4" id="DDI-DrugBank.d263.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e1" e2="DDI-DrugBank.d263.s7.e2" id="DDI-DrugBank.d263.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e1" e2="DDI-DrugBank.d263.s7.e3" id="DDI-DrugBank.d263.s7.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e1" e2="DDI-DrugBank.d263.s7.e4" id="DDI-DrugBank.d263.s7.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e2" e2="DDI-DrugBank.d263.s7.e3" id="DDI-DrugBank.d263.s7.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e2" e2="DDI-DrugBank.d263.s7.e4" id="DDI-DrugBank.d263.s7.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s7.e3" e2="DDI-DrugBank.d263.s7.e4" id="DDI-DrugBank.d263.s7.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s8" text="It is unknown how the effect seen in these in vitro studies translates into clinical consequences."/>
+    <sentence id="DDI-DrugBank.d263.s9" text="Concomitant use of zalcitabine and lamivudine is not recommended.">
+        <entity charOffset="19-29" id="DDI-DrugBank.d263.s9.e0" text="zalcitabine" type="drug"/>
+        <entity charOffset="35-44" id="DDI-DrugBank.d263.s9.e1" text="lamivudine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s9.e0" e2="DDI-DrugBank.d263.s9.e1" id="DDI-DrugBank.d263.s9.p0" type="advise"/>
+    <negationtags>Concomitant use of zalcitabine and lamivudine is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d263.s10" text="Saquinavir: The combination of HIVID, saquinavir, and ZDV has been studied (as triple combination) in adults.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d263.s10.e0" text="Saquinavir" type="drug"/>
+        <entity charOffset="31-35" id="DDI-DrugBank.d263.s10.e1" text="HIVID" type="drug"/>
+        <entity charOffset="38-47" id="DDI-DrugBank.d263.s10.e2" text="saquinavir" type="drug"/>
+        <entity charOffset="54-56" id="DDI-DrugBank.d263.s10.e3" text="ZDV" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s10.e0" e2="DDI-DrugBank.d263.s10.e1" id="DDI-DrugBank.d263.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s10.e0" e2="DDI-DrugBank.d263.s10.e2" id="DDI-DrugBank.d263.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s10.e0" e2="DDI-DrugBank.d263.s10.e3" id="DDI-DrugBank.d263.s10.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s10.e1" e2="DDI-DrugBank.d263.s10.e2" id="DDI-DrugBank.d263.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s10.e1" e2="DDI-DrugBank.d263.s10.e3" id="DDI-DrugBank.d263.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s10.e2" e2="DDI-DrugBank.d263.s10.e3" id="DDI-DrugBank.d263.s10.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s11" text="Pharmacokinetic data suggest that absorption, metabolism, and elimination of each of these drugs are unchanged when they are used together."/>
+    <sentence id="DDI-DrugBank.d263.s12" text="Drugs Associated With Peripheral Neuropathy: The concomitant use of HIVID with drugs that have the potential to cause peripheral neuropathy should be avoided where possible.">
+        <entity charOffset="68-72" id="DDI-DrugBank.d263.s12.e0" text="HIVID" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s13" text="Drugs that have been associated with peripheral neuropathy include antiretroviral nucleoside analogues, chloramphenicol, cisplatin, dapsone, disulfiram, ethionamide, glutethimide, gold, hydralazine, iodoquinol, isoniazid, metronidazole, nitrofurantoin, phenytoin, ribavirin, and vincristine.">
+        <entity charOffset="67-101" id="DDI-DrugBank.d263.s13.e0" text="antiretroviral nucleoside analogues" type="drug"/>
+        <entity charOffset="104-118" id="DDI-DrugBank.d263.s13.e1" text="chloramphenicol" type="drug"/>
+        <entity charOffset="121-129" id="DDI-DrugBank.d263.s13.e2" text="cisplatin" type="drug"/>
+        <entity charOffset="132-138" id="DDI-DrugBank.d263.s13.e3" text="dapsone" type="drug"/>
+        <entity charOffset="141-150" id="DDI-DrugBank.d263.s13.e4" text="disulfiram" type="drug"/>
+        <entity charOffset="153-163" id="DDI-DrugBank.d263.s13.e5" text="ethionamide" type="drug"/>
+        <entity charOffset="166-177" id="DDI-DrugBank.d263.s13.e6" text="glutethimide" type="drug"/>
+        <entity charOffset="180-183" id="DDI-DrugBank.d263.s13.e7" text="gold" type="drug"/>
+        <entity charOffset="186-196" id="DDI-DrugBank.d263.s13.e8" text="hydralazine" type="drug"/>
+        <entity charOffset="199-208" id="DDI-DrugBank.d263.s13.e9" text="iodoquinol" type="drug"/>
+        <entity charOffset="211-219" id="DDI-DrugBank.d263.s13.e10" text="isoniazid" type="drug"/>
+        <entity charOffset="222-234" id="DDI-DrugBank.d263.s13.e11" text="metronidazole" type="drug"/>
+        <entity charOffset="237-250" id="DDI-DrugBank.d263.s13.e12" text="nitrofurantoin" type="drug"/>
+        <entity charOffset="253-261" id="DDI-DrugBank.d263.s13.e13" text="phenytoin" type="drug"/>
+        <entity charOffset="264-272" id="DDI-DrugBank.d263.s13.e14" text="ribavirin" type="drug"/>
+        <entity charOffset="279-289" id="DDI-DrugBank.d263.s13.e15" text="vincristine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e1" id="DDI-DrugBank.d263.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e2" id="DDI-DrugBank.d263.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e3" id="DDI-DrugBank.d263.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e4" id="DDI-DrugBank.d263.s13.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e5" id="DDI-DrugBank.d263.s13.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e6" id="DDI-DrugBank.d263.s13.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e7" id="DDI-DrugBank.d263.s13.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e0" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e2" id="DDI-DrugBank.d263.s13.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e3" id="DDI-DrugBank.d263.s13.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e4" id="DDI-DrugBank.d263.s13.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e5" id="DDI-DrugBank.d263.s13.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e6" id="DDI-DrugBank.d263.s13.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e7" id="DDI-DrugBank.d263.s13.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e1" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e3" id="DDI-DrugBank.d263.s13.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e4" id="DDI-DrugBank.d263.s13.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e5" id="DDI-DrugBank.d263.s13.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e6" id="DDI-DrugBank.d263.s13.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e7" id="DDI-DrugBank.d263.s13.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e2" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e4" id="DDI-DrugBank.d263.s13.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e5" id="DDI-DrugBank.d263.s13.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e6" id="DDI-DrugBank.d263.s13.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e7" id="DDI-DrugBank.d263.s13.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e3" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e5" id="DDI-DrugBank.d263.s13.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e6" id="DDI-DrugBank.d263.s13.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e7" id="DDI-DrugBank.d263.s13.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e4" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e6" id="DDI-DrugBank.d263.s13.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e7" id="DDI-DrugBank.d263.s13.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p68"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p69"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e5" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p74"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e7" id="DDI-DrugBank.d263.s13.p75"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p77"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p78"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p79"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p80"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p81"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p82"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e6" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p83"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e8" id="DDI-DrugBank.d263.s13.p84"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p85"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p86"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p87"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p88"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p89"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p90"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e7" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p91"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e8" e2="DDI-DrugBank.d263.s13.e9" id="DDI-DrugBank.d263.s13.p92"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e8" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p93"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e8" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p94"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e8" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p95"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e8" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p96"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e8" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p97"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e8" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p98"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e9" e2="DDI-DrugBank.d263.s13.e10" id="DDI-DrugBank.d263.s13.p99"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e9" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p100"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e9" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p101"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e9" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p102"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e9" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p103"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e9" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p104"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e10" e2="DDI-DrugBank.d263.s13.e11" id="DDI-DrugBank.d263.s13.p105"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e10" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p106"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e10" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p107"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e10" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p108"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e10" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p109"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e11" e2="DDI-DrugBank.d263.s13.e12" id="DDI-DrugBank.d263.s13.p110"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e11" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p111"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e11" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p112"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e11" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p113"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e12" e2="DDI-DrugBank.d263.s13.e13" id="DDI-DrugBank.d263.s13.p114"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e12" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p115"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e12" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p116"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e13" e2="DDI-DrugBank.d263.s13.e14" id="DDI-DrugBank.d263.s13.p117"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e13" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p118"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s13.e14" e2="DDI-DrugBank.d263.s13.e15" id="DDI-DrugBank.d263.s13.p119"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s14" text="Concomitant use of HIVID with didanosine is not recommended.">
+        <entity charOffset="19-23" id="DDI-DrugBank.d263.s14.e0" text="HIVID" type="drug"/>
+        <entity charOffset="30-39" id="DDI-DrugBank.d263.s14.e1" text="didanosine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s14.e0" e2="DDI-DrugBank.d263.s14.e1" id="DDI-DrugBank.d263.s14.p0" type="advise"/>
+    <negationtags>Concomitant use of HIVID with didanosine is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d263.s15" text="Intravenous Pentamidine: Treatment with HIVID should be interrupted when the use of a drug that has the potential to cause pancreatitis is required.">
+        <entity charOffset="12-22" id="DDI-DrugBank.d263.s15.e0" text="Pentamidine" type="drug"/>
+        <entity charOffset="40-44" id="DDI-DrugBank.d263.s15.e1" text="HIVID" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s15.e0" e2="DDI-DrugBank.d263.s15.e1" id="DDI-DrugBank.d263.s15.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s16" text="Death due to fulminant pancreatitis possibly related to intravenous pentamidine and HIVID has been reported.">
+        <entity charOffset="68-78" id="DDI-DrugBank.d263.s16.e0" text="pentamidine" type="drug"/>
+        <entity charOffset="84-88" id="DDI-DrugBank.d263.s16.e1" text="HIVID" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s16.e0" e2="DDI-DrugBank.d263.s16.e1" id="DDI-DrugBank.d263.s16.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s17" text="If intravenous pentamidine is required to treat Pneumocystis carinii pneumonia, treatment with HIVID should be interrupted.">
+        <entity charOffset="15-25" id="DDI-DrugBank.d263.s17.e0" text="pentamidine" type="drug"/>
+        <entity charOffset="95-99" id="DDI-DrugBank.d263.s17.e1" text="HIVID" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s17.e0" e2="DDI-DrugBank.d263.s17.e1" id="DDI-DrugBank.d263.s17.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s18" text="Amphotericin, Foscarnet, and Aminoglycosides: Drugs such as amphotericin, foscarnet, and aminoglycosides may increase the risk of developing peripheral neuropathy or other HIVID-associated adverse events by interfering with the renal clearance of zalcitabine (thereby raising systemic exposure).">
+        <entity charOffset="0-11" id="DDI-DrugBank.d263.s18.e0" text="Amphotericin" type="drug"/>
+        <entity charOffset="14-22" id="DDI-DrugBank.d263.s18.e1" text="Foscarnet" type="drug"/>
+        <entity charOffset="29-43" id="DDI-DrugBank.d263.s18.e2" text="Aminoglycosides" type="group"/>
+        <entity charOffset="60-71" id="DDI-DrugBank.d263.s18.e3" text="amphotericin" type="drug"/>
+        <entity charOffset="74-82" id="DDI-DrugBank.d263.s18.e4" text="foscarnet" type="drug"/>
+        <entity charOffset="89-103" id="DDI-DrugBank.d263.s18.e5" text="aminoglycosides" type="group"/>
+        <entity charOffset="172-176" id="DDI-DrugBank.d263.s18.e6" text="HIVID" type="drug"/>
+        <entity charOffset="247-257" id="DDI-DrugBank.d263.s18.e7" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e0" e2="DDI-DrugBank.d263.s18.e1" id="DDI-DrugBank.d263.s18.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e0" e2="DDI-DrugBank.d263.s18.e2" id="DDI-DrugBank.d263.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e0" e2="DDI-DrugBank.d263.s18.e3" id="DDI-DrugBank.d263.s18.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e0" e2="DDI-DrugBank.d263.s18.e4" id="DDI-DrugBank.d263.s18.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e0" e2="DDI-DrugBank.d263.s18.e5" id="DDI-DrugBank.d263.s18.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e0" e2="DDI-DrugBank.d263.s18.e6" id="DDI-DrugBank.d263.s18.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e0" e2="DDI-DrugBank.d263.s18.e7" id="DDI-DrugBank.d263.s18.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e1" e2="DDI-DrugBank.d263.s18.e2" id="DDI-DrugBank.d263.s18.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e1" e2="DDI-DrugBank.d263.s18.e3" id="DDI-DrugBank.d263.s18.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e1" e2="DDI-DrugBank.d263.s18.e4" id="DDI-DrugBank.d263.s18.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e1" e2="DDI-DrugBank.d263.s18.e5" id="DDI-DrugBank.d263.s18.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e1" e2="DDI-DrugBank.d263.s18.e6" id="DDI-DrugBank.d263.s18.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e1" e2="DDI-DrugBank.d263.s18.e7" id="DDI-DrugBank.d263.s18.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e2" e2="DDI-DrugBank.d263.s18.e3" id="DDI-DrugBank.d263.s18.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e2" e2="DDI-DrugBank.d263.s18.e4" id="DDI-DrugBank.d263.s18.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e2" e2="DDI-DrugBank.d263.s18.e5" id="DDI-DrugBank.d263.s18.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e2" e2="DDI-DrugBank.d263.s18.e6" id="DDI-DrugBank.d263.s18.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e2" e2="DDI-DrugBank.d263.s18.e7" id="DDI-DrugBank.d263.s18.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e3" e2="DDI-DrugBank.d263.s18.e4" id="DDI-DrugBank.d263.s18.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e3" e2="DDI-DrugBank.d263.s18.e5" id="DDI-DrugBank.d263.s18.p19"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s18.e3" e2="DDI-DrugBank.d263.s18.e6" id="DDI-DrugBank.d263.s18.p20" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s18.e3" e2="DDI-DrugBank.d263.s18.e7" id="DDI-DrugBank.d263.s18.p21" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e4" e2="DDI-DrugBank.d263.s18.e5" id="DDI-DrugBank.d263.s18.p22"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s18.e4" e2="DDI-DrugBank.d263.s18.e6" id="DDI-DrugBank.d263.s18.p23" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s18.e4" e2="DDI-DrugBank.d263.s18.e7" id="DDI-DrugBank.d263.s18.p24" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s18.e5" e2="DDI-DrugBank.d263.s18.e6" id="DDI-DrugBank.d263.s18.p25" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s18.e5" e2="DDI-DrugBank.d263.s18.e7" id="DDI-DrugBank.d263.s18.p26" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s18.e6" e2="DDI-DrugBank.d263.s18.e7" id="DDI-DrugBank.d263.s18.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s19" text="Patients who require the use of one of these drugs with HIVID should have frequent clinical and laboratory monitoring with dosage adjustment for any significant change in renal function.">
+        <entity charOffset="56-60" id="DDI-DrugBank.d263.s19.e0" text="HIVID" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s20" text="Probenecid or Cimetidine: Concomitant administration of probenecid or cimetidine decreases the elimination of zalcitabine, most likely by inhibition of renal tubular secretion of zalcitabine.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d263.s20.e0" text="Probenecid" type="drug"/>
+        <entity charOffset="14-23" id="DDI-DrugBank.d263.s20.e1" text="Cimetidine" type="drug"/>
+        <entity charOffset="56-65" id="DDI-DrugBank.d263.s20.e2" text="probenecid" type="drug"/>
+        <entity charOffset="70-79" id="DDI-DrugBank.d263.s20.e3" text="cimetidine" type="drug"/>
+        <entity charOffset="110-120" id="DDI-DrugBank.d263.s20.e4" text="zalcitabine" type="drug"/>
+        <entity charOffset="179-189" id="DDI-DrugBank.d263.s20.e5" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e0" e2="DDI-DrugBank.d263.s20.e1" id="DDI-DrugBank.d263.s20.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e0" e2="DDI-DrugBank.d263.s20.e2" id="DDI-DrugBank.d263.s20.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e0" e2="DDI-DrugBank.d263.s20.e3" id="DDI-DrugBank.d263.s20.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e0" e2="DDI-DrugBank.d263.s20.e4" id="DDI-DrugBank.d263.s20.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e0" e2="DDI-DrugBank.d263.s20.e5" id="DDI-DrugBank.d263.s20.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e1" e2="DDI-DrugBank.d263.s20.e2" id="DDI-DrugBank.d263.s20.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e1" e2="DDI-DrugBank.d263.s20.e3" id="DDI-DrugBank.d263.s20.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e1" e2="DDI-DrugBank.d263.s20.e4" id="DDI-DrugBank.d263.s20.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e1" e2="DDI-DrugBank.d263.s20.e5" id="DDI-DrugBank.d263.s20.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e2" e2="DDI-DrugBank.d263.s20.e3" id="DDI-DrugBank.d263.s20.p9"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s20.e2" e2="DDI-DrugBank.d263.s20.e4" id="DDI-DrugBank.d263.s20.p10" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e2" e2="DDI-DrugBank.d263.s20.e5" id="DDI-DrugBank.d263.s20.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s20.e3" e2="DDI-DrugBank.d263.s20.e4" id="DDI-DrugBank.d263.s20.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e3" e2="DDI-DrugBank.d263.s20.e5" id="DDI-DrugBank.d263.s20.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s20.e4" e2="DDI-DrugBank.d263.s20.e5" id="DDI-DrugBank.d263.s20.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s21" text="Patients receiving these drugs in combination with zalcitabine should be monitored for signs of toxicity and the dose of zalcitabine reduced if warranted.">
+        <entity charOffset="51-61" id="DDI-DrugBank.d263.s21.e0" text="zalcitabine" type="drug"/>
+        <entity charOffset="121-131" id="DDI-DrugBank.d263.s21.e1" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s21.e0" e2="DDI-DrugBank.d263.s21.e1" id="DDI-DrugBank.d263.s21.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s22" text="Magnesium/Aluminum-containing Antacid Products: Absorption of zalcitabine is moderately reduced (approximately 25%) when coadministered with magnesium/aluminum-containing antacid products.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d263.s22.e0" text="Magnesium" type="drug"/>
+        <entity charOffset="10-17" id="DDI-DrugBank.d263.s22.e1" text="Aluminum" type="drug"/>
+        <entity charOffset="30-45" id="DDI-DrugBank.d263.s22.e2" text="Antacid Products" type="group"/>
+        <entity charOffset="62-72" id="DDI-DrugBank.d263.s22.e3" text="zalcitabine" type="drug"/>
+        <entity charOffset="141-149" id="DDI-DrugBank.d263.s22.e4" text="magnesium" type="drug"/>
+        <entity charOffset="151-158" id="DDI-DrugBank.d263.s22.e5" text="aluminum" type="drug"/>
+        <entity charOffset="171-186" id="DDI-DrugBank.d263.s22.e6" text="antacid products" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e0" e2="DDI-DrugBank.d263.s22.e1" id="DDI-DrugBank.d263.s22.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e0" e2="DDI-DrugBank.d263.s22.e2" id="DDI-DrugBank.d263.s22.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e0" e2="DDI-DrugBank.d263.s22.e3" id="DDI-DrugBank.d263.s22.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e0" e2="DDI-DrugBank.d263.s22.e4" id="DDI-DrugBank.d263.s22.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e0" e2="DDI-DrugBank.d263.s22.e5" id="DDI-DrugBank.d263.s22.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e0" e2="DDI-DrugBank.d263.s22.e6" id="DDI-DrugBank.d263.s22.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e1" e2="DDI-DrugBank.d263.s22.e2" id="DDI-DrugBank.d263.s22.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e1" e2="DDI-DrugBank.d263.s22.e3" id="DDI-DrugBank.d263.s22.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e1" e2="DDI-DrugBank.d263.s22.e4" id="DDI-DrugBank.d263.s22.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e1" e2="DDI-DrugBank.d263.s22.e5" id="DDI-DrugBank.d263.s22.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e1" e2="DDI-DrugBank.d263.s22.e6" id="DDI-DrugBank.d263.s22.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e2" e2="DDI-DrugBank.d263.s22.e3" id="DDI-DrugBank.d263.s22.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e2" e2="DDI-DrugBank.d263.s22.e4" id="DDI-DrugBank.d263.s22.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e2" e2="DDI-DrugBank.d263.s22.e5" id="DDI-DrugBank.d263.s22.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e2" e2="DDI-DrugBank.d263.s22.e6" id="DDI-DrugBank.d263.s22.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e3" e2="DDI-DrugBank.d263.s22.e4" id="DDI-DrugBank.d263.s22.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e3" e2="DDI-DrugBank.d263.s22.e5" id="DDI-DrugBank.d263.s22.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e3" e2="DDI-DrugBank.d263.s22.e6" id="DDI-DrugBank.d263.s22.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e4" e2="DDI-DrugBank.d263.s22.e5" id="DDI-DrugBank.d263.s22.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e4" e2="DDI-DrugBank.d263.s22.e6" id="DDI-DrugBank.d263.s22.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s22.e5" e2="DDI-DrugBank.d263.s22.e6" id="DDI-DrugBank.d263.s22.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s23" text="The clinical significance of this reduction is not known, hence zalcitabine is not recommended to be ingested simultaneously with magnesium/aluminum-containing antacids.">
+        <entity charOffset="64-74" id="DDI-DrugBank.d263.s23.e0" text="zalcitabine" type="drug"/>
+        <entity charOffset="130-138" id="DDI-DrugBank.d263.s23.e1" text="magnesium" type="drug"/>
+        <entity charOffset="140-147" id="DDI-DrugBank.d263.s23.e2" text="aluminum" type="drug"/>
+        <entity charOffset="160-167" id="DDI-DrugBank.d263.s23.e3" text="antacids" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s23.e0" e2="DDI-DrugBank.d263.s23.e1" id="DDI-DrugBank.d263.s23.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s23.e0" e2="DDI-DrugBank.d263.s23.e2" id="DDI-DrugBank.d263.s23.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s23.e0" e2="DDI-DrugBank.d263.s23.e3" id="DDI-DrugBank.d263.s23.p2" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s23.e1" e2="DDI-DrugBank.d263.s23.e2" id="DDI-DrugBank.d263.s23.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s23.e1" e2="DDI-DrugBank.d263.s23.e3" id="DDI-DrugBank.d263.s23.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s23.e2" e2="DDI-DrugBank.d263.s23.e3" id="DDI-DrugBank.d263.s23.p5"/>
+    <negationtags>The clinical significance of this reduction is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known, hence zalcitabine is not recommended to be ingested simultaneously with magnesium/aluminum-containing antacids. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d263.s24" text="Metoclopramide: Bioavailability is mildly reduced (approximately 10%) when zalcitabine and metoclopramide are coadministered.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d263.s24.e0" text="Metoclopramide" type="drug"/>
+        <entity charOffset="75-85" id="DDI-DrugBank.d263.s24.e1" text="zalcitabine" type="drug"/>
+        <entity charOffset="91-104" id="DDI-DrugBank.d263.s24.e2" text="metoclopramide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s24.e0" e2="DDI-DrugBank.d263.s24.e1" id="DDI-DrugBank.d263.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s24.e0" e2="DDI-DrugBank.d263.s24.e2" id="DDI-DrugBank.d263.s24.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s24.e1" e2="DDI-DrugBank.d263.s24.e2" id="DDI-DrugBank.d263.s24.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s25" text="Doxorubicin: Doxorubicin caused a decrease in zalcitabine phosphorylation ( 50% inhibition of total phosphate formation) in U937/Molt 4 cells.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d263.s25.e0" text="Doxorubicin" type="drug"/>
+        <entity charOffset="13-23" id="DDI-DrugBank.d263.s25.e1" text="Doxorubicin" type="drug"/>
+        <entity charOffset="46-56" id="DDI-DrugBank.d263.s25.e2" text="zalcitabine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s25.e0" e2="DDI-DrugBank.d263.s25.e1" id="DDI-DrugBank.d263.s25.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d263.s25.e0" e2="DDI-DrugBank.d263.s25.e2" id="DDI-DrugBank.d263.s25.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d263.s25.e1" e2="DDI-DrugBank.d263.s25.e2" id="DDI-DrugBank.d263.s25.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d263.s26" text="Although there may be decreased zalcitabine activity because of lessened active metabolite formation, the clinical relevance of these in vitro results are not known.">
+        <entity charOffset="32-42" id="DDI-DrugBank.d263.s26.e0" text="zalcitabine" type="drug"/>
+    <negationtags>Although there may be decreased zalcitabine activity because of lessened active metabolite formation, the clinical relevance of these in vitro results are &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known. &lt;/scope&gt;</negationtags></sentence>
+</document>

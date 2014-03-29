@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d318">
+    <sentence id="DDI-DrugBank.d318.s0" text="When administered concurrently, the following drugs may interact with amphotericin B: Antineoplastic agents: may enhance the potential for renal toxicity, bronchospasm and hypotension.">
+        <entity charOffset="70-83" id="DDI-DrugBank.d318.s0.e0" text="amphotericin B" type="drug"/>
+        <entity charOffset="86-106" id="DDI-DrugBank.d318.s0.e1" text="Antineoplastic agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s0.e0" e2="DDI-DrugBank.d318.s0.e1" id="DDI-DrugBank.d318.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s1" text="Antineoplastic agents (e. g., nitrogen mustard, etc.) should be given concomitantly only with great caution.">
+        <entity charOffset="0-20" id="DDI-DrugBank.d318.s1.e0" text="Antineoplastic agents" type="group"/>
+        <entity charOffset="30-45" id="DDI-DrugBank.d318.s1.e1" text="nitrogen mustard" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s1.e0" e2="DDI-DrugBank.d318.s1.e1" id="DDI-DrugBank.d318.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s2" text="Corticosteroids and Corticotropin (ACTH): may potentiate amphotericin B- induced hypokalemia which may predispose the patient to cardiac dysfunction.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d318.s2.e0" text="Corticosteroids" type="group"/>
+        <entity charOffset="20-32" id="DDI-DrugBank.d318.s2.e1" text="Corticotropin" type="drug"/>
+        <entity charOffset="35-38" id="DDI-DrugBank.d318.s2.e2" text="ACTH" type="group"/>
+        <entity charOffset="57-70" id="DDI-DrugBank.d318.s2.e3" text="amphotericin B" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s2.e0" e2="DDI-DrugBank.d318.s2.e1" id="DDI-DrugBank.d318.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s2.e0" e2="DDI-DrugBank.d318.s2.e2" id="DDI-DrugBank.d318.s2.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s2.e0" e2="DDI-DrugBank.d318.s2.e3" id="DDI-DrugBank.d318.s2.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s2.e1" e2="DDI-DrugBank.d318.s2.e2" id="DDI-DrugBank.d318.s2.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s2.e1" e2="DDI-DrugBank.d318.s2.e3" id="DDI-DrugBank.d318.s2.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s2.e2" e2="DDI-DrugBank.d318.s2.e3" id="DDI-DrugBank.d318.s2.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s3" text="Avoid concomitant use unless necessary to control side effects of amphotericin B.">
+        <entity charOffset="66-79" id="DDI-DrugBank.d318.s3.e0" text="amphotericin B" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s4" text="If used concomitantly, closely monitor serum electrolytes and cardiac function."/>
+    <sentence id="DDI-DrugBank.d318.s5" text="Digitalis glycosides: amphotericin B-induced hypokalemia may potentiate digitalis toxicity.">
+        <entity charOffset="0-19" id="DDI-DrugBank.d318.s5.e0" text="Digitalis glycosides" type="group"/>
+        <entity charOffset="22-35" id="DDI-DrugBank.d318.s5.e1" text="amphotericin B" type="drug"/>
+        <entity charOffset="72-80" id="DDI-DrugBank.d318.s5.e2" text="digitalis" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s5.e0" e2="DDI-DrugBank.d318.s5.e1" id="DDI-DrugBank.d318.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s5.e0" e2="DDI-DrugBank.d318.s5.e2" id="DDI-DrugBank.d318.s5.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s5.e1" e2="DDI-DrugBank.d318.s5.e2" id="DDI-DrugBank.d318.s5.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s6" text="Serum potassium levels and cardiac function should be closely monitored and any deficit promptly corrected."/>
+    <sentence id="DDI-DrugBank.d318.s7" text="Flucytosine: while a synergistic relationship with amphotericin B has been reported, concomitant use may increase the toxicity of flucytosine by possibly increasing its cellular uptake and/or impairing its renal excretion.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d318.s7.e0" text="Flucytosine" type="drug"/>
+        <entity charOffset="51-64" id="DDI-DrugBank.d318.s7.e1" text="amphotericin B" type="drug"/>
+        <entity charOffset="130-140" id="DDI-DrugBank.d318.s7.e2" text="flucytosine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s7.e0" e2="DDI-DrugBank.d318.s7.e1" id="DDI-DrugBank.d318.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s7.e0" e2="DDI-DrugBank.d318.s7.e2" id="DDI-DrugBank.d318.s7.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s7.e1" e2="DDI-DrugBank.d318.s7.e2" id="DDI-DrugBank.d318.s7.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s8" text="Imidazoles (e. g., ketoconazole, miconazole, clotrimazole, fluconazole, etc.): in vitro and animal studies with the combination of amphotericin B and imidazoles suggest that imidazoles may induce fungal resistance to amphotericin B.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d318.s8.e0" text="Imidazoles" type="group"/>
+        <entity charOffset="19-30" id="DDI-DrugBank.d318.s8.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="33-42" id="DDI-DrugBank.d318.s8.e2" text="miconazole" type="drug"/>
+        <entity charOffset="45-56" id="DDI-DrugBank.d318.s8.e3" text="clotrimazole" type="drug"/>
+        <entity charOffset="59-69" id="DDI-DrugBank.d318.s8.e4" text="fluconazole" type="drug"/>
+        <entity charOffset="131-144" id="DDI-DrugBank.d318.s8.e5" text="amphotericin B" type="drug"/>
+        <entity charOffset="150-159" id="DDI-DrugBank.d318.s8.e6" text="imidazoles" type="group"/>
+        <entity charOffset="174-183" id="DDI-DrugBank.d318.s8.e7" text="imidazoles" type="group"/>
+        <entity charOffset="217-230" id="DDI-DrugBank.d318.s8.e8" text="amphotericin B" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e1" id="DDI-DrugBank.d318.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e2" id="DDI-DrugBank.d318.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e3" id="DDI-DrugBank.d318.s8.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e4" id="DDI-DrugBank.d318.s8.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e5" id="DDI-DrugBank.d318.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e6" id="DDI-DrugBank.d318.s8.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e7" id="DDI-DrugBank.d318.s8.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e0" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e1" e2="DDI-DrugBank.d318.s8.e2" id="DDI-DrugBank.d318.s8.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e1" e2="DDI-DrugBank.d318.s8.e3" id="DDI-DrugBank.d318.s8.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e1" e2="DDI-DrugBank.d318.s8.e4" id="DDI-DrugBank.d318.s8.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e1" e2="DDI-DrugBank.d318.s8.e5" id="DDI-DrugBank.d318.s8.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e1" e2="DDI-DrugBank.d318.s8.e6" id="DDI-DrugBank.d318.s8.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e1" e2="DDI-DrugBank.d318.s8.e7" id="DDI-DrugBank.d318.s8.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e1" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e2" e2="DDI-DrugBank.d318.s8.e3" id="DDI-DrugBank.d318.s8.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e2" e2="DDI-DrugBank.d318.s8.e4" id="DDI-DrugBank.d318.s8.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e2" e2="DDI-DrugBank.d318.s8.e5" id="DDI-DrugBank.d318.s8.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e2" e2="DDI-DrugBank.d318.s8.e6" id="DDI-DrugBank.d318.s8.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e2" e2="DDI-DrugBank.d318.s8.e7" id="DDI-DrugBank.d318.s8.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e2" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e3" e2="DDI-DrugBank.d318.s8.e4" id="DDI-DrugBank.d318.s8.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e3" e2="DDI-DrugBank.d318.s8.e5" id="DDI-DrugBank.d318.s8.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e3" e2="DDI-DrugBank.d318.s8.e6" id="DDI-DrugBank.d318.s8.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e3" e2="DDI-DrugBank.d318.s8.e7" id="DDI-DrugBank.d318.s8.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e3" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e4" e2="DDI-DrugBank.d318.s8.e5" id="DDI-DrugBank.d318.s8.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e4" e2="DDI-DrugBank.d318.s8.e6" id="DDI-DrugBank.d318.s8.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e4" e2="DDI-DrugBank.d318.s8.e7" id="DDI-DrugBank.d318.s8.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e4" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e5" e2="DDI-DrugBank.d318.s8.e6" id="DDI-DrugBank.d318.s8.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e5" e2="DDI-DrugBank.d318.s8.e7" id="DDI-DrugBank.d318.s8.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e5" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e6" e2="DDI-DrugBank.d318.s8.e7" id="DDI-DrugBank.d318.s8.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s8.e6" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p34"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s8.e7" e2="DDI-DrugBank.d318.s8.e8" id="DDI-DrugBank.d318.s8.p35" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s9" text="Combination therapy should be administered with caution, especially in immunocompromised patients."/>
+    <sentence id="DDI-DrugBank.d318.s10" text="Other nephrotoxic medications: agents such as aminoglycosides, cyclosporine, and pentamidine may enhance the potential for drug-induced renal toxicity, and should be used concomitantly only with great caution.">
+        <entity charOffset="46-60" id="DDI-DrugBank.d318.s10.e0" text="aminoglycosides" type="group"/>
+        <entity charOffset="63-74" id="DDI-DrugBank.d318.s10.e1" text="cyclosporine" type="drug"/>
+        <entity charOffset="81-91" id="DDI-DrugBank.d318.s10.e2" text="pentamidine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s10.e0" e2="DDI-DrugBank.d318.s10.e1" id="DDI-DrugBank.d318.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s10.e0" e2="DDI-DrugBank.d318.s10.e2" id="DDI-DrugBank.d318.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s10.e1" e2="DDI-DrugBank.d318.s10.e2" id="DDI-DrugBank.d318.s10.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s11" text="Intensive monitoring of renal function is recommended in patients requiring any combination of nephrotoxic medications ."/>
+    <sentence id="DDI-DrugBank.d318.s12" text="Skeletal muscle relaxants: amphotericin B-induced hypokalemia may enhance the curariform effect of skeletal muscle relaxants (e.g., tubocurarine).">
+        <entity charOffset="0-24" id="DDI-DrugBank.d318.s12.e0" text="Skeletal muscle relaxants" type="group"/>
+        <entity charOffset="27-40" id="DDI-DrugBank.d318.s12.e1" text="amphotericin B" type="drug"/>
+        <entity charOffset="99-123" id="DDI-DrugBank.d318.s12.e2" text="skeletal muscle relaxants" type="group"/>
+        <entity charOffset="132-143" id="DDI-DrugBank.d318.s12.e3" text="tubocurarine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s12.e0" e2="DDI-DrugBank.d318.s12.e1" id="DDI-DrugBank.d318.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s12.e0" e2="DDI-DrugBank.d318.s12.e2" id="DDI-DrugBank.d318.s12.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s12.e0" e2="DDI-DrugBank.d318.s12.e3" id="DDI-DrugBank.d318.s12.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s12.e1" e2="DDI-DrugBank.d318.s12.e2" id="DDI-DrugBank.d318.s12.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s12.e1" e2="DDI-DrugBank.d318.s12.e3" id="DDI-DrugBank.d318.s12.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s12.e2" e2="DDI-DrugBank.d318.s12.e3" id="DDI-DrugBank.d318.s12.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d318.s13" text="Serum potassium levels should be monitored and deficiencies corrected."/>
+    <sentence id="DDI-DrugBank.d318.s14" text="Leukocyte transfusions: acute pulmonary toxicity has been reported in patients receiving intravenous amphotericin B and leukocyte transfusions.">
+        <entity charOffset="0-21" id="DDI-DrugBank.d318.s14.e0" text="Leukocyte transfusions" type="drug_n"/>
+        <entity charOffset="101-114" id="DDI-DrugBank.d318.s14.e1" text="amphotericin B" type="drug"/>
+        <entity charOffset="120-141" id="DDI-DrugBank.d318.s14.e2" text="leukocyte transfusions" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s14.e0" e2="DDI-DrugBank.d318.s14.e1" id="DDI-DrugBank.d318.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d318.s14.e0" e2="DDI-DrugBank.d318.s14.e2" id="DDI-DrugBank.d318.s14.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d318.s14.e1" e2="DDI-DrugBank.d318.s14.e2" id="DDI-DrugBank.d318.s14.p2" type="effect"/>
+    </sentence>
+</document>

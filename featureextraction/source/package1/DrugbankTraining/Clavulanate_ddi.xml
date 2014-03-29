@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d419">
+    <sentence id="DDI-DrugBank.d419.s0" text="The concurrent administration of allopurinol and ampicillin increases substantially the incidence of rashes in patients receiving both drugs as compared to patients receiving ampicillin alone.">
+        <entity charOffset="33-43" id="DDI-DrugBank.d419.s0.e0" text="allopurinol" type="drug"/>
+        <entity charOffset="49-58" id="DDI-DrugBank.d419.s0.e1" text="ampicillin" type="drug"/>
+        <entity charOffset="175-184" id="DDI-DrugBank.d419.s0.e2" text="ampicillin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d419.s0.e0" e2="DDI-DrugBank.d419.s0.e1" id="DDI-DrugBank.d419.s0.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d419.s0.e0" e2="DDI-DrugBank.d419.s0.e2" id="DDI-DrugBank.d419.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d419.s0.e1" e2="DDI-DrugBank.d419.s0.e2" id="DDI-DrugBank.d419.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d419.s1" text="It is not known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients.">
+        <entity charOffset="45-54" id="DDI-DrugBank.d419.s1.e0" text="ampicillin" type="drug"/>
+        <entity charOffset="73-83" id="DDI-DrugBank.d419.s1.e1" text="allopurinol" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d419.s1.e0" e2="DDI-DrugBank.d419.s1.e1" id="DDI-DrugBank.d419.s1.p0" type="effect"/>
+    <negationtags>It is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known whether this potentiation of ampicillin rashes is due to allopurinol or the hyperuricemia present in these patients. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d419.s2" text="In controlled clinical trials of AUGMENTIN XR, 22 patients received concomitant allopurinol and AUGMENTIN XR.">
+        <entity charOffset="33-44" id="DDI-DrugBank.d419.s2.e0" text="AUGMENTIN XR" type="brand"/>
+        <entity charOffset="80-90" id="DDI-DrugBank.d419.s2.e1" text="allopurinol" type="drug"/>
+        <entity charOffset="96-107" id="DDI-DrugBank.d419.s2.e2" text="AUGMENTIN XR" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d419.s2.e0" e2="DDI-DrugBank.d419.s2.e1" id="DDI-DrugBank.d419.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d419.s2.e0" e2="DDI-DrugBank.d419.s2.e2" id="DDI-DrugBank.d419.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d419.s2.e1" e2="DDI-DrugBank.d419.s2.e2" id="DDI-DrugBank.d419.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d419.s3" text="No rashes were reported in these patients."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; rashes were reported in these patients. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d419.s4" text="However, this sample size is too small to allow for any conclusions to be drawn regarding the risk of rashes with concomitant AUGMENTIN XR and allopurinol use.">
+        <entity charOffset="126-137" id="DDI-DrugBank.d419.s4.e0" text="AUGMENTIN XR" type="brand"/>
+        <entity charOffset="143-153" id="DDI-DrugBank.d419.s4.e1" text="allopurinol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d419.s4.e0" e2="DDI-DrugBank.d419.s4.e1" id="DDI-DrugBank.d419.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d419.s5" text="In common with other broad-spectrum antibiotics, AUGMENTIN XR may reduce the efficacy of oral contraceptives">
+        <entity charOffset="21-46" id="DDI-DrugBank.d419.s5.e0" text="broad-spectrum antibiotics" type="group"/>
+        <entity charOffset="49-60" id="DDI-DrugBank.d419.s5.e1" text="AUGMENTIN XR" type="brand"/>
+        <entity charOffset="94-107" id="DDI-DrugBank.d419.s5.e2" text="contraceptives" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d419.s5.e0" e2="DDI-DrugBank.d419.s5.e1" id="DDI-DrugBank.d419.s5.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d419.s5.e0" e2="DDI-DrugBank.d419.s5.e2" id="DDI-DrugBank.d419.s5.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d419.s5.e1" e2="DDI-DrugBank.d419.s5.e2" id="DDI-DrugBank.d419.s5.p2" type="effect"/>
+    </sentence>
+</document>

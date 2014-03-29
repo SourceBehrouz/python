@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d134">
+    <sentence id="DDI-DrugBank.d134.s0" text="There are no known drug interactions with LEUSTATIN Injection.">
+        <entity charOffset="42-50" id="DDI-DrugBank.d134.s0.e0" text="LEUSTATIN" type="brand"/>
+    <negationtags>There are &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; known drug interactions with LEUSTATIN Injection. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d134.s1" text="Caution should be exercised if LEUSTATIN Injection is administered before, after, or in conjunction with other drugs known to cause immunosuppression or myelosuppression.">
+        <entity charOffset="31-39" id="DDI-DrugBank.d134.s1.e0" text="LEUSTATIN" type="brand"/>
+    </sentence>
+</document>

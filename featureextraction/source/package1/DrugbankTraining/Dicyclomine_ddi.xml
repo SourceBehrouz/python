@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d543">
+    <sentence id="DDI-DrugBank.d543.s0" text="The following agents may increase certain actions or side effects of anticholinergic drugs. amantadine antiarrhythmic agents of class (e.g. quinidine), antihistamines antipsychotic agents (e.g. phenothiazines), benzodiazepines.">
+        <entity charOffset="69-89" id="DDI-DrugBank.d543.s0.e0" text="anticholinergic drugs" type="group"/>
+        <entity charOffset="92-101" id="DDI-DrugBank.d543.s0.e1" text="amantadine" type="drug"/>
+        <entity charOffset="103-123" id="DDI-DrugBank.d543.s0.e2" text="antiarrhythmic agents" type="group"/>
+        <entity charOffset="140-148" id="DDI-DrugBank.d543.s0.e3" text="quinidine" type="drug"/>
+        <entity charOffset="152-165" id="DDI-DrugBank.d543.s0.e4" text="antihistamines" type="group"/>
+        <entity charOffset="167-186" id="DDI-DrugBank.d543.s0.e5" text="antipsychotic agents" type="group"/>
+        <entity charOffset="194-207" id="DDI-DrugBank.d543.s0.e6" text="phenothiazines" type="group"/>
+        <entity charOffset="211-225" id="DDI-DrugBank.d543.s0.e7" text="benzodiazepines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e0" e2="DDI-DrugBank.d543.s0.e1" id="DDI-DrugBank.d543.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e0" e2="DDI-DrugBank.d543.s0.e2" id="DDI-DrugBank.d543.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e0" e2="DDI-DrugBank.d543.s0.e3" id="DDI-DrugBank.d543.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e0" e2="DDI-DrugBank.d543.s0.e4" id="DDI-DrugBank.d543.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e0" e2="DDI-DrugBank.d543.s0.e5" id="DDI-DrugBank.d543.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e0" e2="DDI-DrugBank.d543.s0.e6" id="DDI-DrugBank.d543.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e0" e2="DDI-DrugBank.d543.s0.e7" id="DDI-DrugBank.d543.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e1" e2="DDI-DrugBank.d543.s0.e2" id="DDI-DrugBank.d543.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e1" e2="DDI-DrugBank.d543.s0.e3" id="DDI-DrugBank.d543.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e1" e2="DDI-DrugBank.d543.s0.e4" id="DDI-DrugBank.d543.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e1" e2="DDI-DrugBank.d543.s0.e5" id="DDI-DrugBank.d543.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e1" e2="DDI-DrugBank.d543.s0.e6" id="DDI-DrugBank.d543.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e1" e2="DDI-DrugBank.d543.s0.e7" id="DDI-DrugBank.d543.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e2" e2="DDI-DrugBank.d543.s0.e3" id="DDI-DrugBank.d543.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e2" e2="DDI-DrugBank.d543.s0.e4" id="DDI-DrugBank.d543.s0.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e2" e2="DDI-DrugBank.d543.s0.e5" id="DDI-DrugBank.d543.s0.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e2" e2="DDI-DrugBank.d543.s0.e6" id="DDI-DrugBank.d543.s0.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e2" e2="DDI-DrugBank.d543.s0.e7" id="DDI-DrugBank.d543.s0.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e3" e2="DDI-DrugBank.d543.s0.e4" id="DDI-DrugBank.d543.s0.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e3" e2="DDI-DrugBank.d543.s0.e5" id="DDI-DrugBank.d543.s0.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e3" e2="DDI-DrugBank.d543.s0.e6" id="DDI-DrugBank.d543.s0.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e3" e2="DDI-DrugBank.d543.s0.e7" id="DDI-DrugBank.d543.s0.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e4" e2="DDI-DrugBank.d543.s0.e5" id="DDI-DrugBank.d543.s0.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e4" e2="DDI-DrugBank.d543.s0.e6" id="DDI-DrugBank.d543.s0.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e4" e2="DDI-DrugBank.d543.s0.e7" id="DDI-DrugBank.d543.s0.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e5" e2="DDI-DrugBank.d543.s0.e6" id="DDI-DrugBank.d543.s0.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e5" e2="DDI-DrugBank.d543.s0.e7" id="DDI-DrugBank.d543.s0.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s0.e6" e2="DDI-DrugBank.d543.s0.e7" id="DDI-DrugBank.d543.s0.p27"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s1" text="MAO inhibitors, narcotic analgesics (e.g., meperidine), nitrates and nitrites, sympathomimetic agents, tricyclic antidepressants, and other drugs having anticholinergic activity.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d543.s1.e0" text="MAO inhibitors" type="group"/>
+        <entity charOffset="16-34" id="DDI-DrugBank.d543.s1.e1" text="narcotic analgesics" type="group"/>
+        <entity charOffset="43-52" id="DDI-DrugBank.d543.s1.e2" text="meperidine" type="drug"/>
+        <entity charOffset="56-63" id="DDI-DrugBank.d543.s1.e3" text="nitrates" type="group"/>
+        <entity charOffset="69-76" id="DDI-DrugBank.d543.s1.e4" text="nitrites" type="group"/>
+        <entity charOffset="79-100" id="DDI-DrugBank.d543.s1.e5" text="sympathomimetic agents" type="group"/>
+        <entity charOffset="103-127" id="DDI-DrugBank.d543.s1.e6" text="tricyclic antidepressants" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e0" e2="DDI-DrugBank.d543.s1.e1" id="DDI-DrugBank.d543.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e0" e2="DDI-DrugBank.d543.s1.e2" id="DDI-DrugBank.d543.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e0" e2="DDI-DrugBank.d543.s1.e3" id="DDI-DrugBank.d543.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e0" e2="DDI-DrugBank.d543.s1.e4" id="DDI-DrugBank.d543.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e0" e2="DDI-DrugBank.d543.s1.e5" id="DDI-DrugBank.d543.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e0" e2="DDI-DrugBank.d543.s1.e6" id="DDI-DrugBank.d543.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e1" e2="DDI-DrugBank.d543.s1.e2" id="DDI-DrugBank.d543.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e1" e2="DDI-DrugBank.d543.s1.e3" id="DDI-DrugBank.d543.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e1" e2="DDI-DrugBank.d543.s1.e4" id="DDI-DrugBank.d543.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e1" e2="DDI-DrugBank.d543.s1.e5" id="DDI-DrugBank.d543.s1.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e1" e2="DDI-DrugBank.d543.s1.e6" id="DDI-DrugBank.d543.s1.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e2" e2="DDI-DrugBank.d543.s1.e3" id="DDI-DrugBank.d543.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e2" e2="DDI-DrugBank.d543.s1.e4" id="DDI-DrugBank.d543.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e2" e2="DDI-DrugBank.d543.s1.e5" id="DDI-DrugBank.d543.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e2" e2="DDI-DrugBank.d543.s1.e6" id="DDI-DrugBank.d543.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e3" e2="DDI-DrugBank.d543.s1.e4" id="DDI-DrugBank.d543.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e3" e2="DDI-DrugBank.d543.s1.e5" id="DDI-DrugBank.d543.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e3" e2="DDI-DrugBank.d543.s1.e6" id="DDI-DrugBank.d543.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e4" e2="DDI-DrugBank.d543.s1.e5" id="DDI-DrugBank.d543.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e4" e2="DDI-DrugBank.d543.s1.e6" id="DDI-DrugBank.d543.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s1.e5" e2="DDI-DrugBank.d543.s1.e6" id="DDI-DrugBank.d543.s1.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s2" text="Anticholinergics antagonize the effects of antiglaucoma agents.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d543.s2.e0" text="Anticholinergics" type="group"/>
+        <entity charOffset="43-61" id="DDI-DrugBank.d543.s2.e1" text="antiglaucoma agents" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d543.s2.e0" e2="DDI-DrugBank.d543.s2.e1" id="DDI-DrugBank.d543.s2.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s3" text="Anticholinergic drugs in the presence of increased intraocular pressure may be hazardous when taken concurrently with agents such as corti costeroids..">
+        <entity charOffset="0-20" id="DDI-DrugBank.d543.s3.e0" text="Anticholinergic drugs" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s4" text="Anticholinergic agents may affect gastrointestinal absorption of various drugs, such as slowly dissolving dosage forms of digoxin;">
+        <entity charOffset="0-21" id="DDI-DrugBank.d543.s4.e0" text="Anticholinergic agents" type="group"/>
+        <entity charOffset="122-128" id="DDI-DrugBank.d543.s4.e1" text="digoxin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d543.s4.e0" e2="DDI-DrugBank.d543.s4.e1" id="DDI-DrugBank.d543.s4.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s5" text="increased serum digoxin concentrations may result.">
+        <entity charOffset="16-22" id="DDI-DrugBank.d543.s5.e0" text="digoxin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s6" text="Anticholinergic drugs may antagonize the effects of the drugs that alter gastrointestinal motility, such as metoclopramide.">
+        <entity charOffset="0-20" id="DDI-DrugBank.d543.s6.e0" text="Anticholinergic drugs" type="group"/>
+        <entity charOffset="108-121" id="DDI-DrugBank.d543.s6.e1" text="metoclopramide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d543.s6.e0" e2="DDI-DrugBank.d543.s6.e1" id="DDI-DrugBank.d543.s6.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s7" text="Because antacids may interfere with the absorption of anticholinergic agents, simultaneous use of these drugs should be avoided.">
+        <entity charOffset="8-15" id="DDI-DrugBank.d543.s7.e0" text="antacids" type="group"/>
+        <entity charOffset="54-75" id="DDI-DrugBank.d543.s7.e1" text="anticholinergic agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d543.s7.e0" e2="DDI-DrugBank.d543.s7.e1" id="DDI-DrugBank.d543.s7.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d543.s8" text="The inhibiting effects of anticholinergic drugs on gastric hydrochloric acid secretion are antagonized by agents used to treat achlorhydria and those used to test gastric secretion.">
+        <entity charOffset="26-46" id="DDI-DrugBank.d543.s8.e0" text="anticholinergic drugs" type="group"/>
+    </sentence>
+</document>

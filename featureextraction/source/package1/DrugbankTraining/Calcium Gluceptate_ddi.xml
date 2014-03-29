@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d406">
+    <sentence id="DDI-DrugBank.d406.s0" text="May interact with cefamandole naftate, cephalothin sodium, magnesium sulfate, prednisolone sodium succinate, and prochlorperazine edisylate.">
+        <entity charOffset="18-36" id="DDI-DrugBank.d406.s0.e0" text="cefamandole naftate" type="drug"/>
+        <entity charOffset="39-56" id="DDI-DrugBank.d406.s0.e1" text="cephalothin sodium" type="drug"/>
+        <entity charOffset="59-75" id="DDI-DrugBank.d406.s0.e2" text="magnesium sulfate" type="drug"/>
+        <entity charOffset="78-106" id="DDI-DrugBank.d406.s0.e3" text="prednisolone sodium succinate" type="drug"/>
+        <entity charOffset="113-138" id="DDI-DrugBank.d406.s0.e4" text="prochlorperazine edisylate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e0" e2="DDI-DrugBank.d406.s0.e1" id="DDI-DrugBank.d406.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e0" e2="DDI-DrugBank.d406.s0.e2" id="DDI-DrugBank.d406.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e0" e2="DDI-DrugBank.d406.s0.e3" id="DDI-DrugBank.d406.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e0" e2="DDI-DrugBank.d406.s0.e4" id="DDI-DrugBank.d406.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e1" e2="DDI-DrugBank.d406.s0.e2" id="DDI-DrugBank.d406.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e1" e2="DDI-DrugBank.d406.s0.e3" id="DDI-DrugBank.d406.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e1" e2="DDI-DrugBank.d406.s0.e4" id="DDI-DrugBank.d406.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e2" e2="DDI-DrugBank.d406.s0.e3" id="DDI-DrugBank.d406.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e2" e2="DDI-DrugBank.d406.s0.e4" id="DDI-DrugBank.d406.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d406.s0.e3" e2="DDI-DrugBank.d406.s0.e4" id="DDI-DrugBank.d406.s0.p9"/>
+    </sentence>
+</document>

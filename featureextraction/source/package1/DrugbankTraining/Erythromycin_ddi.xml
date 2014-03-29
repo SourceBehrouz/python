@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d397">
+    <sentence id="DDI-DrugBank.d397.s0" text="Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase in serum theophylline levels and potential theophylline toxicity.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d397.s0.e0" text="Erythromycin" type="drug"/>
+        <entity charOffset="61-72" id="DDI-DrugBank.d397.s0.e1" text="theophylline" type="drug"/>
+        <entity charOffset="118-129" id="DDI-DrugBank.d397.s0.e2" text="theophylline" type="drug"/>
+        <entity charOffset="152-163" id="DDI-DrugBank.d397.s0.e3" text="theophylline" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s0.e0" e2="DDI-DrugBank.d397.s0.e1" id="DDI-DrugBank.d397.s0.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s0.e0" e2="DDI-DrugBank.d397.s0.e2" id="DDI-DrugBank.d397.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s0.e0" e2="DDI-DrugBank.d397.s0.e3" id="DDI-DrugBank.d397.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s0.e1" e2="DDI-DrugBank.d397.s0.e2" id="DDI-DrugBank.d397.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s0.e1" e2="DDI-DrugBank.d397.s0.e3" id="DDI-DrugBank.d397.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s0.e2" e2="DDI-DrugBank.d397.s0.e3" id="DDI-DrugBank.d397.s0.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s1" text="In case of theophylline toxicity and/or elevated serum theophylline levels, the dose of theophylline should be reduced while the patient is receiving concomitant erythromycin therapy.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d397.s1.e0" text="theophylline" type="drug"/>
+        <entity charOffset="55-66" id="DDI-DrugBank.d397.s1.e1" text="theophylline" type="drug"/>
+        <entity charOffset="88-99" id="DDI-DrugBank.d397.s1.e2" text="theophylline" type="drug"/>
+        <entity charOffset="162-173" id="DDI-DrugBank.d397.s1.e3" text="erythromycin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s1.e0" e2="DDI-DrugBank.d397.s1.e1" id="DDI-DrugBank.d397.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s1.e0" e2="DDI-DrugBank.d397.s1.e2" id="DDI-DrugBank.d397.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s1.e0" e2="DDI-DrugBank.d397.s1.e3" id="DDI-DrugBank.d397.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s1.e1" e2="DDI-DrugBank.d397.s1.e2" id="DDI-DrugBank.d397.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s1.e1" e2="DDI-DrugBank.d397.s1.e3" id="DDI-DrugBank.d397.s1.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s1.e2" e2="DDI-DrugBank.d397.s1.e3" id="DDI-DrugBank.d397.s1.p5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s2" text="Concomitant administration of erythromycin and digoxin has been reported to result in elevated digoxin serum levels.">
+        <entity charOffset="30-41" id="DDI-DrugBank.d397.s2.e0" text="erythromycin" type="drug"/>
+        <entity charOffset="47-53" id="DDI-DrugBank.d397.s2.e1" text="digoxin" type="drug"/>
+        <entity charOffset="95-101" id="DDI-DrugBank.d397.s2.e2" text="digoxin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s2.e0" e2="DDI-DrugBank.d397.s2.e1" id="DDI-DrugBank.d397.s2.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s2.e0" e2="DDI-DrugBank.d397.s2.e2" id="DDI-DrugBank.d397.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s2.e1" e2="DDI-DrugBank.d397.s2.e2" id="DDI-DrugBank.d397.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s3" text="There have been reports of increased anticoagulant effects when erythromycin and oral anticoagulants were used concomitantly.">
+        <entity charOffset="64-75" id="DDI-DrugBank.d397.s3.e0" text="erythromycin" type="drug"/>
+        <entity charOffset="86-99" id="DDI-DrugBank.d397.s3.e1" text="anticoagulants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s3.e0" e2="DDI-DrugBank.d397.s3.e1" id="DDI-DrugBank.d397.s3.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s4" text="Increased anticoagulation effects due to interactions of erythromycin with various oral anticoagulents may be more pronounced in the elderly.">
+        <entity charOffset="57-68" id="DDI-DrugBank.d397.s4.e0" text="erythromycin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s5" text="Concurrent use of erythromycin and ergotamine or dihydroergotamine has been associated in some patients with acute ergot toxicity characterized by severe peripheral vasospasm and dysesthesia.">
+        <entity charOffset="18-29" id="DDI-DrugBank.d397.s5.e0" text="erythromycin" type="drug"/>
+        <entity charOffset="35-44" id="DDI-DrugBank.d397.s5.e1" text="ergotamine" type="drug"/>
+        <entity charOffset="49-65" id="DDI-DrugBank.d397.s5.e2" text="dihydroergotamine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s5.e0" e2="DDI-DrugBank.d397.s5.e1" id="DDI-DrugBank.d397.s5.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s5.e0" e2="DDI-DrugBank.d397.s5.e2" id="DDI-DrugBank.d397.s5.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s5.e1" e2="DDI-DrugBank.d397.s5.e2" id="DDI-DrugBank.d397.s5.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s6" text="Erythromycin has been reported to decrease the clearance of triazolam and midazolam and thus may increase the pharmacologic effect of these benzodiazepines.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d397.s6.e0" text="Erythromycin" type="drug"/>
+        <entity charOffset="60-68" id="DDI-DrugBank.d397.s6.e1" text="triazolam" type="drug"/>
+        <entity charOffset="74-82" id="DDI-DrugBank.d397.s6.e2" text="midazolam" type="drug"/>
+        <entity charOffset="140-154" id="DDI-DrugBank.d397.s6.e3" text="benzodiazepines" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s6.e0" e2="DDI-DrugBank.d397.s6.e1" id="DDI-DrugBank.d397.s6.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s6.e0" e2="DDI-DrugBank.d397.s6.e2" id="DDI-DrugBank.d397.s6.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s6.e0" e2="DDI-DrugBank.d397.s6.e3" id="DDI-DrugBank.d397.s6.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s6.e1" e2="DDI-DrugBank.d397.s6.e2" id="DDI-DrugBank.d397.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s6.e1" e2="DDI-DrugBank.d397.s6.e3" id="DDI-DrugBank.d397.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s6.e2" e2="DDI-DrugBank.d397.s6.e3" id="DDI-DrugBank.d397.s6.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s7" text="The use of erythromycin in patients concurrently taking drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these other drugs.">
+        <entity charOffset="11-22" id="DDI-DrugBank.d397.s7.e0" text="erythromycin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s8" text="There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, tacrolimus, hexobarbital, phenytoin, alfentanil, cisapride, disopyramide, lovastatin, bromocriptine, valproate, terfenadine, and astemizole.">
+        <entity charOffset="43-54" id="DDI-DrugBank.d397.s8.e0" text="erythromycin" type="drug"/>
+        <entity charOffset="61-73" id="DDI-DrugBank.d397.s8.e1" text="carbamazepine" type="drug"/>
+        <entity charOffset="76-87" id="DDI-DrugBank.d397.s8.e2" text="cyclosporine" type="drug"/>
+        <entity charOffset="90-99" id="DDI-DrugBank.d397.s8.e3" text="tacrolimus" type="drug"/>
+        <entity charOffset="102-113" id="DDI-DrugBank.d397.s8.e4" text="hexobarbital" type="drug"/>
+        <entity charOffset="116-124" id="DDI-DrugBank.d397.s8.e5" text="phenytoin" type="drug"/>
+        <entity charOffset="127-136" id="DDI-DrugBank.d397.s8.e6" text="alfentanil" type="drug"/>
+        <entity charOffset="139-147" id="DDI-DrugBank.d397.s8.e7" text="cisapride" type="drug"/>
+        <entity charOffset="150-161" id="DDI-DrugBank.d397.s8.e8" text="disopyramide" type="drug"/>
+        <entity charOffset="164-173" id="DDI-DrugBank.d397.s8.e9" text="lovastatin" type="drug"/>
+        <entity charOffset="176-188" id="DDI-DrugBank.d397.s8.e10" text="bromocriptine" type="drug"/>
+        <entity charOffset="191-199" id="DDI-DrugBank.d397.s8.e11" text="valproate" type="drug"/>
+        <entity charOffset="202-212" id="DDI-DrugBank.d397.s8.e12" text="terfenadine" type="drug"/>
+        <entity charOffset="219-228" id="DDI-DrugBank.d397.s8.e13" text="astemizole" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e1" id="DDI-DrugBank.d397.s8.p0" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e2" id="DDI-DrugBank.d397.s8.p1" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e3" id="DDI-DrugBank.d397.s8.p2" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e4" id="DDI-DrugBank.d397.s8.p3" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e5" id="DDI-DrugBank.d397.s8.p4" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e6" id="DDI-DrugBank.d397.s8.p5" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e7" id="DDI-DrugBank.d397.s8.p6" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p7" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p8" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p9" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p10" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p11" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s8.e0" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p12" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e2" id="DDI-DrugBank.d397.s8.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e3" id="DDI-DrugBank.d397.s8.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e4" id="DDI-DrugBank.d397.s8.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e5" id="DDI-DrugBank.d397.s8.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e6" id="DDI-DrugBank.d397.s8.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e7" id="DDI-DrugBank.d397.s8.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e1" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e3" id="DDI-DrugBank.d397.s8.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e4" id="DDI-DrugBank.d397.s8.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e5" id="DDI-DrugBank.d397.s8.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e6" id="DDI-DrugBank.d397.s8.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e7" id="DDI-DrugBank.d397.s8.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e2" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e4" id="DDI-DrugBank.d397.s8.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e5" id="DDI-DrugBank.d397.s8.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e6" id="DDI-DrugBank.d397.s8.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e7" id="DDI-DrugBank.d397.s8.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e3" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e5" id="DDI-DrugBank.d397.s8.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e6" id="DDI-DrugBank.d397.s8.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e7" id="DDI-DrugBank.d397.s8.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e4" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e6" id="DDI-DrugBank.d397.s8.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e7" id="DDI-DrugBank.d397.s8.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e5" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e6" e2="DDI-DrugBank.d397.s8.e7" id="DDI-DrugBank.d397.s8.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e6" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e6" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e6" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e6" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e6" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p68"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e6" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p69"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e7" e2="DDI-DrugBank.d397.s8.e8" id="DDI-DrugBank.d397.s8.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e7" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e7" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e7" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e7" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p74"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e7" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p75"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e8" e2="DDI-DrugBank.d397.s8.e9" id="DDI-DrugBank.d397.s8.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e8" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p77"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e8" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p78"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e8" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p79"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e8" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p80"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e9" e2="DDI-DrugBank.d397.s8.e10" id="DDI-DrugBank.d397.s8.p81"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e9" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p82"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e9" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p83"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e9" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p84"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e10" e2="DDI-DrugBank.d397.s8.e11" id="DDI-DrugBank.d397.s8.p85"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e10" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p86"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e10" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p87"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e11" e2="DDI-DrugBank.d397.s8.e12" id="DDI-DrugBank.d397.s8.p88"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e11" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p89"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s8.e12" e2="DDI-DrugBank.d397.s8.e13" id="DDI-DrugBank.d397.s8.p90"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s9" text="Serum concentrations of drugs metabolized by the cytochrome P450 system should be monitored closely in patients concurrently receiving erythromycin.">
+        <entity charOffset="135-146" id="DDI-DrugBank.d397.s9.e0" text="erythromycin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s10" text="Erythromycin has been reported to significantly alter the metabolism of nonsedating antihistamines terfenadine and astemizole when taken concomitantly.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d397.s10.e0" text="Erythromycin" type="drug"/>
+        <entity charOffset="84-97" id="DDI-DrugBank.d397.s10.e1" text="antihistamines" type="group"/>
+        <entity charOffset="99-109" id="DDI-DrugBank.d397.s10.e2" text="terfenadine" type="drug"/>
+        <entity charOffset="115-124" id="DDI-DrugBank.d397.s10.e3" text="astemizole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s10.e0" e2="DDI-DrugBank.d397.s10.e1" id="DDI-DrugBank.d397.s10.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s10.e0" e2="DDI-DrugBank.d397.s10.e2" id="DDI-DrugBank.d397.s10.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s10.e0" e2="DDI-DrugBank.d397.s10.e3" id="DDI-DrugBank.d397.s10.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s10.e1" e2="DDI-DrugBank.d397.s10.e2" id="DDI-DrugBank.d397.s10.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s10.e1" e2="DDI-DrugBank.d397.s10.e3" id="DDI-DrugBank.d397.s10.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s10.e2" e2="DDI-DrugBank.d397.s10.e3" id="DDI-DrugBank.d397.s10.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s11" text="Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias have been observed."/>
+    <sentence id="DDI-DrugBank.d397.s12" text="In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin.">
+        <entity charOffset="81-91" id="DDI-DrugBank.d397.s12.e0" text="terfenadine" type="drug"/>
+        <entity charOffset="97-108" id="DDI-DrugBank.d397.s12.e1" text="erythromycin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s12.e0" e2="DDI-DrugBank.d397.s12.e1" id="DDI-DrugBank.d397.s12.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s13" text="There have been postmarketing reports of drug interactions when erythromycin is coadministered with cisapride, resulting in QT prolongation, cardiac arrythmias, ventricular tachycardia, ventricular fibrulation, and torsades de pointes, most like due to inhibition of hepatic metabolism of cisapride by erythromycin.">
+        <entity charOffset="64-75" id="DDI-DrugBank.d397.s13.e0" text="erythromycin" type="drug"/>
+        <entity charOffset="100-108" id="DDI-DrugBank.d397.s13.e1" text="cisapride" type="drug"/>
+        <entity charOffset="289-297" id="DDI-DrugBank.d397.s13.e2" text="cisapride" type="drug"/>
+        <entity charOffset="302-313" id="DDI-DrugBank.d397.s13.e3" text="erythromycin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s13.e0" e2="DDI-DrugBank.d397.s13.e1" id="DDI-DrugBank.d397.s13.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s13.e0" e2="DDI-DrugBank.d397.s13.e2" id="DDI-DrugBank.d397.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s13.e0" e2="DDI-DrugBank.d397.s13.e3" id="DDI-DrugBank.d397.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s13.e1" e2="DDI-DrugBank.d397.s13.e2" id="DDI-DrugBank.d397.s13.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d397.s13.e1" e2="DDI-DrugBank.d397.s13.e3" id="DDI-DrugBank.d397.s13.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s13.e2" e2="DDI-DrugBank.d397.s13.e3" id="DDI-DrugBank.d397.s13.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s14" text="Fatalities have been reported."/>
+    <sentence id="DDI-DrugBank.d397.s15" text="Patients receiving concomitant lovastatin and erythromycin should be carefully monitored;">
+        <entity charOffset="31-40" id="DDI-DrugBank.d397.s15.e0" text="lovastatin" type="drug"/>
+        <entity charOffset="46-57" id="DDI-DrugBank.d397.s15.e1" text="erythromycin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d397.s15.e0" e2="DDI-DrugBank.d397.s15.e1" id="DDI-DrugBank.d397.s15.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d397.s16" text="cases of rhabdomyolysis have been reported in seriously ill patients."/>
+</document>

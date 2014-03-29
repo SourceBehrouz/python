@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d569">
+    <sentence id="DDI-DrugBank.d569.s0" text="Angiomax does not exhibit binding to plasma proteins (other than thrombin) or red blood cells.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d569.s0.e0" text="Angiomax" type="brand"/>
+    <negationtags>Angiomax does &lt;scope&gt; &lt;cue&gt; not exhibit &lt;/cue&gt; binding to plasma proteins (other than thrombin) or red blood cells. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d569.s1" text="In clinical trials in patients undergoing PTCA/PCI, co-administration of Angiomax with heparin, warfarin, thrombolytics or glycoprotein IIb/IIIa inhibitors was associated with increased risks of major bleeding events compared to patients not receiving these concomitant medications.">
+        <entity charOffset="73-80" id="DDI-DrugBank.d569.s1.e0" text="Angiomax" type="brand"/>
+        <entity charOffset="87-93" id="DDI-DrugBank.d569.s1.e1" text="heparin" type="drug"/>
+        <entity charOffset="96-103" id="DDI-DrugBank.d569.s1.e2" text="warfarin" type="drug"/>
+        <entity charOffset="106-118" id="DDI-DrugBank.d569.s1.e3" text="thrombolytics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d569.s1.e0" e2="DDI-DrugBank.d569.s1.e1" id="DDI-DrugBank.d569.s1.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d569.s1.e0" e2="DDI-DrugBank.d569.s1.e2" id="DDI-DrugBank.d569.s1.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d569.s1.e0" e2="DDI-DrugBank.d569.s1.e3" id="DDI-DrugBank.d569.s1.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d569.s1.e1" e2="DDI-DrugBank.d569.s1.e2" id="DDI-DrugBank.d569.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d569.s1.e1" e2="DDI-DrugBank.d569.s1.e3" id="DDI-DrugBank.d569.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d569.s1.e2" e2="DDI-DrugBank.d569.s1.e3" id="DDI-DrugBank.d569.s1.p5"/>
+    <negationtags>In clinical trials in patients undergoing PTCA/PCI, co-administration of Angiomax with heparin, warfarin, thrombolytics or glycoprotein IIb/IIIa inhibitors was associated with increased risks of major bleeding events compared to patients &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; receiving these concomitant medications. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d569.s2" text="There is no experience with co-administration of Angiomax and plasma expanders such as dextran.">
+        <entity charOffset="49-56" id="DDI-DrugBank.d569.s2.e0" text="Angiomax" type="brand"/>
+        <entity charOffset="87-93" id="DDI-DrugBank.d569.s2.e1" text="dextran" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d569.s2.e0" e2="DDI-DrugBank.d569.s2.e1" id="DDI-DrugBank.d569.s2.p0"/>
+    <negationtags>There is &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; experience with co-administration of Angiomax and plasma expanders such as dextran. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d569.s3" text="Angiomax should be used with caution in patients with disease states associated with an increased risk of bleeding.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d569.s3.e0" text="Angiomax" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d569.s4" text="Immunogenicity/Re-exposure: In in vitro studies, Angiomax exhibited no platelet aggregation response against sera from patients with a history of HIT/HITTS.">
+        <entity charOffset="49-56" id="DDI-DrugBank.d569.s4.e0" text="Angiomax" type="brand"/>
+    <negationtags>Immunogenicity/Re-exposure: In in vitro studies, Angiomax exhibited &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; platelet aggregation response against sera from patients with a history of HIT/HITTS. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d569.s5" text="Among 494 subjects who received Angiomax in clinical trials and were tested for antibodies, 2 subjects had treatment-emergent positive bivalirudin antibody tests.">
+        <entity charOffset="32-39" id="DDI-DrugBank.d569.s5.e0" text="Angiomax" type="brand"/>
+        <entity charOffset="135-145" id="DDI-DrugBank.d569.s5.e1" text="bivalirudin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d569.s5.e0" e2="DDI-DrugBank.d569.s5.e1" id="DDI-DrugBank.d569.s5.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d569.s6" text="Neither subject demonstrated clinical evidence of allergic or anaphylactic reactions and repeat testing was not performed."><negationtags>Neither subject demonstrated clinical evidence of allergic or anaphylactic reactions and repeat testing was &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; performed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d569.s7" text="Nine additional patients who had initial positive tests were negative on repeat testing."/>
+</document>

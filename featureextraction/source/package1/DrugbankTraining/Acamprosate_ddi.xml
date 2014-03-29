@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d0">
+    <sentence id="DDI-DrugBank.d0.s0" text="The concomitant intake of alcohol and Acamprosate does not affect the pharmacokinetics of either alcohol or acamprosate.">
+        <entity charOffset="26-32" id="DDI-DrugBank.d0.s0.e0" text="alcohol" type="drug"/>
+        <entity charOffset="38-48" id="DDI-DrugBank.d0.s0.e1" text="Acamprosate" type="drug"/>
+        <entity charOffset="97-103" id="DDI-DrugBank.d0.s0.e2" text="alcohol" type="drug"/>
+        <entity charOffset="108-118" id="DDI-DrugBank.d0.s0.e3" text="acamprosate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s0.e0" e2="DDI-DrugBank.d0.s0.e1" id="DDI-DrugBank.d0.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s0.e0" e2="DDI-DrugBank.d0.s0.e2" id="DDI-DrugBank.d0.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s0.e0" e2="DDI-DrugBank.d0.s0.e3" id="DDI-DrugBank.d0.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s0.e1" e2="DDI-DrugBank.d0.s0.e2" id="DDI-DrugBank.d0.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s0.e1" e2="DDI-DrugBank.d0.s0.e3" id="DDI-DrugBank.d0.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s0.e2" e2="DDI-DrugBank.d0.s0.e3" id="DDI-DrugBank.d0.s0.p5"/>
+    <negationtags>The concomitant intake of alcohol and Acamprosate does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the pharmacokinetics of either alcohol or acamprosate. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d0.s1" text="Pharmacokinetic studies indicate that administration of disulfiram or diazepam does not affect the pharmacokinetics of acamprosate.">
+        <entity charOffset="56-65" id="DDI-DrugBank.d0.s1.e0" text="disulfiram" type="drug"/>
+        <entity charOffset="70-77" id="DDI-DrugBank.d0.s1.e1" text="diazepam" type="drug"/>
+        <entity charOffset="119-129" id="DDI-DrugBank.d0.s1.e2" text="acamprosate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s1.e0" e2="DDI-DrugBank.d0.s1.e1" id="DDI-DrugBank.d0.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s1.e0" e2="DDI-DrugBank.d0.s1.e2" id="DDI-DrugBank.d0.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s1.e1" e2="DDI-DrugBank.d0.s1.e2" id="DDI-DrugBank.d0.s1.p2"/>
+    <negationtags>Pharmacokinetic studies indicate that administration of disulfiram or diazepam does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect the pharmacokinetics of acamprosate. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d0.s2" text="Co-administration of naltrexone with Acamprosate produced a 25% increase in AUC and a 33% increase in the Cmax of acamprosate.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d0.s2.e0" text="naltrexone" type="drug"/>
+        <entity charOffset="37-47" id="DDI-DrugBank.d0.s2.e1" text="Acamprosate" type="drug"/>
+        <entity charOffset="114-124" id="DDI-DrugBank.d0.s2.e2" text="acamprosate" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d0.s2.e0" e2="DDI-DrugBank.d0.s2.e1" id="DDI-DrugBank.d0.s2.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s2.e0" e2="DDI-DrugBank.d0.s2.e2" id="DDI-DrugBank.d0.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s2.e1" e2="DDI-DrugBank.d0.s2.e2" id="DDI-DrugBank.d0.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d0.s3" text="No adjustment of dosage is recommended in such patients."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; adjustment of dosage is recommended in such patients. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d0.s4" text="The pharmacokinetics of naltrexone and its major metabolite 6-beta-naltrexol were unaffected following co-administration with Acamprosate.">
+        <entity charOffset="24-33" id="DDI-DrugBank.d0.s4.e0" text="naltrexone" type="drug"/>
+        <entity charOffset="60-75" id="DDI-DrugBank.d0.s4.e1" text="6-beta-naltrexol" type="drug_n"/>
+        <entity charOffset="126-136" id="DDI-DrugBank.d0.s4.e2" text="Acamprosate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s4.e0" e2="DDI-DrugBank.d0.s4.e1" id="DDI-DrugBank.d0.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s4.e0" e2="DDI-DrugBank.d0.s4.e2" id="DDI-DrugBank.d0.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s4.e1" e2="DDI-DrugBank.d0.s4.e2" id="DDI-DrugBank.d0.s4.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d0.s5" text="Other concomitant therapies: In clinical trials, the safety profile in subjects treated with Acamprosate concomitantly with anxiolytics, hypnotics and sedatives (including benzodiazepines), or non-opioid analgesics was similar to that of subjects taking placebo with these concomitant medications.">
+        <entity charOffset="93-103" id="DDI-DrugBank.d0.s5.e0" text="Acamprosate" type="drug"/>
+        <entity charOffset="124-134" id="DDI-DrugBank.d0.s5.e1" text="anxiolytics" type="group"/>
+        <entity charOffset="137-145" id="DDI-DrugBank.d0.s5.e2" text="hypnotics" type="group"/>
+        <entity charOffset="151-159" id="DDI-DrugBank.d0.s5.e3" text="sedatives" type="group"/>
+        <entity charOffset="172-186" id="DDI-DrugBank.d0.s5.e4" text="benzodiazepines" type="group"/>
+        <entity charOffset="193-213" id="DDI-DrugBank.d0.s5.e5" text="non-opioid analgesics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e0" e2="DDI-DrugBank.d0.s5.e1" id="DDI-DrugBank.d0.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e0" e2="DDI-DrugBank.d0.s5.e2" id="DDI-DrugBank.d0.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e0" e2="DDI-DrugBank.d0.s5.e3" id="DDI-DrugBank.d0.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e0" e2="DDI-DrugBank.d0.s5.e4" id="DDI-DrugBank.d0.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e0" e2="DDI-DrugBank.d0.s5.e5" id="DDI-DrugBank.d0.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e1" e2="DDI-DrugBank.d0.s5.e2" id="DDI-DrugBank.d0.s5.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e1" e2="DDI-DrugBank.d0.s5.e3" id="DDI-DrugBank.d0.s5.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e1" e2="DDI-DrugBank.d0.s5.e4" id="DDI-DrugBank.d0.s5.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e1" e2="DDI-DrugBank.d0.s5.e5" id="DDI-DrugBank.d0.s5.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e2" e2="DDI-DrugBank.d0.s5.e3" id="DDI-DrugBank.d0.s5.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e2" e2="DDI-DrugBank.d0.s5.e4" id="DDI-DrugBank.d0.s5.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e2" e2="DDI-DrugBank.d0.s5.e5" id="DDI-DrugBank.d0.s5.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e3" e2="DDI-DrugBank.d0.s5.e4" id="DDI-DrugBank.d0.s5.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e3" e2="DDI-DrugBank.d0.s5.e5" id="DDI-DrugBank.d0.s5.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d0.s5.e4" e2="DDI-DrugBank.d0.s5.e5" id="DDI-DrugBank.d0.s5.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d0.s6" text="Patients taking Acamprosate concomitantly with antidepressants more commonly reported both weight gain and weight loss, compared with patients taking either medication alone.">
+        <entity charOffset="16-26" id="DDI-DrugBank.d0.s6.e0" text="Acamprosate" type="drug"/>
+        <entity charOffset="47-61" id="DDI-DrugBank.d0.s6.e1" text="antidepressants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d0.s6.e0" e2="DDI-DrugBank.d0.s6.e1" id="DDI-DrugBank.d0.s6.p0" type="effect"/>
+    </sentence>
+</document>

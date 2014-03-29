@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d149">
+    <sentence id="DDI-DrugBank.d149.s0" text="Possible drug interactions of HUMORSOL with succinylcholine or with other anticholinesterase agents.">
+        <entity charOffset="30-37" id="DDI-DrugBank.d149.s0.e0" text="HUMORSOL" type="brand"/>
+        <entity charOffset="44-58" id="DDI-DrugBank.d149.s0.e1" text="succinylcholine" type="drug"/>
+        <entity charOffset="74-98" id="DDI-DrugBank.d149.s0.e2" text="anticholinesterase agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d149.s0.e0" e2="DDI-DrugBank.d149.s0.e1" id="DDI-DrugBank.d149.s0.p0" type="int"/>
+        <pair ddi="true" e1="DDI-DrugBank.d149.s0.e0" e2="DDI-DrugBank.d149.s0.e2" id="DDI-DrugBank.d149.s0.p1" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d149.s0.e1" e2="DDI-DrugBank.d149.s0.e2" id="DDI-DrugBank.d149.s0.p2"/>
+    </sentence>
+</document>

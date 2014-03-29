@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d380">
+    <sentence id="DDI-DrugBank.d380.s0" text="Buprenorphine is metabolized to norbuprenorphine by cytochrome CYP 3A4.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d380.s0.e0" text="Buprenorphine" type="drug"/>
+        <entity charOffset="32-47" id="DDI-DrugBank.d380.s0.e1" text="norbuprenorphine" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s0.e0" e2="DDI-DrugBank.d380.s0.e1" id="DDI-DrugBank.d380.s0.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s1" text="Because CYP 3A4 inhibitors may increase plasma concentrations of buprenorphine, patients already on CYP 3A4 inhibitors such as azole antifungals (e.g.">
+        <entity charOffset="65-77" id="DDI-DrugBank.d380.s1.e0" text="buprenorphine" type="drug"/>
+        <entity charOffset="127-143" id="DDI-DrugBank.d380.s1.e1" text="azole antifungals" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s1.e0" e2="DDI-DrugBank.d380.s1.e1" id="DDI-DrugBank.d380.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s2" text="ketoconazole), macrolide antibiotics (e.g. erythromycin), and HIV protease inhibitors (e.g. ritonavir, indinavir and saquinavir) should have their dose of SUBUTEX or SUBOXONE adjusted.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d380.s2.e0" text="ketoconazole" type="drug"/>
+        <entity charOffset="15-35" id="DDI-DrugBank.d380.s2.e1" text="macrolide antibiotics" type="group"/>
+        <entity charOffset="43-54" id="DDI-DrugBank.d380.s2.e2" text="erythromycin" type="drug"/>
+        <entity charOffset="62-84" id="DDI-DrugBank.d380.s2.e3" text="HIV protease inhibitors" type="group"/>
+        <entity charOffset="92-100" id="DDI-DrugBank.d380.s2.e4" text="ritonavir" type="drug"/>
+        <entity charOffset="103-111" id="DDI-DrugBank.d380.s2.e5" text="indinavir" type="drug"/>
+        <entity charOffset="117-126" id="DDI-DrugBank.d380.s2.e6" text="saquinavir" type="drug"/>
+        <entity charOffset="155-161" id="DDI-DrugBank.d380.s2.e7" text="SUBUTEX" type="brand"/>
+        <entity charOffset="166-173" id="DDI-DrugBank.d380.s2.e8" text="SUBOXONE" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e1" id="DDI-DrugBank.d380.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e2" id="DDI-DrugBank.d380.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e3" id="DDI-DrugBank.d380.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e4" id="DDI-DrugBank.d380.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e5" id="DDI-DrugBank.d380.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e6" id="DDI-DrugBank.d380.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e7" id="DDI-DrugBank.d380.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e0" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e1" e2="DDI-DrugBank.d380.s2.e2" id="DDI-DrugBank.d380.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e1" e2="DDI-DrugBank.d380.s2.e3" id="DDI-DrugBank.d380.s2.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e1" e2="DDI-DrugBank.d380.s2.e4" id="DDI-DrugBank.d380.s2.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e1" e2="DDI-DrugBank.d380.s2.e5" id="DDI-DrugBank.d380.s2.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e1" e2="DDI-DrugBank.d380.s2.e6" id="DDI-DrugBank.d380.s2.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e1" e2="DDI-DrugBank.d380.s2.e7" id="DDI-DrugBank.d380.s2.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e1" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e2" e2="DDI-DrugBank.d380.s2.e3" id="DDI-DrugBank.d380.s2.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e2" e2="DDI-DrugBank.d380.s2.e4" id="DDI-DrugBank.d380.s2.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e2" e2="DDI-DrugBank.d380.s2.e5" id="DDI-DrugBank.d380.s2.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e2" e2="DDI-DrugBank.d380.s2.e6" id="DDI-DrugBank.d380.s2.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e2" e2="DDI-DrugBank.d380.s2.e7" id="DDI-DrugBank.d380.s2.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e2" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e3" e2="DDI-DrugBank.d380.s2.e4" id="DDI-DrugBank.d380.s2.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e3" e2="DDI-DrugBank.d380.s2.e5" id="DDI-DrugBank.d380.s2.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e3" e2="DDI-DrugBank.d380.s2.e6" id="DDI-DrugBank.d380.s2.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e3" e2="DDI-DrugBank.d380.s2.e7" id="DDI-DrugBank.d380.s2.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e3" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e4" e2="DDI-DrugBank.d380.s2.e5" id="DDI-DrugBank.d380.s2.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e4" e2="DDI-DrugBank.d380.s2.e6" id="DDI-DrugBank.d380.s2.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e4" e2="DDI-DrugBank.d380.s2.e7" id="DDI-DrugBank.d380.s2.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e4" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e5" e2="DDI-DrugBank.d380.s2.e6" id="DDI-DrugBank.d380.s2.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e5" e2="DDI-DrugBank.d380.s2.e7" id="DDI-DrugBank.d380.s2.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e5" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e6" e2="DDI-DrugBank.d380.s2.e7" id="DDI-DrugBank.d380.s2.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e6" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s2.e7" e2="DDI-DrugBank.d380.s2.e8" id="DDI-DrugBank.d380.s2.p35"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s3" text="Based on anecdotal reports, there may be an interaction between buprenorphine and benzodiazepines.">
+        <entity charOffset="64-76" id="DDI-DrugBank.d380.s3.e0" text="buprenorphine" type="drug"/>
+        <entity charOffset="82-96" id="DDI-DrugBank.d380.s3.e1" text="benzodiazepines" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d380.s3.e0" e2="DDI-DrugBank.d380.s3.e1" id="DDI-DrugBank.d380.s3.p0" type="int"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s4" text="There have been a number of reports in the post-marketing experience of coma and death associated with the concomitant intravenous misuse of buprenorphine and benzodiazepines by addicts.">
+        <entity charOffset="141-153" id="DDI-DrugBank.d380.s4.e0" text="buprenorphine" type="drug"/>
+        <entity charOffset="159-173" id="DDI-DrugBank.d380.s4.e1" text="benzodiazepines" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d380.s4.e0" e2="DDI-DrugBank.d380.s4.e1" id="DDI-DrugBank.d380.s4.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s5" text="In many of these cases, buprenorphine was misused by self-injection of crushed SUBUTEX tablets.">
+        <entity charOffset="24-36" id="DDI-DrugBank.d380.s5.e0" text="buprenorphine" type="drug"/>
+        <entity charOffset="79-85" id="DDI-DrugBank.d380.s5.e1" text="SUBUTEX" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s5.e0" e2="DDI-DrugBank.d380.s5.e1" id="DDI-DrugBank.d380.s5.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s6" text="SUBUTEX and SUBOXONE should be prescribed with caution to patients on benzodiazepines or other drugs that act on the central nervous system, regardless of whether these drugs are taken on the advice of a physician or are taken as drugs of abuse.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d380.s6.e0" text="SUBUTEX" type="brand"/>
+        <entity charOffset="12-19" id="DDI-DrugBank.d380.s6.e1" text="SUBOXONE" type="brand"/>
+        <entity charOffset="70-84" id="DDI-DrugBank.d380.s6.e2" text="benzodiazepines" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s6.e0" e2="DDI-DrugBank.d380.s6.e1" id="DDI-DrugBank.d380.s6.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d380.s6.e0" e2="DDI-DrugBank.d380.s6.e2" id="DDI-DrugBank.d380.s6.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d380.s6.e1" e2="DDI-DrugBank.d380.s6.e2" id="DDI-DrugBank.d380.s6.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d380.s7" text="Patients should be warned of the potential danger of the intravenous self-administration of benzodiazepines while under treatment with SUBOXONE or SUBUTEX.">
+        <entity charOffset="92-106" id="DDI-DrugBank.d380.s7.e0" text="benzodiazepines" type="group"/>
+        <entity charOffset="135-142" id="DDI-DrugBank.d380.s7.e1" text="SUBOXONE" type="brand"/>
+        <entity charOffset="147-153" id="DDI-DrugBank.d380.s7.e2" text="SUBUTEX" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d380.s7.e0" e2="DDI-DrugBank.d380.s7.e1" id="DDI-DrugBank.d380.s7.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d380.s7.e0" e2="DDI-DrugBank.d380.s7.e2" id="DDI-DrugBank.d380.s7.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d380.s7.e1" e2="DDI-DrugBank.d380.s7.e2" id="DDI-DrugBank.d380.s7.p2"/>
+    </sentence>
+</document>

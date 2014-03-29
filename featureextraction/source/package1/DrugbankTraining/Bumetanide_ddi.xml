@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d331">
+    <sentence id="DDI-DrugBank.d331.s0" text="- Drugs with ototoxic potential: Especially in the presence of impaired renal function, the use of parenterally administered bumetanide in patients to whom aminoglycoside antibiotics are also being given should be avoided, except in life-threatening conditions.">
+        <entity charOffset="125-134" id="DDI-DrugBank.d331.s0.e0" text="bumetanide" type="drug"/>
+        <entity charOffset="156-181" id="DDI-DrugBank.d331.s0.e1" text="aminoglycoside antibiotics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s0.e0" e2="DDI-DrugBank.d331.s0.e1" id="DDI-DrugBank.d331.s0.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d331.s1" text="- Drugs with nephrotoxic potential: There has been no experience on the concurrent use of bumetanide with drugs known to have a nephrotoxic potential.">
+        <entity charOffset="90-99" id="DDI-DrugBank.d331.s1.e0" text="bumetanide" type="drug"/>
+    <negationtags>- Drugs with nephrotoxic potential: There has been &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; experience on the concurrent use of bumetanide with drugs known to have a nephrotoxic potential. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d331.s2" text="Therefore, the simultaneous administration of these drugs should be avoided."/>
+    <sentence id="DDI-DrugBank.d331.s3" text="- Lithium: Lithium should generally not be given with diuretics (such as bumetanide) because they reduce its renal clearance and add a high risk of lithium toxicity.">
+        <entity charOffset="2-8" id="DDI-DrugBank.d331.s3.e0" text="Lithium" type="drug"/>
+        <entity charOffset="11-17" id="DDI-DrugBank.d331.s3.e1" text="Lithium" type="drug"/>
+        <entity charOffset="54-62" id="DDI-DrugBank.d331.s3.e2" text="diuretics" type="group"/>
+        <entity charOffset="73-82" id="DDI-DrugBank.d331.s3.e3" text="bumetanide" type="drug"/>
+        <entity charOffset="148-154" id="DDI-DrugBank.d331.s3.e4" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e0" e2="DDI-DrugBank.d331.s3.e1" id="DDI-DrugBank.d331.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e0" e2="DDI-DrugBank.d331.s3.e2" id="DDI-DrugBank.d331.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e0" e2="DDI-DrugBank.d331.s3.e3" id="DDI-DrugBank.d331.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e0" e2="DDI-DrugBank.d331.s3.e4" id="DDI-DrugBank.d331.s3.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s3.e1" e2="DDI-DrugBank.d331.s3.e2" id="DDI-DrugBank.d331.s3.p4" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s3.e1" e2="DDI-DrugBank.d331.s3.e3" id="DDI-DrugBank.d331.s3.p5" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e1" e2="DDI-DrugBank.d331.s3.e4" id="DDI-DrugBank.d331.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e2" e2="DDI-DrugBank.d331.s3.e3" id="DDI-DrugBank.d331.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e2" e2="DDI-DrugBank.d331.s3.e4" id="DDI-DrugBank.d331.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s3.e3" e2="DDI-DrugBank.d331.s3.e4" id="DDI-DrugBank.d331.s3.p9"/>
+    <negationtags>- Lithium: Lithium should generally &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be given with diuretics (such as bumetanide) because they reduce its renal clearance and add a high risk of lithium toxicity. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d331.s4" text="- Probenecid: Pretreatment with probenecid reduces both the natriuresis and hyperreninemia produced by bumetanide.">
+        <entity charOffset="2-11" id="DDI-DrugBank.d331.s4.e0" text="Probenecid" type="drug"/>
+        <entity charOffset="32-41" id="DDI-DrugBank.d331.s4.e1" text="probenecid" type="drug"/>
+        <entity charOffset="103-112" id="DDI-DrugBank.d331.s4.e2" text="bumetanide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s4.e0" e2="DDI-DrugBank.d331.s4.e1" id="DDI-DrugBank.d331.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s4.e0" e2="DDI-DrugBank.d331.s4.e2" id="DDI-DrugBank.d331.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s4.e1" e2="DDI-DrugBank.d331.s4.e2" id="DDI-DrugBank.d331.s4.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d331.s5" text="This antagonistic effect of probenecid on bumetanide natriuresis is not due to a direct action on sodium excretion but is probably secondary to its inhibitory effect on renal tubular secretion of bumetanide.">
+        <entity charOffset="28-37" id="DDI-DrugBank.d331.s5.e0" text="probenecid" type="drug"/>
+        <entity charOffset="42-51" id="DDI-DrugBank.d331.s5.e1" text="bumetanide" type="drug"/>
+        <entity charOffset="196-205" id="DDI-DrugBank.d331.s5.e2" text="bumetanide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s5.e0" e2="DDI-DrugBank.d331.s5.e1" id="DDI-DrugBank.d331.s5.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s5.e0" e2="DDI-DrugBank.d331.s5.e2" id="DDI-DrugBank.d331.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s5.e1" e2="DDI-DrugBank.d331.s5.e2" id="DDI-DrugBank.d331.s5.p2"/>
+    <negationtags>This antagonistic effect of probenecid on bumetanide natriuresis is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; due to a direct action on sodium excretion &lt;/scope&gt; but is probably secondary to its inhibitory effect on renal tubular secretion of bumetanide.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d331.s6" text="Thus, probenecid should not be administered concurrently with bumetanide.">
+        <entity charOffset="6-15" id="DDI-DrugBank.d331.s6.e0" text="probenecid" type="drug"/>
+        <entity charOffset="62-71" id="DDI-DrugBank.d331.s6.e1" text="bumetanide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s6.e0" e2="DDI-DrugBank.d331.s6.e1" id="DDI-DrugBank.d331.s6.p0" type="advise"/>
+    <negationtags>Thus, probenecid should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be administered concurrently with bumetanide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d331.s7" text="- Indomethacin: Indomethacin blunts the increases in urine volume and sodium excretion seen during bumetanide treatment and inhibits the bumetanide-induced increase in plasma renin activity.">
+        <entity charOffset="2-13" id="DDI-DrugBank.d331.s7.e0" text="Indomethacin" type="drug"/>
+        <entity charOffset="16-27" id="DDI-DrugBank.d331.s7.e1" text="Indomethacin" type="drug"/>
+        <entity charOffset="99-108" id="DDI-DrugBank.d331.s7.e2" text="bumetanide" type="drug"/>
+        <entity charOffset="137-146" id="DDI-DrugBank.d331.s7.e3" text="bumetanide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s7.e0" e2="DDI-DrugBank.d331.s7.e1" id="DDI-DrugBank.d331.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s7.e0" e2="DDI-DrugBank.d331.s7.e2" id="DDI-DrugBank.d331.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s7.e0" e2="DDI-DrugBank.d331.s7.e3" id="DDI-DrugBank.d331.s7.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s7.e1" e2="DDI-DrugBank.d331.s7.e2" id="DDI-DrugBank.d331.s7.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s7.e1" e2="DDI-DrugBank.d331.s7.e3" id="DDI-DrugBank.d331.s7.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s7.e2" e2="DDI-DrugBank.d331.s7.e3" id="DDI-DrugBank.d331.s7.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d331.s8" text="Concurrent therapy with bumetanide is thus not recommended.">
+        <entity charOffset="24-33" id="DDI-DrugBank.d331.s8.e0" text="bumetanide" type="drug"/>
+    <negationtags>Concurrent therapy with bumetanide is thus &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d331.s9" text="- Antihypertensives: Bumetanide may potentiate the effect of various antihypertensive drugs, necessitating a reduction in the dosage of these drugs.">
+        <entity charOffset="2-18" id="DDI-DrugBank.d331.s9.e0" text="Antihypertensives" type="group"/>
+        <entity charOffset="21-30" id="DDI-DrugBank.d331.s9.e1" text="Bumetanide" type="drug"/>
+        <entity charOffset="69-90" id="DDI-DrugBank.d331.s9.e2" text="antihypertensive drugs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s9.e0" e2="DDI-DrugBank.d331.s9.e1" id="DDI-DrugBank.d331.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s9.e0" e2="DDI-DrugBank.d331.s9.e2" id="DDI-DrugBank.d331.s9.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d331.s9.e1" e2="DDI-DrugBank.d331.s9.e2" id="DDI-DrugBank.d331.s9.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d331.s10" text="- Digoxin: Interaction studies in humans have shown no effect on digoxin blood levels.">
+        <entity charOffset="2-8" id="DDI-DrugBank.d331.s10.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="65-71" id="DDI-DrugBank.d331.s10.e1" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s10.e0" e2="DDI-DrugBank.d331.s10.e1" id="DDI-DrugBank.d331.s10.p0"/>
+    <negationtags>- Digoxin: Interaction studies in humans have shown &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on digoxin blood levels. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d331.s11" text="- Anticoagulants: Interaction studies in humans have shown bumetanide to have no effect on warfarin metabolism or on plasma prothrombin activity.">
+        <entity charOffset="2-15" id="DDI-DrugBank.d331.s11.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="59-68" id="DDI-DrugBank.d331.s11.e1" text="bumetanide" type="drug"/>
+        <entity charOffset="91-98" id="DDI-DrugBank.d331.s11.e2" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s11.e0" e2="DDI-DrugBank.d331.s11.e1" id="DDI-DrugBank.d331.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s11.e0" e2="DDI-DrugBank.d331.s11.e2" id="DDI-DrugBank.d331.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d331.s11.e1" e2="DDI-DrugBank.d331.s11.e2" id="DDI-DrugBank.d331.s11.p2"/>
+    <negationtags>- Anticoagulants: Interaction studies in humans have shown bumetanide to have &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; effect on warfarin metabolism or on plasma prothrombin activity. &lt;/scope&gt;</negationtags></sentence>
+</document>

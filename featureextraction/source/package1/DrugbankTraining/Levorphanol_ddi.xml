@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d257">
+    <sentence id="DDI-DrugBank.d257.s0" text="Interactions with Other CNS Agents: Concurrent use of Levo-Dromoran with all central nervous system depressants (eg, alcohol, sedatives, hypnotics, other opioids, general anesthetics, barbiturates, tricyclic antidepressants, phenothiazines, tranquilizers, skeletal muscle relaxants and antihistamines) may result in additive central nervous system depressant effects.">
+        <entity charOffset="54-66" id="DDI-DrugBank.d257.s0.e0" text="Levo-Dromoran" type="brand"/>
+        <entity charOffset="77-110" id="DDI-DrugBank.d257.s0.e1" text="central nervous system depressants" type="group"/>
+        <entity charOffset="117-123" id="DDI-DrugBank.d257.s0.e2" text="alcohol" type="drug"/>
+        <entity charOffset="126-134" id="DDI-DrugBank.d257.s0.e3" text="sedatives" type="group"/>
+        <entity charOffset="137-145" id="DDI-DrugBank.d257.s0.e4" text="hypnotics" type="group"/>
+        <entity charOffset="154-160" id="DDI-DrugBank.d257.s0.e5" text="opioids" type="group"/>
+        <entity charOffset="171-181" id="DDI-DrugBank.d257.s0.e6" text="anesthetics" type="group"/>
+        <entity charOffset="184-195" id="DDI-DrugBank.d257.s0.e7" text="barbiturates" type="group"/>
+        <entity charOffset="198-222" id="DDI-DrugBank.d257.s0.e8" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="225-238" id="DDI-DrugBank.d257.s0.e9" text="phenothiazines" type="group"/>
+        <entity charOffset="241-253" id="DDI-DrugBank.d257.s0.e10" text="tranquilizers" type="group"/>
+        <entity charOffset="256-280" id="DDI-DrugBank.d257.s0.e11" text="skeletal muscle relaxants" type="group"/>
+        <entity charOffset="286-299" id="DDI-DrugBank.d257.s0.e12" text="antihistamines" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e1" id="DDI-DrugBank.d257.s0.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e2" id="DDI-DrugBank.d257.s0.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e3" id="DDI-DrugBank.d257.s0.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e4" id="DDI-DrugBank.d257.s0.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e5" id="DDI-DrugBank.d257.s0.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e6" id="DDI-DrugBank.d257.s0.p5" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e7" id="DDI-DrugBank.d257.s0.p6" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p7" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p8" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p9" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p10" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s0.e0" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p11" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e2" id="DDI-DrugBank.d257.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e3" id="DDI-DrugBank.d257.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e4" id="DDI-DrugBank.d257.s0.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e5" id="DDI-DrugBank.d257.s0.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e6" id="DDI-DrugBank.d257.s0.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e7" id="DDI-DrugBank.d257.s0.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e1" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e3" id="DDI-DrugBank.d257.s0.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e4" id="DDI-DrugBank.d257.s0.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e5" id="DDI-DrugBank.d257.s0.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e6" id="DDI-DrugBank.d257.s0.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e7" id="DDI-DrugBank.d257.s0.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e2" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e4" id="DDI-DrugBank.d257.s0.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e5" id="DDI-DrugBank.d257.s0.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e6" id="DDI-DrugBank.d257.s0.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e7" id="DDI-DrugBank.d257.s0.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e3" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e5" id="DDI-DrugBank.d257.s0.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e6" id="DDI-DrugBank.d257.s0.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e7" id="DDI-DrugBank.d257.s0.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e4" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e5" e2="DDI-DrugBank.d257.s0.e6" id="DDI-DrugBank.d257.s0.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e5" e2="DDI-DrugBank.d257.s0.e7" id="DDI-DrugBank.d257.s0.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e5" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e5" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e5" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e5" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e5" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e6" e2="DDI-DrugBank.d257.s0.e7" id="DDI-DrugBank.d257.s0.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e6" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e6" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e6" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e6" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e6" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e7" e2="DDI-DrugBank.d257.s0.e8" id="DDI-DrugBank.d257.s0.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e7" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e7" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e7" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e7" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e8" e2="DDI-DrugBank.d257.s0.e9" id="DDI-DrugBank.d257.s0.p68"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e8" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p69"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e8" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e8" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e9" e2="DDI-DrugBank.d257.s0.e10" id="DDI-DrugBank.d257.s0.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e9" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e9" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p74"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e10" e2="DDI-DrugBank.d257.s0.e11" id="DDI-DrugBank.d257.s0.p75"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e10" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s0.e11" e2="DDI-DrugBank.d257.s0.e12" id="DDI-DrugBank.d257.s0.p77"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d257.s1" text="Respiratory depression, hypotension, and profound sedation or coma may occur."/>
+    <sentence id="DDI-DrugBank.d257.s2" text="When such combined therapy is contemplated, the dose of one or both agents should be reduced."/>
+    <sentence id="DDI-DrugBank.d257.s3" text="Although no interaction between MAO inhibitors and Levo-Dromoran has been observed, it is not recommended for use with MAO inhibitors.">
+        <entity charOffset="32-45" id="DDI-DrugBank.d257.s3.e0" text="MAO inhibitors" type="group"/>
+        <entity charOffset="51-63" id="DDI-DrugBank.d257.s3.e1" text="Levo-Dromoran" type="brand"/>
+        <entity charOffset="119-132" id="DDI-DrugBank.d257.s3.e2" text="MAO inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s3.e0" e2="DDI-DrugBank.d257.s3.e1" id="DDI-DrugBank.d257.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s3.e0" e2="DDI-DrugBank.d257.s3.e2" id="DDI-DrugBank.d257.s3.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s3.e1" e2="DDI-DrugBank.d257.s3.e2" id="DDI-DrugBank.d257.s3.p2" type="advise"/>
+    <negationtags>Although &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; interaction between MAO inhibitors and Levo-Dromoran has been observed, it is not recommended for use with MAO inhibitors. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d257.s4" text="Most cases of serious or fatal adverse events involving Levo-Dromoran reported to the manufacturer or the FDA have involved either the administration of large initial doses or too frequent doses of the drug to nonopioid tolerant patients, or the simultaneous administration of levorphanol with other drugs affecting respiration.">
+        <entity charOffset="56-68" id="DDI-DrugBank.d257.s4.e0" text="Levo-Dromoran" type="brand"/>
+        <entity charOffset="277-287" id="DDI-DrugBank.d257.s4.e1" text="levorphanol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s4.e0" e2="DDI-DrugBank.d257.s4.e1" id="DDI-DrugBank.d257.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d257.s5" text="The initial dose of levorphanol should be reduced by approximately 50% or more when it is given to patients along with another drug affecting respiration.">
+        <entity charOffset="20-30" id="DDI-DrugBank.d257.s5.e0" text="levorphanol" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d257.s6" text="Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should NOT be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran.">
+        <entity charOffset="18-59" id="DDI-DrugBank.d257.s6.e0" text="Mixed Agonist/Antagonist Opioid Analgesics" type="group"/>
+        <entity charOffset="62-90" id="DDI-DrugBank.d257.s6.e1" text="Agonist/antagonist analgesics" type="group"/>
+        <entity charOffset="97-107" id="DDI-DrugBank.d257.s6.e2" text="pentazocine" type="drug"/>
+        <entity charOffset="110-119" id="DDI-DrugBank.d257.s6.e3" text="nalbuphine" type="drug"/>
+        <entity charOffset="122-132" id="DDI-DrugBank.d257.s6.e4" text="butorphanol" type="drug"/>
+        <entity charOffset="135-142" id="DDI-DrugBank.d257.s6.e5" text="dezocine" type="drug"/>
+        <entity charOffset="148-160" id="DDI-DrugBank.d257.s6.e6" text="buprenorphine" type="drug"/>
+        <entity charOffset="263-291" id="DDI-DrugBank.d257.s6.e7" text="pure agonist opioid analgesic" type="group"/>
+        <entity charOffset="301-313" id="DDI-DrugBank.d257.s6.e8" text="Levo-Dromoran" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e1" id="DDI-DrugBank.d257.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e2" id="DDI-DrugBank.d257.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e3" id="DDI-DrugBank.d257.s6.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e4" id="DDI-DrugBank.d257.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e5" id="DDI-DrugBank.d257.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e6" id="DDI-DrugBank.d257.s6.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e7" id="DDI-DrugBank.d257.s6.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e0" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e1" e2="DDI-DrugBank.d257.s6.e2" id="DDI-DrugBank.d257.s6.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e1" e2="DDI-DrugBank.d257.s6.e3" id="DDI-DrugBank.d257.s6.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e1" e2="DDI-DrugBank.d257.s6.e4" id="DDI-DrugBank.d257.s6.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e1" e2="DDI-DrugBank.d257.s6.e5" id="DDI-DrugBank.d257.s6.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e1" e2="DDI-DrugBank.d257.s6.e6" id="DDI-DrugBank.d257.s6.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e1" e2="DDI-DrugBank.d257.s6.e7" id="DDI-DrugBank.d257.s6.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s6.e1" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p14" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e2" e2="DDI-DrugBank.d257.s6.e3" id="DDI-DrugBank.d257.s6.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e2" e2="DDI-DrugBank.d257.s6.e4" id="DDI-DrugBank.d257.s6.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e2" e2="DDI-DrugBank.d257.s6.e5" id="DDI-DrugBank.d257.s6.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e2" e2="DDI-DrugBank.d257.s6.e6" id="DDI-DrugBank.d257.s6.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e2" e2="DDI-DrugBank.d257.s6.e7" id="DDI-DrugBank.d257.s6.p19"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s6.e2" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p20" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e3" e2="DDI-DrugBank.d257.s6.e4" id="DDI-DrugBank.d257.s6.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e3" e2="DDI-DrugBank.d257.s6.e5" id="DDI-DrugBank.d257.s6.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e3" e2="DDI-DrugBank.d257.s6.e6" id="DDI-DrugBank.d257.s6.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e3" e2="DDI-DrugBank.d257.s6.e7" id="DDI-DrugBank.d257.s6.p24"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s6.e3" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p25" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e4" e2="DDI-DrugBank.d257.s6.e5" id="DDI-DrugBank.d257.s6.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e4" e2="DDI-DrugBank.d257.s6.e6" id="DDI-DrugBank.d257.s6.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e4" e2="DDI-DrugBank.d257.s6.e7" id="DDI-DrugBank.d257.s6.p28"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s6.e4" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p29" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e5" e2="DDI-DrugBank.d257.s6.e6" id="DDI-DrugBank.d257.s6.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e5" e2="DDI-DrugBank.d257.s6.e7" id="DDI-DrugBank.d257.s6.p31"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s6.e5" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p32" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s6.e6" e2="DDI-DrugBank.d257.s6.e7" id="DDI-DrugBank.d257.s6.p33"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s6.e6" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p34" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d257.s6.e7" e2="DDI-DrugBank.d257.s6.e8" id="DDI-DrugBank.d257.s6.p35" type="advise"/>
+    <negationtags>Interactions with Mixed Agonist/Antagonist Opioid Analgesics: Agonist/antagonist analgesics (eg, pentazocine, nalbuphine, butorphanol, dezocine and buprenorphine) should &lt;scope&gt; &lt;cue&gt; NOT &lt;/cue&gt; be administered to a patient who has received or is receiving a course of therapy with a pure agonist opioid analgesic such as Levo-Dromoran. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d257.s7" text="In opioid-dependent patients, mixed agonist/antagonist analgesics may precipitate withdrawal symptoms.">
+        <entity charOffset="3-8" id="DDI-DrugBank.d257.s7.e0" text="opioid" type="group"/>
+        <entity charOffset="30-64" id="DDI-DrugBank.d257.s7.e1" text="mixed agonist/antagonist analgesics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d257.s7.e0" e2="DDI-DrugBank.d257.s7.e1" id="DDI-DrugBank.d257.s7.p0"/>
+    </sentence>
+</document>

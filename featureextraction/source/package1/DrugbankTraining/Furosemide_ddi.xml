@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d231">
+    <sentence id="DDI-DrugBank.d231.s0" text="Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s0.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="50-75" id="DDI-DrugBank.d231.s0.e1" text="aminoglycoside antibiotics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s0.e0" e2="DDI-DrugBank.d231.s0.e1" id="DDI-DrugBank.d231.s0.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s1" text="Except in life-threatening situations, avoid this combination."/>
+    <sentence id="DDI-DrugBank.d231.s2" text="Furosemide should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s2.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="49-63" id="DDI-DrugBank.d231.s2.e1" text="ethacrynic acid" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s2.e0" e2="DDI-DrugBank.d231.s2.e1" id="DDI-DrugBank.d231.s2.p0" type="advise"/>
+    <negationtags>Furosemide should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be used concomitantly with ethacrynic acid because of the possibility of ototoxicity. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d231.s3" text="Patients receiving high doses of salicylates concomitantly with furosemide, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.">
+        <entity charOffset="33-43" id="DDI-DrugBank.d231.s3.e0" text="salicylates" type="group"/>
+        <entity charOffset="64-73" id="DDI-DrugBank.d231.s3.e1" text="furosemide" type="drug"/>
+        <entity charOffset="116-125" id="DDI-DrugBank.d231.s3.e2" text="salicylate" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s3.e0" e2="DDI-DrugBank.d231.s3.e1" id="DDI-DrugBank.d231.s3.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s3.e0" e2="DDI-DrugBank.d231.s3.e2" id="DDI-DrugBank.d231.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s3.e1" e2="DDI-DrugBank.d231.s3.e2" id="DDI-DrugBank.d231.s3.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s4" text="Furosemide has a tendency to antagonize the skeletal muscle relaxing effect of tubocurarine and may potentiate the action of succinylcholine.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s4.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="79-90" id="DDI-DrugBank.d231.s4.e1" text="tubocurarine" type="drug"/>
+        <entity charOffset="125-139" id="DDI-DrugBank.d231.s4.e2" text="succinylcholine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s4.e0" e2="DDI-DrugBank.d231.s4.e1" id="DDI-DrugBank.d231.s4.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s4.e0" e2="DDI-DrugBank.d231.s4.e2" id="DDI-DrugBank.d231.s4.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s4.e1" e2="DDI-DrugBank.d231.s4.e2" id="DDI-DrugBank.d231.s4.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s5" text="Lithium generally should not be given with diuretics because they reduce lithiums renal clearance and add a high risk of lithium toxicity.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d231.s5.e0" text="Lithium" type="drug"/>
+        <entity charOffset="43-51" id="DDI-DrugBank.d231.s5.e1" text="diuretics" type="group"/>
+        <entity charOffset="73-79" id="DDI-DrugBank.d231.s5.e2" text="lithium" type="drug"/>
+        <entity charOffset="121-127" id="DDI-DrugBank.d231.s5.e3" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s5.e0" e2="DDI-DrugBank.d231.s5.e1" id="DDI-DrugBank.d231.s5.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s5.e0" e2="DDI-DrugBank.d231.s5.e2" id="DDI-DrugBank.d231.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s5.e0" e2="DDI-DrugBank.d231.s5.e3" id="DDI-DrugBank.d231.s5.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s5.e1" e2="DDI-DrugBank.d231.s5.e2" id="DDI-DrugBank.d231.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s5.e1" e2="DDI-DrugBank.d231.s5.e3" id="DDI-DrugBank.d231.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s5.e2" e2="DDI-DrugBank.d231.s5.e3" id="DDI-DrugBank.d231.s5.p5"/>
+    <negationtags>Lithium generally should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be given with diuretics because they reduce lithiums renal clearance and add a high risk of lithium toxicity. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d231.s6" text="Furosemide may add to or potentiate the therapeutic effect of other antihypertensive drugs.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s6.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="68-89" id="DDI-DrugBank.d231.s6.e1" text="antihypertensive drugs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s6.e0" e2="DDI-DrugBank.d231.s6.e1" id="DDI-DrugBank.d231.s6.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s7" text="Potentiation occurs with ganglionic or peripheral adrenergic blocking drugs.">
+        <entity charOffset="25-34;50-74" id="DDI-DrugBank.d231.s7.e0" text="ganglionic adrenergic blocking drugs" type="group"/>
+        <entity charOffset="39-74" id="DDI-DrugBank.d231.s7.e1" text="peripheral adrenergic blocking drugs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s7.e0" e2="DDI-DrugBank.d231.s7.e1" id="DDI-DrugBank.d231.s7.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s8" text="Furosemide may decrease arterial responsiveness to norepinephrine.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d231.s8.e0" text="Furosemide" type="drug"/>
+        <entity charOffset="51-64" id="DDI-DrugBank.d231.s8.e1" text="norepinephrine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s8.e0" e2="DDI-DrugBank.d231.s8.e1" id="DDI-DrugBank.d231.s8.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s9" text="However, norepinephrine may still be used effectively.">
+        <entity charOffset="9-22" id="DDI-DrugBank.d231.s9.e0" text="norepinephrine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s10" text="Tablets Simultaneous administration of sucralfate and furosemide tablets may reduce the natriuretic and antihypertensive effects of furosemide.">
+        <entity charOffset="39-48" id="DDI-DrugBank.d231.s10.e0" text="sucralfate" type="drug"/>
+        <entity charOffset="54-63" id="DDI-DrugBank.d231.s10.e1" text="furosemide" type="drug"/>
+        <entity charOffset="132-141" id="DDI-DrugBank.d231.s10.e2" text="furosemide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s10.e0" e2="DDI-DrugBank.d231.s10.e1" id="DDI-DrugBank.d231.s10.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s10.e0" e2="DDI-DrugBank.d231.s10.e2" id="DDI-DrugBank.d231.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s10.e1" e2="DDI-DrugBank.d231.s10.e2" id="DDI-DrugBank.d231.s10.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s11" text="Patients receiving both drugs should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.">
+        <entity charOffset="128-137" id="DDI-DrugBank.d231.s11.e0" text="furosemide" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s12" text="The intake of furosemide and sucralfate should be separated by at least two hours.">
+        <entity charOffset="14-23" id="DDI-DrugBank.d231.s12.e0" text="furosemide" type="drug"/>
+        <entity charOffset="29-38" id="DDI-DrugBank.d231.s12.e1" text="sucralfate" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s12.e0" e2="DDI-DrugBank.d231.s12.e1" id="DDI-DrugBank.d231.s12.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s13" text="Tablets, Injection, and Oral Solution One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.">
+        <entity charOffset="101-110" id="DDI-DrugBank.d231.s13.e0" text="furosemide" type="drug"/>
+        <entity charOffset="116-135" id="DDI-DrugBank.d231.s13.e1" text="acetylsalicylic acid" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s13.e0" e2="DDI-DrugBank.d231.s13.e1" id="DDI-DrugBank.d231.s13.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s14" text="There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.">
+        <entity charOffset="130-139" id="DDI-DrugBank.d231.s14.e0" text="furosemide" type="drug"/>
+        <entity charOffset="170-175" id="DDI-DrugBank.d231.s14.e1" text="NSAIDs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s14.e0" e2="DDI-DrugBank.d231.s14.e1" id="DDI-DrugBank.d231.s14.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s15" text="Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.">
+        <entity charOffset="53-64" id="DDI-DrugBank.d231.s15.e0" text="indomethacin" type="drug"/>
+        <entity charOffset="125-134" id="DDI-DrugBank.d231.s15.e1" text="furosemide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s15.e0" e2="DDI-DrugBank.d231.s15.e1" id="DDI-DrugBank.d231.s15.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s16" text="Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d231.s16.e0" text="Indomethacin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d231.s17" text="Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.">
+        <entity charOffset="24-35" id="DDI-DrugBank.d231.s17.e0" text="indomethacin" type="drug"/>
+        <entity charOffset="41-50" id="DDI-DrugBank.d231.s17.e1" text="furosemide" type="drug"/>
+        <entity charOffset="150-159" id="DDI-DrugBank.d231.s17.e2" text="furosemide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d231.s17.e0" e2="DDI-DrugBank.d231.s17.e1" id="DDI-DrugBank.d231.s17.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s17.e0" e2="DDI-DrugBank.d231.s17.e2" id="DDI-DrugBank.d231.s17.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d231.s17.e1" e2="DDI-DrugBank.d231.s17.e2" id="DDI-DrugBank.d231.s17.p2"/>
+    </sentence>
+</document>

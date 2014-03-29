@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d249">
+    <sentence id="DDI-DrugBank.d249.s0" text="Aspirin: Concomitant administration of diclofenac and aspirin is not recommended because diclofenac is displaced from its binding sites during the concomitant administration of aspirin, resulting in lower plasma concentrations, peak plasma levels, and AUC values.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d249.s0.e0" text="Aspirin" type="brand"/>
+        <entity charOffset="39-48" id="DDI-DrugBank.d249.s0.e1" text="diclofenac" type="drug"/>
+        <entity charOffset="54-60" id="DDI-DrugBank.d249.s0.e2" text="aspirin" type="brand"/>
+        <entity charOffset="89-98" id="DDI-DrugBank.d249.s0.e3" text="diclofenac" type="drug"/>
+        <entity charOffset="177-183" id="DDI-DrugBank.d249.s0.e4" text="aspirin" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e0" e2="DDI-DrugBank.d249.s0.e1" id="DDI-DrugBank.d249.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e0" e2="DDI-DrugBank.d249.s0.e2" id="DDI-DrugBank.d249.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e0" e2="DDI-DrugBank.d249.s0.e3" id="DDI-DrugBank.d249.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e0" e2="DDI-DrugBank.d249.s0.e4" id="DDI-DrugBank.d249.s0.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s0.e1" e2="DDI-DrugBank.d249.s0.e2" id="DDI-DrugBank.d249.s0.p4" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e1" e2="DDI-DrugBank.d249.s0.e3" id="DDI-DrugBank.d249.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e1" e2="DDI-DrugBank.d249.s0.e4" id="DDI-DrugBank.d249.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e2" e2="DDI-DrugBank.d249.s0.e3" id="DDI-DrugBank.d249.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s0.e2" e2="DDI-DrugBank.d249.s0.e4" id="DDI-DrugBank.d249.s0.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s0.e3" e2="DDI-DrugBank.d249.s0.e4" id="DDI-DrugBank.d249.s0.p9" type="mechanism"/>
+    <negationtags>Aspirin: Concomitant administration of diclofenac and aspirin is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended because diclofenac is displaced from its binding sites during the concomitant administration of aspirin, resulting in lower plasma concentrations, peak plasma levels, and AUC values. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s1" text="Anticoagulants: While studies have not shown diclofenac to interact with anticoagulants of the warfarin type, caution should be exercised, nonetheless, since interactions have been seen with other NSAIDs.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d249.s1.e0" text="Anticoagulants" type="group"/>
+        <entity charOffset="45-54" id="DDI-DrugBank.d249.s1.e1" text="diclofenac" type="drug"/>
+        <entity charOffset="73-107" id="DDI-DrugBank.d249.s1.e2" text="anticoagulants of the warfarin type" type="group"/>
+        <entity charOffset="197-202" id="DDI-DrugBank.d249.s1.e3" text="NSAIDs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s1.e0" e2="DDI-DrugBank.d249.s1.e1" id="DDI-DrugBank.d249.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s1.e0" e2="DDI-DrugBank.d249.s1.e2" id="DDI-DrugBank.d249.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s1.e0" e2="DDI-DrugBank.d249.s1.e3" id="DDI-DrugBank.d249.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s1.e1" e2="DDI-DrugBank.d249.s1.e2" id="DDI-DrugBank.d249.s1.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s1.e1" e2="DDI-DrugBank.d249.s1.e3" id="DDI-DrugBank.d249.s1.p4" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s1.e2" e2="DDI-DrugBank.d249.s1.e3" id="DDI-DrugBank.d249.s1.p5"/>
+    <negationtags>Anticoagulants: While studies have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; shown diclofenac to interact with anticoagulants of the warfarin type, caution should be exercised, nonetheless, since interactions have been seen with other NSAIDs. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s2" text="Because prostaglandins play an important role in hemostasis, and NSAIDs affect platelet function as well, concurrent therapy with all NSAIDs, including diclofenac, and warfarin requires close monitoring of patients to be certain that no change in their anticoagulant dosage is required.">
+        <entity charOffset="65-70" id="DDI-DrugBank.d249.s2.e0" text="NSAIDs" type="group"/>
+        <entity charOffset="134-139" id="DDI-DrugBank.d249.s2.e1" text="NSAIDs" type="group"/>
+        <entity charOffset="152-161" id="DDI-DrugBank.d249.s2.e2" text="diclofenac" type="drug"/>
+        <entity charOffset="168-175" id="DDI-DrugBank.d249.s2.e3" text="warfarin" type="drug"/>
+        <entity charOffset="253-265" id="DDI-DrugBank.d249.s2.e4" text="anticoagulant" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e0" e2="DDI-DrugBank.d249.s2.e1" id="DDI-DrugBank.d249.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e0" e2="DDI-DrugBank.d249.s2.e2" id="DDI-DrugBank.d249.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e0" e2="DDI-DrugBank.d249.s2.e3" id="DDI-DrugBank.d249.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e0" e2="DDI-DrugBank.d249.s2.e4" id="DDI-DrugBank.d249.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e1" e2="DDI-DrugBank.d249.s2.e2" id="DDI-DrugBank.d249.s2.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s2.e1" e2="DDI-DrugBank.d249.s2.e3" id="DDI-DrugBank.d249.s2.p5" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e1" e2="DDI-DrugBank.d249.s2.e4" id="DDI-DrugBank.d249.s2.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s2.e2" e2="DDI-DrugBank.d249.s2.e3" id="DDI-DrugBank.d249.s2.p7" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e2" e2="DDI-DrugBank.d249.s2.e4" id="DDI-DrugBank.d249.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s2.e3" e2="DDI-DrugBank.d249.s2.e4" id="DDI-DrugBank.d249.s2.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s3" text="Digoxin, Methotrexate, Cyclosporine: Diclofenac, like other NSAIDs, may affect renal prostaglandins and increase the toxicity of certain drugs.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d249.s3.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="9-20" id="DDI-DrugBank.d249.s3.e1" text="Methotrexate" type="drug"/>
+        <entity charOffset="23-34" id="DDI-DrugBank.d249.s3.e2" text="Cyclosporine" type="drug"/>
+        <entity charOffset="37-46" id="DDI-DrugBank.d249.s3.e3" text="Diclofenac" type="drug"/>
+        <entity charOffset="60-65" id="DDI-DrugBank.d249.s3.e4" text="NSAIDs" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e0" e2="DDI-DrugBank.d249.s3.e1" id="DDI-DrugBank.d249.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e0" e2="DDI-DrugBank.d249.s3.e2" id="DDI-DrugBank.d249.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e0" e2="DDI-DrugBank.d249.s3.e3" id="DDI-DrugBank.d249.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e0" e2="DDI-DrugBank.d249.s3.e4" id="DDI-DrugBank.d249.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e1" e2="DDI-DrugBank.d249.s3.e2" id="DDI-DrugBank.d249.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e1" e2="DDI-DrugBank.d249.s3.e3" id="DDI-DrugBank.d249.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e1" e2="DDI-DrugBank.d249.s3.e4" id="DDI-DrugBank.d249.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e2" e2="DDI-DrugBank.d249.s3.e3" id="DDI-DrugBank.d249.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e2" e2="DDI-DrugBank.d249.s3.e4" id="DDI-DrugBank.d249.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s3.e3" e2="DDI-DrugBank.d249.s3.e4" id="DDI-DrugBank.d249.s3.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s4" text="Ingestion of diclofenac may increase serum concentrations of digoxin and methotrexate and increase cyclosporine s nephrotoxicity.">
+        <entity charOffset="13-22" id="DDI-DrugBank.d249.s4.e0" text="diclofenac" type="drug"/>
+        <entity charOffset="61-67" id="DDI-DrugBank.d249.s4.e1" text="digoxin" type="drug"/>
+        <entity charOffset="73-84" id="DDI-DrugBank.d249.s4.e2" text="methotrexate" type="drug"/>
+        <entity charOffset="99-110" id="DDI-DrugBank.d249.s4.e3" text="cyclosporine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s4.e0" e2="DDI-DrugBank.d249.s4.e1" id="DDI-DrugBank.d249.s4.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s4.e0" e2="DDI-DrugBank.d249.s4.e2" id="DDI-DrugBank.d249.s4.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s4.e0" e2="DDI-DrugBank.d249.s4.e3" id="DDI-DrugBank.d249.s4.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s4.e1" e2="DDI-DrugBank.d249.s4.e2" id="DDI-DrugBank.d249.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s4.e1" e2="DDI-DrugBank.d249.s4.e3" id="DDI-DrugBank.d249.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s4.e2" e2="DDI-DrugBank.d249.s4.e3" id="DDI-DrugBank.d249.s4.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s5" text="Patients who begin taking diclofenac or who increase their diclofenac dose or any other NSAID while taking digoxin, methotrexate, or cyclosporine may develop toxicity characteristics for these drugs.">
+        <entity charOffset="26-35" id="DDI-DrugBank.d249.s5.e0" text="diclofenac" type="drug"/>
+        <entity charOffset="59-68" id="DDI-DrugBank.d249.s5.e1" text="diclofenac" type="drug"/>
+        <entity charOffset="88-92" id="DDI-DrugBank.d249.s5.e2" text="NSAID" type="group"/>
+        <entity charOffset="107-113" id="DDI-DrugBank.d249.s5.e3" text="digoxin" type="drug"/>
+        <entity charOffset="116-127" id="DDI-DrugBank.d249.s5.e4" text="methotrexate" type="drug"/>
+        <entity charOffset="133-144" id="DDI-DrugBank.d249.s5.e5" text="cyclosporine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e0" e2="DDI-DrugBank.d249.s5.e1" id="DDI-DrugBank.d249.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e0" e2="DDI-DrugBank.d249.s5.e2" id="DDI-DrugBank.d249.s5.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s5.e0" e2="DDI-DrugBank.d249.s5.e3" id="DDI-DrugBank.d249.s5.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s5.e0" e2="DDI-DrugBank.d249.s5.e4" id="DDI-DrugBank.d249.s5.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s5.e0" e2="DDI-DrugBank.d249.s5.e5" id="DDI-DrugBank.d249.s5.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e1" e2="DDI-DrugBank.d249.s5.e2" id="DDI-DrugBank.d249.s5.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e1" e2="DDI-DrugBank.d249.s5.e3" id="DDI-DrugBank.d249.s5.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e1" e2="DDI-DrugBank.d249.s5.e4" id="DDI-DrugBank.d249.s5.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e1" e2="DDI-DrugBank.d249.s5.e5" id="DDI-DrugBank.d249.s5.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s5.e2" e2="DDI-DrugBank.d249.s5.e3" id="DDI-DrugBank.d249.s5.p9" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s5.e2" e2="DDI-DrugBank.d249.s5.e4" id="DDI-DrugBank.d249.s5.p10" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s5.e2" e2="DDI-DrugBank.d249.s5.e5" id="DDI-DrugBank.d249.s5.p11" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e3" e2="DDI-DrugBank.d249.s5.e4" id="DDI-DrugBank.d249.s5.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e3" e2="DDI-DrugBank.d249.s5.e5" id="DDI-DrugBank.d249.s5.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s5.e4" e2="DDI-DrugBank.d249.s5.e5" id="DDI-DrugBank.d249.s5.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s6" text="They should be observed closely, particularly if renal function is impaired."/>
+    <sentence id="DDI-DrugBank.d249.s7" text="In the case of digoxin, serum levels should be monitored.">
+        <entity charOffset="15-21" id="DDI-DrugBank.d249.s7.e0" text="digoxin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s8" text="Lithium: Diclofenac decreases lithium renal clearance and increases lithium plasma levels.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d249.s8.e0" text="Lithium" type="drug"/>
+        <entity charOffset="9-18" id="DDI-DrugBank.d249.s8.e1" text="Diclofenac" type="drug"/>
+        <entity charOffset="30-36" id="DDI-DrugBank.d249.s8.e2" text="lithium" type="drug"/>
+        <entity charOffset="68-74" id="DDI-DrugBank.d249.s8.e3" text="lithium" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s8.e0" e2="DDI-DrugBank.d249.s8.e1" id="DDI-DrugBank.d249.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s8.e0" e2="DDI-DrugBank.d249.s8.e2" id="DDI-DrugBank.d249.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s8.e0" e2="DDI-DrugBank.d249.s8.e3" id="DDI-DrugBank.d249.s8.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s8.e1" e2="DDI-DrugBank.d249.s8.e2" id="DDI-DrugBank.d249.s8.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s8.e1" e2="DDI-DrugBank.d249.s8.e3" id="DDI-DrugBank.d249.s8.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s8.e2" e2="DDI-DrugBank.d249.s8.e3" id="DDI-DrugBank.d249.s8.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s9" text="In patients taking diclofenac and lithium concomitantly, lithium toxicity may develop.">
+        <entity charOffset="19-28" id="DDI-DrugBank.d249.s9.e0" text="diclofenac" type="drug"/>
+        <entity charOffset="34-40" id="DDI-DrugBank.d249.s9.e1" text="lithium" type="drug"/>
+        <entity charOffset="57-63" id="DDI-DrugBank.d249.s9.e2" text="lithium" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s9.e0" e2="DDI-DrugBank.d249.s9.e1" id="DDI-DrugBank.d249.s9.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s9.e0" e2="DDI-DrugBank.d249.s9.e2" id="DDI-DrugBank.d249.s9.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s9.e1" e2="DDI-DrugBank.d249.s9.e2" id="DDI-DrugBank.d249.s9.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s10" text="Oral Hypoglycemics: Diclofenac does not alter glucose metabolism in normal subjects nor does it alter the effects of oral hypoglycemic agents.">
+        <entity charOffset="5-17" id="DDI-DrugBank.d249.s10.e0" text="Hypoglycemics" type="group"/>
+        <entity charOffset="20-29" id="DDI-DrugBank.d249.s10.e1" text="Diclofenac" type="drug"/>
+        <entity charOffset="122-140" id="DDI-DrugBank.d249.s10.e2" text="hypoglycemic agents" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s10.e0" e2="DDI-DrugBank.d249.s10.e1" id="DDI-DrugBank.d249.s10.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s10.e0" e2="DDI-DrugBank.d249.s10.e2" id="DDI-DrugBank.d249.s10.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s10.e1" e2="DDI-DrugBank.d249.s10.e2" id="DDI-DrugBank.d249.s10.p2"/>
+    <negationtags>Oral Hypoglycemics: Diclofenac does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; alter glucose metabolism in normal subjects nor does it alter the effects of oral hypoglycemic agents. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s11" text="There are rare reports, however, from marketing experiences, of changes in effects of insulin or oral hypoglycemic agents in the presence of diclofenac that necessitated changes in the doses of such agents.">
+        <entity charOffset="86-92" id="DDI-DrugBank.d249.s11.e0" text="insulin" type="drug"/>
+        <entity charOffset="102-120" id="DDI-DrugBank.d249.s11.e1" text="hypoglycemic agents" type="group"/>
+        <entity charOffset="141-150" id="DDI-DrugBank.d249.s11.e2" text="diclofenac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s11.e0" e2="DDI-DrugBank.d249.s11.e1" id="DDI-DrugBank.d249.s11.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s11.e0" e2="DDI-DrugBank.d249.s11.e2" id="DDI-DrugBank.d249.s11.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s11.e1" e2="DDI-DrugBank.d249.s11.e2" id="DDI-DrugBank.d249.s11.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s12" text="Both hypo- and hyperglycemic effects have been reported."/>
+    <sentence id="DDI-DrugBank.d249.s13" text="A direct causal relationship has not been established, but physicians should consider the possibility that diclofenac may alter a diabetic patient s response to insulin or oral hypoglycemic agents.">
+        <entity charOffset="107-116" id="DDI-DrugBank.d249.s13.e0" text="diclofenac" type="drug"/>
+        <entity charOffset="161-167" id="DDI-DrugBank.d249.s13.e1" text="insulin" type="drug"/>
+        <entity charOffset="177-195" id="DDI-DrugBank.d249.s13.e2" text="hypoglycemic agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s13.e0" e2="DDI-DrugBank.d249.s13.e1" id="DDI-DrugBank.d249.s13.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s13.e0" e2="DDI-DrugBank.d249.s13.e2" id="DDI-DrugBank.d249.s13.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s13.e1" e2="DDI-DrugBank.d249.s13.e2" id="DDI-DrugBank.d249.s13.p2"/>
+    <negationtags>A direct causal relationship has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been established, &lt;/scope&gt; but physicians should consider the possibility that diclofenac may alter a diabetic patient s response to insulin or oral hypoglycemic agents.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s14" text="Diuretics: Diclofenac and other NSAIDs can inhibit the activity of diuretics.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d249.s14.e0" text="Diuretics" type="group"/>
+        <entity charOffset="11-20" id="DDI-DrugBank.d249.s14.e1" text="Diclofenac" type="drug"/>
+        <entity charOffset="32-37" id="DDI-DrugBank.d249.s14.e2" text="NSAIDs" type="group"/>
+        <entity charOffset="67-75" id="DDI-DrugBank.d249.s14.e3" text="diuretics" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s14.e0" e2="DDI-DrugBank.d249.s14.e1" id="DDI-DrugBank.d249.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s14.e0" e2="DDI-DrugBank.d249.s14.e2" id="DDI-DrugBank.d249.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s14.e0" e2="DDI-DrugBank.d249.s14.e3" id="DDI-DrugBank.d249.s14.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s14.e1" e2="DDI-DrugBank.d249.s14.e2" id="DDI-DrugBank.d249.s14.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s14.e1" e2="DDI-DrugBank.d249.s14.e3" id="DDI-DrugBank.d249.s14.p4" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s14.e2" e2="DDI-DrugBank.d249.s14.e3" id="DDI-DrugBank.d249.s14.p5" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s15" text="Concomitant treatment with potassium-sparing diuretics may be associated with increased serum potassium levels.">
+        <entity charOffset="27-53" id="DDI-DrugBank.d249.s15.e0" text="potassium-sparing diuretics" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s16" text="Other Drugs: In small groups of patients (7-10/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline, or digitoxin did not significantly affect the peak levels and AUC values of diclofenac.">
+        <entity charOffset="101-112" id="DDI-DrugBank.d249.s16.e0" text="azathioprine" type="drug"/>
+        <entity charOffset="115-118" id="DDI-DrugBank.d249.s16.e1" text="gold" type="group"/>
+        <entity charOffset="121-131" id="DDI-DrugBank.d249.s16.e2" text="chloroquine" type="drug"/>
+        <entity charOffset="134-148" id="DDI-DrugBank.d249.s16.e3" text="D-penicillamine" type="drug"/>
+        <entity charOffset="151-162" id="DDI-DrugBank.d249.s16.e4" text="prednisolone" type="drug"/>
+        <entity charOffset="165-175" id="DDI-DrugBank.d249.s16.e5" text="doxycycline" type="drug"/>
+        <entity charOffset="181-189" id="DDI-DrugBank.d249.s16.e6" text="digitoxin" type="drug"/>
+        <entity charOffset="254-263" id="DDI-DrugBank.d249.s16.e7" text="diclofenac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e0" e2="DDI-DrugBank.d249.s16.e1" id="DDI-DrugBank.d249.s16.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e0" e2="DDI-DrugBank.d249.s16.e2" id="DDI-DrugBank.d249.s16.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e0" e2="DDI-DrugBank.d249.s16.e3" id="DDI-DrugBank.d249.s16.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e0" e2="DDI-DrugBank.d249.s16.e4" id="DDI-DrugBank.d249.s16.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e0" e2="DDI-DrugBank.d249.s16.e5" id="DDI-DrugBank.d249.s16.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e0" e2="DDI-DrugBank.d249.s16.e6" id="DDI-DrugBank.d249.s16.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e0" e2="DDI-DrugBank.d249.s16.e7" id="DDI-DrugBank.d249.s16.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e1" e2="DDI-DrugBank.d249.s16.e2" id="DDI-DrugBank.d249.s16.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e1" e2="DDI-DrugBank.d249.s16.e3" id="DDI-DrugBank.d249.s16.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e1" e2="DDI-DrugBank.d249.s16.e4" id="DDI-DrugBank.d249.s16.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e1" e2="DDI-DrugBank.d249.s16.e5" id="DDI-DrugBank.d249.s16.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e1" e2="DDI-DrugBank.d249.s16.e6" id="DDI-DrugBank.d249.s16.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e1" e2="DDI-DrugBank.d249.s16.e7" id="DDI-DrugBank.d249.s16.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e2" e2="DDI-DrugBank.d249.s16.e3" id="DDI-DrugBank.d249.s16.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e2" e2="DDI-DrugBank.d249.s16.e4" id="DDI-DrugBank.d249.s16.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e2" e2="DDI-DrugBank.d249.s16.e5" id="DDI-DrugBank.d249.s16.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e2" e2="DDI-DrugBank.d249.s16.e6" id="DDI-DrugBank.d249.s16.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e2" e2="DDI-DrugBank.d249.s16.e7" id="DDI-DrugBank.d249.s16.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e3" e2="DDI-DrugBank.d249.s16.e4" id="DDI-DrugBank.d249.s16.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e3" e2="DDI-DrugBank.d249.s16.e5" id="DDI-DrugBank.d249.s16.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e3" e2="DDI-DrugBank.d249.s16.e6" id="DDI-DrugBank.d249.s16.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e3" e2="DDI-DrugBank.d249.s16.e7" id="DDI-DrugBank.d249.s16.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e4" e2="DDI-DrugBank.d249.s16.e5" id="DDI-DrugBank.d249.s16.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e4" e2="DDI-DrugBank.d249.s16.e6" id="DDI-DrugBank.d249.s16.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e4" e2="DDI-DrugBank.d249.s16.e7" id="DDI-DrugBank.d249.s16.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e5" e2="DDI-DrugBank.d249.s16.e6" id="DDI-DrugBank.d249.s16.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e5" e2="DDI-DrugBank.d249.s16.e7" id="DDI-DrugBank.d249.s16.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s16.e6" e2="DDI-DrugBank.d249.s16.e7" id="DDI-DrugBank.d249.s16.p27"/>
+    <negationtags>Other Drugs: In small groups of patients (7-10/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline, or digitoxin did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly affect the peak levels and AUC values of diclofenac. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s17" text="Phenobarbital toxicity has been reported to have occurred in a patient on chronic phenobarbital treatment following the initiation of diclofenac therapy.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d249.s17.e0" text="Phenobarbital" type="drug"/>
+        <entity charOffset="82-94" id="DDI-DrugBank.d249.s17.e1" text="phenobarbital" type="drug"/>
+        <entity charOffset="134-143" id="DDI-DrugBank.d249.s17.e2" text="diclofenac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s17.e0" e2="DDI-DrugBank.d249.s17.e1" id="DDI-DrugBank.d249.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s17.e0" e2="DDI-DrugBank.d249.s17.e2" id="DDI-DrugBank.d249.s17.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s17.e1" e2="DDI-DrugBank.d249.s17.e2" id="DDI-DrugBank.d249.s17.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s18" text="Protein Binding In vitro, diclofenac interferes minimally or not at all with the protein binding of salicylic acid (20% decrease in binding), tolbutamide, prednisolone (10% decrease in binding), or warfarin.">
+        <entity charOffset="26-35" id="DDI-DrugBank.d249.s18.e0" text="diclofenac" type="drug"/>
+        <entity charOffset="100-113" id="DDI-DrugBank.d249.s18.e1" text="salicylic acid" type="drug"/>
+        <entity charOffset="142-152" id="DDI-DrugBank.d249.s18.e2" text="tolbutamide" type="drug"/>
+        <entity charOffset="155-166" id="DDI-DrugBank.d249.s18.e3" text="prednisolone" type="drug"/>
+        <entity charOffset="198-205" id="DDI-DrugBank.d249.s18.e4" text="warfarin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s18.e0" e2="DDI-DrugBank.d249.s18.e1" id="DDI-DrugBank.d249.s18.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s18.e0" e2="DDI-DrugBank.d249.s18.e2" id="DDI-DrugBank.d249.s18.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s18.e0" e2="DDI-DrugBank.d249.s18.e3" id="DDI-DrugBank.d249.s18.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d249.s18.e0" e2="DDI-DrugBank.d249.s18.e4" id="DDI-DrugBank.d249.s18.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s18.e1" e2="DDI-DrugBank.d249.s18.e2" id="DDI-DrugBank.d249.s18.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s18.e1" e2="DDI-DrugBank.d249.s18.e3" id="DDI-DrugBank.d249.s18.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s18.e1" e2="DDI-DrugBank.d249.s18.e4" id="DDI-DrugBank.d249.s18.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s18.e2" e2="DDI-DrugBank.d249.s18.e3" id="DDI-DrugBank.d249.s18.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s18.e2" e2="DDI-DrugBank.d249.s18.e4" id="DDI-DrugBank.d249.s18.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s18.e3" e2="DDI-DrugBank.d249.s18.e4" id="DDI-DrugBank.d249.s18.p9"/>
+    <negationtags>Protein Binding In vitro, diclofenac interferes minimally or &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; at all with the protein binding of salicylic acid (20% decrease in binding), tolbutamide, prednisolone (10% decrease in binding), or warfarin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s19" text="Benzylpenicillin, ampicillin, oxacillin, chlortetracycline, doxycycline, cephalothin, erythromycin, and sulfamethoxazole have no influence in vitro on the protein binding of diclofenac in human serum.">
+        <entity charOffset="0-15" id="DDI-DrugBank.d249.s19.e0" text="Benzylpenicillin" type="drug"/>
+        <entity charOffset="18-27" id="DDI-DrugBank.d249.s19.e1" text="ampicillin" type="drug"/>
+        <entity charOffset="30-38" id="DDI-DrugBank.d249.s19.e2" text="oxacillin" type="drug"/>
+        <entity charOffset="41-57" id="DDI-DrugBank.d249.s19.e3" text="chlortetracycline" type="drug"/>
+        <entity charOffset="60-70" id="DDI-DrugBank.d249.s19.e4" text="doxycycline" type="drug"/>
+        <entity charOffset="73-83" id="DDI-DrugBank.d249.s19.e5" text="cephalothin" type="drug"/>
+        <entity charOffset="86-97" id="DDI-DrugBank.d249.s19.e6" text="erythromycin" type="drug"/>
+        <entity charOffset="104-119" id="DDI-DrugBank.d249.s19.e7" text="sulfamethoxazole" type="drug"/>
+        <entity charOffset="174-183" id="DDI-DrugBank.d249.s19.e8" text="diclofenac" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e1" id="DDI-DrugBank.d249.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e2" id="DDI-DrugBank.d249.s19.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e3" id="DDI-DrugBank.d249.s19.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e4" id="DDI-DrugBank.d249.s19.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e5" id="DDI-DrugBank.d249.s19.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e6" id="DDI-DrugBank.d249.s19.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e7" id="DDI-DrugBank.d249.s19.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e0" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e1" e2="DDI-DrugBank.d249.s19.e2" id="DDI-DrugBank.d249.s19.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e1" e2="DDI-DrugBank.d249.s19.e3" id="DDI-DrugBank.d249.s19.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e1" e2="DDI-DrugBank.d249.s19.e4" id="DDI-DrugBank.d249.s19.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e1" e2="DDI-DrugBank.d249.s19.e5" id="DDI-DrugBank.d249.s19.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e1" e2="DDI-DrugBank.d249.s19.e6" id="DDI-DrugBank.d249.s19.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e1" e2="DDI-DrugBank.d249.s19.e7" id="DDI-DrugBank.d249.s19.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e1" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e2" e2="DDI-DrugBank.d249.s19.e3" id="DDI-DrugBank.d249.s19.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e2" e2="DDI-DrugBank.d249.s19.e4" id="DDI-DrugBank.d249.s19.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e2" e2="DDI-DrugBank.d249.s19.e5" id="DDI-DrugBank.d249.s19.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e2" e2="DDI-DrugBank.d249.s19.e6" id="DDI-DrugBank.d249.s19.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e2" e2="DDI-DrugBank.d249.s19.e7" id="DDI-DrugBank.d249.s19.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e2" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e3" e2="DDI-DrugBank.d249.s19.e4" id="DDI-DrugBank.d249.s19.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e3" e2="DDI-DrugBank.d249.s19.e5" id="DDI-DrugBank.d249.s19.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e3" e2="DDI-DrugBank.d249.s19.e6" id="DDI-DrugBank.d249.s19.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e3" e2="DDI-DrugBank.d249.s19.e7" id="DDI-DrugBank.d249.s19.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e3" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e4" e2="DDI-DrugBank.d249.s19.e5" id="DDI-DrugBank.d249.s19.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e4" e2="DDI-DrugBank.d249.s19.e6" id="DDI-DrugBank.d249.s19.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e4" e2="DDI-DrugBank.d249.s19.e7" id="DDI-DrugBank.d249.s19.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e4" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e5" e2="DDI-DrugBank.d249.s19.e6" id="DDI-DrugBank.d249.s19.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e5" e2="DDI-DrugBank.d249.s19.e7" id="DDI-DrugBank.d249.s19.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e5" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e6" e2="DDI-DrugBank.d249.s19.e7" id="DDI-DrugBank.d249.s19.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e6" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d249.s19.e7" e2="DDI-DrugBank.d249.s19.e8" id="DDI-DrugBank.d249.s19.p35"/>
+    <negationtags>Benzylpenicillin, ampicillin, oxacillin, chlortetracycline, doxycycline, cephalothin, erythromycin, and sulfamethoxazole have &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; influence in vitro on the protein binding of diclofenac in human serum. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s20" text="Drug/Laboratory Test Interactions Effect on Blood Coagulation: Diclofenac increases platelet aggregation time but does not affect bleeding time, plasma thrombin clotting time, plasma fibrinogen, or factors V and VII to XII.">
+        <entity charOffset="63-72" id="DDI-DrugBank.d249.s20.e0" text="Diclofenac" type="drug"/>
+    <negationtags>Drug/Laboratory Test Interactions Effect on Blood Coagulation: Diclofenac increases platelet aggregation time but does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affect bleeding time, plasma thrombin clotting time, plasma fibrinogen, or factors V and VII to XII. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s21" text="Statistically significant changes in prothrombin and partial thromboplastin times have been reported in normal volunteers."/>
+    <sentence id="DDI-DrugBank.d249.s22" text="The mean changes were observed to be less than 1 second in both instances, however, and are unlikely to be clinically important."><negationtags>&lt;scope&gt; The mean changes were observed to be less than 1 second in both instances, however, and are &lt;cue&gt; unlikely &lt;/cue&gt; &lt;/scope&gt; to be clinically important.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d249.s23" text="Diclofenac is a prostaglandin synthetase inhibitor, however, and all drugs that inhibit prostaglandin synthesis interfere with platelet function to some degree;">
+        <entity charOffset="0-9" id="DDI-DrugBank.d249.s23.e0" text="Diclofenac" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d249.s24" text="therefore, patients who may be adversely affected by such an action should be carefully observed."/>
+</document>

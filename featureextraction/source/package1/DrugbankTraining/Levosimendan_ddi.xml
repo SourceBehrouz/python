@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d189">
+    <sentence id="DDI-DrugBank.d189.s0" text="No Important Interactions To Date Levosimendan does not have clinically important pharmacokinetic interactions with captopril, beta-blockers, felodipine, digoxin, warfarin, isosorbide mononitrate, carvedilol, ethanol or itraconazole.">
+        <entity charOffset="34-45" id="DDI-DrugBank.d189.s0.e0" text="Levosimendan" type="drug"/>
+        <entity charOffset="116-124" id="DDI-DrugBank.d189.s0.e1" text="captopril" type="drug"/>
+        <entity charOffset="127-139" id="DDI-DrugBank.d189.s0.e2" text="beta-blockers" type="group"/>
+        <entity charOffset="142-151" id="DDI-DrugBank.d189.s0.e3" text="felodipine" type="drug"/>
+        <entity charOffset="154-160" id="DDI-DrugBank.d189.s0.e4" text="digoxin" type="drug"/>
+        <entity charOffset="163-170" id="DDI-DrugBank.d189.s0.e5" text="warfarin" type="drug"/>
+        <entity charOffset="173-194" id="DDI-DrugBank.d189.s0.e6" text="isosorbide mononitrate" type="drug"/>
+        <entity charOffset="197-206" id="DDI-DrugBank.d189.s0.e7" text="carvedilol" type="drug"/>
+        <entity charOffset="209-215" id="DDI-DrugBank.d189.s0.e8" text="ethanol" type="drug"/>
+        <entity charOffset="220-231" id="DDI-DrugBank.d189.s0.e9" text="itraconazole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e1" id="DDI-DrugBank.d189.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e2" id="DDI-DrugBank.d189.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e3" id="DDI-DrugBank.d189.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e4" id="DDI-DrugBank.d189.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e5" id="DDI-DrugBank.d189.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e6" id="DDI-DrugBank.d189.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e7" id="DDI-DrugBank.d189.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e0" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e2" id="DDI-DrugBank.d189.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e3" id="DDI-DrugBank.d189.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e4" id="DDI-DrugBank.d189.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e5" id="DDI-DrugBank.d189.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e6" id="DDI-DrugBank.d189.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e7" id="DDI-DrugBank.d189.s0.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e1" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e2" e2="DDI-DrugBank.d189.s0.e3" id="DDI-DrugBank.d189.s0.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e2" e2="DDI-DrugBank.d189.s0.e4" id="DDI-DrugBank.d189.s0.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e2" e2="DDI-DrugBank.d189.s0.e5" id="DDI-DrugBank.d189.s0.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e2" e2="DDI-DrugBank.d189.s0.e6" id="DDI-DrugBank.d189.s0.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e2" e2="DDI-DrugBank.d189.s0.e7" id="DDI-DrugBank.d189.s0.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e2" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e2" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e3" e2="DDI-DrugBank.d189.s0.e4" id="DDI-DrugBank.d189.s0.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e3" e2="DDI-DrugBank.d189.s0.e5" id="DDI-DrugBank.d189.s0.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e3" e2="DDI-DrugBank.d189.s0.e6" id="DDI-DrugBank.d189.s0.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e3" e2="DDI-DrugBank.d189.s0.e7" id="DDI-DrugBank.d189.s0.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e3" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e3" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e4" e2="DDI-DrugBank.d189.s0.e5" id="DDI-DrugBank.d189.s0.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e4" e2="DDI-DrugBank.d189.s0.e6" id="DDI-DrugBank.d189.s0.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e4" e2="DDI-DrugBank.d189.s0.e7" id="DDI-DrugBank.d189.s0.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e4" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e4" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e5" e2="DDI-DrugBank.d189.s0.e6" id="DDI-DrugBank.d189.s0.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e5" e2="DDI-DrugBank.d189.s0.e7" id="DDI-DrugBank.d189.s0.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e5" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e5" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e6" e2="DDI-DrugBank.d189.s0.e7" id="DDI-DrugBank.d189.s0.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e6" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e6" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e7" e2="DDI-DrugBank.d189.s0.e8" id="DDI-DrugBank.d189.s0.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e7" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d189.s0.e8" e2="DDI-DrugBank.d189.s0.e9" id="DDI-DrugBank.d189.s0.p44"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; Important Interactions To Date Levosimendan does not have clinically important pharmacokinetic interactions with captopril, beta-blockers, felodipine, digoxin, warfarin, isosorbide mononitrate, carvedilol, ethanol or itraconazole. &lt;/scope&gt;</negationtags></sentence>
+</document>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d164">
+    <sentence id="DDI-DrugBank.d164.s0" text="No drug interaction studies were performed."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; drug interaction studies were performed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d164.s1" text="No in vitro metabolism studies were performed."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; in vitro metabolism studies were performed. &lt;/scope&gt;</negationtags></sentence>
+</document>

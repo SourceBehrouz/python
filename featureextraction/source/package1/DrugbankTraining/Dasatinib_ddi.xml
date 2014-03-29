@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d48">
+    <sentence id="DDI-DrugBank.d48.s0" text="Drugs that may increase dasatinib plasma concentrations CYP3A4 Inhibitors: Dasatinib is a CYP3A4 substrate.">
+        <entity charOffset="24-32" id="DDI-DrugBank.d48.s0.e0" text="dasatinib" type="drug"/>
+        <entity charOffset="75-83" id="DDI-DrugBank.d48.s0.e1" text="Dasatinib" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s0.e0" e2="DDI-DrugBank.d48.s0.e1" id="DDI-DrugBank.d48.s0.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s1" text="Concomitant use of SPRYCEL and drugs that inhibit CYP3A4 (eg, ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, atazanavir, indinavir, nefazodone, nelfinavir, saquinavir, telithromycin) may increase exposure to dasatinib and should be avoided.">
+        <entity charOffset="19-25" id="DDI-DrugBank.d48.s1.e0" text="SPRYCEL" type="brand"/>
+        <entity charOffset="62-73" id="DDI-DrugBank.d48.s1.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="76-87" id="DDI-DrugBank.d48.s1.e2" text="itraconazole" type="drug"/>
+        <entity charOffset="90-101" id="DDI-DrugBank.d48.s1.e3" text="erythromycin" type="drug"/>
+        <entity charOffset="104-117" id="DDI-DrugBank.d48.s1.e4" text="clarithromycin" type="drug"/>
+        <entity charOffset="120-128" id="DDI-DrugBank.d48.s1.e5" text="ritonavir" type="drug"/>
+        <entity charOffset="131-140" id="DDI-DrugBank.d48.s1.e6" text="atazanavir" type="drug"/>
+        <entity charOffset="143-151" id="DDI-DrugBank.d48.s1.e7" text="indinavir" type="drug"/>
+        <entity charOffset="154-163" id="DDI-DrugBank.d48.s1.e8" text="nefazodone" type="drug"/>
+        <entity charOffset="166-175" id="DDI-DrugBank.d48.s1.e9" text="nelfinavir" type="drug"/>
+        <entity charOffset="178-187" id="DDI-DrugBank.d48.s1.e10" text="saquinavir" type="drug"/>
+        <entity charOffset="190-202" id="DDI-DrugBank.d48.s1.e11" text="telithromycin" type="drug"/>
+        <entity charOffset="230-238" id="DDI-DrugBank.d48.s1.e12" text="dasatinib" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e1" id="DDI-DrugBank.d48.s1.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e2" id="DDI-DrugBank.d48.s1.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e3" id="DDI-DrugBank.d48.s1.p2" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e4" id="DDI-DrugBank.d48.s1.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e5" id="DDI-DrugBank.d48.s1.p4" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e6" id="DDI-DrugBank.d48.s1.p5" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e7" id="DDI-DrugBank.d48.s1.p6" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p7" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p8" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p9" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p10" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e0" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e2" id="DDI-DrugBank.d48.s1.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e3" id="DDI-DrugBank.d48.s1.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e4" id="DDI-DrugBank.d48.s1.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e5" id="DDI-DrugBank.d48.s1.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e6" id="DDI-DrugBank.d48.s1.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e7" id="DDI-DrugBank.d48.s1.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e1" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e3" id="DDI-DrugBank.d48.s1.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e4" id="DDI-DrugBank.d48.s1.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e5" id="DDI-DrugBank.d48.s1.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e6" id="DDI-DrugBank.d48.s1.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e7" id="DDI-DrugBank.d48.s1.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e2" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e4" id="DDI-DrugBank.d48.s1.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e5" id="DDI-DrugBank.d48.s1.p34"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e6" id="DDI-DrugBank.d48.s1.p35"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e7" id="DDI-DrugBank.d48.s1.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e3" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e5" id="DDI-DrugBank.d48.s1.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e6" id="DDI-DrugBank.d48.s1.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e7" id="DDI-DrugBank.d48.s1.p44"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p45"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e4" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e5" e2="DDI-DrugBank.d48.s1.e6" id="DDI-DrugBank.d48.s1.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e5" e2="DDI-DrugBank.d48.s1.e7" id="DDI-DrugBank.d48.s1.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e5" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e5" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p53"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e5" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p54"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e5" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e5" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e6" e2="DDI-DrugBank.d48.s1.e7" id="DDI-DrugBank.d48.s1.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e6" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e6" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e6" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e6" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p61"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e6" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p62"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e7" e2="DDI-DrugBank.d48.s1.e8" id="DDI-DrugBank.d48.s1.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e7" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e7" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e7" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e7" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e8" e2="DDI-DrugBank.d48.s1.e9" id="DDI-DrugBank.d48.s1.p68"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e8" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p69"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e8" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e8" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e9" e2="DDI-DrugBank.d48.s1.e10" id="DDI-DrugBank.d48.s1.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e9" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e9" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p74"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e10" e2="DDI-DrugBank.d48.s1.e11" id="DDI-DrugBank.d48.s1.p75"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e10" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s1.e11" e2="DDI-DrugBank.d48.s1.e12" id="DDI-DrugBank.d48.s1.p77"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s2" text="In patients receiving treatment with SPRYCEL, close monitoring for toxicity and a SPRYCEL dose reduction should be considered if systemic administration of a potent CYP3A4 inhibitor cannot be avoided.">
+        <entity charOffset="37-43" id="DDI-DrugBank.d48.s2.e0" text="SPRYCEL" type="brand"/>
+        <entity charOffset="82-88" id="DDI-DrugBank.d48.s2.e1" text="SPRYCEL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s2.e0" e2="DDI-DrugBank.d48.s2.e1" id="DDI-DrugBank.d48.s2.p0"/>
+    <negationtags>In patients receiving treatment with SPRYCEL, close monitoring for toxicity and a SPRYCEL dose reduction should be considered if systemic administration of a potent CYP3A4 inhibitor &lt;scope&gt; &lt;cue&gt; cannot &lt;/cue&gt; be avoided. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d48.s3" text="Drugs that may decrease dasatinib plasma concentrations CYP3A4 Inducers: Drugs that induce CYP3A4 activity may decrease dasatinib plasma concentrations.">
+        <entity charOffset="24-32" id="DDI-DrugBank.d48.s3.e0" text="dasatinib" type="drug"/>
+        <entity charOffset="120-128" id="DDI-DrugBank.d48.s3.e1" text="dasatinib" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s3.e0" e2="DDI-DrugBank.d48.s3.e1" id="DDI-DrugBank.d48.s3.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s4" text="In patients in whom CYP3A4 inducers (eg, dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital) are indicated, alternative agents with less enzyme induction potential should be used.">
+        <entity charOffset="41-53" id="DDI-DrugBank.d48.s4.e0" text="dexamethasone" type="drug"/>
+        <entity charOffset="56-64" id="DDI-DrugBank.d48.s4.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="67-79" id="DDI-DrugBank.d48.s4.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="82-91" id="DDI-DrugBank.d48.s4.e3" text="rifampicin" type="drug"/>
+        <entity charOffset="94-106" id="DDI-DrugBank.d48.s4.e4" text="phenobarbital" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e0" e2="DDI-DrugBank.d48.s4.e1" id="DDI-DrugBank.d48.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e0" e2="DDI-DrugBank.d48.s4.e2" id="DDI-DrugBank.d48.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e0" e2="DDI-DrugBank.d48.s4.e3" id="DDI-DrugBank.d48.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e0" e2="DDI-DrugBank.d48.s4.e4" id="DDI-DrugBank.d48.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e1" e2="DDI-DrugBank.d48.s4.e2" id="DDI-DrugBank.d48.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e1" e2="DDI-DrugBank.d48.s4.e3" id="DDI-DrugBank.d48.s4.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e1" e2="DDI-DrugBank.d48.s4.e4" id="DDI-DrugBank.d48.s4.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e2" e2="DDI-DrugBank.d48.s4.e3" id="DDI-DrugBank.d48.s4.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e2" e2="DDI-DrugBank.d48.s4.e4" id="DDI-DrugBank.d48.s4.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s4.e3" e2="DDI-DrugBank.d48.s4.e4" id="DDI-DrugBank.d48.s4.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s5" text="If SPRYCEL must be administered with a CYP3A4 inducer, a dose increase in SPRYCEL should be considered.">
+        <entity charOffset="3-9" id="DDI-DrugBank.d48.s5.e0" text="SPRYCEL" type="brand"/>
+        <entity charOffset="74-80" id="DDI-DrugBank.d48.s5.e1" text="SPRYCEL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s5.e0" e2="DDI-DrugBank.d48.s5.e1" id="DDI-DrugBank.d48.s5.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s6" text="St. Johns wort (Hypericum perforatum) may decrease SPRYCEL plasma concentrations unpredictably.">
+        <entity charOffset="51-57" id="DDI-DrugBank.d48.s6.e0" text="SPRYCEL" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s7" text="Patients receiving SPRYCEL should not take St. Johns wort.">
+        <entity charOffset="19-25" id="DDI-DrugBank.d48.s7.e0" text="SPRYCEL" type="brand"/>
+    <negationtags>Patients receiving SPRYCEL should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; take St. Johns wort. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d48.s8" text="Antacids: Nonclinical data demonstrate that the solubility of dasatinib is pH dependent.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d48.s8.e0" text="Antacids" type="group"/>
+        <entity charOffset="62-70" id="DDI-DrugBank.d48.s8.e1" text="dasatinib" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s8.e0" e2="DDI-DrugBank.d48.s8.e1" id="DDI-DrugBank.d48.s8.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s9" text="Simultaneous administration of SPRYCEL with antacids should be avoided.">
+        <entity charOffset="31-37" id="DDI-DrugBank.d48.s9.e0" text="SPRYCEL" type="brand"/>
+        <entity charOffset="44-51" id="DDI-DrugBank.d48.s9.e1" text="antacids" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s9.e0" e2="DDI-DrugBank.d48.s9.e1" id="DDI-DrugBank.d48.s9.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s10" text="If antacid therapy is needed, the antacid dose should be administered at least 2 hours prior to or 2 hours after the dose of SPRYCEL.">
+        <entity charOffset="3-9" id="DDI-DrugBank.d48.s10.e0" text="antacid" type="group"/>
+        <entity charOffset="125-131" id="DDI-DrugBank.d48.s10.e1" text="SPRYCEL" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s10.e0" e2="DDI-DrugBank.d48.s10.e1" id="DDI-DrugBank.d48.s10.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s11" text="H2 Blockers/Proton Pump Inhibitors: Long-term suppression of gastric acid secretion by H2 blockers or proton pump inhibitors (eg, famotidine and omeprazole) is likely to reduce dasatinib exposure.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d48.s11.e0" text="H2 Blockers" type="group"/>
+        <entity charOffset="12-33" id="DDI-DrugBank.d48.s11.e1" text="Proton Pump Inhibitors" type="group"/>
+        <entity charOffset="87-97" id="DDI-DrugBank.d48.s11.e2" text="H2 blockers" type="group"/>
+        <entity charOffset="102-123" id="DDI-DrugBank.d48.s11.e3" text="proton pump inhibitors" type="group"/>
+        <entity charOffset="130-139" id="DDI-DrugBank.d48.s11.e4" text="famotidine" type="drug"/>
+        <entity charOffset="145-154" id="DDI-DrugBank.d48.s11.e5" text="omeprazole" type="drug"/>
+        <entity charOffset="177-185" id="DDI-DrugBank.d48.s11.e6" text="dasatinib" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e0" e2="DDI-DrugBank.d48.s11.e1" id="DDI-DrugBank.d48.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e0" e2="DDI-DrugBank.d48.s11.e2" id="DDI-DrugBank.d48.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e0" e2="DDI-DrugBank.d48.s11.e3" id="DDI-DrugBank.d48.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e0" e2="DDI-DrugBank.d48.s11.e4" id="DDI-DrugBank.d48.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e0" e2="DDI-DrugBank.d48.s11.e5" id="DDI-DrugBank.d48.s11.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e0" e2="DDI-DrugBank.d48.s11.e6" id="DDI-DrugBank.d48.s11.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e1" e2="DDI-DrugBank.d48.s11.e2" id="DDI-DrugBank.d48.s11.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e1" e2="DDI-DrugBank.d48.s11.e3" id="DDI-DrugBank.d48.s11.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e1" e2="DDI-DrugBank.d48.s11.e4" id="DDI-DrugBank.d48.s11.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e1" e2="DDI-DrugBank.d48.s11.e5" id="DDI-DrugBank.d48.s11.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e1" e2="DDI-DrugBank.d48.s11.e6" id="DDI-DrugBank.d48.s11.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e2" e2="DDI-DrugBank.d48.s11.e3" id="DDI-DrugBank.d48.s11.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e2" e2="DDI-DrugBank.d48.s11.e4" id="DDI-DrugBank.d48.s11.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e2" e2="DDI-DrugBank.d48.s11.e5" id="DDI-DrugBank.d48.s11.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s11.e2" e2="DDI-DrugBank.d48.s11.e6" id="DDI-DrugBank.d48.s11.p14" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e3" e2="DDI-DrugBank.d48.s11.e4" id="DDI-DrugBank.d48.s11.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e3" e2="DDI-DrugBank.d48.s11.e5" id="DDI-DrugBank.d48.s11.p16"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s11.e3" e2="DDI-DrugBank.d48.s11.e6" id="DDI-DrugBank.d48.s11.p17" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s11.e4" e2="DDI-DrugBank.d48.s11.e5" id="DDI-DrugBank.d48.s11.p18"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s11.e4" e2="DDI-DrugBank.d48.s11.e6" id="DDI-DrugBank.d48.s11.p19" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s11.e5" e2="DDI-DrugBank.d48.s11.e6" id="DDI-DrugBank.d48.s11.p20" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s12" text="The concomitant use of H2 blockers or proton pump inhibitors with SPRYCEL is not recommended.">
+        <entity charOffset="23-33" id="DDI-DrugBank.d48.s12.e0" text="H2 blockers" type="group"/>
+        <entity charOffset="38-59" id="DDI-DrugBank.d48.s12.e1" text="proton pump inhibitors" type="group"/>
+        <entity charOffset="66-72" id="DDI-DrugBank.d48.s12.e2" text="SPRYCEL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s12.e0" e2="DDI-DrugBank.d48.s12.e1" id="DDI-DrugBank.d48.s12.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s12.e0" e2="DDI-DrugBank.d48.s12.e2" id="DDI-DrugBank.d48.s12.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s12.e1" e2="DDI-DrugBank.d48.s12.e2" id="DDI-DrugBank.d48.s12.p2" type="advise"/>
+    <negationtags>The concomitant use of H2 blockers or proton pump inhibitors with SPRYCEL is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; recommended. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d48.s13" text="The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy.">
+        <entity charOffset="11-18" id="DDI-DrugBank.d48.s13.e0" text="antacids" type="group"/>
+        <entity charOffset="53-63" id="DDI-DrugBank.d48.s13.e1" text="H2 blockers" type="group"/>
+        <entity charOffset="68-89" id="DDI-DrugBank.d48.s13.e2" text="proton pump inhibitors" type="group"/>
+        <entity charOffset="113-119" id="DDI-DrugBank.d48.s13.e3" text="SPRYCEL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s13.e0" e2="DDI-DrugBank.d48.s13.e1" id="DDI-DrugBank.d48.s13.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s13.e0" e2="DDI-DrugBank.d48.s13.e2" id="DDI-DrugBank.d48.s13.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s13.e0" e2="DDI-DrugBank.d48.s13.e3" id="DDI-DrugBank.d48.s13.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s13.e1" e2="DDI-DrugBank.d48.s13.e2" id="DDI-DrugBank.d48.s13.p3"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s13.e1" e2="DDI-DrugBank.d48.s13.e3" id="DDI-DrugBank.d48.s13.p4" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s13.e2" e2="DDI-DrugBank.d48.s13.e3" id="DDI-DrugBank.d48.s13.p5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s14" text="Drugs that may have their plasma concentration altered by dasatinib CYP3A4 Substrates: Dasatinib is a time-dependent inhibitor of CYP3A4.">
+        <entity charOffset="58-66" id="DDI-DrugBank.d48.s14.e0" text="dasatinib" type="drug"/>
+        <entity charOffset="87-95" id="DDI-DrugBank.d48.s14.e1" text="Dasatinib" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s14.e0" e2="DDI-DrugBank.d48.s14.e1" id="DDI-DrugBank.d48.s14.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s15" text="Therefore, CYP3A4 substrates known to have a narrow therapeutic index such as alfentanil, astemizole, terfenadine, cisapride, cyclosporine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus, or ergot alkaloids (ergotamine, dihydroergotamine) should be administered with caution in patients receiving SPRYCEL.">
+        <entity charOffset="78-87" id="DDI-DrugBank.d48.s15.e0" text="alfentanil" type="drug"/>
+        <entity charOffset="90-99" id="DDI-DrugBank.d48.s15.e1" text="astemizole" type="drug"/>
+        <entity charOffset="102-112" id="DDI-DrugBank.d48.s15.e2" text="terfenadine" type="drug"/>
+        <entity charOffset="115-123" id="DDI-DrugBank.d48.s15.e3" text="cisapride" type="drug"/>
+        <entity charOffset="126-137" id="DDI-DrugBank.d48.s15.e4" text="cyclosporine" type="drug"/>
+        <entity charOffset="140-147" id="DDI-DrugBank.d48.s15.e5" text="fentanyl" type="drug"/>
+        <entity charOffset="150-157" id="DDI-DrugBank.d48.s15.e6" text="pimozide" type="drug"/>
+        <entity charOffset="160-168" id="DDI-DrugBank.d48.s15.e7" text="quinidine" type="drug"/>
+        <entity charOffset="171-179" id="DDI-DrugBank.d48.s15.e8" text="sirolimus" type="drug"/>
+        <entity charOffset="182-191" id="DDI-DrugBank.d48.s15.e9" text="tacrolimus" type="drug"/>
+        <entity charOffset="197-211" id="DDI-DrugBank.d48.s15.e10" text="ergot alkaloids" type="group"/>
+        <entity charOffset="214-223" id="DDI-DrugBank.d48.s15.e11" text="ergotamine" type="drug"/>
+        <entity charOffset="226-242" id="DDI-DrugBank.d48.s15.e12" text="dihydroergotamine" type="drug"/>
+        <entity charOffset="303-309" id="DDI-DrugBank.d48.s15.e13" text="SPRYCEL" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e1" id="DDI-DrugBank.d48.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e2" id="DDI-DrugBank.d48.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e3" id="DDI-DrugBank.d48.s15.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e4" id="DDI-DrugBank.d48.s15.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e5" id="DDI-DrugBank.d48.s15.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e6" id="DDI-DrugBank.d48.s15.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e7" id="DDI-DrugBank.d48.s15.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e0" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p12" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e2" id="DDI-DrugBank.d48.s15.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e3" id="DDI-DrugBank.d48.s15.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e4" id="DDI-DrugBank.d48.s15.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e5" id="DDI-DrugBank.d48.s15.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e6" id="DDI-DrugBank.d48.s15.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e7" id="DDI-DrugBank.d48.s15.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p23"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e1" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p24" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e3" id="DDI-DrugBank.d48.s15.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e4" id="DDI-DrugBank.d48.s15.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e5" id="DDI-DrugBank.d48.s15.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e6" id="DDI-DrugBank.d48.s15.p28"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e7" id="DDI-DrugBank.d48.s15.p29"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p31"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p32"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p33"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p34"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e2" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p35" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e4" id="DDI-DrugBank.d48.s15.p36"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e5" id="DDI-DrugBank.d48.s15.p37"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e6" id="DDI-DrugBank.d48.s15.p38"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e7" id="DDI-DrugBank.d48.s15.p39"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p40"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p41"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p42"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p43"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p44"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e3" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p45" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e5" id="DDI-DrugBank.d48.s15.p46"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e6" id="DDI-DrugBank.d48.s15.p47"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e7" id="DDI-DrugBank.d48.s15.p48"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p49"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p50"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p51"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p52"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p53"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e4" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p54" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e6" id="DDI-DrugBank.d48.s15.p55"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e7" id="DDI-DrugBank.d48.s15.p56"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p57"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p58"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p59"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p60"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p61"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e5" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p62" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e6" e2="DDI-DrugBank.d48.s15.e7" id="DDI-DrugBank.d48.s15.p63"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e6" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p64"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e6" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p65"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e6" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p66"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e6" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p67"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e6" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p68"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e6" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p69" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e7" e2="DDI-DrugBank.d48.s15.e8" id="DDI-DrugBank.d48.s15.p70"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e7" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p71"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e7" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p72"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e7" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p73"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e7" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p74"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e7" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p75" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e8" e2="DDI-DrugBank.d48.s15.e9" id="DDI-DrugBank.d48.s15.p76"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e8" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p77"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e8" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p78"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e8" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p79"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e8" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p80" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e9" e2="DDI-DrugBank.d48.s15.e10" id="DDI-DrugBank.d48.s15.p81"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e9" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p82"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e9" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p83"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e9" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p84" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e10" e2="DDI-DrugBank.d48.s15.e11" id="DDI-DrugBank.d48.s15.p85"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e10" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p86"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e10" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p87" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d48.s15.e11" e2="DDI-DrugBank.d48.s15.e12" id="DDI-DrugBank.d48.s15.p88"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e11" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p89" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d48.s15.e12" e2="DDI-DrugBank.d48.s15.e13" id="DDI-DrugBank.d48.s15.p90" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s16" text="Hepatic Impairment There are currently no clinical studies with SPRYCEL in patients with impaired liver function (clinical studies have excluded patients with ALT and/or AST  2.5 times the upper limit of the normal range and/or total bilirubin  2 times the upper limit of the normal range).">
+        <entity charOffset="64-70" id="DDI-DrugBank.d48.s16.e0" text="SPRYCEL" type="brand"/>
+    <negationtags>Hepatic Impairment There are currently &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinical studies with SPRYCEL in patients with impaired liver function (clinical studies have excluded patients with ALT and/or AST 2.5 times the upper limit of the normal range and/or total bilirubin 2 times the upper limit of the normal range). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d48.s17" text="Metabolism of dasatinib is mainly hepatic.">
+        <entity charOffset="14-22" id="DDI-DrugBank.d48.s17.e0" text="dasatinib" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s18" text="Caution is recommended in patients with hepatic impairment."/>
+    <sentence id="DDI-DrugBank.d48.s19" text="Renal Impairment There are currently no clinical studies with SPRYCEL in patients with impaired renal function (clinical studies have excluded patients with serum creatinine concentration  1.5 times the upper limit of the normal range).">
+        <entity charOffset="62-68" id="DDI-DrugBank.d48.s19.e0" text="SPRYCEL" type="brand"/>
+    <negationtags>Renal Impairment There are currently &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinical studies with SPRYCEL in patients with impaired renal function (clinical studies have excluded patients with serum creatinine concentration 1.5 times the upper limit of the normal range). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d48.s20" text="Dasatinib and its metabolites are minimally excreted via the kidney.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d48.s20.e0" text="Dasatinib" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d48.s21" text="Since the renal excretion of unchanged dasatinib and its metabolites is  4%, a decrease in total body clearance is not expected in patients with renal insufficiency.">
+        <entity charOffset="39-47" id="DDI-DrugBank.d48.s21.e0" text="dasatinib" type="drug"/>
+    <negationtags>Since the renal excretion of unchanged dasatinib and its metabolites is 4%, a decrease in total body clearance is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; expected in patients with renal insufficiency. &lt;/scope&gt;</negationtags></sentence>
+</document>

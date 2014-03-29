@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d373">
+    <sentence id="DDI-DrugBank.d373.s0" text="Beta-adrenergic Blocking Agents: Experience in over 1400 patients in a non-comparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension or exacerbation of angina.">
+        <entity charOffset="0-30" id="DDI-DrugBank.d373.s0.e0" text="Beta-adrenergic Blocking Agents" type="group"/>
+        <entity charOffset="147-156" id="DDI-DrugBank.d373.s0.e1" text="nifedipine" type="drug"/>
+        <entity charOffset="162-181" id="DDI-DrugBank.d373.s0.e2" text="beta-blocking agents" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s0.e0" e2="DDI-DrugBank.d373.s0.e1" id="DDI-DrugBank.d373.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s0.e0" e2="DDI-DrugBank.d373.s0.e2" id="DDI-DrugBank.d373.s0.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s0.e1" e2="DDI-DrugBank.d373.s0.e2" id="DDI-DrugBank.d373.s0.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s1" text="Long Acting Nitrates: Nifedipine may be safely co-administered with nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.">
+        <entity charOffset="12-19" id="DDI-DrugBank.d373.s1.e0" text="Nitrates" type="group"/>
+        <entity charOffset="22-31" id="DDI-DrugBank.d373.s1.e1" text="Nifedipine" type="drug"/>
+        <entity charOffset="68-75" id="DDI-DrugBank.d373.s1.e2" text="nitrates" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s1.e0" e2="DDI-DrugBank.d373.s1.e1" id="DDI-DrugBank.d373.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s1.e0" e2="DDI-DrugBank.d373.s1.e2" id="DDI-DrugBank.d373.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s1.e1" e2="DDI-DrugBank.d373.s1.e2" id="DDI-DrugBank.d373.s1.p2"/>
+    <negationtags>Long Acting Nitrates: Nifedipine may be safely co-administered with nitrates, but there have been &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; controlled studies to evaluate the antianginal effectiveness of this combination. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d373.s2" text="Digitalis: Immediate Release Capsules: Since there have been isolated reports of patients with elevated digoxin levels, and there is a possible interaction between digoxin and nifedipine, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d373.s2.e0" text="Digitalis" type="group"/>
+        <entity charOffset="104-110" id="DDI-DrugBank.d373.s2.e1" text="digoxin" type="drug"/>
+        <entity charOffset="164-170" id="DDI-DrugBank.d373.s2.e2" text="digoxin" type="drug"/>
+        <entity charOffset="176-185" id="DDI-DrugBank.d373.s2.e3" text="nifedipine" type="drug"/>
+        <entity charOffset="211-217" id="DDI-DrugBank.d373.s2.e4" text="digoxin" type="drug"/>
+        <entity charOffset="285-294" id="DDI-DrugBank.d373.s2.e5" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e0" e2="DDI-DrugBank.d373.s2.e1" id="DDI-DrugBank.d373.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e0" e2="DDI-DrugBank.d373.s2.e2" id="DDI-DrugBank.d373.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e0" e2="DDI-DrugBank.d373.s2.e3" id="DDI-DrugBank.d373.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e0" e2="DDI-DrugBank.d373.s2.e4" id="DDI-DrugBank.d373.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e0" e2="DDI-DrugBank.d373.s2.e5" id="DDI-DrugBank.d373.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e1" e2="DDI-DrugBank.d373.s2.e2" id="DDI-DrugBank.d373.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e1" e2="DDI-DrugBank.d373.s2.e3" id="DDI-DrugBank.d373.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e1" e2="DDI-DrugBank.d373.s2.e4" id="DDI-DrugBank.d373.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e1" e2="DDI-DrugBank.d373.s2.e5" id="DDI-DrugBank.d373.s2.p8"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s2.e2" e2="DDI-DrugBank.d373.s2.e3" id="DDI-DrugBank.d373.s2.p9" type="int"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e2" e2="DDI-DrugBank.d373.s2.e4" id="DDI-DrugBank.d373.s2.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e2" e2="DDI-DrugBank.d373.s2.e5" id="DDI-DrugBank.d373.s2.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e3" e2="DDI-DrugBank.d373.s2.e4" id="DDI-DrugBank.d373.s2.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s2.e3" e2="DDI-DrugBank.d373.s2.e5" id="DDI-DrugBank.d373.s2.p13"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s2.e4" e2="DDI-DrugBank.d373.s2.e5" id="DDI-DrugBank.d373.s2.p14" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s3" text="Extended Release Tablets: Administration of nifedipine with digoxin increased digoxin levels in 9 of 12 normal volunteers.">
+        <entity charOffset="44-53" id="DDI-DrugBank.d373.s3.e0" text="nifedipine" type="drug"/>
+        <entity charOffset="60-66" id="DDI-DrugBank.d373.s3.e1" text="digoxin" type="drug"/>
+        <entity charOffset="78-84" id="DDI-DrugBank.d373.s3.e2" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s3.e0" e2="DDI-DrugBank.d373.s3.e1" id="DDI-DrugBank.d373.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s3.e0" e2="DDI-DrugBank.d373.s3.e2" id="DDI-DrugBank.d373.s3.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s3.e1" e2="DDI-DrugBank.d373.s3.e2" id="DDI-DrugBank.d373.s3.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s4" text="The average increase was 45%."/>
+    <sentence id="DDI-DrugBank.d373.s5" text="Another investigator found no increase in digoxin levels in 13 patients with coronary artery disease.">
+        <entity charOffset="42-48" id="DDI-DrugBank.d373.s5.e0" text="digoxin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s6" text="In an uncontrolled study of over 200 patients with congestive heart failure during which digoxin blood levels were not measured, digitalis toxicity was not observed.">
+        <entity charOffset="89-95" id="DDI-DrugBank.d373.s6.e0" text="digoxin" type="drug"/>
+    <negationtags>In an uncontrolled study of over 200 patients with congestive heart failure during which digoxin blood levels were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; measured, digitalis toxicity was not observed. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d373.s7" text="Since there have been isolated reports of patients with elevated digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization.">
+        <entity charOffset="65-71" id="DDI-DrugBank.d373.s7.e0" text="digoxin" type="drug"/>
+        <entity charOffset="104-110" id="DDI-DrugBank.d373.s7.e1" text="digoxin" type="drug"/>
+        <entity charOffset="178-187" id="DDI-DrugBank.d373.s7.e2" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s7.e0" e2="DDI-DrugBank.d373.s7.e1" id="DDI-DrugBank.d373.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s7.e0" e2="DDI-DrugBank.d373.s7.e2" id="DDI-DrugBank.d373.s7.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s7.e1" e2="DDI-DrugBank.d373.s7.e2" id="DDI-DrugBank.d373.s7.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s8" text="Quinidine: Immediate Release Capsules: There have been rare reports of an interaction between quinidine and nifedipine (with a decreased plasma level of quinidine).">
+        <entity charOffset="0-8" id="DDI-DrugBank.d373.s8.e0" text="Quinidine" type="drug"/>
+        <entity charOffset="94-102" id="DDI-DrugBank.d373.s8.e1" text="quinidine" type="drug"/>
+        <entity charOffset="108-117" id="DDI-DrugBank.d373.s8.e2" text="nifedipine" type="drug"/>
+        <entity charOffset="153-161" id="DDI-DrugBank.d373.s8.e3" text="quinidine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s8.e0" e2="DDI-DrugBank.d373.s8.e1" id="DDI-DrugBank.d373.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s8.e0" e2="DDI-DrugBank.d373.s8.e2" id="DDI-DrugBank.d373.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s8.e0" e2="DDI-DrugBank.d373.s8.e3" id="DDI-DrugBank.d373.s8.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s8.e1" e2="DDI-DrugBank.d373.s8.e2" id="DDI-DrugBank.d373.s8.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s8.e1" e2="DDI-DrugBank.d373.s8.e3" id="DDI-DrugBank.d373.s8.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s8.e2" e2="DDI-DrugBank.d373.s8.e3" id="DDI-DrugBank.d373.s8.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s9" text="Coumarin Anticoagulants: There have been rare reports of increased prothrombin time in patients taking coumarin anticoagulants to whom nifedipine was administered.">
+        <entity charOffset="0-22" id="DDI-DrugBank.d373.s9.e0" text="Coumarin Anticoagulants" type="group"/>
+        <entity charOffset="103-125" id="DDI-DrugBank.d373.s9.e1" text="coumarin anticoagulants" type="group"/>
+        <entity charOffset="135-144" id="DDI-DrugBank.d373.s9.e2" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s9.e0" e2="DDI-DrugBank.d373.s9.e1" id="DDI-DrugBank.d373.s9.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s9.e0" e2="DDI-DrugBank.d373.s9.e2" id="DDI-DrugBank.d373.s9.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s9.e1" e2="DDI-DrugBank.d373.s9.e2" id="DDI-DrugBank.d373.s9.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s10" text="However, the relationship to nifedipine therapy is uncertain.">
+        <entity charOffset="29-38" id="DDI-DrugBank.d373.s10.e0" text="nifedipine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s11" text="Cimetidine: A study in 6 healthy volunteers has shown a significant increase in peak nifedipine plasma levels (80%) and area-under-the-curve (74%) after a 1 week course of cimetidine at 1000 mg per day and nifedipine at 40 mg per day.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d373.s11.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="85-94" id="DDI-DrugBank.d373.s11.e1" text="nifedipine" type="drug"/>
+        <entity charOffset="172-181" id="DDI-DrugBank.d373.s11.e2" text="cimetidine" type="drug"/>
+        <entity charOffset="206-215" id="DDI-DrugBank.d373.s11.e3" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s11.e0" e2="DDI-DrugBank.d373.s11.e1" id="DDI-DrugBank.d373.s11.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s11.e0" e2="DDI-DrugBank.d373.s11.e2" id="DDI-DrugBank.d373.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s11.e0" e2="DDI-DrugBank.d373.s11.e3" id="DDI-DrugBank.d373.s11.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s11.e1" e2="DDI-DrugBank.d373.s11.e2" id="DDI-DrugBank.d373.s11.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s11.e1" e2="DDI-DrugBank.d373.s11.e3" id="DDI-DrugBank.d373.s11.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s11.e2" e2="DDI-DrugBank.d373.s11.e3" id="DDI-DrugBank.d373.s11.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s12" text="Ranitidine produced smaller, non-significant increases.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d373.s12.e0" text="Ranitidine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s13" text="The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450, the enzyme system probably responsible for the first-pass metabolism of nifedipine.">
+        <entity charOffset="54-63" id="DDI-DrugBank.d373.s13.e0" text="cimetidine" type="drug"/>
+        <entity charOffset="166-175" id="DDI-DrugBank.d373.s13.e1" text="nifedipine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d373.s13.e0" e2="DDI-DrugBank.d373.s13.e1" id="DDI-DrugBank.d373.s13.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d373.s14" text="If nifedipine therapy is initiated in a patient currently receiving cimetidine, cautious titration is advised.">
+        <entity charOffset="3-12" id="DDI-DrugBank.d373.s14.e0" text="nifedipine" type="drug"/>
+        <entity charOffset="68-77" id="DDI-DrugBank.d373.s14.e1" text="cimetidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d373.s14.e0" e2="DDI-DrugBank.d373.s14.e1" id="DDI-DrugBank.d373.s14.p0" type="advise"/>
+    </sentence>
+</document>

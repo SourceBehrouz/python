@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d505">
+    <sentence id="DDI-DrugBank.d505.s0" text="No pharmacokinetic drug-drug interaction studies were conducted with PERSANTINE  (dipyridamole USP) Tablets.">
+        <entity charOffset="69-78" id="DDI-DrugBank.d505.s0.e0" text="PERSANTINE" type="brand"/>
+        <entity charOffset="82-93" id="DDI-DrugBank.d505.s0.e1" text="dipyridamole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d505.s0.e0" e2="DDI-DrugBank.d505.s0.e1" id="DDI-DrugBank.d505.s0.p0"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; pharmacokinetic drug-drug interaction studies were conducted with PERSANTINE (dipyridamole USP) Tablets. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d505.s1" text="The following information was obtained from the literature."/>
+    <sentence id="DDI-DrugBank.d505.s2" text="Adenosine: Dipyridamole has been reported to increase the plasma levels and cardiovascular effects of adenosine.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d505.s2.e0" text="Adenosine" type="drug"/>
+        <entity charOffset="11-22" id="DDI-DrugBank.d505.s2.e1" text="Dipyridamole" type="drug"/>
+        <entity charOffset="102-110" id="DDI-DrugBank.d505.s2.e2" text="adenosine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d505.s2.e0" e2="DDI-DrugBank.d505.s2.e1" id="DDI-DrugBank.d505.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d505.s2.e0" e2="DDI-DrugBank.d505.s2.e2" id="DDI-DrugBank.d505.s2.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d505.s2.e1" e2="DDI-DrugBank.d505.s2.e2" id="DDI-DrugBank.d505.s2.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d505.s3" text="Adjustment of adenosine dosage may be necessary.">
+        <entity charOffset="14-22" id="DDI-DrugBank.d505.s3.e0" text="adenosine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d505.s4" text="Cholinesterase Inhibitors: Dipyridamole may counteract the anticholinesterase effect of cholinesterase inhibitors, thereby potentially aggravating myasthenia gravis.">
+        <entity charOffset="0-24" id="DDI-DrugBank.d505.s4.e0" text="Cholinesterase Inhibitors" type="group"/>
+        <entity charOffset="27-38" id="DDI-DrugBank.d505.s4.e1" text="Dipyridamole" type="drug"/>
+        <entity charOffset="88-112" id="DDI-DrugBank.d505.s4.e2" text="cholinesterase inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d505.s4.e0" e2="DDI-DrugBank.d505.s4.e1" id="DDI-DrugBank.d505.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d505.s4.e0" e2="DDI-DrugBank.d505.s4.e2" id="DDI-DrugBank.d505.s4.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d505.s4.e1" e2="DDI-DrugBank.d505.s4.e2" id="DDI-DrugBank.d505.s4.p2" type="effect"/>
+    </sentence>
+</document>

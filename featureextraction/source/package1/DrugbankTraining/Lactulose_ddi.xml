@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d206">
+    <sentence id="DDI-DrugBank.d206.s0" text="Results of preliminary studies in humans and rats suggest that nonabsorbable antacids given concurrently with lactulose may inhibit the desired lactulose-induced drop in colonic pH.">
+        <entity charOffset="77-84" id="DDI-DrugBank.d206.s0.e0" text="antacids" type="group"/>
+        <entity charOffset="110-118" id="DDI-DrugBank.d206.s0.e1" text="lactulose" type="drug"/>
+        <entity charOffset="144-152" id="DDI-DrugBank.d206.s0.e2" text="lactulose" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d206.s0.e0" e2="DDI-DrugBank.d206.s0.e1" id="DDI-DrugBank.d206.s0.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d206.s0.e0" e2="DDI-DrugBank.d206.s0.e2" id="DDI-DrugBank.d206.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d206.s0.e1" e2="DDI-DrugBank.d206.s0.e2" id="DDI-DrugBank.d206.s0.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d206.s1" text="Therefore, a possible lack of desired effect of treatment should be taken into consideration before such drugs are given concomitantly with lactulose.">
+        <entity charOffset="140-148" id="DDI-DrugBank.d206.s1.e0" text="lactulose" type="drug"/>
+    </sentence>
+</document>

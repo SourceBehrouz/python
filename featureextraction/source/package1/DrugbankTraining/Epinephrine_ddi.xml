@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d247">
+    <sentence id="DDI-DrugBank.d247.s0" text="Epinephrine should be used cautiously in patients with hyperthyroidism, hypertension and cardiac arrhythmias.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d247.s0.e0" text="Epinephrine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s1" text="All vasopressors should be used cautiously in patients taking monoamine oxidase (MAO) inhibitors.">
+        <entity charOffset="4-15" id="DDI-DrugBank.d247.s1.e0" text="vasopressors" type="group"/>
+        <entity charOffset="62-95" id="DDI-DrugBank.d247.s1.e1" text="monoamine oxidase (MAO) inhibitors" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s1.e0" e2="DDI-DrugBank.d247.s1.e1" id="DDI-DrugBank.d247.s1.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s2" text="Epinephrine should not be administered concomitantly with other sympathomimetic drugs (such as isoproterenol) because of possible additive effects and increased toxicity.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d247.s2.e0" text="Epinephrine" type="drug"/>
+        <entity charOffset="64-84" id="DDI-DrugBank.d247.s2.e1" text="sympathomimetic drugs" type="group"/>
+        <entity charOffset="95-107" id="DDI-DrugBank.d247.s2.e2" text="isoproterenol" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s2.e0" e2="DDI-DrugBank.d247.s2.e1" id="DDI-DrugBank.d247.s2.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s2.e0" e2="DDI-DrugBank.d247.s2.e2" id="DDI-DrugBank.d247.s2.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s2.e1" e2="DDI-DrugBank.d247.s2.e2" id="DDI-DrugBank.d247.s2.p2"/>
+    <negationtags>Epinephrine should &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be administered concomitantly with other sympathomimetic drugs (such as isoproterenol) because of possible additive effects and increased toxicity. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d247.s3" text="Combined effects may induce serious cardiac arrhythmias."/>
+    <sentence id="DDI-DrugBank.d247.s4" text="They may be administered alternately when the preceding effect of other such drug has subsided."/>
+    <sentence id="DDI-DrugBank.d247.s5" text="Administration of epinephrine to patients receiving cyclopropane or halogenated hydrocarbon general anesthetics such as halothane which sensitize the myocardium, may induce cardiac arrhythmia..">
+        <entity charOffset="18-28" id="DDI-DrugBank.d247.s5.e0" text="epinephrine" type="drug"/>
+        <entity charOffset="52-63" id="DDI-DrugBank.d247.s5.e1" text="cyclopropane" type="drug"/>
+        <entity charOffset="68-110" id="DDI-DrugBank.d247.s5.e2" text="halogenated hydrocarbon general anesthetics" type="group"/>
+        <entity charOffset="120-128" id="DDI-DrugBank.d247.s5.e3" text="halothane" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s5.e0" e2="DDI-DrugBank.d247.s5.e1" id="DDI-DrugBank.d247.s5.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s5.e0" e2="DDI-DrugBank.d247.s5.e2" id="DDI-DrugBank.d247.s5.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s5.e0" e2="DDI-DrugBank.d247.s5.e3" id="DDI-DrugBank.d247.s5.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s5.e1" e2="DDI-DrugBank.d247.s5.e2" id="DDI-DrugBank.d247.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s5.e1" e2="DDI-DrugBank.d247.s5.e3" id="DDI-DrugBank.d247.s5.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s5.e2" e2="DDI-DrugBank.d247.s5.e3" id="DDI-DrugBank.d247.s5.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s6" text="When encountered, such arrhythmias may respond to administration of a beta-adrenergic blocking drug.">
+        <entity charOffset="70-98" id="DDI-DrugBank.d247.s6.e0" text="beta-adrenergic blocking drug" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s7" text="Epinephrine also should be used cautiously with other drugs (e.g., digitalis, glycosides) that sensitize the myocardium to the actions of sympathomimetic drugs.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d247.s7.e0" text="Epinephrine" type="drug"/>
+        <entity charOffset="67-75" id="DDI-DrugBank.d247.s7.e1" text="digitalis" type="group"/>
+        <entity charOffset="78-87" id="DDI-DrugBank.d247.s7.e2" text="glycosides" type="group"/>
+        <entity charOffset="138-158" id="DDI-DrugBank.d247.s7.e3" text="sympathomimetic drugs" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s7.e0" e2="DDI-DrugBank.d247.s7.e1" id="DDI-DrugBank.d247.s7.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s7.e0" e2="DDI-DrugBank.d247.s7.e2" id="DDI-DrugBank.d247.s7.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s7.e0" e2="DDI-DrugBank.d247.s7.e3" id="DDI-DrugBank.d247.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s7.e1" e2="DDI-DrugBank.d247.s7.e2" id="DDI-DrugBank.d247.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s7.e1" e2="DDI-DrugBank.d247.s7.e3" id="DDI-DrugBank.d247.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d247.s7.e2" e2="DDI-DrugBank.d247.s7.e3" id="DDI-DrugBank.d247.s7.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s8" text="Diuretic agents may decrease vascular response to pressor drugs such as epinephrine.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d247.s8.e0" text="Diuretic agents" type="group"/>
+        <entity charOffset="72-82" id="DDI-DrugBank.d247.s8.e1" text="epinephrine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s8.e0" e2="DDI-DrugBank.d247.s8.e1" id="DDI-DrugBank.d247.s8.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d247.s9" text="Epinephrine may antagonize the neuron blockade produced by guanethidine resulting in decreased antihypertensive effect and requiring increased dosage of the latter.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d247.s9.e0" text="Epinephrine" type="drug"/>
+        <entity charOffset="59-70" id="DDI-DrugBank.d247.s9.e1" text="guanethidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d247.s9.e0" e2="DDI-DrugBank.d247.s9.e1" id="DDI-DrugBank.d247.s9.p0" type="effect"/>
+    </sentence>
+</document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d190">
+    <sentence id="DDI-DrugBank.d190.s0" text="Drug interaction studies with Xigris have not been performed in patients with severe sepsis.">
+        <entity charOffset="30-35" id="DDI-DrugBank.d190.s0.e0" text="Xigris" type="brand"/>
+    <negationtags>Drug interaction studies with Xigris have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been performed in patients with severe sepsis. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d190.s1" text="However, since there is an increased risk of bleeding with Xigris, caution should be employed when Xigris is used with other drugs that affect hemostasis.">
+        <entity charOffset="59-64" id="DDI-DrugBank.d190.s1.e0" text="Xigris" type="brand"/>
+        <entity charOffset="99-104" id="DDI-DrugBank.d190.s1.e1" text="Xigris" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d190.s1.e0" e2="DDI-DrugBank.d190.s1.e1" id="DDI-DrugBank.d190.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d190.s2" text="Approximately 2/3 of the patients in the Phase 3 study received either prophylactic low dose heparin (unfractionated heparin up to 15,000 units/day) or prophylactic doses of low molecular weight heparins as indicated in the prescribing information for the specific products.">
+        <entity charOffset="93-99" id="DDI-DrugBank.d190.s2.e0" text="heparin" type="drug"/>
+        <entity charOffset="102-123" id="DDI-DrugBank.d190.s2.e1" text="unfractionated heparin" type="drug"/>
+        <entity charOffset="174-202" id="DDI-DrugBank.d190.s2.e2" text="low molecular weight heparins" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d190.s2.e0" e2="DDI-DrugBank.d190.s2.e1" id="DDI-DrugBank.d190.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d190.s2.e0" e2="DDI-DrugBank.d190.s2.e2" id="DDI-DrugBank.d190.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d190.s2.e1" e2="DDI-DrugBank.d190.s2.e2" id="DDI-DrugBank.d190.s2.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d190.s3" text="Concomitant use of prophylactic low dose heparin did not appear to affect safety, however, its effects on the efficacy of Xigris have not been evaluated in an adequate and well-controlled clinical trial.">
+        <entity charOffset="41-47" id="DDI-DrugBank.d190.s3.e0" text="heparin" type="drug"/>
+        <entity charOffset="122-127" id="DDI-DrugBank.d190.s3.e1" text="Xigris" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d190.s3.e0" e2="DDI-DrugBank.d190.s3.e1" id="DDI-DrugBank.d190.s3.p0"/>
+    <negationtags>Concomitant use of prophylactic low dose heparin did &lt;scope&gt; &lt;cue&gt; not appear &lt;/cue&gt; to affect safety, &lt;/scope&gt; however, its effects on the efficacy of Xigris have not been evaluated in an adequate and well-controlled clinical trial.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d190.s4" text="Drug/Laboratory Test Interaction Because Xigris may affect the APTT assay, Xigris present in plasma samples may interfere with one-stage coagulation assays based on the APTT (such as factor VIII, IX, and XI assays).">
+        <entity charOffset="41-46" id="DDI-DrugBank.d190.s4.e0" text="Xigris" type="brand"/>
+        <entity charOffset="75-80" id="DDI-DrugBank.d190.s4.e1" text="Xigris" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d190.s4.e0" e2="DDI-DrugBank.d190.s4.e1" id="DDI-DrugBank.d190.s4.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d190.s5" text="This interference may result in an apparent factor concentration that is lower than the true concentration."/>
+    <sentence id="DDI-DrugBank.d190.s6" text="Xigris present in plasma samples does not interfere with one-stage factor assays based on the PT (such as factor II, V, VII, and X assays).">
+        <entity charOffset="0-5" id="DDI-DrugBank.d190.s6.e0" text="Xigris" type="brand"/>
+    <negationtags>Xigris present in plasma samples does &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; interfere with one-stage factor assays based on the PT (such as factor II, V, VII, and X assays). &lt;/scope&gt;</negationtags></sentence>
+</document>

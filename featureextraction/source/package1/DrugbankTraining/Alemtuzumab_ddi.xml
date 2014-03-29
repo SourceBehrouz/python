@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d407">
+    <sentence id="DDI-DrugBank.d407.s0" text="Drug/Laboratory Interactions No formal drug interaction studies have been performed with Campath.">
+        <entity charOffset="89-95" id="DDI-DrugBank.d407.s0.e0" text="Campath" type="brand"/>
+    <negationtags>Drug/Laboratory Interactions &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; formal drug interaction studies have been performed with Campath. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d407.s1" text="An immune response to Campath may interfere with subsequent diagnostic serum tests that utilize antibodies">
+        <entity charOffset="22-28" id="DDI-DrugBank.d407.s1.e0" text="Campath" type="brand"/>
+        <entity charOffset="96-105" id="DDI-DrugBank.d407.s1.e1" text="antibodies" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d407.s1.e0" e2="DDI-DrugBank.d407.s1.e1" id="DDI-DrugBank.d407.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d407.s2" text="."/>
+    <sentence id="DDI-DrugBank.d407.s3" text=""/>
+</document>

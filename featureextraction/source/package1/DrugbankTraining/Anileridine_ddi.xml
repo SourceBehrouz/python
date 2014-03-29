@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d215">
+    <sentence id="DDI-DrugBank.d215.s0" text="Caution should be observed when anileridine is coadministered with other opioids, sedatives, phenothiazines, or anesthetics, as these agents may increase respiratory and circulatory depression.">
+        <entity charOffset="32-42" id="DDI-DrugBank.d215.s0.e0" text="anileridine" type="drug"/>
+        <entity charOffset="73-79" id="DDI-DrugBank.d215.s0.e1" text="opioids" type="group"/>
+        <entity charOffset="82-90" id="DDI-DrugBank.d215.s0.e2" text="sedatives" type="group"/>
+        <entity charOffset="93-106" id="DDI-DrugBank.d215.s0.e3" text="phenothiazines" type="group"/>
+        <entity charOffset="112-122" id="DDI-DrugBank.d215.s0.e4" text="anesthetics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d215.s0.e0" e2="DDI-DrugBank.d215.s0.e1" id="DDI-DrugBank.d215.s0.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d215.s0.e0" e2="DDI-DrugBank.d215.s0.e2" id="DDI-DrugBank.d215.s0.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d215.s0.e0" e2="DDI-DrugBank.d215.s0.e3" id="DDI-DrugBank.d215.s0.p2" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d215.s0.e0" e2="DDI-DrugBank.d215.s0.e4" id="DDI-DrugBank.d215.s0.p3" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d215.s0.e1" e2="DDI-DrugBank.d215.s0.e2" id="DDI-DrugBank.d215.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d215.s0.e1" e2="DDI-DrugBank.d215.s0.e3" id="DDI-DrugBank.d215.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d215.s0.e1" e2="DDI-DrugBank.d215.s0.e4" id="DDI-DrugBank.d215.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d215.s0.e2" e2="DDI-DrugBank.d215.s0.e3" id="DDI-DrugBank.d215.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d215.s0.e2" e2="DDI-DrugBank.d215.s0.e4" id="DDI-DrugBank.d215.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d215.s0.e3" e2="DDI-DrugBank.d215.s0.e4" id="DDI-DrugBank.d215.s0.p9"/>
+    </sentence>
+</document>

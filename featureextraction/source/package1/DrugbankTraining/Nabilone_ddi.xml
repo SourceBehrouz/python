@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d552">
+    <sentence id="DDI-DrugBank.d552.s0" text="Nabilone should be administered with caution to patients who are taking other psychoactive drugs or CNS depressants, including alcohol, barbiturates and narcotic analgesics, or to those with a history of psychiatric disorder (including manic-depressive illness and schizophrenia).">
+        <entity charOffset="0-7" id="DDI-DrugBank.d552.s0.e0" text="Nabilone" type="drug"/>
+        <entity charOffset="78-95" id="DDI-DrugBank.d552.s0.e1" text="psychoactive drugs" type="group"/>
+        <entity charOffset="100-114" id="DDI-DrugBank.d552.s0.e2" text="CNS depressants" type="group"/>
+        <entity charOffset="127-133" id="DDI-DrugBank.d552.s0.e3" text="alcohol" type="drug"/>
+        <entity charOffset="136-147" id="DDI-DrugBank.d552.s0.e4" text="barbiturates" type="group"/>
+        <entity charOffset="153-171" id="DDI-DrugBank.d552.s0.e5" text="narcotic analgesics" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s0.e0" e2="DDI-DrugBank.d552.s0.e1" id="DDI-DrugBank.d552.s0.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s0.e0" e2="DDI-DrugBank.d552.s0.e2" id="DDI-DrugBank.d552.s0.p1" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s0.e0" e2="DDI-DrugBank.d552.s0.e3" id="DDI-DrugBank.d552.s0.p2" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s0.e0" e2="DDI-DrugBank.d552.s0.e4" id="DDI-DrugBank.d552.s0.p3" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s0.e0" e2="DDI-DrugBank.d552.s0.e5" id="DDI-DrugBank.d552.s0.p4" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e1" e2="DDI-DrugBank.d552.s0.e2" id="DDI-DrugBank.d552.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e1" e2="DDI-DrugBank.d552.s0.e3" id="DDI-DrugBank.d552.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e1" e2="DDI-DrugBank.d552.s0.e4" id="DDI-DrugBank.d552.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e1" e2="DDI-DrugBank.d552.s0.e5" id="DDI-DrugBank.d552.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e2" e2="DDI-DrugBank.d552.s0.e3" id="DDI-DrugBank.d552.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e2" e2="DDI-DrugBank.d552.s0.e4" id="DDI-DrugBank.d552.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e2" e2="DDI-DrugBank.d552.s0.e5" id="DDI-DrugBank.d552.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e3" e2="DDI-DrugBank.d552.s0.e4" id="DDI-DrugBank.d552.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e3" e2="DDI-DrugBank.d552.s0.e5" id="DDI-DrugBank.d552.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s0.e4" e2="DDI-DrugBank.d552.s0.e5" id="DDI-DrugBank.d552.s0.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d552.s1" text="Nabilone has been shown to have an additive CNS depressant effect when given with either diazepam, secobarbitone sodium, alcohol or codeine.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d552.s1.e0" text="Nabilone" type="drug"/>
+        <entity charOffset="89-96" id="DDI-DrugBank.d552.s1.e1" text="diazepam" type="drug"/>
+        <entity charOffset="99-118" id="DDI-DrugBank.d552.s1.e2" text="secobarbitone sodium" type="brand"/>
+        <entity charOffset="121-127" id="DDI-DrugBank.d552.s1.e3" text="alcohol" type="drug"/>
+        <entity charOffset="132-138" id="DDI-DrugBank.d552.s1.e4" text="codeine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s1.e0" e2="DDI-DrugBank.d552.s1.e1" id="DDI-DrugBank.d552.s1.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s1.e0" e2="DDI-DrugBank.d552.s1.e2" id="DDI-DrugBank.d552.s1.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s1.e0" e2="DDI-DrugBank.d552.s1.e3" id="DDI-DrugBank.d552.s1.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d552.s1.e0" e2="DDI-DrugBank.d552.s1.e4" id="DDI-DrugBank.d552.s1.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s1.e1" e2="DDI-DrugBank.d552.s1.e2" id="DDI-DrugBank.d552.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s1.e1" e2="DDI-DrugBank.d552.s1.e3" id="DDI-DrugBank.d552.s1.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s1.e1" e2="DDI-DrugBank.d552.s1.e4" id="DDI-DrugBank.d552.s1.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s1.e2" e2="DDI-DrugBank.d552.s1.e3" id="DDI-DrugBank.d552.s1.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s1.e2" e2="DDI-DrugBank.d552.s1.e4" id="DDI-DrugBank.d552.s1.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d552.s1.e3" e2="DDI-DrugBank.d552.s1.e4" id="DDI-DrugBank.d552.s1.p9"/>
+    </sentence>
+</document>

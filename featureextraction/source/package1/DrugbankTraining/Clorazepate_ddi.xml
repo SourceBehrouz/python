@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d335">
+    <sentence id="DDI-DrugBank.d335.s0" text="If TRANXENE is to be combined with other drugs acting on the central nervous system, careful consideration should be given to the pharmacology of the agents to be employed.">
+        <entity charOffset="3-10" id="DDI-DrugBank.d335.s0.e0" text="TRANXENE" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s1" text="Animal experience indicates that clorazepate dipotassium prolongs the sleeping time after hexobarbital or after ethyl alcohol, increases the inhibitory effects of chlorpromazine, but does not exhibit monoamine oxidase inhibition.">
+        <entity charOffset="33-55" id="DDI-DrugBank.d335.s1.e0" text="clorazepate dipotassium" type="drug"/>
+        <entity charOffset="90-101" id="DDI-DrugBank.d335.s1.e1" text="hexobarbital" type="drug"/>
+        <entity charOffset="112-124" id="DDI-DrugBank.d335.s1.e2" text="ethyl alcohol" type="drug"/>
+        <entity charOffset="163-176" id="DDI-DrugBank.d335.s1.e3" text="chlorpromazine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s1.e0" e2="DDI-DrugBank.d335.s1.e1" id="DDI-DrugBank.d335.s1.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s1.e0" e2="DDI-DrugBank.d335.s1.e2" id="DDI-DrugBank.d335.s1.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s1.e0" e2="DDI-DrugBank.d335.s1.e3" id="DDI-DrugBank.d335.s1.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s1.e1" e2="DDI-DrugBank.d335.s1.e2" id="DDI-DrugBank.d335.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s1.e1" e2="DDI-DrugBank.d335.s1.e3" id="DDI-DrugBank.d335.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s1.e2" e2="DDI-DrugBank.d335.s1.e3" id="DDI-DrugBank.d335.s1.p5"/>
+    <negationtags>Animal experience indicates that clorazepate dipotassium prolongs the sleeping time after hexobarbital or after ethyl alcohol, increases the inhibitory effects of chlorpromazine, but does &lt;scope&gt; &lt;cue&gt; not exhibit &lt;/cue&gt; monoamine oxidase inhibition. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d335.s2" text="Clinical studies have shown increased sedation with concurrent hypnotic medications.">
+        <entity charOffset="63-82" id="DDI-DrugBank.d335.s2.e0" text="hypnotic medications" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s3" text="The actions of the benzodiazepines may be potentiated by barbiturates, narcotics, phenothiazines, monoamine oxidase inhibitors or other antidepressants.">
+        <entity charOffset="19-33" id="DDI-DrugBank.d335.s3.e0" text="benzodiazepines" type="group"/>
+        <entity charOffset="57-68" id="DDI-DrugBank.d335.s3.e1" text="barbiturates" type="group"/>
+        <entity charOffset="71-79" id="DDI-DrugBank.d335.s3.e2" text="narcotics" type="group"/>
+        <entity charOffset="82-95" id="DDI-DrugBank.d335.s3.e3" text="phenothiazines" type="group"/>
+        <entity charOffset="98-125" id="DDI-DrugBank.d335.s3.e4" text="monoamine oxidase inhibitors" type="group"/>
+        <entity charOffset="136-150" id="DDI-DrugBank.d335.s3.e5" text="antidepressants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s3.e0" e2="DDI-DrugBank.d335.s3.e1" id="DDI-DrugBank.d335.s3.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s3.e0" e2="DDI-DrugBank.d335.s3.e2" id="DDI-DrugBank.d335.s3.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s3.e0" e2="DDI-DrugBank.d335.s3.e3" id="DDI-DrugBank.d335.s3.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s3.e0" e2="DDI-DrugBank.d335.s3.e4" id="DDI-DrugBank.d335.s3.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d335.s3.e0" e2="DDI-DrugBank.d335.s3.e5" id="DDI-DrugBank.d335.s3.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e1" e2="DDI-DrugBank.d335.s3.e2" id="DDI-DrugBank.d335.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e1" e2="DDI-DrugBank.d335.s3.e3" id="DDI-DrugBank.d335.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e1" e2="DDI-DrugBank.d335.s3.e4" id="DDI-DrugBank.d335.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e1" e2="DDI-DrugBank.d335.s3.e5" id="DDI-DrugBank.d335.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e2" e2="DDI-DrugBank.d335.s3.e3" id="DDI-DrugBank.d335.s3.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e2" e2="DDI-DrugBank.d335.s3.e4" id="DDI-DrugBank.d335.s3.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e2" e2="DDI-DrugBank.d335.s3.e5" id="DDI-DrugBank.d335.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e3" e2="DDI-DrugBank.d335.s3.e4" id="DDI-DrugBank.d335.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e3" e2="DDI-DrugBank.d335.s3.e5" id="DDI-DrugBank.d335.s3.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s3.e4" e2="DDI-DrugBank.d335.s3.e5" id="DDI-DrugBank.d335.s3.p14"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s4" text="If TRANXENE tablets are used to treat anxiety associated with somatic disease states, careful attention must be paid to possible drug interaction with concomitant medication.">
+        <entity charOffset="3-10" id="DDI-DrugBank.d335.s4.e0" text="TRANXENE" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d335.s5" text="In bioavailability studies with normal subjects, the concurrent administration of antacids at therapeutic levels did not significantly influence the bioavailability of TRANXENE tablets.">
+        <entity charOffset="82-89" id="DDI-DrugBank.d335.s5.e0" text="antacids" type="group"/>
+        <entity charOffset="168-175" id="DDI-DrugBank.d335.s5.e1" text="TRANXENE" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d335.s5.e0" e2="DDI-DrugBank.d335.s5.e1" id="DDI-DrugBank.d335.s5.p0"/>
+    <negationtags>In bioavailability studies with normal subjects, the concurrent administration of antacids at therapeutic levels did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly influence the bioavailability of TRANXENE tablets. &lt;/scope&gt;</negationtags></sentence>
+</document>

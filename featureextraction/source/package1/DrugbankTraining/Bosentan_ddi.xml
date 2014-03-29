@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d289">
+    <sentence id="DDI-DrugBank.d289.s0" text="Bosentan is metabolized by CYP2C9 and CYP3A4.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d289.s0.e0" text="Bosentan" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s1" text="Inhibition of these isoenzymes may increase the plasma concentration of bosentan.">
+        <entity charOffset="72-79" id="DDI-DrugBank.d289.s1.e0" text="bosentan" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s2" text="Bosentan is an inducer of CYP3A4 and CYP2C9.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d289.s2.e0" text="Bosentan" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s3" text="Consequently, plasma concentrations of drugs metabolized by these two isoenzymes will be decreased when TRACLEER is co-administered.">
+        <entity charOffset="104-111" id="DDI-DrugBank.d289.s3.e0" text="TRACLEER" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s4" text="Bosentan had no relevant inhibitory effect on any CYP isoenzymes tested (CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A4).">
+        <entity charOffset="0-7" id="DDI-DrugBank.d289.s4.e0" text="Bosentan" type="drug"/>
+    <negationtags>Bosentan had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; relevant inhibitory effect on any CYP isoenzymes tested (CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP3A4). &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s5" text="Consequently, TRACLEER is not expected to increase the plasma concentrations of drugs metabolized by these enzymes.">
+        <entity charOffset="14-21" id="DDI-DrugBank.d289.s5.e0" text="TRACLEER" type="brand"/>
+    <negationtags>Consequently, TRACLEER is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; expected to increase the plasma concentrations of drugs metabolized by these enzymes. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s6" text="Hormonal Contraceptives, Including Oral, Injectable, Transdermal, and Implantable Contraceptives: An interaction study demonstrated that co-administration of bosentan and the oral hormonal contraceptive Ortho-Novum produced average decreases of norethindrone and ethinyl estradiol levels of 14% and 31%, respectively.">
+        <entity charOffset="0-22" id="DDI-DrugBank.d289.s6.e0" text="Hormonal Contraceptives" type="group"/>
+        <entity charOffset="82-95" id="DDI-DrugBank.d289.s6.e1" text="Contraceptives" type="group"/>
+        <entity charOffset="158-165" id="DDI-DrugBank.d289.s6.e2" text="bosentan" type="drug"/>
+        <entity charOffset="180-201" id="DDI-DrugBank.d289.s6.e3" text="hormonal contraceptive" type="group"/>
+        <entity charOffset="203-213" id="DDI-DrugBank.d289.s6.e4" text="Ortho-Novum" type="brand"/>
+        <entity charOffset="245-257" id="DDI-DrugBank.d289.s6.e5" text="norethindrone" type="drug"/>
+        <entity charOffset="263-279" id="DDI-DrugBank.d289.s6.e6" text="ethinyl estradiol" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e0" e2="DDI-DrugBank.d289.s6.e1" id="DDI-DrugBank.d289.s6.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e0" e2="DDI-DrugBank.d289.s6.e2" id="DDI-DrugBank.d289.s6.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e0" e2="DDI-DrugBank.d289.s6.e3" id="DDI-DrugBank.d289.s6.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e0" e2="DDI-DrugBank.d289.s6.e4" id="DDI-DrugBank.d289.s6.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e0" e2="DDI-DrugBank.d289.s6.e5" id="DDI-DrugBank.d289.s6.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e0" e2="DDI-DrugBank.d289.s6.e6" id="DDI-DrugBank.d289.s6.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e1" e2="DDI-DrugBank.d289.s6.e2" id="DDI-DrugBank.d289.s6.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e1" e2="DDI-DrugBank.d289.s6.e3" id="DDI-DrugBank.d289.s6.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e1" e2="DDI-DrugBank.d289.s6.e4" id="DDI-DrugBank.d289.s6.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e1" e2="DDI-DrugBank.d289.s6.e5" id="DDI-DrugBank.d289.s6.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e1" e2="DDI-DrugBank.d289.s6.e6" id="DDI-DrugBank.d289.s6.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e2" e2="DDI-DrugBank.d289.s6.e3" id="DDI-DrugBank.d289.s6.p11"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s6.e2" e2="DDI-DrugBank.d289.s6.e4" id="DDI-DrugBank.d289.s6.p12" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e2" e2="DDI-DrugBank.d289.s6.e5" id="DDI-DrugBank.d289.s6.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e2" e2="DDI-DrugBank.d289.s6.e6" id="DDI-DrugBank.d289.s6.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e3" e2="DDI-DrugBank.d289.s6.e4" id="DDI-DrugBank.d289.s6.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e3" e2="DDI-DrugBank.d289.s6.e5" id="DDI-DrugBank.d289.s6.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e3" e2="DDI-DrugBank.d289.s6.e6" id="DDI-DrugBank.d289.s6.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e4" e2="DDI-DrugBank.d289.s6.e5" id="DDI-DrugBank.d289.s6.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e4" e2="DDI-DrugBank.d289.s6.e6" id="DDI-DrugBank.d289.s6.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s6.e5" e2="DDI-DrugBank.d289.s6.e6" id="DDI-DrugBank.d289.s6.p20"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s7" text="However, decreases in exposure were as much as 56% and 66%, respectively, in individual subjects."/>
+    <sentence id="DDI-DrugBank.d289.s8" text="Therefore, hormonal contraceptives, including oral, injectable, transdermal, and implantable forms, may not be reliable when TRACLEER is co-administered.">
+        <entity charOffset="11-33" id="DDI-DrugBank.d289.s8.e0" text="hormonal contraceptives" type="group"/>
+        <entity charOffset="125-132" id="DDI-DrugBank.d289.s8.e1" text="TRACLEER" type="brand"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s8.e0" e2="DDI-DrugBank.d289.s8.e1" id="DDI-DrugBank.d289.s8.p0" type="effect"/>
+    <negationtags>Therefore, hormonal contraceptives, including oral, injectable, transdermal, and implantable forms, may &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be reliable when TRACLEER is co-administered. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s9" text="Women should practice additional methods of contraception and not rely on hormonal contraception alone when taking TRACLEER.">
+        <entity charOffset="115-122" id="DDI-DrugBank.d289.s9.e0" text="TRACLEER" type="brand"/>
+    <negationtags>Women should practice additional methods of contraception and &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; rely on hormonal contraception alone when taking TRACLEER. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s10" text="Specific interaction studies have demonstrated the following: Cyclosporine A: During the first day of concomitant administration, trough concentrations of bosentan were increased by about 30-fold.">
+        <entity charOffset="62-75" id="DDI-DrugBank.d289.s10.e0" text="Cyclosporine A" type="drug"/>
+        <entity charOffset="155-162" id="DDI-DrugBank.d289.s10.e1" text="bosentan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s10.e0" e2="DDI-DrugBank.d289.s10.e1" id="DDI-DrugBank.d289.s10.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s11" text="Steady-state bosentan plasma concentrations were 3- to 4-fold higher than in the absence of cyclosporine A.">
+        <entity charOffset="13-20" id="DDI-DrugBank.d289.s11.e0" text="bosentan" type="drug"/>
+        <entity charOffset="92-105" id="DDI-DrugBank.d289.s11.e1" text="cyclosporine A" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s11.e0" e2="DDI-DrugBank.d289.s11.e1" id="DDI-DrugBank.d289.s11.p0" type="mechanism"/>
+    <negationtags>Steady-state bosentan plasma concentrations were 3- to 4-fold higher than in the &lt;scope&gt; &lt;cue&gt; absence of &lt;/cue&gt; cyclosporine A. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s12" text="The concomitant administration of bosentan and cyclosporine A is contraindicated.">
+        <entity charOffset="34-41" id="DDI-DrugBank.d289.s12.e0" text="bosentan" type="drug"/>
+        <entity charOffset="47-60" id="DDI-DrugBank.d289.s12.e1" text="cyclosporine A" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s12.e0" e2="DDI-DrugBank.d289.s12.e1" id="DDI-DrugBank.d289.s12.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s13" text="Co-administration of bosentan decreased the plasma concentrations of cyclosporine A (a CYP3A4 substrate) by approximately 50%.">
+        <entity charOffset="21-28" id="DDI-DrugBank.d289.s13.e0" text="bosentan" type="drug"/>
+        <entity charOffset="69-82" id="DDI-DrugBank.d289.s13.e1" text="cyclosporine A" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s13.e0" e2="DDI-DrugBank.d289.s13.e1" id="DDI-DrugBank.d289.s13.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s14" text="Tacrolimus: Co-administration of tacrolimus and bosentan has not been studied in man.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d289.s14.e0" text="Tacrolimus" type="drug"/>
+        <entity charOffset="33-42" id="DDI-DrugBank.d289.s14.e1" text="tacrolimus" type="drug"/>
+        <entity charOffset="48-55" id="DDI-DrugBank.d289.s14.e2" text="bosentan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s14.e0" e2="DDI-DrugBank.d289.s14.e1" id="DDI-DrugBank.d289.s14.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s14.e0" e2="DDI-DrugBank.d289.s14.e2" id="DDI-DrugBank.d289.s14.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s14.e1" e2="DDI-DrugBank.d289.s14.e2" id="DDI-DrugBank.d289.s14.p2"/>
+    <negationtags>Tacrolimus: Co-administration of tacrolimus and bosentan has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied in man. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s15" text="Co-administration of tacrolimus and bosentan resulted in markedly increased plasma concentrations of bosentan in animals.">
+        <entity charOffset="21-30" id="DDI-DrugBank.d289.s15.e0" text="tacrolimus" type="drug"/>
+        <entity charOffset="36-43" id="DDI-DrugBank.d289.s15.e1" text="bosentan" type="drug"/>
+        <entity charOffset="101-108" id="DDI-DrugBank.d289.s15.e2" text="bosentan" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s15.e0" e2="DDI-DrugBank.d289.s15.e1" id="DDI-DrugBank.d289.s15.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s15.e0" e2="DDI-DrugBank.d289.s15.e2" id="DDI-DrugBank.d289.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s15.e1" e2="DDI-DrugBank.d289.s15.e2" id="DDI-DrugBank.d289.s15.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s16" text="Caution should be exercised if tacrolimus and bosentan are used together.">
+        <entity charOffset="31-40" id="DDI-DrugBank.d289.s16.e0" text="tacrolimus" type="drug"/>
+        <entity charOffset="46-53" id="DDI-DrugBank.d289.s16.e1" text="bosentan" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s16.e0" e2="DDI-DrugBank.d289.s16.e1" id="DDI-DrugBank.d289.s16.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s17" text="Glyburide: An increased risk of elevated liver aminotransferases was observed in patients receiving concomitant therapy with glyburide.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d289.s17.e0" text="Glyburide" type="drug"/>
+        <entity charOffset="125-133" id="DDI-DrugBank.d289.s17.e1" text="glyburide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s17.e0" e2="DDI-DrugBank.d289.s17.e1" id="DDI-DrugBank.d289.s17.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s18" text="Therefore, the concomitant administration of TRACLEER and glyburide is contraindicated, and alternative hypoglycemic agents should be considered.">
+        <entity charOffset="45-52" id="DDI-DrugBank.d289.s18.e0" text="TRACLEER" type="brand"/>
+        <entity charOffset="58-66" id="DDI-DrugBank.d289.s18.e1" text="glyburide" type="drug"/>
+        <entity charOffset="104-122" id="DDI-DrugBank.d289.s18.e2" text="hypoglycemic agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s18.e0" e2="DDI-DrugBank.d289.s18.e1" id="DDI-DrugBank.d289.s18.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s18.e0" e2="DDI-DrugBank.d289.s18.e2" id="DDI-DrugBank.d289.s18.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s18.e1" e2="DDI-DrugBank.d289.s18.e2" id="DDI-DrugBank.d289.s18.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s19" text="Co-administration of bosentan decreased the plasma concentrations of glyburide by approximately 40%.">
+        <entity charOffset="21-28" id="DDI-DrugBank.d289.s19.e0" text="bosentan" type="drug"/>
+        <entity charOffset="69-77" id="DDI-DrugBank.d289.s19.e1" text="glyburide" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s19.e0" e2="DDI-DrugBank.d289.s19.e1" id="DDI-DrugBank.d289.s19.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s20" text="The plasma concentrations of bosentan were also decreased by approximately 30%.">
+        <entity charOffset="29-36" id="DDI-DrugBank.d289.s20.e0" text="bosentan" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s21" text="Bosentan is also expected to reduce plasma concentrations of other oral hypoglycemic agents that are predominantly metabolized by CYP2C9 or CYP3A4.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d289.s21.e0" text="Bosentan" type="drug"/>
+        <entity charOffset="72-90" id="DDI-DrugBank.d289.s21.e1" text="hypoglycemic agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s21.e0" e2="DDI-DrugBank.d289.s21.e1" id="DDI-DrugBank.d289.s21.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s22" text="The possibility of worsened glucose control in patients using these agents should be considered."/>
+    <sentence id="DDI-DrugBank.d289.s23" text="Ketoconazole: Co-administration of bosentan 125 mg b.i.d. and ketoconazole, a potent CYP3A4 inhibitor, increased the plasma concentrations of bosentan by approximately 2-fold.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d289.s23.e0" text="Ketoconazole" type="drug"/>
+        <entity charOffset="35-42" id="DDI-DrugBank.d289.s23.e1" text="bosentan" type="drug"/>
+        <entity charOffset="62-73" id="DDI-DrugBank.d289.s23.e2" text="ketoconazole" type="drug"/>
+        <entity charOffset="142-149" id="DDI-DrugBank.d289.s23.e3" text="bosentan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s23.e0" e2="DDI-DrugBank.d289.s23.e1" id="DDI-DrugBank.d289.s23.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s23.e0" e2="DDI-DrugBank.d289.s23.e2" id="DDI-DrugBank.d289.s23.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s23.e0" e2="DDI-DrugBank.d289.s23.e3" id="DDI-DrugBank.d289.s23.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s23.e1" e2="DDI-DrugBank.d289.s23.e2" id="DDI-DrugBank.d289.s23.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s23.e1" e2="DDI-DrugBank.d289.s23.e3" id="DDI-DrugBank.d289.s23.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s23.e2" e2="DDI-DrugBank.d289.s23.e3" id="DDI-DrugBank.d289.s23.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s24" text="No dose adjustment of bosentan is necessary, but increased effects of bosentan should be considered.">
+        <entity charOffset="22-29" id="DDI-DrugBank.d289.s24.e0" text="bosentan" type="drug"/>
+        <entity charOffset="70-77" id="DDI-DrugBank.d289.s24.e1" text="bosentan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s24.e0" e2="DDI-DrugBank.d289.s24.e1" id="DDI-DrugBank.d289.s24.p0"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; dose adjustment of bosentan is necessary, &lt;/scope&gt; but increased effects of bosentan should be considered.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s25" text="Simvastatin and Other Statins: Co-administration of bosentan decreased the plasma concentrations of simvastatin (a CYP3A4 substrate), and its active  -hydroxy acid metabolite, by approximately 50%.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d289.s25.e0" text="Simvastatin" type="drug"/>
+        <entity charOffset="22-28" id="DDI-DrugBank.d289.s25.e1" text="Statins" type="group"/>
+        <entity charOffset="52-59" id="DDI-DrugBank.d289.s25.e2" text="bosentan" type="drug"/>
+        <entity charOffset="100-110" id="DDI-DrugBank.d289.s25.e3" text="simvastatin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s25.e0" e2="DDI-DrugBank.d289.s25.e1" id="DDI-DrugBank.d289.s25.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s25.e0" e2="DDI-DrugBank.d289.s25.e2" id="DDI-DrugBank.d289.s25.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s25.e0" e2="DDI-DrugBank.d289.s25.e3" id="DDI-DrugBank.d289.s25.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s25.e1" e2="DDI-DrugBank.d289.s25.e2" id="DDI-DrugBank.d289.s25.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s25.e1" e2="DDI-DrugBank.d289.s25.e3" id="DDI-DrugBank.d289.s25.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s25.e2" e2="DDI-DrugBank.d289.s25.e3" id="DDI-DrugBank.d289.s25.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s26" text="The plasma concentrations of bosentan were not affected.">
+        <entity charOffset="29-36" id="DDI-DrugBank.d289.s26.e0" text="bosentan" type="drug"/>
+    <negationtags>The plasma concentrations of bosentan were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; affected. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s27" text="Bosentan is also expected to reduce plasma concentrations of other statins that have significant metabolism by CYP3A4, such as lovastatin and atorvastatin.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d289.s27.e0" text="Bosentan" type="drug"/>
+        <entity charOffset="67-73" id="DDI-DrugBank.d289.s27.e1" text="statins" type="group"/>
+        <entity charOffset="127-136" id="DDI-DrugBank.d289.s27.e2" text="lovastatin" type="drug"/>
+        <entity charOffset="142-153" id="DDI-DrugBank.d289.s27.e3" text="atorvastatin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s27.e0" e2="DDI-DrugBank.d289.s27.e1" id="DDI-DrugBank.d289.s27.p0" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s27.e0" e2="DDI-DrugBank.d289.s27.e2" id="DDI-DrugBank.d289.s27.p1" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s27.e0" e2="DDI-DrugBank.d289.s27.e3" id="DDI-DrugBank.d289.s27.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s27.e1" e2="DDI-DrugBank.d289.s27.e2" id="DDI-DrugBank.d289.s27.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s27.e1" e2="DDI-DrugBank.d289.s27.e3" id="DDI-DrugBank.d289.s27.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s27.e2" e2="DDI-DrugBank.d289.s27.e3" id="DDI-DrugBank.d289.s27.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s28" text="The possibility of reduced statin efficacy should be considered.">
+        <entity charOffset="27-32" id="DDI-DrugBank.d289.s28.e0" text="statin" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s29" text="Patients using CYP3A4 metabolized statins should have cholesterol levels monitored after TRACLEER is initiated to see whether the statin dose needs adjustment.">
+        <entity charOffset="34-40" id="DDI-DrugBank.d289.s29.e0" text="statins" type="group"/>
+        <entity charOffset="89-96" id="DDI-DrugBank.d289.s29.e1" text="TRACLEER" type="brand"/>
+        <entity charOffset="130-135" id="DDI-DrugBank.d289.s29.e2" text="statin" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s29.e0" e2="DDI-DrugBank.d289.s29.e1" id="DDI-DrugBank.d289.s29.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s29.e0" e2="DDI-DrugBank.d289.s29.e2" id="DDI-DrugBank.d289.s29.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s29.e1" e2="DDI-DrugBank.d289.s29.e2" id="DDI-DrugBank.d289.s29.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s30" text="Warfarin: Co-administration of bosentan 500 mg b.i.d. for 6 days decreased the plasma concentrations of both S-warfarin (a CYP2C9 substrate) and R-warfarin (a CYP3A4 substrate) by 29 and 38%, respectively.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d289.s30.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="31-38" id="DDI-DrugBank.d289.s30.e1" text="bosentan" type="drug"/>
+        <entity charOffset="109-118" id="DDI-DrugBank.d289.s30.e2" text="S-warfarin" type="drug"/>
+        <entity charOffset="145-154" id="DDI-DrugBank.d289.s30.e3" text="R-warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s30.e0" e2="DDI-DrugBank.d289.s30.e1" id="DDI-DrugBank.d289.s30.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s30.e0" e2="DDI-DrugBank.d289.s30.e2" id="DDI-DrugBank.d289.s30.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s30.e0" e2="DDI-DrugBank.d289.s30.e3" id="DDI-DrugBank.d289.s30.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s30.e1" e2="DDI-DrugBank.d289.s30.e2" id="DDI-DrugBank.d289.s30.p3" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d289.s30.e1" e2="DDI-DrugBank.d289.s30.e3" id="DDI-DrugBank.d289.s30.p4" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s30.e2" e2="DDI-DrugBank.d289.s30.e3" id="DDI-DrugBank.d289.s30.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d289.s31" text="Clinical experience with concomitant administration of bosentan and warfarin in patients with pulmonary arterial hypertension did not show clinically relevant changes in INR or warfarin dose (baseline vs. end of the clinical studies), and the need to change the warfarin dose during the trials due to changes in INR or due to adverse events was similar among bosentan- and placebo-treated patients.">
+        <entity charOffset="55-62" id="DDI-DrugBank.d289.s31.e0" text="bosentan" type="drug"/>
+        <entity charOffset="68-75" id="DDI-DrugBank.d289.s31.e1" text="warfarin" type="drug"/>
+        <entity charOffset="177-184" id="DDI-DrugBank.d289.s31.e2" text="warfarin" type="drug"/>
+        <entity charOffset="262-269" id="DDI-DrugBank.d289.s31.e3" text="warfarin" type="drug"/>
+        <entity charOffset="359-366" id="DDI-DrugBank.d289.s31.e4" text="bosentan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e0" e2="DDI-DrugBank.d289.s31.e1" id="DDI-DrugBank.d289.s31.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e0" e2="DDI-DrugBank.d289.s31.e2" id="DDI-DrugBank.d289.s31.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e0" e2="DDI-DrugBank.d289.s31.e3" id="DDI-DrugBank.d289.s31.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e0" e2="DDI-DrugBank.d289.s31.e4" id="DDI-DrugBank.d289.s31.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e1" e2="DDI-DrugBank.d289.s31.e2" id="DDI-DrugBank.d289.s31.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e1" e2="DDI-DrugBank.d289.s31.e3" id="DDI-DrugBank.d289.s31.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e1" e2="DDI-DrugBank.d289.s31.e4" id="DDI-DrugBank.d289.s31.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e2" e2="DDI-DrugBank.d289.s31.e3" id="DDI-DrugBank.d289.s31.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e2" e2="DDI-DrugBank.d289.s31.e4" id="DDI-DrugBank.d289.s31.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s31.e3" e2="DDI-DrugBank.d289.s31.e4" id="DDI-DrugBank.d289.s31.p9"/>
+    <negationtags>Clinical experience with concomitant administration of bosentan and warfarin in patients with pulmonary arterial hypertension did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; show clinically relevant changes in INR or warfarin dose (baseline vs. end of the clinical studies), and the need to change the warfarin dose during the trials due to changes in INR or due to adverse events was similar among bosentan- and placebo-treated patients. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d289.s32" text="Digoxin, Nimodipine and Losartan: Bosentan has no significant pharmacokinetic interactions with digoxin and nimodipine, and losartan has no significant effect on plasma levels of bosentan.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d289.s32.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="9-18" id="DDI-DrugBank.d289.s32.e1" text="Nimodipine" type="drug"/>
+        <entity charOffset="24-31" id="DDI-DrugBank.d289.s32.e2" text="Losartan" type="drug"/>
+        <entity charOffset="34-41" id="DDI-DrugBank.d289.s32.e3" text="Bosentan" type="drug"/>
+        <entity charOffset="96-102" id="DDI-DrugBank.d289.s32.e4" text="digoxin" type="drug"/>
+        <entity charOffset="108-117" id="DDI-DrugBank.d289.s32.e5" text="nimodipine" type="drug"/>
+        <entity charOffset="124-131" id="DDI-DrugBank.d289.s32.e6" text="losartan" type="drug"/>
+        <entity charOffset="179-186" id="DDI-DrugBank.d289.s32.e7" text="bosentan" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e0" e2="DDI-DrugBank.d289.s32.e1" id="DDI-DrugBank.d289.s32.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e0" e2="DDI-DrugBank.d289.s32.e2" id="DDI-DrugBank.d289.s32.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e0" e2="DDI-DrugBank.d289.s32.e3" id="DDI-DrugBank.d289.s32.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e0" e2="DDI-DrugBank.d289.s32.e4" id="DDI-DrugBank.d289.s32.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e0" e2="DDI-DrugBank.d289.s32.e5" id="DDI-DrugBank.d289.s32.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e0" e2="DDI-DrugBank.d289.s32.e6" id="DDI-DrugBank.d289.s32.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e0" e2="DDI-DrugBank.d289.s32.e7" id="DDI-DrugBank.d289.s32.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e1" e2="DDI-DrugBank.d289.s32.e2" id="DDI-DrugBank.d289.s32.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e1" e2="DDI-DrugBank.d289.s32.e3" id="DDI-DrugBank.d289.s32.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e1" e2="DDI-DrugBank.d289.s32.e4" id="DDI-DrugBank.d289.s32.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e1" e2="DDI-DrugBank.d289.s32.e5" id="DDI-DrugBank.d289.s32.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e1" e2="DDI-DrugBank.d289.s32.e6" id="DDI-DrugBank.d289.s32.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e1" e2="DDI-DrugBank.d289.s32.e7" id="DDI-DrugBank.d289.s32.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e2" e2="DDI-DrugBank.d289.s32.e3" id="DDI-DrugBank.d289.s32.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e2" e2="DDI-DrugBank.d289.s32.e4" id="DDI-DrugBank.d289.s32.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e2" e2="DDI-DrugBank.d289.s32.e5" id="DDI-DrugBank.d289.s32.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e2" e2="DDI-DrugBank.d289.s32.e6" id="DDI-DrugBank.d289.s32.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e2" e2="DDI-DrugBank.d289.s32.e7" id="DDI-DrugBank.d289.s32.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e3" e2="DDI-DrugBank.d289.s32.e4" id="DDI-DrugBank.d289.s32.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e3" e2="DDI-DrugBank.d289.s32.e5" id="DDI-DrugBank.d289.s32.p19"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e3" e2="DDI-DrugBank.d289.s32.e6" id="DDI-DrugBank.d289.s32.p20"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e3" e2="DDI-DrugBank.d289.s32.e7" id="DDI-DrugBank.d289.s32.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e4" e2="DDI-DrugBank.d289.s32.e5" id="DDI-DrugBank.d289.s32.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e4" e2="DDI-DrugBank.d289.s32.e6" id="DDI-DrugBank.d289.s32.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e4" e2="DDI-DrugBank.d289.s32.e7" id="DDI-DrugBank.d289.s32.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e5" e2="DDI-DrugBank.d289.s32.e6" id="DDI-DrugBank.d289.s32.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e5" e2="DDI-DrugBank.d289.s32.e7" id="DDI-DrugBank.d289.s32.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d289.s32.e6" e2="DDI-DrugBank.d289.s32.e7" id="DDI-DrugBank.d289.s32.p27"/>
+    <negationtags>Digoxin, Nimodipine and Losartan: Bosentan has &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; pharmacokinetic interactions with digoxin and nimodipine, and losartan has no significant effect on plasma levels of bosentan. &lt;/scope&gt;</negationtags></sentence>
+</document>

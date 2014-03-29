@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d226">
+    <sentence id="DDI-DrugBank.d226.s0" text="Intravenous Adenocard (adenosine) has been effectively administered in the presence of other cardioactive drugs, such as quinidine, beta-adrenergic blocking agents, calcium channel blocking agents, and angiotensin converting enzyme inhibitors, without any change in the adverse reaction profile.">
+        <entity charOffset="12-20" id="DDI-DrugBank.d226.s0.e0" text="Adenocard" type="brand"/>
+        <entity charOffset="23-31" id="DDI-DrugBank.d226.s0.e1" text="adenosine" type="drug"/>
+        <entity charOffset="121-129" id="DDI-DrugBank.d226.s0.e2" text="quinidine" type="drug"/>
+        <entity charOffset="132-162" id="DDI-DrugBank.d226.s0.e3" text="beta-adrenergic blocking agents" type="group"/>
+        <entity charOffset="165-195" id="DDI-DrugBank.d226.s0.e4" text="calcium channel blocking agents" type="group"/>
+        <entity charOffset="202-241" id="DDI-DrugBank.d226.s0.e5" text="angiotensin converting enzyme inhibitors" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e0" e2="DDI-DrugBank.d226.s0.e1" id="DDI-DrugBank.d226.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e0" e2="DDI-DrugBank.d226.s0.e2" id="DDI-DrugBank.d226.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e0" e2="DDI-DrugBank.d226.s0.e3" id="DDI-DrugBank.d226.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e0" e2="DDI-DrugBank.d226.s0.e4" id="DDI-DrugBank.d226.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e0" e2="DDI-DrugBank.d226.s0.e5" id="DDI-DrugBank.d226.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e1" e2="DDI-DrugBank.d226.s0.e2" id="DDI-DrugBank.d226.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e1" e2="DDI-DrugBank.d226.s0.e3" id="DDI-DrugBank.d226.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e1" e2="DDI-DrugBank.d226.s0.e4" id="DDI-DrugBank.d226.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e1" e2="DDI-DrugBank.d226.s0.e5" id="DDI-DrugBank.d226.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e2" e2="DDI-DrugBank.d226.s0.e3" id="DDI-DrugBank.d226.s0.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e2" e2="DDI-DrugBank.d226.s0.e4" id="DDI-DrugBank.d226.s0.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e2" e2="DDI-DrugBank.d226.s0.e5" id="DDI-DrugBank.d226.s0.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e3" e2="DDI-DrugBank.d226.s0.e4" id="DDI-DrugBank.d226.s0.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e3" e2="DDI-DrugBank.d226.s0.e5" id="DDI-DrugBank.d226.s0.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s0.e4" e2="DDI-DrugBank.d226.s0.e5" id="DDI-DrugBank.d226.s0.p14"/>
+    <negationtags>Intravenous Adenocard (adenosine) has been effectively administered in the presence of other cardioactive drugs, such as quinidine, beta-adrenergic blocking agents, calcium channel blocking agents, and angiotensin converting enzyme inhibitors, &lt;scope&gt; &lt;cue&gt; without &lt;/cue&gt; any change in the adverse reaction profile. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d226.s1" text="Digoxin and verapamil use may be rarely associated with ventricular fibrillation when combined with Adenocard.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d226.s1.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="12-20" id="DDI-DrugBank.d226.s1.e1" text="verapamil" type="drug"/>
+        <entity charOffset="100-108" id="DDI-DrugBank.d226.s1.e2" text="Adenocard" type="brand"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s1.e0" e2="DDI-DrugBank.d226.s1.e1" id="DDI-DrugBank.d226.s1.p0"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s1.e0" e2="DDI-DrugBank.d226.s1.e2" id="DDI-DrugBank.d226.s1.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s1.e1" e2="DDI-DrugBank.d226.s1.e2" id="DDI-DrugBank.d226.s1.p2" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s2" text="Because of the potential for additive or synergistic depressant effects on the SA and AV nodes, however, Adenocard should be used with caution in the presence of these agents.">
+        <entity charOffset="105-113" id="DDI-DrugBank.d226.s2.e0" text="Adenocard" type="brand"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s3" text="The use of Adenocard in patients receiving digitalis may be rarely associated with ventricular fibrillation.">
+        <entity charOffset="11-19" id="DDI-DrugBank.d226.s3.e0" text="Adenocard" type="brand"/>
+        <entity charOffset="43-51" id="DDI-DrugBank.d226.s3.e1" text="digitalis" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s3.e0" e2="DDI-DrugBank.d226.s3.e1" id="DDI-DrugBank.d226.s3.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s4" text="The effects of adenosine are antagonized by methylxanthines such as caffeine and theophylline.">
+        <entity charOffset="15-23" id="DDI-DrugBank.d226.s4.e0" text="adenosine" type="drug"/>
+        <entity charOffset="44-58" id="DDI-DrugBank.d226.s4.e1" text="methylxanthines" type="group"/>
+        <entity charOffset="68-75" id="DDI-DrugBank.d226.s4.e2" text="caffeine" type="drug"/>
+        <entity charOffset="81-92" id="DDI-DrugBank.d226.s4.e3" text="theophylline" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s4.e0" e2="DDI-DrugBank.d226.s4.e1" id="DDI-DrugBank.d226.s4.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s4.e0" e2="DDI-DrugBank.d226.s4.e2" id="DDI-DrugBank.d226.s4.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s4.e0" e2="DDI-DrugBank.d226.s4.e3" id="DDI-DrugBank.d226.s4.p2" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s4.e1" e2="DDI-DrugBank.d226.s4.e2" id="DDI-DrugBank.d226.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s4.e1" e2="DDI-DrugBank.d226.s4.e3" id="DDI-DrugBank.d226.s4.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s4.e2" e2="DDI-DrugBank.d226.s4.e3" id="DDI-DrugBank.d226.s4.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s5" text="In the presence of these methylxanthines, larger doses of adenosine may be required or adenosine may not be effective.">
+        <entity charOffset="25-39" id="DDI-DrugBank.d226.s5.e0" text="methylxanthines" type="group"/>
+        <entity charOffset="58-66" id="DDI-DrugBank.d226.s5.e1" text="adenosine" type="drug"/>
+        <entity charOffset="87-95" id="DDI-DrugBank.d226.s5.e2" text="adenosine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s5.e0" e2="DDI-DrugBank.d226.s5.e1" id="DDI-DrugBank.d226.s5.p0" type="advise"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s5.e0" e2="DDI-DrugBank.d226.s5.e2" id="DDI-DrugBank.d226.s5.p1" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d226.s5.e1" e2="DDI-DrugBank.d226.s5.e2" id="DDI-DrugBank.d226.s5.p2"/>
+    <negationtags>In the presence of these methylxanthines, larger doses of adenosine may be required or adenosine may &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; be effective. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d226.s6" text="Adenosine effects are potentiated by dipyridamole.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d226.s6.e0" text="Adenosine" type="drug"/>
+        <entity charOffset="37-48" id="DDI-DrugBank.d226.s6.e1" text="dipyridamole" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s6.e0" e2="DDI-DrugBank.d226.s6.e1" id="DDI-DrugBank.d226.s6.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s7" text="Thus, smaller doses of adenosine may be effective in the presence of dipyridamole.">
+        <entity charOffset="23-31" id="DDI-DrugBank.d226.s7.e0" text="adenosine" type="drug"/>
+        <entity charOffset="69-80" id="DDI-DrugBank.d226.s7.e1" text="dipyridamole" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s7.e0" e2="DDI-DrugBank.d226.s7.e1" id="DDI-DrugBank.d226.s7.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s8" text="Carbamazepine has been reported to increase the degree of heart block produced by other agents.">
+        <entity charOffset="0-12" id="DDI-DrugBank.d226.s8.e0" text="Carbamazepine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d226.s9" text="As the primary effect of adenosine is to decrease conduction through the A-V node, higher degrees of heart block may be produced in the presence of carbamazepine.">
+        <entity charOffset="25-33" id="DDI-DrugBank.d226.s9.e0" text="adenosine" type="drug"/>
+        <entity charOffset="148-160" id="DDI-DrugBank.d226.s9.e1" text="carbamazepine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d226.s9.e0" e2="DDI-DrugBank.d226.s9.e1" id="DDI-DrugBank.d226.s9.p0" type="effect"/>
+    </sentence>
+</document>

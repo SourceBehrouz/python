@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d389">
+    <sentence id="DDI-DrugBank.d389.s0" text="Antihistamines may enhance the effects of tricyclic antidepressants, barbiturates, alcohol, and other CNS depressants.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d389.s0.e0" text="Antihistamines" type="group"/>
+        <entity charOffset="42-66" id="DDI-DrugBank.d389.s0.e1" text="tricyclic antidepressants" type="group"/>
+        <entity charOffset="69-80" id="DDI-DrugBank.d389.s0.e2" text="barbiturates" type="group"/>
+        <entity charOffset="83-89" id="DDI-DrugBank.d389.s0.e3" text="alcohol" type="drug"/>
+        <entity charOffset="102-116" id="DDI-DrugBank.d389.s0.e4" text="CNS depressants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s0.e0" e2="DDI-DrugBank.d389.s0.e1" id="DDI-DrugBank.d389.s0.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s0.e0" e2="DDI-DrugBank.d389.s0.e2" id="DDI-DrugBank.d389.s0.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s0.e0" e2="DDI-DrugBank.d389.s0.e3" id="DDI-DrugBank.d389.s0.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s0.e0" e2="DDI-DrugBank.d389.s0.e4" id="DDI-DrugBank.d389.s0.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s0.e1" e2="DDI-DrugBank.d389.s0.e2" id="DDI-DrugBank.d389.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s0.e1" e2="DDI-DrugBank.d389.s0.e3" id="DDI-DrugBank.d389.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s0.e1" e2="DDI-DrugBank.d389.s0.e4" id="DDI-DrugBank.d389.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s0.e2" e2="DDI-DrugBank.d389.s0.e3" id="DDI-DrugBank.d389.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s0.e2" e2="DDI-DrugBank.d389.s0.e4" id="DDI-DrugBank.d389.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s0.e3" e2="DDI-DrugBank.d389.s0.e4" id="DDI-DrugBank.d389.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d389.s1" text="MAO inhibitors prolong and intensify the anticholinergic effects of antihistamines.">
+        <entity charOffset="0-13" id="DDI-DrugBank.d389.s1.e0" text="MAO inhibitors" type="group"/>
+        <entity charOffset="68-81" id="DDI-DrugBank.d389.s1.e1" text="antihistamines" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s1.e0" e2="DDI-DrugBank.d389.s1.e1" id="DDI-DrugBank.d389.s1.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d389.s2" text="Sympathomimetic amines may reduce the antihypertensive effects of reserpine, veratrum alkaloids, methyldopa and mecamylamine.">
+        <entity charOffset="0-21" id="DDI-DrugBank.d389.s2.e0" text="Sympathomimetic amines" type="group"/>
+        <entity charOffset="66-74" id="DDI-DrugBank.d389.s2.e1" text="reserpine" type="drug"/>
+        <entity charOffset="77-94" id="DDI-DrugBank.d389.s2.e2" text="veratrum alkaloids" type="group"/>
+        <entity charOffset="97-106" id="DDI-DrugBank.d389.s2.e3" text="methyldopa" type="drug"/>
+        <entity charOffset="112-123" id="DDI-DrugBank.d389.s2.e4" text="mecamylamine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s2.e0" e2="DDI-DrugBank.d389.s2.e1" id="DDI-DrugBank.d389.s2.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s2.e0" e2="DDI-DrugBank.d389.s2.e2" id="DDI-DrugBank.d389.s2.p1" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s2.e0" e2="DDI-DrugBank.d389.s2.e3" id="DDI-DrugBank.d389.s2.p2" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s2.e0" e2="DDI-DrugBank.d389.s2.e4" id="DDI-DrugBank.d389.s2.p3" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s2.e1" e2="DDI-DrugBank.d389.s2.e2" id="DDI-DrugBank.d389.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s2.e1" e2="DDI-DrugBank.d389.s2.e3" id="DDI-DrugBank.d389.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s2.e1" e2="DDI-DrugBank.d389.s2.e4" id="DDI-DrugBank.d389.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s2.e2" e2="DDI-DrugBank.d389.s2.e3" id="DDI-DrugBank.d389.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s2.e2" e2="DDI-DrugBank.d389.s2.e4" id="DDI-DrugBank.d389.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s2.e3" e2="DDI-DrugBank.d389.s2.e4" id="DDI-DrugBank.d389.s2.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d389.s3" text="Effects of sympathomimetics are increased with MAO inhibitors and beta adrenergic blockers.">
+        <entity charOffset="11-26" id="DDI-DrugBank.d389.s3.e0" text="sympathomimetics" type="group"/>
+        <entity charOffset="47-60" id="DDI-DrugBank.d389.s3.e1" text="MAO inhibitors" type="group"/>
+        <entity charOffset="66-89" id="DDI-DrugBank.d389.s3.e2" text="beta adrenergic blockers" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s3.e0" e2="DDI-DrugBank.d389.s3.e1" id="DDI-DrugBank.d389.s3.p0" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d389.s3.e0" e2="DDI-DrugBank.d389.s3.e2" id="DDI-DrugBank.d389.s3.p1" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d389.s3.e1" e2="DDI-DrugBank.d389.s3.e2" id="DDI-DrugBank.d389.s3.p2"/>
+    </sentence>
+</document>

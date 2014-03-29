@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d516">
+    <sentence id="DDI-DrugBank.d516.s0" text="Theophylline: In three pharmacokinetic studies including 46 normal, healthy subjects, theophylline clearance and concentration were not significantly altered by the addition of lomefloxacin.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d516.s0.e0" text="Theophylline" type="drug"/>
+        <entity charOffset="86-97" id="DDI-DrugBank.d516.s0.e1" text="theophylline" type="drug"/>
+        <entity charOffset="177-188" id="DDI-DrugBank.d516.s0.e2" text="lomefloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s0.e0" e2="DDI-DrugBank.d516.s0.e1" id="DDI-DrugBank.d516.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s0.e0" e2="DDI-DrugBank.d516.s0.e2" id="DDI-DrugBank.d516.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s0.e1" e2="DDI-DrugBank.d516.s0.e2" id="DDI-DrugBank.d516.s0.p2"/>
+    <negationtags>Theophylline: In three pharmacokinetic studies including 46 normal, healthy subjects, theophylline clearance and concentration were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; significantly altered by the addition of lomefloxacin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s1" text="In clinical studies where patients were on chronic theophylline therapy, lomefloxacin had no measurable effect on the mean distribution of theophylline concentrations or the mean estimates of theophylline clearance.">
+        <entity charOffset="51-62" id="DDI-DrugBank.d516.s1.e0" text="theophylline" type="drug"/>
+        <entity charOffset="73-84" id="DDI-DrugBank.d516.s1.e1" text="lomefloxacin" type="drug"/>
+        <entity charOffset="139-150" id="DDI-DrugBank.d516.s1.e2" text="theophylline" type="drug"/>
+        <entity charOffset="192-203" id="DDI-DrugBank.d516.s1.e3" text="theophylline" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s1.e0" e2="DDI-DrugBank.d516.s1.e1" id="DDI-DrugBank.d516.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s1.e0" e2="DDI-DrugBank.d516.s1.e2" id="DDI-DrugBank.d516.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s1.e0" e2="DDI-DrugBank.d516.s1.e3" id="DDI-DrugBank.d516.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s1.e1" e2="DDI-DrugBank.d516.s1.e2" id="DDI-DrugBank.d516.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s1.e1" e2="DDI-DrugBank.d516.s1.e3" id="DDI-DrugBank.d516.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s1.e2" e2="DDI-DrugBank.d516.s1.e3" id="DDI-DrugBank.d516.s1.p5"/>
+    <negationtags>In clinical studies where patients were on chronic theophylline therapy, lomefloxacin had &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; measurable effect on the mean distribution of theophylline concentrations or the mean estimates of theophylline clearance. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s2" text="Though individual theophylline levels fluctuated, there were no clinically significant symptoms of drug inter-action.">
+        <entity charOffset="18-29" id="DDI-DrugBank.d516.s2.e0" text="theophylline" type="drug"/>
+    <negationtags>Though individual theophylline levels fluctuated, there were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically significant symptoms of drug inter-action. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s3" text="Antacids and sucralfate: Sucralfate and antacids containing magnesium or aluminum, as well as formulations containing divalent and trivalent cations such as Videx  (didanosine), chewable/buffered tablets or the pediatric powder for oral solution can form chelation complexes with lomefloxacin and interfere with its bioavailability.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d516.s3.e0" text="Antacids" type="group"/>
+        <entity charOffset="13-22" id="DDI-DrugBank.d516.s3.e1" text="sucralfate" type="drug"/>
+        <entity charOffset="25-34" id="DDI-DrugBank.d516.s3.e2" text="Sucralfate" type="drug"/>
+        <entity charOffset="40-47" id="DDI-DrugBank.d516.s3.e3" text="antacids" type="group"/>
+        <entity charOffset="60-68" id="DDI-DrugBank.d516.s3.e4" text="magnesium" type="drug"/>
+        <entity charOffset="73-80" id="DDI-DrugBank.d516.s3.e5" text="aluminum" type="drug"/>
+        <entity charOffset="157-161" id="DDI-DrugBank.d516.s3.e6" text="Videx" type="brand"/>
+        <entity charOffset="165-174" id="DDI-DrugBank.d516.s3.e7" text="didanosine" type="drug"/>
+        <entity charOffset="280-291" id="DDI-DrugBank.d516.s3.e8" text="lomefloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e1" id="DDI-DrugBank.d516.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e2" id="DDI-DrugBank.d516.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e3" id="DDI-DrugBank.d516.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e4" id="DDI-DrugBank.d516.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e5" id="DDI-DrugBank.d516.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e6" id="DDI-DrugBank.d516.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e7" id="DDI-DrugBank.d516.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e0" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e1" e2="DDI-DrugBank.d516.s3.e2" id="DDI-DrugBank.d516.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e1" e2="DDI-DrugBank.d516.s3.e3" id="DDI-DrugBank.d516.s3.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e1" e2="DDI-DrugBank.d516.s3.e4" id="DDI-DrugBank.d516.s3.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e1" e2="DDI-DrugBank.d516.s3.e5" id="DDI-DrugBank.d516.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e1" e2="DDI-DrugBank.d516.s3.e6" id="DDI-DrugBank.d516.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e1" e2="DDI-DrugBank.d516.s3.e7" id="DDI-DrugBank.d516.s3.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e1" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p14"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e2" e2="DDI-DrugBank.d516.s3.e3" id="DDI-DrugBank.d516.s3.p15"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e2" e2="DDI-DrugBank.d516.s3.e4" id="DDI-DrugBank.d516.s3.p16"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e2" e2="DDI-DrugBank.d516.s3.e5" id="DDI-DrugBank.d516.s3.p17"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e2" e2="DDI-DrugBank.d516.s3.e6" id="DDI-DrugBank.d516.s3.p18"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e2" e2="DDI-DrugBank.d516.s3.e7" id="DDI-DrugBank.d516.s3.p19"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s3.e2" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p20" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e3" e2="DDI-DrugBank.d516.s3.e4" id="DDI-DrugBank.d516.s3.p21"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e3" e2="DDI-DrugBank.d516.s3.e5" id="DDI-DrugBank.d516.s3.p22"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e3" e2="DDI-DrugBank.d516.s3.e6" id="DDI-DrugBank.d516.s3.p23"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e3" e2="DDI-DrugBank.d516.s3.e7" id="DDI-DrugBank.d516.s3.p24"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e3" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p25"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e4" e2="DDI-DrugBank.d516.s3.e5" id="DDI-DrugBank.d516.s3.p26"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e4" e2="DDI-DrugBank.d516.s3.e6" id="DDI-DrugBank.d516.s3.p27"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e4" e2="DDI-DrugBank.d516.s3.e7" id="DDI-DrugBank.d516.s3.p28"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s3.e4" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p29" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e5" e2="DDI-DrugBank.d516.s3.e6" id="DDI-DrugBank.d516.s3.p30"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e5" e2="DDI-DrugBank.d516.s3.e7" id="DDI-DrugBank.d516.s3.p31"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s3.e5" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p32" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s3.e6" e2="DDI-DrugBank.d516.s3.e7" id="DDI-DrugBank.d516.s3.p33"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s3.e6" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p34" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s3.e7" e2="DDI-DrugBank.d516.s3.e8" id="DDI-DrugBank.d516.s3.p35" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s4" text="Sucralfate administered 2 hours before lomefloxacin resulted in a slower absorption (mean C max decreased by 30% and mean T max increased by 1 hour) and a lesser extent of absorption (mean AUC decreased by approximately 25%).">
+        <entity charOffset="0-9" id="DDI-DrugBank.d516.s4.e0" text="Sucralfate" type="drug"/>
+        <entity charOffset="39-50" id="DDI-DrugBank.d516.s4.e1" text="lomefloxacin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s4.e0" e2="DDI-DrugBank.d516.s4.e1" id="DDI-DrugBank.d516.s4.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s5" text="Magnesium- and aluminum-containing antacids, administered concomitantly with lomefloxacin, significantly decreased the bioavailability (48%) of lomefloxacin.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d516.s5.e0" text="Magnesium" type="drug"/>
+        <entity charOffset="15-22" id="DDI-DrugBank.d516.s5.e1" text="aluminum" type="drug"/>
+        <entity charOffset="35-42" id="DDI-DrugBank.d516.s5.e2" text="antacids" type="group"/>
+        <entity charOffset="77-88" id="DDI-DrugBank.d516.s5.e3" text="lomefloxacin" type="drug"/>
+        <entity charOffset="144-155" id="DDI-DrugBank.d516.s5.e4" text="lomefloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s5.e0" e2="DDI-DrugBank.d516.s5.e1" id="DDI-DrugBank.d516.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s5.e0" e2="DDI-DrugBank.d516.s5.e2" id="DDI-DrugBank.d516.s5.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s5.e0" e2="DDI-DrugBank.d516.s5.e3" id="DDI-DrugBank.d516.s5.p2" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s5.e0" e2="DDI-DrugBank.d516.s5.e4" id="DDI-DrugBank.d516.s5.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s5.e1" e2="DDI-DrugBank.d516.s5.e2" id="DDI-DrugBank.d516.s5.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s5.e1" e2="DDI-DrugBank.d516.s5.e3" id="DDI-DrugBank.d516.s5.p5" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s5.e1" e2="DDI-DrugBank.d516.s5.e4" id="DDI-DrugBank.d516.s5.p6"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s5.e2" e2="DDI-DrugBank.d516.s5.e3" id="DDI-DrugBank.d516.s5.p7" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s5.e2" e2="DDI-DrugBank.d516.s5.e4" id="DDI-DrugBank.d516.s5.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s5.e3" e2="DDI-DrugBank.d516.s5.e4" id="DDI-DrugBank.d516.s5.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s6" text="Separating the doses of antacid and lomefloxacin minimizes this decrease in bioavailability;">
+        <entity charOffset="24-30" id="DDI-DrugBank.d516.s6.e0" text="antacid" type="group"/>
+        <entity charOffset="36-47" id="DDI-DrugBank.d516.s6.e1" text="lomefloxacin" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s6.e0" e2="DDI-DrugBank.d516.s6.e1" id="DDI-DrugBank.d516.s6.p0" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s7" text="therefore, administration of these agents should precede lomefloxacin dosing by 4 hours or follow lomefloxacin dosing by at least 2 hours.">
+        <entity charOffset="57-68" id="DDI-DrugBank.d516.s7.e0" text="lomefloxacin" type="drug"/>
+        <entity charOffset="98-109" id="DDI-DrugBank.d516.s7.e1" text="lomefloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s7.e0" e2="DDI-DrugBank.d516.s7.e1" id="DDI-DrugBank.d516.s7.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s8" text="Caffeine: Two hundred mg of caffeine (equivalent to 1 to 3 cups of American coffee) was administered to 16 normal, healthy volunteers who had achieved steady-state blood concentrations of lomefloxacin after being dosed at 400 mg qd.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d516.s8.e0" text="Caffeine" type="drug"/>
+        <entity charOffset="28-35" id="DDI-DrugBank.d516.s8.e1" text="caffeine" type="drug"/>
+        <entity charOffset="188-199" id="DDI-DrugBank.d516.s8.e2" text="lomefloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s8.e0" e2="DDI-DrugBank.d516.s8.e1" id="DDI-DrugBank.d516.s8.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s8.e0" e2="DDI-DrugBank.d516.s8.e2" id="DDI-DrugBank.d516.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s8.e1" e2="DDI-DrugBank.d516.s8.e2" id="DDI-DrugBank.d516.s8.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s9" text="This did not result in any statistically or clinically relevant changes in the pharmacokinetic parameters of either caffeine or its major metabolite, paraxanthine.">
+        <entity charOffset="116-123" id="DDI-DrugBank.d516.s9.e0" text="caffeine" type="drug"/>
+        <entity charOffset="150-161" id="DDI-DrugBank.d516.s9.e1" text="paraxanthine" type="drug_n"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s9.e0" e2="DDI-DrugBank.d516.s9.e1" id="DDI-DrugBank.d516.s9.p0"/>
+    <negationtags>This did &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; result in any statistically or clinically relevant changes in the pharmacokinetic parameters of either caffeine or its major metabolite, paraxanthine. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s10" text="No data are available on potential interactions in individuals who consume greater than 200 mg of caffeine per day or in those, such as the geriatric population, who are generally believed to be more susceptible to the development of drug-induced CNS-related adverse effects.">
+        <entity charOffset="98-105" id="DDI-DrugBank.d516.s10.e0" text="caffeine" type="drug"/>
+    <negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; data are available on potential interactions in individuals who consume greater than 200 mg of caffeine per day or in those, such as the geriatric population, who are generally believed to be more susceptible to the development of drug-induced CNS-related adverse effects. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s11" text="Other quinolones have demonstrated moderate to marked interference with the metabolism of caffeine, resulting in a reduced clearance, a prolongation of plasma half-life, and an increase in symptoms that accompany high levels of caffeine.">
+        <entity charOffset="6-15" id="DDI-DrugBank.d516.s11.e0" text="quinolones" type="group"/>
+        <entity charOffset="90-97" id="DDI-DrugBank.d516.s11.e1" text="caffeine" type="drug"/>
+        <entity charOffset="228-235" id="DDI-DrugBank.d516.s11.e2" text="caffeine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s11.e0" e2="DDI-DrugBank.d516.s11.e1" id="DDI-DrugBank.d516.s11.p0" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s11.e0" e2="DDI-DrugBank.d516.s11.e2" id="DDI-DrugBank.d516.s11.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s11.e1" e2="DDI-DrugBank.d516.s11.e2" id="DDI-DrugBank.d516.s11.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s12" text="Cimetidine: Cimetidine has been demonstrated to interfere with the elimination of other quinolones.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d516.s12.e0" text="Cimetidine" type="drug"/>
+        <entity charOffset="12-21" id="DDI-DrugBank.d516.s12.e1" text="Cimetidine" type="drug"/>
+        <entity charOffset="88-97" id="DDI-DrugBank.d516.s12.e2" text="quinolones" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s12.e0" e2="DDI-DrugBank.d516.s12.e1" id="DDI-DrugBank.d516.s12.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s12.e0" e2="DDI-DrugBank.d516.s12.e2" id="DDI-DrugBank.d516.s12.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s12.e1" e2="DDI-DrugBank.d516.s12.e2" id="DDI-DrugBank.d516.s12.p2" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s13" text="This interference has resulted in significant increases in half-life and AUC."/>
+    <sentence id="DDI-DrugBank.d516.s14" text="The interaction between lomefloxacin and cimetidine has not been studied.">
+        <entity charOffset="24-35" id="DDI-DrugBank.d516.s14.e0" text="lomefloxacin" type="drug"/>
+        <entity charOffset="41-50" id="DDI-DrugBank.d516.s14.e1" text="cimetidine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s14.e0" e2="DDI-DrugBank.d516.s14.e1" id="DDI-DrugBank.d516.s14.p0"/>
+    <negationtags>The interaction between lomefloxacin and cimetidine has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s15" text="Cyclosporine: Elevated serum levels of cyclosporine have been reported with concomitant use of cyclosporine with other members of the quinolone class.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d516.s15.e0" text="Cyclosporine" type="drug"/>
+        <entity charOffset="39-50" id="DDI-DrugBank.d516.s15.e1" text="cyclosporine" type="drug"/>
+        <entity charOffset="95-106" id="DDI-DrugBank.d516.s15.e2" text="cyclosporine" type="drug"/>
+        <entity charOffset="134-148" id="DDI-DrugBank.d516.s15.e3" text="quinolone class" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s15.e0" e2="DDI-DrugBank.d516.s15.e1" id="DDI-DrugBank.d516.s15.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s15.e0" e2="DDI-DrugBank.d516.s15.e2" id="DDI-DrugBank.d516.s15.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s15.e0" e2="DDI-DrugBank.d516.s15.e3" id="DDI-DrugBank.d516.s15.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s15.e1" e2="DDI-DrugBank.d516.s15.e2" id="DDI-DrugBank.d516.s15.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s15.e1" e2="DDI-DrugBank.d516.s15.e3" id="DDI-DrugBank.d516.s15.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s15.e2" e2="DDI-DrugBank.d516.s15.e3" id="DDI-DrugBank.d516.s15.p5" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s16" text="Interaction between lomefloxacin and cyclosporine has not been studied.">
+        <entity charOffset="20-31" id="DDI-DrugBank.d516.s16.e0" text="lomefloxacin" type="drug"/>
+        <entity charOffset="37-48" id="DDI-DrugBank.d516.s16.e1" text="cyclosporine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s16.e0" e2="DDI-DrugBank.d516.s16.e1" id="DDI-DrugBank.d516.s16.p0"/>
+    <negationtags>Interaction between lomefloxacin and cyclosporine has &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; been studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s17" text="Omeprazole: No clinically significant changes in lomefloxacin pharmacokinetics (AUC, C max , or T max ) were observed when a single dose of lomefloxacin 400 mg was given after multiple doses of omeprazole (20 mg qd) in 13 healthy volunteers.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d516.s17.e0" text="Omeprazole" type="drug"/>
+        <entity charOffset="49-60" id="DDI-DrugBank.d516.s17.e1" text="lomefloxacin" type="drug"/>
+        <entity charOffset="140-151" id="DDI-DrugBank.d516.s17.e2" text="lomefloxacin" type="drug"/>
+        <entity charOffset="194-203" id="DDI-DrugBank.d516.s17.e3" text="omeprazole" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s17.e0" e2="DDI-DrugBank.d516.s17.e1" id="DDI-DrugBank.d516.s17.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s17.e0" e2="DDI-DrugBank.d516.s17.e2" id="DDI-DrugBank.d516.s17.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s17.e0" e2="DDI-DrugBank.d516.s17.e3" id="DDI-DrugBank.d516.s17.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s17.e1" e2="DDI-DrugBank.d516.s17.e2" id="DDI-DrugBank.d516.s17.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s17.e1" e2="DDI-DrugBank.d516.s17.e3" id="DDI-DrugBank.d516.s17.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s17.e2" e2="DDI-DrugBank.d516.s17.e3" id="DDI-DrugBank.d516.s17.p5"/>
+    <negationtags>Omeprazole: &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; clinically significant changes in lomefloxacin pharmacokinetics (AUC, C max , or T max ) were observed when a single dose of lomefloxacin 400 mg was given after multiple doses of omeprazole (20 mg qd) in 13 healthy &lt;/scope&gt; volunteers.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s18" text="Changes in omeprazole pharmacokinetics were not studied.">
+        <entity charOffset="11-20" id="DDI-DrugBank.d516.s18.e0" text="omeprazole" type="drug"/>
+    <negationtags>Changes in omeprazole pharmacokinetics were &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; studied. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s19" text="Phenytoin: No significant differences were observed in mean phenytoin AUC, C max , C min or T max (although C max increased by 11%) when extended phenytoin sodium capsules (100 mg tid) were coadministered with lomefloxacin (400 mg qd) for five days in 15 healthy males.">
+        <entity charOffset="0-8" id="DDI-DrugBank.d516.s19.e0" text="Phenytoin" type="drug"/>
+        <entity charOffset="60-68" id="DDI-DrugBank.d516.s19.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="146-161" id="DDI-DrugBank.d516.s19.e2" text="phenytoin sodium" type="drug"/>
+        <entity charOffset="210-221" id="DDI-DrugBank.d516.s19.e3" text="lomefloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s19.e0" e2="DDI-DrugBank.d516.s19.e1" id="DDI-DrugBank.d516.s19.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s19.e0" e2="DDI-DrugBank.d516.s19.e2" id="DDI-DrugBank.d516.s19.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s19.e0" e2="DDI-DrugBank.d516.s19.e3" id="DDI-DrugBank.d516.s19.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s19.e1" e2="DDI-DrugBank.d516.s19.e2" id="DDI-DrugBank.d516.s19.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s19.e1" e2="DDI-DrugBank.d516.s19.e3" id="DDI-DrugBank.d516.s19.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s19.e2" e2="DDI-DrugBank.d516.s19.e3" id="DDI-DrugBank.d516.s19.p5"/>
+    <negationtags>Phenytoin: &lt;scope&gt; &lt;cue&gt; No significant &lt;/cue&gt; differences were observed in mean phenytoin AUC, C max , C min or T max (although C max increased by 11%) when extended phenytoin sodium capsules (100 mg tid) were coadministered with lomefloxacin (400 mg qd) for five days in 15 healthy &lt;/scope&gt; males.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s20" text="Lomefloxacin is unlikely to have a significant effect on phenytoin metabolism.">
+        <entity charOffset="0-11" id="DDI-DrugBank.d516.s20.e0" text="Lomefloxacin" type="drug"/>
+        <entity charOffset="57-65" id="DDI-DrugBank.d516.s20.e1" text="phenytoin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s20.e0" e2="DDI-DrugBank.d516.s20.e1" id="DDI-DrugBank.d516.s20.p0"/>
+    <negationtags>&lt;scope&gt; Lomefloxacin is &lt;cue&gt; unlikely &lt;/cue&gt; &lt;/scope&gt; to have a significant effect on phenytoin metabolism.</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s21" text="Probenecid: Probenecid slows the renal elimination of lome-floxacin.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d516.s21.e0" text="Probenecid" type="drug"/>
+        <entity charOffset="12-21" id="DDI-DrugBank.d516.s21.e1" text="Probenecid" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s21.e0" e2="DDI-DrugBank.d516.s21.e1" id="DDI-DrugBank.d516.s21.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s22" text="An increase of 63% in the mean AUC and increases of 50% and 4%, respectively, in the mean T max and mean C max were noted in 1 study of 6 individuals."/>
+    <sentence id="DDI-DrugBank.d516.s23" text="Terfenadine: No clinically significant changes occurred in heart rate or corrected QT intervals, or in terfenadine metabolite or lomefloxacin pharmacokinetics, during concurrent administration of lomefloxacin and terfenadine at steady-state in 28 healthy males.">
+        <entity charOffset="0-10" id="DDI-DrugBank.d516.s23.e0" text="Terfenadine" type="drug"/>
+        <entity charOffset="103-113" id="DDI-DrugBank.d516.s23.e1" text="terfenadine" type="drug"/>
+        <entity charOffset="129-140" id="DDI-DrugBank.d516.s23.e2" text="lomefloxacin" type="drug"/>
+        <entity charOffset="196-207" id="DDI-DrugBank.d516.s23.e3" text="lomefloxacin" type="drug"/>
+        <entity charOffset="213-223" id="DDI-DrugBank.d516.s23.e4" text="terfenadine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e0" e2="DDI-DrugBank.d516.s23.e1" id="DDI-DrugBank.d516.s23.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e0" e2="DDI-DrugBank.d516.s23.e2" id="DDI-DrugBank.d516.s23.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e0" e2="DDI-DrugBank.d516.s23.e3" id="DDI-DrugBank.d516.s23.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e0" e2="DDI-DrugBank.d516.s23.e4" id="DDI-DrugBank.d516.s23.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e1" e2="DDI-DrugBank.d516.s23.e2" id="DDI-DrugBank.d516.s23.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e1" e2="DDI-DrugBank.d516.s23.e3" id="DDI-DrugBank.d516.s23.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e1" e2="DDI-DrugBank.d516.s23.e4" id="DDI-DrugBank.d516.s23.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e2" e2="DDI-DrugBank.d516.s23.e3" id="DDI-DrugBank.d516.s23.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e2" e2="DDI-DrugBank.d516.s23.e4" id="DDI-DrugBank.d516.s23.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s23.e3" e2="DDI-DrugBank.d516.s23.e4" id="DDI-DrugBank.d516.s23.p9"/>
+    <negationtags>Terfenadine: &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; clinically significant changes occurred in heart rate or corrected QT intervals, or in terfenadine metabolite or lomefloxacin pharmacokinetics, during concurrent administration of lomefloxacin and terfenadine at steady-state in 28 healthy males. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d516.s24" text="Warfarin: Quinolones may enhance the effects of the oral anticoagulant, warfarin, or its derivatives.">
+        <entity charOffset="0-7" id="DDI-DrugBank.d516.s24.e0" text="Warfarin" type="drug"/>
+        <entity charOffset="10-19" id="DDI-DrugBank.d516.s24.e1" text="Quinolones" type="group"/>
+        <entity charOffset="57-69" id="DDI-DrugBank.d516.s24.e2" text="anticoagulant" type="group"/>
+        <entity charOffset="72-79" id="DDI-DrugBank.d516.s24.e3" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s24.e0" e2="DDI-DrugBank.d516.s24.e1" id="DDI-DrugBank.d516.s24.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s24.e0" e2="DDI-DrugBank.d516.s24.e2" id="DDI-DrugBank.d516.s24.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s24.e0" e2="DDI-DrugBank.d516.s24.e3" id="DDI-DrugBank.d516.s24.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s24.e1" e2="DDI-DrugBank.d516.s24.e2" id="DDI-DrugBank.d516.s24.p3" type="effect"/>
+        <pair ddi="true" e1="DDI-DrugBank.d516.s24.e1" e2="DDI-DrugBank.d516.s24.e3" id="DDI-DrugBank.d516.s24.p4" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s24.e2" e2="DDI-DrugBank.d516.s24.e3" id="DDI-DrugBank.d516.s24.p5"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d516.s25" text="When these products are administered concomitantly, prothrombin or other suitable coagulation tests should be monitored closely."/>
+    <sentence id="DDI-DrugBank.d516.s26" text="However, no clinically or statistically significant differences in prothrombin time ratio or warfarin enantiomer pharmacokinetics were observed in a small study of 7 healthy males who received both warfarin and lomefloxacin under steady-state conditions.">
+        <entity charOffset="93-100" id="DDI-DrugBank.d516.s26.e0" text="warfarin" type="drug"/>
+        <entity charOffset="198-205" id="DDI-DrugBank.d516.s26.e1" text="warfarin" type="drug"/>
+        <entity charOffset="211-222" id="DDI-DrugBank.d516.s26.e2" text="lomefloxacin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s26.e0" e2="DDI-DrugBank.d516.s26.e1" id="DDI-DrugBank.d516.s26.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s26.e0" e2="DDI-DrugBank.d516.s26.e2" id="DDI-DrugBank.d516.s26.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d516.s26.e1" e2="DDI-DrugBank.d516.s26.e2" id="DDI-DrugBank.d516.s26.p2"/>
+    <negationtags>However, &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically or statistically significant differences in prothrombin time ratio or warfarin enantiomer pharmacokinetics were observed in a small study of 7 healthy males who received both warfarin and lomefloxacin under steady-state conditions. &lt;/scope&gt;</negationtags></sentence>
+</document>

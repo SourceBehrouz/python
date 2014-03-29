@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d489">
+    <sentence id="DDI-DrugBank.d489.s0" text="The following drugs have been coadministered with Kerlone and have not altered its pharmacokinetics: cimetidine, nifedipine, chlorthalidone, and hydrochlorothiazide.">
+        <entity charOffset="50-56" id="DDI-DrugBank.d489.s0.e0" text="Kerlone" type="brand"/>
+        <entity charOffset="101-110" id="DDI-DrugBank.d489.s0.e1" text="cimetidine" type="drug"/>
+        <entity charOffset="113-122" id="DDI-DrugBank.d489.s0.e2" text="nifedipine" type="drug"/>
+        <entity charOffset="125-138" id="DDI-DrugBank.d489.s0.e3" text="chlorthalidone" type="drug"/>
+        <entity charOffset="145-163" id="DDI-DrugBank.d489.s0.e4" text="hydrochlorothiazide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e0" e2="DDI-DrugBank.d489.s0.e1" id="DDI-DrugBank.d489.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e0" e2="DDI-DrugBank.d489.s0.e2" id="DDI-DrugBank.d489.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e0" e2="DDI-DrugBank.d489.s0.e3" id="DDI-DrugBank.d489.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e0" e2="DDI-DrugBank.d489.s0.e4" id="DDI-DrugBank.d489.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e1" e2="DDI-DrugBank.d489.s0.e2" id="DDI-DrugBank.d489.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e1" e2="DDI-DrugBank.d489.s0.e3" id="DDI-DrugBank.d489.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e1" e2="DDI-DrugBank.d489.s0.e4" id="DDI-DrugBank.d489.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e2" e2="DDI-DrugBank.d489.s0.e3" id="DDI-DrugBank.d489.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e2" e2="DDI-DrugBank.d489.s0.e4" id="DDI-DrugBank.d489.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s0.e3" e2="DDI-DrugBank.d489.s0.e4" id="DDI-DrugBank.d489.s0.p9"/>
+    <negationtags>The following drugs have been coadministered with Kerlone and have &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; altered its pharmacokinetics: cimetidine, nifedipine, chlorthalidone, and hydrochlorothiazide. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d489.s1" text="Concomitant administration of Kerlone with the oral anticoagulant warfarin has been shown not to potentiate the anticoagulant effect of warfarin.">
+        <entity charOffset="30-36" id="DDI-DrugBank.d489.s1.e0" text="Kerlone" type="brand"/>
+        <entity charOffset="52-64" id="DDI-DrugBank.d489.s1.e1" text="anticoagulant" type="group"/>
+        <entity charOffset="66-73" id="DDI-DrugBank.d489.s1.e2" text="warfarin" type="drug"/>
+        <entity charOffset="136-143" id="DDI-DrugBank.d489.s1.e3" text="warfarin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s1.e0" e2="DDI-DrugBank.d489.s1.e1" id="DDI-DrugBank.d489.s1.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s1.e0" e2="DDI-DrugBank.d489.s1.e2" id="DDI-DrugBank.d489.s1.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s1.e0" e2="DDI-DrugBank.d489.s1.e3" id="DDI-DrugBank.d489.s1.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s1.e1" e2="DDI-DrugBank.d489.s1.e2" id="DDI-DrugBank.d489.s1.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s1.e1" e2="DDI-DrugBank.d489.s1.e3" id="DDI-DrugBank.d489.s1.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s1.e2" e2="DDI-DrugBank.d489.s1.e3" id="DDI-DrugBank.d489.s1.p5"/>
+    <negationtags>Concomitant administration of Kerlone with the oral anticoagulant warfarin has been shown &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; to potentiate the anticoagulant effect of warfarin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d489.s2" text="Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.">
+        <entity charOffset="37-45" id="DDI-DrugBank.d489.s2.e0" text="reserpine" type="drug"/>
+        <entity charOffset="92-104" id="DDI-DrugBank.d489.s2.e1" text="beta-blocking" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d489.s2.e0" e2="DDI-DrugBank.d489.s2.e1" id="DDI-DrugBank.d489.s2.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s3" text="Patients treated with a beta-adrenergic receptor blocking agent plus a catecholamine depletor should therefore be closely observed for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension.">
+        <entity charOffset="24-62" id="DDI-DrugBank.d489.s3.e0" text="beta-adrenergic receptor blocking agent" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s4" text="Should it be decided to discontinue therapy in patients receiving beta-blockers and clonidine concurrently, the beta-blocker should be discontinued slowly over several days before the gradual withdrawal of clonidine.">
+        <entity charOffset="66-78" id="DDI-DrugBank.d489.s4.e0" text="beta-blockers" type="group"/>
+        <entity charOffset="84-92" id="DDI-DrugBank.d489.s4.e1" text="clonidine" type="drug"/>
+        <entity charOffset="112-123" id="DDI-DrugBank.d489.s4.e2" text="beta-blocker" type="group"/>
+        <entity charOffset="206-214" id="DDI-DrugBank.d489.s4.e3" text="clonidine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d489.s4.e0" e2="DDI-DrugBank.d489.s4.e1" id="DDI-DrugBank.d489.s4.p0" type="advise"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s4.e0" e2="DDI-DrugBank.d489.s4.e2" id="DDI-DrugBank.d489.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s4.e0" e2="DDI-DrugBank.d489.s4.e3" id="DDI-DrugBank.d489.s4.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s4.e1" e2="DDI-DrugBank.d489.s4.e2" id="DDI-DrugBank.d489.s4.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s4.e1" e2="DDI-DrugBank.d489.s4.e3" id="DDI-DrugBank.d489.s4.p4"/>
+        <pair ddi="true" e1="DDI-DrugBank.d489.s4.e2" e2="DDI-DrugBank.d489.s4.e3" id="DDI-DrugBank.d489.s4.p5" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s5" text="Literature reports suggest that oral calcium antagonists may be used in combination with beta-adrenergic blocking agents when heart function is normal, but should be avoided in patients with impaired cardiac function.">
+        <entity charOffset="37-55" id="DDI-DrugBank.d489.s5.e0" text="calcium antagonists" type="group"/>
+        <entity charOffset="89-119" id="DDI-DrugBank.d489.s5.e1" text="beta-adrenergic blocking agents" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d489.s5.e0" e2="DDI-DrugBank.d489.s5.e1" id="DDI-DrugBank.d489.s5.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s6" text="Hypotension, AV conduction disturbances, and left ventricular failure have been reported in some patients receiving beta-adrenergic blocking agents when an oral calcium antagonist was added to the treatment regimen.">
+        <entity charOffset="116-146" id="DDI-DrugBank.d489.s6.e0" text="beta-adrenergic blocking agents" type="group"/>
+        <entity charOffset="161-178" id="DDI-DrugBank.d489.s6.e1" text="calcium antagonist" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d489.s6.e0" e2="DDI-DrugBank.d489.s6.e1" id="DDI-DrugBank.d489.s6.p0" type="effect"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s7" text="Hypotension was more likely to occur if the calcium antagonist were a dihydropyridine derivative, e.g., nifedipine, while left ventricular failure and AV conduction disturbances, including complete heart block, were more likely to occur with either verapamil or diltiazem.">
+        <entity charOffset="44-61" id="DDI-DrugBank.d489.s7.e0" text="calcium antagonist" type="group"/>
+        <entity charOffset="70-95" id="DDI-DrugBank.d489.s7.e1" text="dihydropyridine derivative" type="group"/>
+        <entity charOffset="104-113" id="DDI-DrugBank.d489.s7.e2" text="nifedipine" type="drug"/>
+        <entity charOffset="249-257" id="DDI-DrugBank.d489.s7.e3" text="verapamil" type="drug"/>
+        <entity charOffset="262-270" id="DDI-DrugBank.d489.s7.e4" text="diltiazem" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e0" e2="DDI-DrugBank.d489.s7.e1" id="DDI-DrugBank.d489.s7.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e0" e2="DDI-DrugBank.d489.s7.e2" id="DDI-DrugBank.d489.s7.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e0" e2="DDI-DrugBank.d489.s7.e3" id="DDI-DrugBank.d489.s7.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e0" e2="DDI-DrugBank.d489.s7.e4" id="DDI-DrugBank.d489.s7.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e1" e2="DDI-DrugBank.d489.s7.e2" id="DDI-DrugBank.d489.s7.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e1" e2="DDI-DrugBank.d489.s7.e3" id="DDI-DrugBank.d489.s7.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e1" e2="DDI-DrugBank.d489.s7.e4" id="DDI-DrugBank.d489.s7.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e2" e2="DDI-DrugBank.d489.s7.e3" id="DDI-DrugBank.d489.s7.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e2" e2="DDI-DrugBank.d489.s7.e4" id="DDI-DrugBank.d489.s7.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s7.e3" e2="DDI-DrugBank.d489.s7.e4" id="DDI-DrugBank.d489.s7.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s8" text="Risk of Anaphylactic Reaction: Although it is known that patients on beta-blockers may be refractory to epinephrine in the treatment of anaphylactic shock, beta-blockers can, in addition, interfere with the modulation of allergic reaction and lead to an increased severity and/or frequency of attacks.">
+        <entity charOffset="69-81" id="DDI-DrugBank.d489.s8.e0" text="beta-blockers" type="group"/>
+        <entity charOffset="104-114" id="DDI-DrugBank.d489.s8.e1" text="epinephrine" type="drug"/>
+        <entity charOffset="156-168" id="DDI-DrugBank.d489.s8.e2" text="beta-blockers" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d489.s8.e0" e2="DDI-DrugBank.d489.s8.e1" id="DDI-DrugBank.d489.s8.p0" type="effect"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s8.e0" e2="DDI-DrugBank.d489.s8.e2" id="DDI-DrugBank.d489.s8.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d489.s8.e1" e2="DDI-DrugBank.d489.s8.e2" id="DDI-DrugBank.d489.s8.p2"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s9" text="Severe allergic reactions including anaphylaxis have been reported in patients exposed to a variety of allergens either by repeated challenge, or accidental contact, and with diagnostic or therapeutic agents while receiving beta-blockers.">
+        <entity charOffset="224-236" id="DDI-DrugBank.d489.s9.e0" text="beta-blockers" type="group"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d489.s10" text="Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction.">
+        <entity charOffset="56-66" id="DDI-DrugBank.d489.s10.e0" text="epinephrine" type="drug"/>
+    </sentence>
+</document>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d253">
+    <sentence id="DDI-DrugBank.d253.s0" text="Beta-adrenergic blocking agents: concurrent use may blunt the response to arbutamine.">
+        <entity charOffset="0-30" id="DDI-DrugBank.d253.s0.e0" text="Beta-adrenergic blocking agents" type="group"/>
+        <entity charOffset="74-83" id="DDI-DrugBank.d253.s0.e1" text="arbutamine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s0.e0" e2="DDI-DrugBank.d253.s0.e1" id="DDI-DrugBank.d253.s0.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d253.s1" text="Beta-adrenergic blocking agents should be withdrawn at least 48 hours before conducting an arbutamine-mediated stress test.">
+        <entity charOffset="0-30" id="DDI-DrugBank.d253.s1.e0" text="Beta-adrenergic blocking agents" type="group"/>
+        <entity charOffset="91-100" id="DDI-DrugBank.d253.s1.e1" text="arbutamine" type="drug"/>
+        <pair ddi="true" e1="DDI-DrugBank.d253.s1.e0" e2="DDI-DrugBank.d253.s1.e1" id="DDI-DrugBank.d253.s1.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d253.s2" text="Antiarrhythmic agents, class I (such as flecainide, lidocaine, or quinidine): concurrent use with arbutamine may have a proarrhythmic effect.">
+        <entity charOffset="0-29" id="DDI-DrugBank.d253.s2.e0" text="Antiarrhythmic agents, class I" type="drug"/>
+        <entity charOffset="40-49" id="DDI-DrugBank.d253.s2.e1" text="flecainide" type="drug"/>
+        <entity charOffset="52-60" id="DDI-DrugBank.d253.s2.e2" text="lidocaine" type="drug"/>
+        <entity charOffset="66-74" id="DDI-DrugBank.d253.s2.e3" text="quinidine" type="drug"/>
+        <entity charOffset="98-107" id="DDI-DrugBank.d253.s2.e4" text="arbutamine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e0" e2="DDI-DrugBank.d253.s2.e1" id="DDI-DrugBank.d253.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e0" e2="DDI-DrugBank.d253.s2.e2" id="DDI-DrugBank.d253.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e0" e2="DDI-DrugBank.d253.s2.e3" id="DDI-DrugBank.d253.s2.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e0" e2="DDI-DrugBank.d253.s2.e4" id="DDI-DrugBank.d253.s2.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e1" e2="DDI-DrugBank.d253.s2.e2" id="DDI-DrugBank.d253.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e1" e2="DDI-DrugBank.d253.s2.e3" id="DDI-DrugBank.d253.s2.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e1" e2="DDI-DrugBank.d253.s2.e4" id="DDI-DrugBank.d253.s2.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e2" e2="DDI-DrugBank.d253.s2.e3" id="DDI-DrugBank.d253.s2.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e2" e2="DDI-DrugBank.d253.s2.e4" id="DDI-DrugBank.d253.s2.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s2.e3" e2="DDI-DrugBank.d253.s2.e4" id="DDI-DrugBank.d253.s2.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d253.s3" text="Antidepressants (tricyclic), atropine or other anticholinergic agents, or digitalis glycosides: concurrent use with arbutamine may produce additive inotropic and/or chronotropic effects.">
+        <entity charOffset="0-14" id="DDI-DrugBank.d253.s3.e0" text="Antidepressants" type="group"/>
+        <entity charOffset="17-25" id="DDI-DrugBank.d253.s3.e1" text="tricyclic" type="group"/>
+        <entity charOffset="29-36" id="DDI-DrugBank.d253.s3.e2" text="atropine" type="drug"/>
+        <entity charOffset="47-68" id="DDI-DrugBank.d253.s3.e3" text="anticholinergic agents" type="group"/>
+        <entity charOffset="74-93" id="DDI-DrugBank.d253.s3.e4" text="digitalis glycosides" type="group"/>
+        <entity charOffset="116-125" id="DDI-DrugBank.d253.s3.e5" text="arbutamine" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e0" e2="DDI-DrugBank.d253.s3.e1" id="DDI-DrugBank.d253.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e0" e2="DDI-DrugBank.d253.s3.e2" id="DDI-DrugBank.d253.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e0" e2="DDI-DrugBank.d253.s3.e3" id="DDI-DrugBank.d253.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e0" e2="DDI-DrugBank.d253.s3.e4" id="DDI-DrugBank.d253.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e0" e2="DDI-DrugBank.d253.s3.e5" id="DDI-DrugBank.d253.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e1" e2="DDI-DrugBank.d253.s3.e2" id="DDI-DrugBank.d253.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e1" e2="DDI-DrugBank.d253.s3.e3" id="DDI-DrugBank.d253.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e1" e2="DDI-DrugBank.d253.s3.e4" id="DDI-DrugBank.d253.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e1" e2="DDI-DrugBank.d253.s3.e5" id="DDI-DrugBank.d253.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e2" e2="DDI-DrugBank.d253.s3.e3" id="DDI-DrugBank.d253.s3.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e2" e2="DDI-DrugBank.d253.s3.e4" id="DDI-DrugBank.d253.s3.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e2" e2="DDI-DrugBank.d253.s3.e5" id="DDI-DrugBank.d253.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e3" e2="DDI-DrugBank.d253.s3.e4" id="DDI-DrugBank.d253.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e3" e2="DDI-DrugBank.d253.s3.e5" id="DDI-DrugBank.d253.s3.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d253.s3.e4" e2="DDI-DrugBank.d253.s3.e5" id="DDI-DrugBank.d253.s3.p14"/>
+    </sentence>
+</document>

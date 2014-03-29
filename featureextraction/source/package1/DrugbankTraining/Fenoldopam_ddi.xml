@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d546">
+    <sentence id="DDI-DrugBank.d546.s0" text="Drug Interactions with Beta-Blockers: Concomitant use of fenoldopam with beta-blockers should be avoided.">
+        <entity charOffset="23-35" id="DDI-DrugBank.d546.s0.e0" text="Beta-Blockers" type="group"/>
+        <entity charOffset="57-66" id="DDI-DrugBank.d546.s0.e1" text="fenoldopam" type="drug"/>
+        <entity charOffset="73-85" id="DDI-DrugBank.d546.s0.e2" text="beta-blockers" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s0.e0" e2="DDI-DrugBank.d546.s0.e1" id="DDI-DrugBank.d546.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s0.e0" e2="DDI-DrugBank.d546.s0.e2" id="DDI-DrugBank.d546.s0.p1"/>
+        <pair ddi="true" e1="DDI-DrugBank.d546.s0.e1" e2="DDI-DrugBank.d546.s0.e2" id="DDI-DrugBank.d546.s0.p2" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d546.s1" text="If the drugs are used together, caution should be exercised because unexpected hypotension could result from beta-blocker inhibition of the sympathetic reflex response to fenoldopam.">
+        <entity charOffset="171-180" id="DDI-DrugBank.d546.s1.e0" text="fenoldopam" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d546.s2" text="Drug Interactions, General: Although there have been no formal interaction studies, intravenous fenoldopam has been administered safely with drugs such as digitalis and sublingual nitroglycerin.">
+        <entity charOffset="96-105" id="DDI-DrugBank.d546.s2.e0" text="fenoldopam" type="drug"/>
+        <entity charOffset="155-163" id="DDI-DrugBank.d546.s2.e1" text="digitalis" type="group"/>
+        <entity charOffset="180-192" id="DDI-DrugBank.d546.s2.e2" text="nitroglycerin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s2.e0" e2="DDI-DrugBank.d546.s2.e1" id="DDI-DrugBank.d546.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s2.e0" e2="DDI-DrugBank.d546.s2.e2" id="DDI-DrugBank.d546.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s2.e1" e2="DDI-DrugBank.d546.s2.e2" id="DDI-DrugBank.d546.s2.p2"/>
+    <negationtags>Drug Interactions, General: Although there have been &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; formal interaction studies, intravenous fenoldopam has been administered safely with drugs such as digitalis and sublingual nitroglycerin. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d546.s3" text="There is limited experience with concomitant antihypertensive agents such as alpha-blockers, calcium channel-blockers, ACE inhibitors, and diuretics (both thiazide-like and loop).">
+        <entity charOffset="45-67" id="DDI-DrugBank.d546.s3.e0" text="antihypertensive agents" type="group"/>
+        <entity charOffset="77-90" id="DDI-DrugBank.d546.s3.e1" text="alpha-blockers" type="group"/>
+        <entity charOffset="93-116" id="DDI-DrugBank.d546.s3.e2" text="calcium channel-blockers" type="group"/>
+        <entity charOffset="119-132" id="DDI-DrugBank.d546.s3.e3" text="ACE inhibitors" type="group"/>
+        <entity charOffset="139-147" id="DDI-DrugBank.d546.s3.e4" text="diuretics" type="group"/>
+        <entity charOffset="155-162" id="DDI-DrugBank.d546.s3.e5" text="thiazide" type="group"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e0" e2="DDI-DrugBank.d546.s3.e1" id="DDI-DrugBank.d546.s3.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e0" e2="DDI-DrugBank.d546.s3.e2" id="DDI-DrugBank.d546.s3.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e0" e2="DDI-DrugBank.d546.s3.e3" id="DDI-DrugBank.d546.s3.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e0" e2="DDI-DrugBank.d546.s3.e4" id="DDI-DrugBank.d546.s3.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e0" e2="DDI-DrugBank.d546.s3.e5" id="DDI-DrugBank.d546.s3.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e1" e2="DDI-DrugBank.d546.s3.e2" id="DDI-DrugBank.d546.s3.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e1" e2="DDI-DrugBank.d546.s3.e3" id="DDI-DrugBank.d546.s3.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e1" e2="DDI-DrugBank.d546.s3.e4" id="DDI-DrugBank.d546.s3.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e1" e2="DDI-DrugBank.d546.s3.e5" id="DDI-DrugBank.d546.s3.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e2" e2="DDI-DrugBank.d546.s3.e3" id="DDI-DrugBank.d546.s3.p9"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e2" e2="DDI-DrugBank.d546.s3.e4" id="DDI-DrugBank.d546.s3.p10"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e2" e2="DDI-DrugBank.d546.s3.e5" id="DDI-DrugBank.d546.s3.p11"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e3" e2="DDI-DrugBank.d546.s3.e4" id="DDI-DrugBank.d546.s3.p12"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e3" e2="DDI-DrugBank.d546.s3.e5" id="DDI-DrugBank.d546.s3.p13"/>
+        <pair ddi="false" e1="DDI-DrugBank.d546.s3.e4" e2="DDI-DrugBank.d546.s3.e5" id="DDI-DrugBank.d546.s3.p14"/>
+    </sentence>
+</document>

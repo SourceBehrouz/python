@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d68">
+    <sentence id="DDI-DrugBank.d68.s0" text="No specific pharmacokinetic or other formal drug interaction studies were conducted."><negationtags>&lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; specific pharmacokinetic or other formal drug interaction studies were conducted. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d68.s1" text="Digoxin: Supraventricular arrhythmias may mask the cardiotoxicity associated with excessive digoxin levels.">
+        <entity charOffset="0-6" id="DDI-DrugBank.d68.s1.e0" text="Digoxin" type="drug"/>
+        <entity charOffset="92-98" id="DDI-DrugBank.d68.s1.e1" text="digoxin" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s1.e0" e2="DDI-DrugBank.d68.s1.e1" id="DDI-DrugBank.d68.s1.p0"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d68.s2" text="Therefore, it is advisable to be particularly cautious in patients whose plasma digoxin levels are above or suspected to be above the usual therapeutic range.">
+        <entity charOffset="80-86" id="DDI-DrugBank.d68.s2.e0" text="digoxin" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d68.s3" text="Coadministration of digoxin did not have effects on either the safety or efficacy of ibutilide in the clinical trials.">
+        <entity charOffset="20-26" id="DDI-DrugBank.d68.s3.e0" text="digoxin" type="drug"/>
+        <entity charOffset="85-93" id="DDI-DrugBank.d68.s3.e1" text="ibutilide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s3.e0" e2="DDI-DrugBank.d68.s3.e1" id="DDI-DrugBank.d68.s3.p0"/>
+    <negationtags>Coadministration of digoxin did &lt;scope&gt; &lt;cue&gt; not have &lt;/cue&gt; effects on either the safety or efficacy of ibutilide in the clinical trials. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d68.s4" text="Calcium channel blocking agents: Coadministration of calcium channel blockers did not have any effect on either the safety or efficacy of ibutilide in the clinical trials.">
+        <entity charOffset="0-30" id="DDI-DrugBank.d68.s4.e0" text="Calcium channel blocking agents" type="group"/>
+        <entity charOffset="53-76" id="DDI-DrugBank.d68.s4.e1" text="calcium channel blockers" type="group"/>
+        <entity charOffset="138-146" id="DDI-DrugBank.d68.s4.e2" text="ibutilide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s4.e0" e2="DDI-DrugBank.d68.s4.e1" id="DDI-DrugBank.d68.s4.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s4.e0" e2="DDI-DrugBank.d68.s4.e2" id="DDI-DrugBank.d68.s4.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s4.e1" e2="DDI-DrugBank.d68.s4.e2" id="DDI-DrugBank.d68.s4.p2"/>
+    <negationtags>Calcium channel blocking agents: Coadministration of calcium channel blockers did &lt;scope&gt; &lt;cue&gt; not have &lt;/cue&gt; any effect on either the safety or efficacy of ibutilide in the clinical trials. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d68.s5" text="Beta-adrenergic blocking agents: Coadministration of beta-adrenergic blocking agents did not have any effect on either the safety or efficacy of ibutilide in the clinical trials.">
+        <entity charOffset="0-30" id="DDI-DrugBank.d68.s5.e0" text="Beta-adrenergic blocking agents" type="group"/>
+        <entity charOffset="53-83" id="DDI-DrugBank.d68.s5.e1" text="beta-adrenergic blocking agents" type="group"/>
+        <entity charOffset="145-153" id="DDI-DrugBank.d68.s5.e2" text="ibutilide" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s5.e0" e2="DDI-DrugBank.d68.s5.e1" id="DDI-DrugBank.d68.s5.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s5.e0" e2="DDI-DrugBank.d68.s5.e2" id="DDI-DrugBank.d68.s5.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d68.s5.e1" e2="DDI-DrugBank.d68.s5.e2" id="DDI-DrugBank.d68.s5.p2"/>
+    <negationtags>Beta-adrenergic blocking agents: Coadministration of beta-adrenergic blocking agents did &lt;scope&gt; &lt;cue&gt; not have &lt;/cue&gt; any effect on either the safety or efficacy of ibutilide in the clinical trials. &lt;/scope&gt;</negationtags></sentence>
+</document>

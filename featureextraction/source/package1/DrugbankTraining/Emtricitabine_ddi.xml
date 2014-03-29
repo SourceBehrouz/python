@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d375">
+    <sentence id="DDI-DrugBank.d375.s0" text="The potential for drug interactions with EMTRIVA has been studied in combination with indinavir, stavudine, famciclovir, and tenofovir disoproxil fumarate.">
+        <entity charOffset="41-47" id="DDI-DrugBank.d375.s0.e0" text="EMTRIVA" type="brand"/>
+        <entity charOffset="86-94" id="DDI-DrugBank.d375.s0.e1" text="indinavir" type="drug"/>
+        <entity charOffset="97-105" id="DDI-DrugBank.d375.s0.e2" text="stavudine" type="drug"/>
+        <entity charOffset="108-118" id="DDI-DrugBank.d375.s0.e3" text="famciclovir" type="drug"/>
+        <entity charOffset="125-153" id="DDI-DrugBank.d375.s0.e4" text="tenofovir disoproxil fumarate" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e0" e2="DDI-DrugBank.d375.s0.e1" id="DDI-DrugBank.d375.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e0" e2="DDI-DrugBank.d375.s0.e2" id="DDI-DrugBank.d375.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e0" e2="DDI-DrugBank.d375.s0.e3" id="DDI-DrugBank.d375.s0.p2"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e0" e2="DDI-DrugBank.d375.s0.e4" id="DDI-DrugBank.d375.s0.p3"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e1" e2="DDI-DrugBank.d375.s0.e2" id="DDI-DrugBank.d375.s0.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e1" e2="DDI-DrugBank.d375.s0.e3" id="DDI-DrugBank.d375.s0.p5"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e1" e2="DDI-DrugBank.d375.s0.e4" id="DDI-DrugBank.d375.s0.p6"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e2" e2="DDI-DrugBank.d375.s0.e3" id="DDI-DrugBank.d375.s0.p7"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e2" e2="DDI-DrugBank.d375.s0.e4" id="DDI-DrugBank.d375.s0.p8"/>
+        <pair ddi="false" e1="DDI-DrugBank.d375.s0.e3" e2="DDI-DrugBank.d375.s0.e4" id="DDI-DrugBank.d375.s0.p9"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d375.s1" text="There were no clinically significant drug interactions for any of these drugs"><negationtags>There were &lt;scope&gt; &lt;cue&gt; no &lt;/cue&gt; clinically significant drug interactions for any of these drugs &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d375.s2" text="."/>
+    <sentence id="DDI-DrugBank.d375.s3" text=""/>
+</document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d116">
+    <sentence id="DDI-DrugBank.d116.s0" text="Careful observation is required when amantadine is administered concurrently with central nervous system stimulants.">
+        <entity charOffset="37-46" id="DDI-DrugBank.d116.s0.e0" text="amantadine" type="drug"/>
+        <entity charOffset="82-114" id="DDI-DrugBank.d116.s0.e1" text="central nervous system stimulants" type="group"/>
+        <pair ddi="true" e1="DDI-DrugBank.d116.s0.e0" e2="DDI-DrugBank.d116.s0.e1" id="DDI-DrugBank.d116.s0.p0" type="advise"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d116.s1" text="Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinsons disease;">
+        <entity charOffset="20-31" id="DDI-DrugBank.d116.s1.e0" text="thioridazine" type="drug"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d116.s2" text="however, it is not known if other phenothiazines produce a similar response.">
+        <entity charOffset="34-47" id="DDI-DrugBank.d116.s2.e0" text="phenothiazines" type="group"/>
+    <negationtags>however, it is &lt;scope&gt; &lt;cue&gt; not &lt;/cue&gt; known if other phenothiazines produce a similar response. &lt;/scope&gt;</negationtags></sentence>
+</document>

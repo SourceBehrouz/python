@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><document id="DDI-DrugBank.d435">
+    <sentence id="DDI-DrugBank.d435.s0" text="Exemestane is extensively metabolized by CYP 3A4, but coadministration of ketoconazole, a potent inhibitor of CYP 3A4, has no significant effect on exemestane pharmacokinetics.">
+        <entity charOffset="0-9" id="DDI-DrugBank.d435.s0.e0" text="Exemestane" type="drug"/>
+        <entity charOffset="74-85" id="DDI-DrugBank.d435.s0.e1" text="ketoconazole" type="drug"/>
+        <entity charOffset="148-157" id="DDI-DrugBank.d435.s0.e2" text="exemestane" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s0.e0" e2="DDI-DrugBank.d435.s0.e1" id="DDI-DrugBank.d435.s0.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s0.e0" e2="DDI-DrugBank.d435.s0.e2" id="DDI-DrugBank.d435.s0.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s0.e1" e2="DDI-DrugBank.d435.s0.e2" id="DDI-DrugBank.d435.s0.p2"/>
+    <negationtags>Exemestane is extensively metabolized by CYP 3A4, but coadministration of ketoconazole, a potent inhibitor of CYP 3A4, has &lt;scope&gt; &lt;cue&gt; no significant &lt;/cue&gt; effect on exemestane pharmacokinetics. &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d435.s1" text="Significant pharmacokinetic interactions mediated by inhibition of CYP isoenzymes therefore appear unlikely."><negationtags>&lt;scope&gt; Significant pharmacokinetic interactions mediated by inhibition of CYP isoenzymes therefore appear &lt;cue&gt; unlikely. &lt;/cue&gt; &lt;/scope&gt;</negationtags></sentence>
+    <sentence id="DDI-DrugBank.d435.s2" text="Co-medications that induce CYP 3A4 (e.g., rifampicin, phenytoin, carbamazepine, phenobarbital, or St. John s wort) may significantly decrease exposure to exemestane.">
+        <entity charOffset="42-51" id="DDI-DrugBank.d435.s2.e0" text="rifampicin" type="drug"/>
+        <entity charOffset="54-62" id="DDI-DrugBank.d435.s2.e1" text="phenytoin" type="drug"/>
+        <entity charOffset="65-77" id="DDI-DrugBank.d435.s2.e2" text="carbamazepine" type="drug"/>
+        <entity charOffset="80-92" id="DDI-DrugBank.d435.s2.e3" text="phenobarbital" type="drug"/>
+        <entity charOffset="154-163" id="DDI-DrugBank.d435.s2.e4" text="exemestane" type="drug"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s2.e0" e2="DDI-DrugBank.d435.s2.e1" id="DDI-DrugBank.d435.s2.p0"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s2.e0" e2="DDI-DrugBank.d435.s2.e2" id="DDI-DrugBank.d435.s2.p1"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s2.e0" e2="DDI-DrugBank.d435.s2.e3" id="DDI-DrugBank.d435.s2.p2"/>
+        <pair ddi="true" e1="DDI-DrugBank.d435.s2.e0" e2="DDI-DrugBank.d435.s2.e4" id="DDI-DrugBank.d435.s2.p3" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s2.e1" e2="DDI-DrugBank.d435.s2.e2" id="DDI-DrugBank.d435.s2.p4"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s2.e1" e2="DDI-DrugBank.d435.s2.e3" id="DDI-DrugBank.d435.s2.p5"/>
+        <pair ddi="true" e1="DDI-DrugBank.d435.s2.e1" e2="DDI-DrugBank.d435.s2.e4" id="DDI-DrugBank.d435.s2.p6" type="mechanism"/>
+        <pair ddi="false" e1="DDI-DrugBank.d435.s2.e2" e2="DDI-DrugBank.d435.s2.e3" id="DDI-DrugBank.d435.s2.p7"/>
+        <pair ddi="true" e1="DDI-DrugBank.d435.s2.e2" e2="DDI-DrugBank.d435.s2.e4" id="DDI-DrugBank.d435.s2.p8" type="mechanism"/>
+        <pair ddi="true" e1="DDI-DrugBank.d435.s2.e3" e2="DDI-DrugBank.d435.s2.e4" id="DDI-DrugBank.d435.s2.p9" type="mechanism"/>
+    </sentence>
+    <sentence id="DDI-DrugBank.d435.s3" text="Dose modification is recommended for patients who are also receiving a potent CYP 3A4 inducer."/>
+    <sentence id="DDI-DrugBank.d435.s4" text="Drug/Laboratory Tests Interactions No clinically relevant changes in the results of clinical laboratory tests have been observed."><negationtags>Drug/Laboratory Tests Interactions &lt;scope&gt; &lt;cue&gt; No &lt;/cue&gt; clinically relevant changes in the results of clinical laboratory tests have been observed. &lt;/scope&gt;</negationtags></sentence>
+</document>
